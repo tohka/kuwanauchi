@@ -1,0 +1,5270 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 36,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0ab6e632-1c8f-4680-98b8-f95681a282b9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:17.922845",
+        "metadata_modified": "2024-04-15T03:29:59.656031",
+        "name": "houmusyouchizu-2024-1-500",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "前橋市（前橋地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:33:28.538274",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "2ae198cc-960c-4240-96cc-e461d2257674",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:33:28.526514",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0ab6e632-1c8f-4680-98b8-f95681a282b9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:33:44.915658",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1e79d9a9-3952-4713-a617-981a34021071",
+            "last_modified": "2024-04-01T09:33:44.874668",
+            "metadata_modified": "2024-04-01T09:33:44.902321",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10201-0700-2023.zip",
+            "package_id": "0ab6e632-1c8f-4680-98b8-f95681a282b9",
+            "position": 1,
+            "resource_type": null,
+            "size": 145834795,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0ab6e632-1c8f-4680-98b8-f95681a282b9/resource/1e79d9a9-3952-4713-a617-981a34021071/download/10201-0700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:34:15.432730",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f7deb741-f3cd-45a2-a6ca-2a256fc1c17a",
+            "last_modified": "2024-04-01T09:34:15.389639",
+            "metadata_modified": "2024-04-01T09:34:15.419210",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10201-0700-2024.zip",
+            "package_id": "0ab6e632-1c8f-4680-98b8-f95681a282b9",
+            "position": 2,
+            "resource_type": null,
+            "size": 146091224,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0ab6e632-1c8f-4680-98b8-f95681a282b9/resource/f7deb741-f3cd-45a2-a6ca-2a256fc1c17a/download/10201-0700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "前橋市",
+            "id": "c989b4a9-8498-4d82-9129-bd8e5bf80828",
+            "name": "前橋市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4165d4c0-84c1-4337-ada7-75606065c446",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:18.359183",
+        "metadata_modified": "2024-04-15T03:29:58.611173",
+        "name": "houmusyouchizu-2024-1-501",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "高崎市（前橋地方法務局高崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:34:28.049495",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "5249104a-4aa6-4a68-b832-534006917c23",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:34:28.037941",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4165d4c0-84c1-4337-ada7-75606065c446",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:34:53.216438",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "db8be2c1-6c31-4355-9a0a-646285599eec",
+            "last_modified": "2024-04-01T09:34:53.176603",
+            "metadata_modified": "2024-04-01T09:34:53.203538",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10202-0704-2023.zip",
+            "package_id": "4165d4c0-84c1-4337-ada7-75606065c446",
+            "position": 1,
+            "resource_type": null,
+            "size": 205647851,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4165d4c0-84c1-4337-ada7-75606065c446/resource/db8be2c1-6c31-4355-9a0a-646285599eec/download/10202-0704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:35:34.251915",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8d7b105c-18b6-4d4f-98a6-91bd3116e819",
+            "last_modified": "2024-04-01T09:35:34.208677",
+            "metadata_modified": "2024-04-01T09:35:34.238221",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10202-0704-2024.zip",
+            "package_id": "4165d4c0-84c1-4337-ada7-75606065c446",
+            "position": 2,
+            "resource_type": null,
+            "size": 205994984,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4165d4c0-84c1-4337-ada7-75606065c446/resource/8d7b105c-18b6-4d4f-98a6-91bd3116e819/download/10202-0704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高崎市",
+            "id": "000c7069-a92e-4662-afbd-17cea0c0679a",
+            "name": "高崎市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "22ff58eb-c3a3-43c9-a9e9-a77a7fc78c5a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:18.867293",
+        "metadata_modified": "2024-04-15T03:29:57.446766",
+        "name": "houmusyouchizu-2024-1-502",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "桐生市（前橋地方法務局桐生支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:35:50.848642",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "b5f9c04b-feb8-4e21-a85c-1d22db3f13df",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:35:50.835305",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "22ff58eb-c3a3-43c9-a9e9-a77a7fc78c5a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:36:00.341624",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e57be697-60f6-4858-a593-fd52bf949982",
+            "last_modified": "2024-04-01T09:36:00.302463",
+            "metadata_modified": "2024-04-01T09:36:00.329723",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10203-0703-2023.zip",
+            "package_id": "22ff58eb-c3a3-43c9-a9e9-a77a7fc78c5a",
+            "position": 1,
+            "resource_type": null,
+            "size": 73897161,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/22ff58eb-c3a3-43c9-a9e9-a77a7fc78c5a/resource/e57be697-60f6-4858-a593-fd52bf949982/download/10203-0703-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:36:15.996329",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9896f0c8-3aca-4469-8d1d-39c52f690a5a",
+            "last_modified": "2024-04-01T09:36:15.953133",
+            "metadata_modified": "2024-04-01T09:36:15.984484",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10203-0703-2024.zip",
+            "package_id": "22ff58eb-c3a3-43c9-a9e9-a77a7fc78c5a",
+            "position": 2,
+            "resource_type": null,
+            "size": 73935452,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/22ff58eb-c3a3-43c9-a9e9-a77a7fc78c5a/resource/9896f0c8-3aca-4469-8d1d-39c52f690a5a/download/10203-0703-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "桐生市",
+            "id": "4fc0b229-3e95-4af7-af4b-07598b71f756",
+            "name": "桐生市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8c10e36d-d5d1-4d6b-9036-cba8b84ebe14",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:19.278012",
+        "metadata_modified": "2024-04-15T03:29:56.403858",
+        "name": "houmusyouchizu-2024-1-503",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "伊勢崎市（前橋地方法務局伊勢崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:36:24.035259",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "496c91d6-d1b7-4086-9f9a-bad7e9f8801e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:36:24.021798",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8c10e36d-d5d1-4d6b-9036-cba8b84ebe14",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:36:35.121707",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ade879f5-76a0-4485-9df0-e5053b1c48ed",
+            "last_modified": "2024-04-01T09:36:35.080009",
+            "metadata_modified": "2024-04-01T09:36:35.108178",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10204-0708-2023.zip",
+            "package_id": "8c10e36d-d5d1-4d6b-9036-cba8b84ebe14",
+            "position": 1,
+            "resource_type": null,
+            "size": 81870700,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8c10e36d-d5d1-4d6b-9036-cba8b84ebe14/resource/ade879f5-76a0-4485-9df0-e5053b1c48ed/download/10204-0708-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:36:52.694023",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b4722f0a-035e-4524-b911-bcea76e62804",
+            "last_modified": "2024-04-01T09:36:52.641422",
+            "metadata_modified": "2024-04-01T09:36:52.677667",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10204-0708-2024.zip",
+            "package_id": "8c10e36d-d5d1-4d6b-9036-cba8b84ebe14",
+            "position": 2,
+            "resource_type": null,
+            "size": 82151140,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8c10e36d-d5d1-4d6b-9036-cba8b84ebe14/resource/b4722f0a-035e-4524-b911-bcea76e62804/download/10204-0708-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "伊勢崎市",
+            "id": "5fa79485-b7ad-4f16-9908-c0d4342a5204",
+            "name": "伊勢崎市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "520bd3b9-8e94-43ea-b883-2e88552f7413",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:19.681230",
+        "metadata_modified": "2024-04-15T03:29:55.310969",
+        "name": "houmusyouchizu-2024-1-504",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "太田市（前橋地方法務局太田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:37:00.932284",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "71754e5b-dd3f-4422-aa4b-913fa5ed3896",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:37:00.917927",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "520bd3b9-8e94-43ea-b883-2e88552f7413",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:37:11.494307",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "272a984e-5d91-49f6-9025-17006f36e689",
+            "last_modified": "2024-04-01T09:37:11.453505",
+            "metadata_modified": "2024-04-01T09:37:11.481163",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10205-0702-2023.zip",
+            "package_id": "520bd3b9-8e94-43ea-b883-2e88552f7413",
+            "position": 1,
+            "resource_type": null,
+            "size": 89781317,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/520bd3b9-8e94-43ea-b883-2e88552f7413/resource/272a984e-5d91-49f6-9025-17006f36e689/download/10205-0702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:37:31.412359",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "54568176-8a2d-47d0-b222-f7de9515f69e",
+            "last_modified": "2024-04-01T09:37:31.369589",
+            "metadata_modified": "2024-04-01T09:37:31.398923",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10205-0702-2024.zip",
+            "package_id": "520bd3b9-8e94-43ea-b883-2e88552f7413",
+            "position": 2,
+            "resource_type": null,
+            "size": 90067807,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/520bd3b9-8e94-43ea-b883-2e88552f7413/resource/54568176-8a2d-47d0-b222-f7de9515f69e/download/10205-0702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "太田市",
+            "id": "224f15e8-7066-447c-9cd1-a98215bbb09f",
+            "name": "太田市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c15d7347-67cd-4291-a342-7c8eee7ced0b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:20.084110",
+        "metadata_modified": "2024-04-15T03:29:54.255892",
+        "name": "houmusyouchizu-2024-1-505",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "沼田市（前橋地方法務局沼田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:37:40.061037",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "6461f4d2-e140-42bc-88cf-5f641f99a2d0",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:37:40.049850",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c15d7347-67cd-4291-a342-7c8eee7ced0b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:37:48.976019",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0c15412d-72fc-4fba-ba8c-273a17458391",
+            "last_modified": "2024-04-01T09:37:48.937670",
+            "metadata_modified": "2024-04-01T09:37:48.964583",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10206-0701-2023.zip",
+            "package_id": "c15d7347-67cd-4291-a342-7c8eee7ced0b",
+            "position": 1,
+            "resource_type": null,
+            "size": 69263580,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c15d7347-67cd-4291-a342-7c8eee7ced0b/resource/0c15412d-72fc-4fba-ba8c-273a17458391/download/10206-0701-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:38:04.418929",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "fb8aea93-502f-42c7-92a7-b5114c953e10",
+            "last_modified": "2024-04-01T09:38:04.376155",
+            "metadata_modified": "2024-04-01T09:38:04.405802",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10206-0701-2024.zip",
+            "package_id": "c15d7347-67cd-4291-a342-7c8eee7ced0b",
+            "position": 2,
+            "resource_type": null,
+            "size": 69300158,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c15d7347-67cd-4291-a342-7c8eee7ced0b/resource/fb8aea93-502f-42c7-92a7-b5114c953e10/download/10206-0701-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "沼田市",
+            "id": "98b377e0-b924-475a-a560-aff3e62ecb72",
+            "name": "沼田市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3218c15f-253b-471a-bd46-63d4c88c30a3",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:20.513873",
+        "metadata_modified": "2024-04-15T03:29:53.247163",
+        "name": "houmusyouchizu-2024-1-506",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "館林市（前橋地方法務局太田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:38:11.643035",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "e7929cfe-b6da-4fc2-95fe-355e27ce5116",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:38:11.631446",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3218c15f-253b-471a-bd46-63d4c88c30a3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:38:15.685237",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "90f06dde-f868-4b79-a926-ac5aef9a7553",
+            "last_modified": "2024-04-01T09:38:15.645190",
+            "metadata_modified": "2024-04-01T09:38:15.673479",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10207-0702-2023.zip",
+            "package_id": "3218c15f-253b-471a-bd46-63d4c88c30a3",
+            "position": 1,
+            "resource_type": null,
+            "size": 31052118,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3218c15f-253b-471a-bd46-63d4c88c30a3/resource/90f06dde-f868-4b79-a926-ac5aef9a7553/download/10207-0702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:38:23.786317",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ab74049b-7b74-48c4-be6b-13fa4de91316",
+            "last_modified": "2024-04-01T09:38:23.742962",
+            "metadata_modified": "2024-04-01T09:38:23.772674",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10207-0702-2024.zip",
+            "package_id": "3218c15f-253b-471a-bd46-63d4c88c30a3",
+            "position": 2,
+            "resource_type": null,
+            "size": 30989516,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3218c15f-253b-471a-bd46-63d4c88c30a3/resource/ab74049b-7b74-48c4-be6b-13fa4de91316/download/10207-0702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "館林市",
+            "id": "3c0f7901-0d69-4910-9034-004c53e3aa28",
+            "name": "館林市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "579dc7d4-43f2-4147-bee0-ff4f856c9d53",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:20.965335",
+        "metadata_modified": "2024-04-15T03:29:52.189470",
+        "name": "houmusyouchizu-2024-1-507",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "渋川市（前橋地方法務局渋川出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:38:28.444644",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "d061b5b2-0ac9-42fe-85c0-803a5daf8a58",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:38:28.433060",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "579dc7d4-43f2-4147-bee0-ff4f856c9d53",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:38:37.725908",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "70a12a35-089d-4688-aebe-fa97aabcd502",
+            "last_modified": "2024-04-01T09:38:37.686159",
+            "metadata_modified": "2024-04-01T09:38:37.713672",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10208-0707-2023.zip",
+            "package_id": "579dc7d4-43f2-4147-bee0-ff4f856c9d53",
+            "position": 1,
+            "resource_type": null,
+            "size": 79552925,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/579dc7d4-43f2-4147-bee0-ff4f856c9d53/resource/70a12a35-089d-4688-aebe-fa97aabcd502/download/10208-0707-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:38:56.120297",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "59f6cf30-b3ba-4bf2-bb2a-6b7266629e7f",
+            "last_modified": "2024-04-01T09:38:56.076552",
+            "metadata_modified": "2024-04-01T09:38:56.106445",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10208-0707-2024.zip",
+            "package_id": "579dc7d4-43f2-4147-bee0-ff4f856c9d53",
+            "position": 2,
+            "resource_type": null,
+            "size": 79618290,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/579dc7d4-43f2-4147-bee0-ff4f856c9d53/resource/59f6cf30-b3ba-4bf2-bb2a-6b7266629e7f/download/10208-0707-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "渋川市",
+            "id": "c30d09a7-b0c9-4cd7-b9f0-a02d021552a6",
+            "name": "渋川市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "82d33327-64db-40d6-94bf-c6f30224f203",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:21.394040",
+        "metadata_modified": "2024-04-15T03:29:51.188424",
+        "name": "houmusyouchizu-2024-1-508",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "藤岡市（前橋地方法務局高崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:39:04.238052",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "c62077b0-52bd-40c3-a51f-44ef186eef68",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:39:04.225861",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "82d33327-64db-40d6-94bf-c6f30224f203",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:39:12.516991",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8bdef6a0-8706-4b0a-858d-833b3f82471a",
+            "last_modified": "2024-04-01T09:39:12.473838",
+            "metadata_modified": "2024-04-01T09:39:12.503219",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10209-0704-2023.zip",
+            "package_id": "82d33327-64db-40d6-94bf-c6f30224f203",
+            "position": 1,
+            "resource_type": null,
+            "size": 57914801,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/82d33327-64db-40d6-94bf-c6f30224f203/resource/8bdef6a0-8706-4b0a-858d-833b3f82471a/download/10209-0704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:39:26.012141",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "24e18139-f470-4275-bcb6-3d9aae6e7955",
+            "last_modified": "2024-04-01T09:39:25.969813",
+            "metadata_modified": "2024-04-01T09:39:25.999934",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10209-0704-2024.zip",
+            "package_id": "82d33327-64db-40d6-94bf-c6f30224f203",
+            "position": 2,
+            "resource_type": null,
+            "size": 58008737,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/82d33327-64db-40d6-94bf-c6f30224f203/resource/24e18139-f470-4275-bcb6-3d9aae6e7955/download/10209-0704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "藤岡市",
+            "id": "fb7ab224-2d0c-42f4-a51c-cc62535d94ed",
+            "name": "藤岡市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ce053c4c-d597-4199-9f5f-a4a303c02f74",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:21.800479",
+        "metadata_modified": "2024-04-15T03:29:50.147091",
+        "name": "houmusyouchizu-2024-1-509",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "富岡市（前橋地方法務局富岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:39:32.450578",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "584b9215-3d21-4061-b1e3-23cac6c9d7a3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:39:32.437591",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ce053c4c-d597-4199-9f5f-a4a303c02f74",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:39:40.282909",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8de5a42f-e007-495c-b7e4-93d750afc98c",
+            "last_modified": "2024-04-01T09:39:40.240785",
+            "metadata_modified": "2024-04-01T09:39:40.268333",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10210-0706-2023.zip",
+            "package_id": "ce053c4c-d597-4199-9f5f-a4a303c02f74",
+            "position": 1,
+            "resource_type": null,
+            "size": 58323101,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ce053c4c-d597-4199-9f5f-a4a303c02f74/resource/8de5a42f-e007-495c-b7e4-93d750afc98c/download/10210-0706-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:39:54.630377",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "98b5cbdc-5821-4b69-8239-b77e4a34e468",
+            "last_modified": "2024-04-01T09:39:54.588689",
+            "metadata_modified": "2024-04-01T09:39:54.617924",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10210-0706-2024.zip",
+            "package_id": "ce053c4c-d597-4199-9f5f-a4a303c02f74",
+            "position": 2,
+            "resource_type": null,
+            "size": 58041950,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ce053c4c-d597-4199-9f5f-a4a303c02f74/resource/98b5cbdc-5821-4b69-8239-b77e4a34e468/download/10210-0706-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富岡市",
+            "id": "a313d4cd-1fc7-4160-bddf-d2376aedece3",
+            "name": "富岡市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7153aa23-7c97-4bcd-8a5f-0f7c3a10fbbf",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:22.205217",
+        "metadata_modified": "2024-04-15T03:29:49.140801",
+        "name": "houmusyouchizu-2024-1-510",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "安中市（前橋地方法務局高崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:40:01.438364",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1fadccbd-52e5-4ed4-8ffa-fa6c3992a8c3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:40:01.426676",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7153aa23-7c97-4bcd-8a5f-0f7c3a10fbbf",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:40:16.110279",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8c379ebb-2a6c-4d60-b5d2-a8d4b952a66b",
+            "last_modified": "2024-04-01T09:40:16.071166",
+            "metadata_modified": "2024-04-01T09:40:16.097380",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10211-0704-2023.zip",
+            "package_id": "7153aa23-7c97-4bcd-8a5f-0f7c3a10fbbf",
+            "position": 1,
+            "resource_type": null,
+            "size": 108530225,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7153aa23-7c97-4bcd-8a5f-0f7c3a10fbbf/resource/8c379ebb-2a6c-4d60-b5d2-a8d4b952a66b/download/10211-0704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:40:39.752577",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d6a80bf0-7b3d-4855-b9d2-25ca4fe2d828",
+            "last_modified": "2024-04-01T09:40:39.710733",
+            "metadata_modified": "2024-04-01T09:40:39.739349",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10211-0704-2024.zip",
+            "package_id": "7153aa23-7c97-4bcd-8a5f-0f7c3a10fbbf",
+            "position": 2,
+            "resource_type": null,
+            "size": 108609285,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7153aa23-7c97-4bcd-8a5f-0f7c3a10fbbf/resource/d6a80bf0-7b3d-4855-b9d2-25ca4fe2d828/download/10211-0704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安中市",
+            "id": "e59b59db-f30e-46e4-aa8b-b39cb908c26c",
+            "name": "安中市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "034e4fc5-d439-4364-9c06-0337e7c09b53",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:22.601968",
+        "metadata_modified": "2024-04-15T03:29:48.174772",
+        "name": "houmusyouchizu-2024-1-511",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "みどり市（前橋地方法務局桐生支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:40:49.799410",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "5877b2ee-5759-4358-89c5-c995d65342d1",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:40:49.787480",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "034e4fc5-d439-4364-9c06-0337e7c09b53",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:40:55.457582",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "89b30ae7-e54c-491e-9833-433b77c4cf00",
+            "last_modified": "2024-04-01T09:40:55.418238",
+            "metadata_modified": "2024-04-01T09:40:55.445662",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10212-0703-2023.zip",
+            "package_id": "034e4fc5-d439-4364-9c06-0337e7c09b53",
+            "position": 1,
+            "resource_type": null,
+            "size": 38655501,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/034e4fc5-d439-4364-9c06-0337e7c09b53/resource/89b30ae7-e54c-491e-9833-433b77c4cf00/download/10212-0703-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:05.667550",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8408432e-5b8b-4b50-89d4-cbffcea36352",
+            "last_modified": "2024-04-01T09:41:05.623631",
+            "metadata_modified": "2024-04-01T09:41:05.653690",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10212-0703-2024.zip",
+            "package_id": "034e4fc5-d439-4364-9c06-0337e7c09b53",
+            "position": 2,
+            "resource_type": null,
+            "size": 38721218,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/034e4fc5-d439-4364-9c06-0337e7c09b53/resource/8408432e-5b8b-4b50-89d4-cbffcea36352/download/10212-0703-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "みどり市",
+            "id": "6d2cd9d3-b4be-48bf-a7f3-46ec77812987",
+            "name": "みどり市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d3ec797a-b30c-4797-8f54-2442ae3d8347",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:23.015425",
+        "metadata_modified": "2024-04-15T03:29:47.181643",
+        "name": "houmusyouchizu-2024-1-512",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "勢多郡富士見村（前橋地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:11.103897",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "bd685899-4a25-4c3f-baa2-993029f177b8",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:41:11.092022",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d3ec797a-b30c-4797-8f54-2442ae3d8347",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:11.673040",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4876a573-ff1e-4a6a-a880-a984fa202d6c",
+            "last_modified": "2024-04-01T09:41:11.632960",
+            "metadata_modified": "2024-04-01T09:41:11.661164",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10303-0700-2023.zip",
+            "package_id": "d3ec797a-b30c-4797-8f54-2442ae3d8347",
+            "position": 1,
+            "resource_type": null,
+            "size": 354650,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d3ec797a-b30c-4797-8f54-2442ae3d8347/resource/4876a573-ff1e-4a6a-a880-a984fa202d6c/download/10303-0700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:13.896042",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "22d88eb4-db04-4818-8df9-3858ce37a31c",
+            "last_modified": "2024-04-01T09:41:13.854120",
+            "metadata_modified": "2024-04-01T09:41:13.884126",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10303-0700-2024.zip",
+            "package_id": "d3ec797a-b30c-4797-8f54-2442ae3d8347",
+            "position": 2,
+            "resource_type": null,
+            "size": 347800,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d3ec797a-b30c-4797-8f54-2442ae3d8347/resource/22d88eb4-db04-4818-8df9-3858ce37a31c/download/10303-0700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "勢多郡富士見村",
+            "id": "bd64413b-ab5c-4c91-b53b-34cc44ea3a1e",
+            "name": "勢多郡富士見村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c7e7f419-2816-40de-a1d5-68b2d35b1c26",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:23.426012",
+        "metadata_modified": "2024-04-15T03:29:46.217108",
+        "name": "houmusyouchizu-2024-1-513",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "北群馬郡榛東村（前橋地方法務局渋川出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:16.216505",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "b2e093f4-018a-4aea-9f62-a74c6d02a706",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:41:16.203764",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c7e7f419-2816-40de-a1d5-68b2d35b1c26",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:18.056129",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "69213810-483d-4efe-88ed-5ccb16a0711d",
+            "last_modified": "2024-04-01T09:41:18.015840",
+            "metadata_modified": "2024-04-01T09:41:18.044405",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10344-0707-2023.zip",
+            "package_id": "c7e7f419-2816-40de-a1d5-68b2d35b1c26",
+            "position": 1,
+            "resource_type": null,
+            "size": 11051520,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c7e7f419-2816-40de-a1d5-68b2d35b1c26/resource/69213810-483d-4efe-88ed-5ccb16a0711d/download/10344-0707-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:22.939035",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1d863c6a-4d06-4007-9f41-f268bd146e4a",
+            "last_modified": "2024-04-01T09:41:22.896693",
+            "metadata_modified": "2024-04-01T09:41:22.925898",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10344-0707-2024.zip",
+            "package_id": "c7e7f419-2816-40de-a1d5-68b2d35b1c26",
+            "position": 2,
+            "resource_type": null,
+            "size": 11025079,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c7e7f419-2816-40de-a1d5-68b2d35b1c26/resource/1d863c6a-4d06-4007-9f41-f268bd146e4a/download/10344-0707-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "北群馬郡榛東村",
+            "id": "b024c9c4-79a2-4298-be9f-590ead324ee9",
+            "name": "北群馬郡榛東村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bd519a00-8474-492a-ad07-07709e43d8dc",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:23.828202",
+        "metadata_modified": "2024-04-15T03:29:45.236062",
+        "name": "houmusyouchizu-2024-1-514",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "北群馬郡吉岡町（前橋地方法務局渋川出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:26.108532",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "9478e59e-a034-4d99-a459-51a70c4416d3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:41:26.097284",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bd519a00-8474-492a-ad07-07709e43d8dc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:28.073841",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8f01acc7-74f6-42a2-8161-36359181fd90",
+            "last_modified": "2024-04-01T09:41:28.031829",
+            "metadata_modified": "2024-04-01T09:41:28.060360",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10345-0707-2023.zip",
+            "package_id": "bd519a00-8474-492a-ad07-07709e43d8dc",
+            "position": 1,
+            "resource_type": null,
+            "size": 10924952,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bd519a00-8474-492a-ad07-07709e43d8dc/resource/8f01acc7-74f6-42a2-8161-36359181fd90/download/10345-0707-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:32.882823",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "459a497b-fe43-4e9a-bbde-cda74dd836b4",
+            "last_modified": "2024-04-01T09:41:32.839294",
+            "metadata_modified": "2024-04-01T09:41:32.870900",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10345-0707-2024.zip",
+            "package_id": "bd519a00-8474-492a-ad07-07709e43d8dc",
+            "position": 2,
+            "resource_type": null,
+            "size": 10947441,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bd519a00-8474-492a-ad07-07709e43d8dc/resource/459a497b-fe43-4e9a-bbde-cda74dd836b4/download/10345-0707-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "北群馬郡吉岡町",
+            "id": "8d5ab6f2-c611-4dfb-8238-055f07798d88",
+            "name": "北群馬郡吉岡町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "99493cb1-ee67-45e2-9019-6e297ece2707",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:24.232567",
+        "metadata_modified": "2024-04-15T03:29:44.211457",
+        "name": "houmusyouchizu-2024-1-515",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "多野郡上野村（前橋地方法務局富岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:36.129561",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "56f9d541-52b2-4c12-8d90-2ac75af017c8",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:41:36.118166",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "99493cb1-ee67-45e2-9019-6e297ece2707",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:37.874180",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2071195f-385e-40f1-b41f-8e44d446daf5",
+            "last_modified": "2024-04-01T09:41:37.836542",
+            "metadata_modified": "2024-04-01T09:41:37.862936",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10366-0706-2023.zip",
+            "package_id": "99493cb1-ee67-45e2-9019-6e297ece2707",
+            "position": 1,
+            "resource_type": null,
+            "size": 8186183,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/99493cb1-ee67-45e2-9019-6e297ece2707/resource/2071195f-385e-40f1-b41f-8e44d446daf5/download/10366-0706-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:41.949886",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c898369f-f9be-499b-8806-c892607ef0cd",
+            "last_modified": "2024-04-01T09:41:41.906602",
+            "metadata_modified": "2024-04-01T09:41:41.937321",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10366-0706-2024.zip",
+            "package_id": "99493cb1-ee67-45e2-9019-6e297ece2707",
+            "position": 2,
+            "resource_type": null,
+            "size": 8228538,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/99493cb1-ee67-45e2-9019-6e297ece2707/resource/c898369f-f9be-499b-8806-c892607ef0cd/download/10366-0706-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "多野郡上野村",
+            "id": "00bfe69f-3bc3-4bdf-921c-1f186af23d38",
+            "name": "多野郡上野村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0d15bccc-5251-479b-9e4c-8966969c4dc7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:24.676512",
+        "metadata_modified": "2024-04-15T03:29:43.183980",
+        "name": "houmusyouchizu-2024-1-516",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "多野郡神流町（前橋地方法務局高崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:45.301853",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "524e0d24-19c2-4bce-987e-fba09b164279",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:41:45.289969",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0d15bccc-5251-479b-9e4c-8966969c4dc7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:47.943041",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a5b61f29-78dd-45e7-9273-404e2b588639",
+            "last_modified": "2024-04-01T09:41:47.901030",
+            "metadata_modified": "2024-04-01T09:41:47.929814",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10367-0704-2023.zip",
+            "package_id": "0d15bccc-5251-479b-9e4c-8966969c4dc7",
+            "position": 1,
+            "resource_type": null,
+            "size": 16233058,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0d15bccc-5251-479b-9e4c-8966969c4dc7/resource/a5b61f29-78dd-45e7-9273-404e2b588639/download/10367-0704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:53.608640",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "399b3c39-dee4-4c90-983d-58148278fbb5",
+            "last_modified": "2024-04-01T09:41:53.566487",
+            "metadata_modified": "2024-04-01T09:41:53.596198",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10367-0704-2024.zip",
+            "package_id": "0d15bccc-5251-479b-9e4c-8966969c4dc7",
+            "position": 2,
+            "resource_type": null,
+            "size": 16260742,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0d15bccc-5251-479b-9e4c-8966969c4dc7/resource/399b3c39-dee4-4c90-983d-58148278fbb5/download/10367-0704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "多野郡神流町",
+            "id": "aa7b80ee-3f7a-4393-a835-c103dd59326c",
+            "name": "多野郡神流町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f6d2b58b-dc6d-4c26-9fc0-2c3c58530d33",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:25.113700",
+        "metadata_modified": "2024-04-15T03:29:42.151104",
+        "name": "houmusyouchizu-2024-1-517",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "甘楽郡下仁田町（前橋地方法務局富岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:41:57.213339",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "909ad1a4-da37-45f1-9218-9ce33b61fc05",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:41:57.200499",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f6d2b58b-dc6d-4c26-9fc0-2c3c58530d33",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:01.861915",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "59f3f78a-0351-4ec6-8a05-7c64e7b07261",
+            "last_modified": "2024-04-01T09:42:01.823219",
+            "metadata_modified": "2024-04-01T09:42:01.850159",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10382-0706-2023.zip",
+            "package_id": "f6d2b58b-dc6d-4c26-9fc0-2c3c58530d33",
+            "position": 1,
+            "resource_type": null,
+            "size": 35347078,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f6d2b58b-dc6d-4c26-9fc0-2c3c58530d33/resource/59f3f78a-0351-4ec6-8a05-7c64e7b07261/download/10382-0706-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:11.201821",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "10f9998d-22ac-4b1e-b4bc-12972c48a7fe",
+            "last_modified": "2024-04-01T09:42:11.160005",
+            "metadata_modified": "2024-04-01T09:42:11.189731",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10382-0706-2024.zip",
+            "package_id": "f6d2b58b-dc6d-4c26-9fc0-2c3c58530d33",
+            "position": 2,
+            "resource_type": null,
+            "size": 35361599,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f6d2b58b-dc6d-4c26-9fc0-2c3c58530d33/resource/10f9998d-22ac-4b1e-b4bc-12972c48a7fe/download/10382-0706-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "甘楽郡下仁田町",
+            "id": "365c523d-d2b3-4935-a744-92494140d6e8",
+            "name": "甘楽郡下仁田町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6b9f498d-738c-4393-baa9-c6b3f3a16fd1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:25.524092",
+        "metadata_modified": "2024-04-15T03:29:41.126957",
+        "name": "houmusyouchizu-2024-1-518",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "甘楽郡南牧村（前橋地方法務局富岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:16.179404",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "6b4261cc-616e-4d2e-a941-75eed296a788",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:42:16.166695",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6b9f498d-738c-4393-baa9-c6b3f3a16fd1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:19.342971",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "71bee58f-beb0-4ea5-a13e-17e047aa9e6d",
+            "last_modified": "2024-04-01T09:42:19.299057",
+            "metadata_modified": "2024-04-01T09:42:19.327881",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10383-0706-2023.zip",
+            "package_id": "6b9f498d-738c-4393-baa9-c6b3f3a16fd1",
+            "position": 1,
+            "resource_type": null,
+            "size": 19434614,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6b9f498d-738c-4393-baa9-c6b3f3a16fd1/resource/71bee58f-beb0-4ea5-a13e-17e047aa9e6d/download/10383-0706-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:25.381423",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "338f95a0-a294-4669-b5ef-19e69b4e2bd9",
+            "last_modified": "2024-04-01T09:42:25.340532",
+            "metadata_modified": "2024-04-01T09:42:25.369705",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10383-0706-2024.zip",
+            "package_id": "6b9f498d-738c-4393-baa9-c6b3f3a16fd1",
+            "position": 2,
+            "resource_type": null,
+            "size": 19405344,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6b9f498d-738c-4393-baa9-c6b3f3a16fd1/resource/338f95a0-a294-4669-b5ef-19e69b4e2bd9/download/10383-0706-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "甘楽郡南牧村",
+            "id": "70a409ac-e2bc-42de-b3e1-8cb098968003",
+            "name": "甘楽郡南牧村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "024de2be-f4ed-4c44-a66a-37d7c41d43e4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:25.931710",
+        "metadata_modified": "2024-04-15T03:29:40.103092",
+        "name": "houmusyouchizu-2024-1-519",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "甘楽郡甘楽町（前橋地方法務局富岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:29.251872",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "62d6d178-d506-4f96-b3da-bd98dfb5bc46",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:42:29.238641",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "024de2be-f4ed-4c44-a66a-37d7c41d43e4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:32.312606",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c297c58e-e72e-4013-aa45-f32564feb4ab",
+            "last_modified": "2024-04-01T09:42:32.272639",
+            "metadata_modified": "2024-04-01T09:42:32.300677",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10384-0706-2023.zip",
+            "package_id": "024de2be-f4ed-4c44-a66a-37d7c41d43e4",
+            "position": 1,
+            "resource_type": null,
+            "size": 21095275,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/024de2be-f4ed-4c44-a66a-37d7c41d43e4/resource/c297c58e-e72e-4013-aa45-f32564feb4ab/download/10384-0706-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:39.242385",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0b416030-cf11-4cb0-bd5e-5ad8bb40bc39",
+            "last_modified": "2024-04-01T09:42:39.201529",
+            "metadata_modified": "2024-04-01T09:42:39.230426",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10384-0706-2024.zip",
+            "package_id": "024de2be-f4ed-4c44-a66a-37d7c41d43e4",
+            "position": 2,
+            "resource_type": null,
+            "size": 21116861,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/024de2be-f4ed-4c44-a66a-37d7c41d43e4/resource/0b416030-cf11-4cb0-bd5e-5ad8bb40bc39/download/10384-0706-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "甘楽郡甘楽町",
+            "id": "5f63b0be-8927-4933-9821-cf99f3101e45",
+            "name": "甘楽郡甘楽町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "03594048-07e2-40c1-8b80-9be53b26358a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:26.342981",
+        "metadata_modified": "2024-04-15T03:29:39.091670",
+        "name": "houmusyouchizu-2024-1-520",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "吾妻郡中之条町（前橋地方法務局中之条支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:43.885779",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "b3995ec6-7c25-45d7-9967-9d21fd5f6914",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:42:43.874500",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "03594048-07e2-40c1-8b80-9be53b26358a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:42:49.630919",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d4c3ac8c-b53c-4dee-b156-008042e8deef",
+            "last_modified": "2024-04-01T09:42:49.592241",
+            "metadata_modified": "2024-04-01T09:42:49.619367",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10421-0705-2023.zip",
+            "package_id": "03594048-07e2-40c1-8b80-9be53b26358a",
+            "position": 1,
+            "resource_type": null,
+            "size": 46562967,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/03594048-07e2-40c1-8b80-9be53b26358a/resource/d4c3ac8c-b53c-4dee-b156-008042e8deef/download/10421-0705-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:01.741082",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c2df5c67-4126-41b3-873a-09c3b36a704e",
+            "last_modified": "2024-04-01T09:43:01.694828",
+            "metadata_modified": "2024-04-01T09:43:01.726471",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10421-0705-2024.zip",
+            "package_id": "03594048-07e2-40c1-8b80-9be53b26358a",
+            "position": 2,
+            "resource_type": null,
+            "size": 46583709,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/03594048-07e2-40c1-8b80-9be53b26358a/resource/c2df5c67-4126-41b3-873a-09c3b36a704e/download/10421-0705-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吾妻郡中之条町",
+            "id": "8631c592-51bb-4a06-afa2-f51347f555e7",
+            "name": "吾妻郡中之条町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7a8ab975-4093-40bd-ba35-f9ce52a6fd24",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:26.768557",
+        "metadata_modified": "2024-04-15T03:29:38.080110",
+        "name": "houmusyouchizu-2024-1-521",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "吾妻郡長野原町（前橋地方法務局中之条支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:07.405260",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "4ca3055a-6cb9-4f10-a8eb-68eed267c85c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:43:07.392738",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7a8ab975-4093-40bd-ba35-f9ce52a6fd24",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:10.602371",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9b3401b0-94ba-454f-a620-07652a5884f1",
+            "last_modified": "2024-04-01T09:43:10.561860",
+            "metadata_modified": "2024-04-01T09:43:10.589261",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10424-0705-2023.zip",
+            "package_id": "7a8ab975-4093-40bd-ba35-f9ce52a6fd24",
+            "position": 1,
+            "resource_type": null,
+            "size": 20607716,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7a8ab975-4093-40bd-ba35-f9ce52a6fd24/resource/9b3401b0-94ba-454f-a620-07652a5884f1/download/10424-0705-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:17.249985",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4065d65c-f3d4-4589-871c-4dbdcdeba4b8",
+            "last_modified": "2024-04-01T09:43:17.207393",
+            "metadata_modified": "2024-04-01T09:43:17.237882",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10424-0705-2024.zip",
+            "package_id": "7a8ab975-4093-40bd-ba35-f9ce52a6fd24",
+            "position": 2,
+            "resource_type": null,
+            "size": 20614211,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7a8ab975-4093-40bd-ba35-f9ce52a6fd24/resource/4065d65c-f3d4-4589-871c-4dbdcdeba4b8/download/10424-0705-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吾妻郡長野原町",
+            "id": "e5251ad0-ca29-4ea8-8a27-3dca45a505b1",
+            "name": "吾妻郡長野原町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5e7053b7-54bc-4cbc-a956-1f828cf47535",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:27.184714",
+        "metadata_modified": "2024-04-15T03:29:37.075744",
+        "name": "houmusyouchizu-2024-1-522",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "吾妻郡嬬恋村（前橋地方法務局中之条支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:21.177940",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "677dac51-7352-43ce-b281-196da6c668d0",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:43:21.164854",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5e7053b7-54bc-4cbc-a956-1f828cf47535",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:26.002054",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e4483cea-224d-4bfc-9a85-20690f302f0f",
+            "last_modified": "2024-04-01T09:43:25.962553",
+            "metadata_modified": "2024-04-01T09:43:25.990258",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10425-0705-2023.zip",
+            "package_id": "5e7053b7-54bc-4cbc-a956-1f828cf47535",
+            "position": 1,
+            "resource_type": null,
+            "size": 33978167,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5e7053b7-54bc-4cbc-a956-1f828cf47535/resource/e4483cea-224d-4bfc-9a85-20690f302f0f/download/10425-0705-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:36.504918",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "81382e85-f265-4837-9431-f791517231da",
+            "last_modified": "2024-04-01T09:43:36.460876",
+            "metadata_modified": "2024-04-01T09:43:36.492432",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10425-0705-2024.zip",
+            "package_id": "5e7053b7-54bc-4cbc-a956-1f828cf47535",
+            "position": 2,
+            "resource_type": null,
+            "size": 34062145,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5e7053b7-54bc-4cbc-a956-1f828cf47535/resource/81382e85-f265-4837-9431-f791517231da/download/10425-0705-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吾妻郡嬬恋村",
+            "id": "dfe51c12-c261-45e7-9de9-d37db3879887",
+            "name": "吾妻郡嬬恋村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "96171b02-f953-4066-bac9-504c29402419",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:27.610413",
+        "metadata_modified": "2024-04-15T03:29:36.109493",
+        "name": "houmusyouchizu-2024-1-523",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "吾妻郡草津町（前橋地方法務局中之条支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:41.262605",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "72df14ca-3653-4e6c-a5af-24bac4bae70c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:43:41.251347",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "96171b02-f953-4066-bac9-504c29402419",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:42.278894",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7d95b9ae-e7b7-4e38-b5e5-da85fdc43c67",
+            "last_modified": "2024-04-01T09:43:42.236387",
+            "metadata_modified": "2024-04-01T09:43:42.263966",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10426-0705-2023.zip",
+            "package_id": "96171b02-f953-4066-bac9-504c29402419",
+            "position": 1,
+            "resource_type": null,
+            "size": 3775804,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/96171b02-f953-4066-bac9-504c29402419/resource/7d95b9ae-e7b7-4e38-b5e5-da85fdc43c67/download/10426-0705-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:46.079038",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c31f8e3b-e025-4a9f-9c7a-ae8adf930c57",
+            "last_modified": "2024-04-01T09:43:46.031282",
+            "metadata_modified": "2024-04-01T09:43:46.066459",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10426-0705-2024.zip",
+            "package_id": "96171b02-f953-4066-bac9-504c29402419",
+            "position": 2,
+            "resource_type": null,
+            "size": 3783573,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/96171b02-f953-4066-bac9-504c29402419/resource/c31f8e3b-e025-4a9f-9c7a-ae8adf930c57/download/10426-0705-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吾妻郡草津町",
+            "id": "e9396e0e-391d-45b8-8b35-8e6e71c2cc70",
+            "name": "吾妻郡草津町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "28c7b849-de7b-415f-8682-699291124406",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:28.010657",
+        "metadata_modified": "2024-04-15T03:29:21.376284",
+        "name": "houmusyouchizu-2024-1-524",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "吾妻郡高山村（前橋地方法務局中之条支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:49.302410",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8c24a4dc-c829-4897-81c3-4441bb2a4f45",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:43:49.291097",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "28c7b849-de7b-415f-8682-699291124406",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:51.080923",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "425ca009-98f1-4825-90dc-c64403b37346",
+            "last_modified": "2024-04-01T09:43:51.033850",
+            "metadata_modified": "2024-04-01T09:43:51.065106",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10428-0705-2023.zip",
+            "package_id": "28c7b849-de7b-415f-8682-699291124406",
+            "position": 1,
+            "resource_type": null,
+            "size": 10462249,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/28c7b849-de7b-415f-8682-699291124406/resource/425ca009-98f1-4825-90dc-c64403b37346/download/10428-0705-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:55.588699",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "292dcc5d-fa58-4ca6-990b-40ad0e7c6f65",
+            "last_modified": "2024-04-01T09:43:55.546662",
+            "metadata_modified": "2024-04-01T09:43:55.576513",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10428-0705-2024.zip",
+            "package_id": "28c7b849-de7b-415f-8682-699291124406",
+            "position": 2,
+            "resource_type": null,
+            "size": 10469855,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/28c7b849-de7b-415f-8682-699291124406/resource/292dcc5d-fa58-4ca6-990b-40ad0e7c6f65/download/10428-0705-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吾妻郡高山村",
+            "id": "3bc76129-9b68-473a-838e-b43bb7b31ef6",
+            "name": "吾妻郡高山村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "eb80a649-cc50-49af-8bf0-822fbece220b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:28.440687",
+        "metadata_modified": "2024-04-15T03:29:20.368963",
+        "name": "houmusyouchizu-2024-1-525",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "吾妻郡東吾妻町（前橋地方法務局中之条支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:43:58.937708",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ab7dc189-5578-40bd-8c9c-2da34d8abcb8",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:43:58.924701",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "eb80a649-cc50-49af-8bf0-822fbece220b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:04.715418",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8f7b8df1-614a-4084-9f33-997bf8c42ac2",
+            "last_modified": "2024-04-01T09:44:04.673392",
+            "metadata_modified": "2024-04-01T09:44:04.702087",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10429-0705-2023.zip",
+            "package_id": "eb80a649-cc50-49af-8bf0-822fbece220b",
+            "position": 1,
+            "resource_type": null,
+            "size": 48511016,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/eb80a649-cc50-49af-8bf0-822fbece220b/resource/8f7b8df1-614a-4084-9f33-997bf8c42ac2/download/10429-0705-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:16.368809",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5e4fb5e4-d13a-4906-8e00-a8d82129b066",
+            "last_modified": "2024-04-01T09:44:16.328576",
+            "metadata_modified": "2024-04-01T09:44:16.356714",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10429-0705-2024.zip",
+            "package_id": "eb80a649-cc50-49af-8bf0-822fbece220b",
+            "position": 2,
+            "resource_type": null,
+            "size": 48555312,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/eb80a649-cc50-49af-8bf0-822fbece220b/resource/5e4fb5e4-d13a-4906-8e00-a8d82129b066/download/10429-0705-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吾妻郡東吾妻町",
+            "id": "95a49e24-589d-4a6b-8d8a-ec55cf45fb13",
+            "name": "吾妻郡東吾妻町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6d0213d1-25e9-4100-b099-eee26ae8d3d5",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:28.855278",
+        "metadata_modified": "2024-04-15T03:29:19.318349",
+        "name": "houmusyouchizu-2024-1-526",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "利根郡片品村（前橋地方法務局沼田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:22.191722",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "9233ff21-888f-4696-b89d-9d60beccef4b",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:44:22.178042",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6d0213d1-25e9-4100-b099-eee26ae8d3d5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:24.632058",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9a0910a1-bae7-4f65-8cad-e59c0e3b6a1a",
+            "last_modified": "2024-04-01T09:44:24.592737",
+            "metadata_modified": "2024-04-01T09:44:24.619241",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10443-0701-2023.zip",
+            "package_id": "6d0213d1-25e9-4100-b099-eee26ae8d3d5",
+            "position": 1,
+            "resource_type": null,
+            "size": 16842815,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6d0213d1-25e9-4100-b099-eee26ae8d3d5/resource/9a0910a1-bae7-4f65-8cad-e59c0e3b6a1a/download/10443-0701-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:30.477223",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2cd06e61-2654-4e93-a469-a6c691ca1b8b",
+            "last_modified": "2024-04-01T09:44:30.435811",
+            "metadata_modified": "2024-04-01T09:44:30.465307",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10443-0701-2024.zip",
+            "package_id": "6d0213d1-25e9-4100-b099-eee26ae8d3d5",
+            "position": 2,
+            "resource_type": null,
+            "size": 16852389,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6d0213d1-25e9-4100-b099-eee26ae8d3d5/resource/2cd06e61-2654-4e93-a469-a6c691ca1b8b/download/10443-0701-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "利根郡片品村",
+            "id": "fa4ea27b-f243-4c7b-97b0-f01064f9dc96",
+            "name": "利根郡片品村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "1d056100-73a0-4599-a112-8901a45fb0b1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:29.263451",
+        "metadata_modified": "2024-04-15T03:29:18.331418",
+        "name": "houmusyouchizu-2024-1-527",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "利根郡川場村（前橋地方法務局沼田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:34.541149",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "454be6cf-0169-4c78-8842-53b1ad5ae58d",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:44:34.527747",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "1d056100-73a0-4599-a112-8901a45fb0b1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:36.313779",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b9dc7002-2bff-49e1-b5e0-8e34c724cb8d",
+            "last_modified": "2024-04-01T09:44:36.275473",
+            "metadata_modified": "2024-04-01T09:44:36.302544",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10444-0701-2023.zip",
+            "package_id": "1d056100-73a0-4599-a112-8901a45fb0b1",
+            "position": 1,
+            "resource_type": null,
+            "size": 10189837,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1d056100-73a0-4599-a112-8901a45fb0b1/resource/b9dc7002-2bff-49e1-b5e0-8e34c724cb8d/download/10444-0701-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:40.755557",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "83c7d6e5-c705-472b-9539-c11f401f6e57",
+            "last_modified": "2024-04-01T09:44:40.713785",
+            "metadata_modified": "2024-04-01T09:44:40.743233",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10444-0701-2024.zip",
+            "package_id": "1d056100-73a0-4599-a112-8901a45fb0b1",
+            "position": 2,
+            "resource_type": null,
+            "size": 10152013,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1d056100-73a0-4599-a112-8901a45fb0b1/resource/83c7d6e5-c705-472b-9539-c11f401f6e57/download/10444-0701-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "利根郡川場村",
+            "id": "4cca93db-35e7-4280-a074-6a37c30be4c1",
+            "name": "利根郡川場村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "154af79b-3bf4-486f-b9cf-6b6ecaa02ef6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:29.671564",
+        "metadata_modified": "2024-04-15T03:29:17.248530",
+        "name": "houmusyouchizu-2024-1-528",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "利根郡昭和村（前橋地方法務局沼田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:44.500159",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "43fd85af-5f8e-4ad7-83c0-d879f72ae92c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:44:44.487296",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "154af79b-3bf4-486f-b9cf-6b6ecaa02ef6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:46.454839",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5c1b19c6-2db2-4e30-a472-08bda6e309c9",
+            "last_modified": "2024-04-01T09:44:46.414155",
+            "metadata_modified": "2024-04-01T09:44:46.441753",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10448-0701-2023.zip",
+            "package_id": "154af79b-3bf4-486f-b9cf-6b6ecaa02ef6",
+            "position": 1,
+            "resource_type": null,
+            "size": 13666530,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/154af79b-3bf4-486f-b9cf-6b6ecaa02ef6/resource/5c1b19c6-2db2-4e30-a472-08bda6e309c9/download/10448-0701-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:51.385120",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "fa539584-450e-45f4-abb4-0fe8a113c51f",
+            "last_modified": "2024-04-01T09:44:51.338216",
+            "metadata_modified": "2024-04-01T09:44:51.368504",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10448-0701-2024.zip",
+            "package_id": "154af79b-3bf4-486f-b9cf-6b6ecaa02ef6",
+            "position": 2,
+            "resource_type": null,
+            "size": 13675102,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/154af79b-3bf4-486f-b9cf-6b6ecaa02ef6/resource/fa539584-450e-45f4-abb4-0fe8a113c51f/download/10448-0701-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "利根郡昭和村",
+            "id": "9bfba234-1313-472d-9ca4-f3601f7c5444",
+            "name": "利根郡昭和村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a15f3d79-9543-40d9-bdbd-3b635f1a1c29",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:30.083555",
+        "metadata_modified": "2024-04-15T03:29:16.215611",
+        "name": "houmusyouchizu-2024-1-529",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "利根郡みなかみ町（前橋地方法務局沼田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:44:54.828387",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "2c60bf78-ec4a-4579-9026-49bd5021213e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:44:54.815153",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a15f3d79-9543-40d9-bdbd-3b635f1a1c29",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:45:02.698060",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0b31c610-db75-4f0e-96f4-435cd38550bc",
+            "last_modified": "2024-04-01T09:45:02.655070",
+            "metadata_modified": "2024-04-01T09:45:02.685658",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10449-0701-2023.zip",
+            "package_id": "a15f3d79-9543-40d9-bdbd-3b635f1a1c29",
+            "position": 1,
+            "resource_type": null,
+            "size": 61259854,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a15f3d79-9543-40d9-bdbd-3b635f1a1c29/resource/0b31c610-db75-4f0e-96f4-435cd38550bc/download/10449-0701-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:45:17.714922",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "91f52bdf-ba93-46c6-bcc6-30b25542e42e",
+            "last_modified": "2024-04-01T09:45:17.669897",
+            "metadata_modified": "2024-04-01T09:45:17.700836",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10449-0701-2024.zip",
+            "package_id": "a15f3d79-9543-40d9-bdbd-3b635f1a1c29",
+            "position": 2,
+            "resource_type": null,
+            "size": 61275446,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a15f3d79-9543-40d9-bdbd-3b635f1a1c29/resource/91f52bdf-ba93-46c6-bcc6-30b25542e42e/download/10449-0701-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "利根郡みなかみ町",
+            "id": "2f40ee7c-5776-4b37-96b2-eb705229aac5",
+            "name": "利根郡みなかみ町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "634366a4-f076-4d03-9712-2ee2c988ab08",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:30.492347",
+        "metadata_modified": "2024-04-15T03:29:15.203485",
+        "name": "houmusyouchizu-2024-1-530",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "佐波郡玉村町（前橋地方法務局伊勢崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:45:24.681036",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "4135ea29-ba4b-49ae-b1a0-70d21e5e0117",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:45:24.667807",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "634366a4-f076-4d03-9712-2ee2c988ab08",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:45:26.837117",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "da0a1da1-e31e-495e-9af2-2919a3e91393",
+            "last_modified": "2024-04-01T09:45:26.792459",
+            "metadata_modified": "2024-04-01T09:45:26.825142",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10464-0708-2023.zip",
+            "package_id": "634366a4-f076-4d03-9712-2ee2c988ab08",
+            "position": 1,
+            "resource_type": null,
+            "size": 14321550,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/634366a4-f076-4d03-9712-2ee2c988ab08/resource/da0a1da1-e31e-495e-9af2-2919a3e91393/download/10464-0708-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:45:32.510883",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ef01fb00-ae37-4129-81ef-03a49d62014d",
+            "last_modified": "2024-04-01T09:45:32.469282",
+            "metadata_modified": "2024-04-01T09:45:32.497449",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10464-0708-2024.zip",
+            "package_id": "634366a4-f076-4d03-9712-2ee2c988ab08",
+            "position": 2,
+            "resource_type": null,
+            "size": 14346625,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/634366a4-f076-4d03-9712-2ee2c988ab08/resource/ef01fb00-ae37-4129-81ef-03a49d62014d/download/10464-0708-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐波郡玉村町",
+            "id": "f2fccfd2-4986-458b-ac46-e1c3086bc445",
+            "name": "佐波郡玉村町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0bdea492-3398-4290-8dce-09c5995ddd2c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:30.909334",
+        "metadata_modified": "2024-04-15T03:29:14.169547",
+        "name": "houmusyouchizu-2024-1-531",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "邑楽郡板倉町（前橋地方法務局太田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:45:36.089799",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "a998239a-0cd9-4e29-8948-b3a9b161061f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:45:36.079026",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0bdea492-3398-4290-8dce-09c5995ddd2c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:45:38.868359",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "3e0d17f3-9b50-4bc5-8b6d-0b572cfb1161",
+            "last_modified": "2024-04-01T09:45:38.826556",
+            "metadata_modified": "2024-04-01T09:45:38.854745",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10521-0702-2023.zip",
+            "package_id": "0bdea492-3398-4290-8dce-09c5995ddd2c",
+            "position": 1,
+            "resource_type": null,
+            "size": 17574355,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0bdea492-3398-4290-8dce-09c5995ddd2c/resource/3e0d17f3-9b50-4bc5-8b6d-0b572cfb1161/download/10521-0702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:45:58.129288",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4ad8cf86-238d-4503-863e-70863cd31e34",
+            "last_modified": "2024-04-01T09:45:58.088584",
+            "metadata_modified": "2024-04-01T09:45:58.117690",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10521-0702-2024.zip",
+            "package_id": "0bdea492-3398-4290-8dce-09c5995ddd2c",
+            "position": 2,
+            "resource_type": null,
+            "size": 17591452,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0bdea492-3398-4290-8dce-09c5995ddd2c/resource/4ad8cf86-238d-4503-863e-70863cd31e34/download/10521-0702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "邑楽郡板倉町",
+            "id": "73bb0c65-8ba7-4a34-af89-db8182d58178",
+            "name": "邑楽郡板倉町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "05c27e2e-35e0-4a74-907d-a1a6a71e52d5",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:31.325560",
+        "metadata_modified": "2024-04-15T03:29:13.103941",
+        "name": "houmusyouchizu-2024-1-532",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "邑楽郡明和町（前橋地方法務局太田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:01.865292",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "b8cebcfc-f00d-45cd-ae4b-d167d5a825e6",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:46:01.853308",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "05c27e2e-35e0-4a74-907d-a1a6a71e52d5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:03.254572",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a445a41b-033e-4c5b-9f7c-a35bfad1fd47",
+            "last_modified": "2024-04-01T09:46:03.216329",
+            "metadata_modified": "2024-04-01T09:46:03.243249",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10522-0702-2023.zip",
+            "package_id": "05c27e2e-35e0-4a74-907d-a1a6a71e52d5",
+            "position": 1,
+            "resource_type": null,
+            "size": 7151755,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/05c27e2e-35e0-4a74-907d-a1a6a71e52d5/resource/a445a41b-033e-4c5b-9f7c-a35bfad1fd47/download/10522-0702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:07.142150",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "47b5184b-909d-43ce-a891-13fb95e8d999",
+            "last_modified": "2024-04-01T09:46:07.098704",
+            "metadata_modified": "2024-04-01T09:46:07.128570",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10522-0702-2024.zip",
+            "package_id": "05c27e2e-35e0-4a74-907d-a1a6a71e52d5",
+            "position": 2,
+            "resource_type": null,
+            "size": 7155820,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/05c27e2e-35e0-4a74-907d-a1a6a71e52d5/resource/47b5184b-909d-43ce-a891-13fb95e8d999/download/10522-0702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "邑楽郡明和町",
+            "id": "b364e296-495e-404e-9aed-2dfce658bd86",
+            "name": "邑楽郡明和町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cac39da7-c205-4a59-8f3f-389534c7edbd",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:31.737136",
+        "metadata_modified": "2024-04-15T03:29:12.009414",
+        "name": "houmusyouchizu-2024-1-533",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "邑楽郡千代田町（前橋地方法務局太田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:10.303065",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "10093c91-565d-494e-83d8-c885900966ca",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:46:10.291910",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cac39da7-c205-4a59-8f3f-389534c7edbd",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:11.992584",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "abbd1681-9d89-43d1-9930-26013f699f1c",
+            "last_modified": "2024-04-01T09:46:11.954171",
+            "metadata_modified": "2024-04-01T09:46:11.981211",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10523-0702-2023.zip",
+            "package_id": "cac39da7-c205-4a59-8f3f-389534c7edbd",
+            "position": 1,
+            "resource_type": null,
+            "size": 9151954,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cac39da7-c205-4a59-8f3f-389534c7edbd/resource/abbd1681-9d89-43d1-9930-26013f699f1c/download/10523-0702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:16.425629",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5b20b5d2-ff50-4c59-b22b-30eb7cb8f42f",
+            "last_modified": "2024-04-01T09:46:16.382983",
+            "metadata_modified": "2024-04-01T09:46:16.411972",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10523-0702-2024.zip",
+            "package_id": "cac39da7-c205-4a59-8f3f-389534c7edbd",
+            "position": 2,
+            "resource_type": null,
+            "size": 9166836,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cac39da7-c205-4a59-8f3f-389534c7edbd/resource/5b20b5d2-ff50-4c59-b22b-30eb7cb8f42f/download/10523-0702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "邑楽郡千代田町",
+            "id": "811349ec-1519-43fb-8c60-7cef94ec20c4",
+            "name": "邑楽郡千代田町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4063ba47-b286-4107-a090-b886c658d265",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:32.187143",
+        "metadata_modified": "2024-04-15T03:29:11.001986",
+        "name": "houmusyouchizu-2024-1-534",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "邑楽郡大泉町（前橋地方法務局太田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:19.600843",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "da93ba48-4578-418f-a19a-23b95be40f9c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:46:19.588931",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4063ba47-b286-4107-a090-b886c658d265",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:21.238932",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b2b7f3a9-dd9b-424f-b27c-4cbf1fc8d8e1",
+            "last_modified": "2024-04-01T09:46:21.200247",
+            "metadata_modified": "2024-04-01T09:46:21.227440",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10524-0702-2023.zip",
+            "package_id": "4063ba47-b286-4107-a090-b886c658d265",
+            "position": 1,
+            "resource_type": null,
+            "size": 8494031,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4063ba47-b286-4107-a090-b886c658d265/resource/b2b7f3a9-dd9b-424f-b27c-4cbf1fc8d8e1/download/10524-0702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:25.286525",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e3253a8d-4a59-428d-8238-d81e0a2cade2",
+            "last_modified": "2024-04-01T09:46:25.246868",
+            "metadata_modified": "2024-04-01T09:46:25.275016",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10524-0702-2024.zip",
+            "package_id": "4063ba47-b286-4107-a090-b886c658d265",
+            "position": 2,
+            "resource_type": null,
+            "size": 8527086,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4063ba47-b286-4107-a090-b886c658d265/resource/e3253a8d-4a59-428d-8238-d81e0a2cade2/download/10524-0702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "邑楽郡大泉町",
+            "id": "42e0b491-5958-4a62-89aa-88461020375d",
+            "name": "邑楽郡大泉町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "1bac2c01-9cb1-4fad-ae77-4cf2c65b3d26",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:32.646934",
+        "metadata_modified": "2024-04-15T03:29:09.951546",
+        "name": "houmusyouchizu-2024-1-535",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-10gunma",
+          "name": "moj-10gunma",
+          "title": "10群馬県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:10.075818",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-10gunma",
+        "private": false,
+        "state": "active",
+        "title": "邑楽郡邑楽町（前橋地方法務局太田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:28.569750",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "e3fc9dfb-e7c7-4879-bcd6-9080d7b10654",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:46:28.555989",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "1bac2c01-9cb1-4fad-ae77-4cf2c65b3d26",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:30.925542",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "67fa6df2-82c4-466d-b765-ab23ece8fded",
+            "last_modified": "2024-04-01T09:46:30.885862",
+            "metadata_modified": "2024-04-01T09:46:30.913712",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10525-0702-2023.zip",
+            "package_id": "1bac2c01-9cb1-4fad-ae77-4cf2c65b3d26",
+            "position": 1,
+            "resource_type": null,
+            "size": 14350702,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1bac2c01-9cb1-4fad-ae77-4cf2c65b3d26/resource/67fa6df2-82c4-466d-b765-ab23ece8fded/download/10525-0702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:46:36.353033",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "658a7833-33e2-4979-a9e5-ca8b315f28e0",
+            "last_modified": "2024-04-01T09:46:36.309608",
+            "metadata_modified": "2024-04-01T09:46:36.339207",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "10525-0702-2024.zip",
+            "package_id": "1bac2c01-9cb1-4fad-ae77-4cf2c65b3d26",
+            "position": 2,
+            "resource_type": null,
+            "size": 14392476,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1bac2c01-9cb1-4fad-ae77-4cf2c65b3d26/resource/658a7833-33e2-4979-a9e5-ca8b315f28e0/download/10525-0702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "群馬県",
+            "id": "85db130e-fa6e-4110-b5f9-b1bcec6cc734",
+            "name": "群馬県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "邑楽郡邑楽町",
+            "id": "229b3c0a-5882-48e0-84ad-87c5026a7591",
+            "name": "邑楽郡邑楽町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "metadata_modified desc",
+    "search_facets": {
+    }
+  }
+}

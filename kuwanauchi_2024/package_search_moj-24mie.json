@@ -1,0 +1,5124 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 35,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0142ef9c-c199-4a26-b00e-329c7e0745cc",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:03.844697",
+        "metadata_modified": "2024-04-15T03:17:42.582820",
+        "name": "houmusyouchizu-2024-1-1174",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "津市（津地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T00:59:26.320107",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "f071933b-ce84-453d-8e4f-d18feea23804",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T00:59:26.308051",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0142ef9c-c199-4a26-b00e-329c7e0745cc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:00:09.882426",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1f8019d5-c07b-43bb-9f7d-a2032a62ca03",
+            "last_modified": "2024-04-02T01:00:09.843154",
+            "metadata_modified": "2024-04-02T01:00:09.870623",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24201-1900-2023.zip",
+            "package_id": "0142ef9c-c199-4a26-b00e-329c7e0745cc",
+            "position": 1,
+            "resource_type": null,
+            "size": 389755872,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0142ef9c-c199-4a26-b00e-329c7e0745cc/resource/1f8019d5-c07b-43bb-9f7d-a2032a62ca03/download/24201-1900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:01:25.992544",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4e11a79c-bd09-4a72-ae21-6c28ea535bd9",
+            "last_modified": "2024-04-02T01:01:25.949511",
+            "metadata_modified": "2024-04-02T01:01:25.979965",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24201-1900-2024.zip",
+            "package_id": "0142ef9c-c199-4a26-b00e-329c7e0745cc",
+            "position": 2,
+            "resource_type": null,
+            "size": 389808584,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0142ef9c-c199-4a26-b00e-329c7e0745cc/resource/4e11a79c-bd09-4a72-ae21-6c28ea535bd9/download/24201-1900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "津市",
+            "id": "f0f8da04-d40a-4293-b714-3807c89d93ba",
+            "name": "津市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e9fb984c-0ca6-4631-ba3d-5e4fd1f251db",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:04.249858",
+        "metadata_modified": "2024-04-15T03:17:41.570237",
+        "name": "houmusyouchizu-2024-1-1175",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "四日市市（津地方法務局四日市支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:01:56.526037",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8eb35250-b976-4e6f-afbf-f5c4d903ead7",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:01:56.513056",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e9fb984c-0ca6-4631-ba3d-5e4fd1f251db",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:02:12.378378",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1b3efddc-7da9-4c96-aef7-87a58ad9b750",
+            "last_modified": "2024-04-02T01:02:12.336874",
+            "metadata_modified": "2024-04-02T01:02:12.366519",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24202-1903-2023.zip",
+            "package_id": "e9fb984c-0ca6-4631-ba3d-5e4fd1f251db",
+            "position": 1,
+            "resource_type": null,
+            "size": 140764528,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e9fb984c-0ca6-4631-ba3d-5e4fd1f251db/resource/1b3efddc-7da9-4c96-aef7-87a58ad9b750/download/24202-1903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:02:40.072134",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f89cfbf1-9828-4d9a-b145-4d1a8f4cac46",
+            "last_modified": "2024-04-02T01:02:40.027151",
+            "metadata_modified": "2024-04-02T01:02:40.059426",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24202-1903-2024.zip",
+            "package_id": "e9fb984c-0ca6-4631-ba3d-5e4fd1f251db",
+            "position": 2,
+            "resource_type": null,
+            "size": 140969906,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e9fb984c-0ca6-4631-ba3d-5e4fd1f251db/resource/f89cfbf1-9828-4d9a-b145-4d1a8f4cac46/download/24202-1903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "四日市市",
+            "id": "2b32ef37-1c16-4629-bcf8-f0016d8da252",
+            "name": "四日市市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f011038f-2e6d-4b69-9776-75f6d938c1b9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:04.644254",
+        "metadata_modified": "2024-04-15T03:17:40.448486",
+        "name": "houmusyouchizu-2024-1-1176",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "伊勢市（津地方法務局伊勢支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:02:52.729159",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "6caba53f-caaf-4e2e-b949-02b8afb705c4",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:02:52.714131",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f011038f-2e6d-4b69-9776-75f6d938c1b9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:03:03.350364",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e5211f18-e5f5-4eff-890c-10c49a573a70",
+            "last_modified": "2024-04-02T01:03:03.287593",
+            "metadata_modified": "2024-04-02T01:03:03.323945",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24203-1904-2023.zip",
+            "package_id": "f011038f-2e6d-4b69-9776-75f6d938c1b9",
+            "position": 1,
+            "resource_type": null,
+            "size": 80950615,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f011038f-2e6d-4b69-9776-75f6d938c1b9/resource/e5211f18-e5f5-4eff-890c-10c49a573a70/download/24203-1904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:03:21.366942",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "97c77097-ecf2-482f-af6b-57382be63329",
+            "last_modified": "2024-04-02T01:03:21.323667",
+            "metadata_modified": "2024-04-02T01:03:21.354533",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24203-1904-2024.zip",
+            "package_id": "f011038f-2e6d-4b69-9776-75f6d938c1b9",
+            "position": 2,
+            "resource_type": null,
+            "size": 81003393,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f011038f-2e6d-4b69-9776-75f6d938c1b9/resource/97c77097-ecf2-482f-af6b-57382be63329/download/24203-1904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "伊勢市",
+            "id": "59f615c6-caec-412c-9779-2a7ba6636884",
+            "name": "伊勢市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "27403bad-1c9c-49bc-afb8-3a3aa32d3efa",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:05.044385",
+        "metadata_modified": "2024-04-15T03:17:39.397471",
+        "name": "houmusyouchizu-2024-1-1177",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "松阪市（津地方法務局松阪支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:03:29.529102",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "3992bafc-2df6-43ac-b466-84c1e4c8ebaf",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:03:29.517223",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "27403bad-1c9c-49bc-afb8-3a3aa32d3efa",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:03:57.478997",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5ded6be8-6383-4892-9c97-f5fe974a80a2",
+            "last_modified": "2024-04-02T01:03:57.435678",
+            "metadata_modified": "2024-04-02T01:03:57.465008",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24204-1901-2023.zip",
+            "package_id": "27403bad-1c9c-49bc-afb8-3a3aa32d3efa",
+            "position": 1,
+            "resource_type": null,
+            "size": 230752604,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/27403bad-1c9c-49bc-afb8-3a3aa32d3efa/resource/5ded6be8-6383-4892-9c97-f5fe974a80a2/download/24204-1901-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:04:43.213396",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8c81e227-8be5-45b3-a6b0-587249b53f8e",
+            "last_modified": "2024-04-02T01:04:43.171903",
+            "metadata_modified": "2024-04-02T01:04:43.201601",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24204-1901-2024.zip",
+            "package_id": "27403bad-1c9c-49bc-afb8-3a3aa32d3efa",
+            "position": 2,
+            "resource_type": null,
+            "size": 231239374,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/27403bad-1c9c-49bc-afb8-3a3aa32d3efa/resource/8c81e227-8be5-45b3-a6b0-587249b53f8e/download/24204-1901-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "松阪市",
+            "id": "ea6d8cc3-2696-4dec-8f86-f6f57455b89c",
+            "name": "松阪市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a61ca3f3-c2b1-4055-adba-5aa9670ba5d4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:05.446717",
+        "metadata_modified": "2024-04-15T03:17:38.397282",
+        "name": "houmusyouchizu-2024-1-1178",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "桑名市（津地方法務局桑名支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:05:01.763557",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "16371457-3311-48db-89e7-097584834408",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:05:01.749480",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a61ca3f3-c2b1-4055-adba-5aa9670ba5d4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:05:10.028152",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "fa426326-30f4-4ac9-ac24-4700fac7f5b2",
+            "last_modified": "2024-04-02T01:05:09.987905",
+            "metadata_modified": "2024-04-02T01:05:10.015472",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24205-1923-2023.zip",
+            "package_id": "a61ca3f3-c2b1-4055-adba-5aa9670ba5d4",
+            "position": 1,
+            "resource_type": null,
+            "size": 63857569,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a61ca3f3-c2b1-4055-adba-5aa9670ba5d4/resource/fa426326-30f4-4ac9-ac24-4700fac7f5b2/download/24205-1923-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:05:25.688318",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "700de950-6b72-4423-8da5-200091da7c18",
+            "last_modified": "2024-04-02T01:05:25.644982",
+            "metadata_modified": "2024-04-02T01:05:25.675060",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24205-1923-2024.zip",
+            "package_id": "a61ca3f3-c2b1-4055-adba-5aa9670ba5d4",
+            "position": 2,
+            "resource_type": null,
+            "size": 64111389,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a61ca3f3-c2b1-4055-adba-5aa9670ba5d4/resource/700de950-6b72-4423-8da5-200091da7c18/download/24205-1923-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "桑名市",
+            "id": "b106ef9c-ac8f-44cc-a280-6fee032e0a2d",
+            "name": "桑名市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "add88012-a996-4482-8236-6b603742b29f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:05.851150",
+        "metadata_modified": "2024-04-15T03:17:37.395888",
+        "name": "houmusyouchizu-2024-1-1179",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "鈴鹿市（津地方法務局鈴鹿出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:05:33.131436",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "f608901c-39bb-4165-9813-e3a22cd7f88f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:05:33.115740",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "add88012-a996-4482-8236-6b603742b29f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:05:48.936631",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9c92d057-c30a-48a8-a4e8-732bfc7ed165",
+            "last_modified": "2024-04-02T01:05:48.894255",
+            "metadata_modified": "2024-04-02T01:05:48.923299",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24207-1906-2023.zip",
+            "package_id": "add88012-a996-4482-8236-6b603742b29f",
+            "position": 1,
+            "resource_type": null,
+            "size": 131497695,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/add88012-a996-4482-8236-6b603742b29f/resource/9c92d057-c30a-48a8-a4e8-732bfc7ed165/download/24207-1906-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:06:17.529582",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "caef0cc8-c56a-475f-8720-5dda2a00a509",
+            "last_modified": "2024-04-02T01:06:17.488101",
+            "metadata_modified": "2024-04-02T01:06:17.517806",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24207-1906-2024.zip",
+            "package_id": "add88012-a996-4482-8236-6b603742b29f",
+            "position": 2,
+            "resource_type": null,
+            "size": 131635385,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/add88012-a996-4482-8236-6b603742b29f/resource/caef0cc8-c56a-475f-8720-5dda2a00a509/download/24207-1906-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鈴鹿市",
+            "id": "9e3b9442-1d0b-4df8-b724-a14f71e9d1d4",
+            "name": "鈴鹿市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e721f6e4-1eb7-4081-a240-1482d286ffc8",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:06.263437",
+        "metadata_modified": "2024-04-15T03:17:36.310761",
+        "name": "houmusyouchizu-2024-1-1180",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "名張市（津地方法務局伊賀支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:06:29.168217",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "d0afe12b-e83a-4b5f-a6e9-540dd71d39b3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:06:29.156680",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e721f6e4-1eb7-4081-a240-1482d286ffc8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:06:42.264118",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ba9ad090-7385-4bd7-b583-bf8183322f39",
+            "last_modified": "2024-04-02T01:06:42.223761",
+            "metadata_modified": "2024-04-02T01:06:42.251969",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24208-1902-2023.zip",
+            "package_id": "e721f6e4-1eb7-4081-a240-1482d286ffc8",
+            "position": 1,
+            "resource_type": null,
+            "size": 104798257,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e721f6e4-1eb7-4081-a240-1482d286ffc8/resource/ba9ad090-7385-4bd7-b583-bf8183322f39/download/24208-1902-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:07:03.376486",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "eee79d88-c6a9-4dc6-b74f-41fd0813a16b",
+            "last_modified": "2024-04-02T01:07:03.333228",
+            "metadata_modified": "2024-04-02T01:07:03.363150",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24208-1902-2024.zip",
+            "package_id": "e721f6e4-1eb7-4081-a240-1482d286ffc8",
+            "position": 2,
+            "resource_type": null,
+            "size": 104819683,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e721f6e4-1eb7-4081-a240-1482d286ffc8/resource/eee79d88-c6a9-4dc6-b74f-41fd0813a16b/download/24208-1902-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "名張市",
+            "id": "82e5088a-112d-40df-afec-4890d98074ab",
+            "name": "名張市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0bfe49fe-ce16-464c-92a0-02fb65306c92",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:06.680237",
+        "metadata_modified": "2024-04-15T03:17:35.320208",
+        "name": "houmusyouchizu-2024-1-1181",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "尾鷲市（津地方法務局尾鷲出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:07:13.073251",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "d99c965d-0051-48ac-a8d7-4a0827eff234",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:07:13.061696",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0bfe49fe-ce16-464c-92a0-02fb65306c92",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:07:16.377786",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "398d8307-c830-4192-9a4c-e7f1e2472304",
+            "last_modified": "2024-04-02T01:07:16.335863",
+            "metadata_modified": "2024-04-02T01:07:16.366144",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24209-1934-2023.zip",
+            "package_id": "0bfe49fe-ce16-464c-92a0-02fb65306c92",
+            "position": 1,
+            "resource_type": null,
+            "size": 22974275,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0bfe49fe-ce16-464c-92a0-02fb65306c92/resource/398d8307-c830-4192-9a4c-e7f1e2472304/download/24209-1934-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:07:23.020404",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "aa01b415-6b55-44ee-b37b-3c6c3b748f1f",
+            "last_modified": "2024-04-02T01:07:22.979013",
+            "metadata_modified": "2024-04-02T01:07:23.008452",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24209-1934-2024.zip",
+            "package_id": "0bfe49fe-ce16-464c-92a0-02fb65306c92",
+            "position": 2,
+            "resource_type": null,
+            "size": 22999452,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0bfe49fe-ce16-464c-92a0-02fb65306c92/resource/aa01b415-6b55-44ee-b37b-3c6c3b748f1f/download/24209-1934-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "尾鷲市",
+            "id": "466d1e2a-97f4-4ab2-87d4-af17ef1e82f6",
+            "name": "尾鷲市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8e51fdb7-50b3-4b84-bb65-b82d0dcf9f2b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:07.108001",
+        "metadata_modified": "2024-04-15T03:17:34.293068",
+        "name": "houmusyouchizu-2024-1-1182",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "亀山市（津地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:07:27.282067",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "a19090ec-a341-4d4b-a62a-90285583e039",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:07:27.270863",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8e51fdb7-50b3-4b84-bb65-b82d0dcf9f2b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:07:43.832156",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "79122872-ca0c-4cee-a731-344b59e34b1c",
+            "last_modified": "2024-04-02T01:07:43.790970",
+            "metadata_modified": "2024-04-02T01:07:43.819097",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24210-1900-2023.zip",
+            "package_id": "8e51fdb7-50b3-4b84-bb65-b82d0dcf9f2b",
+            "position": 1,
+            "resource_type": null,
+            "size": 122854445,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8e51fdb7-50b3-4b84-bb65-b82d0dcf9f2b/resource/79122872-ca0c-4cee-a731-344b59e34b1c/download/24210-1900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:08:08.626255",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9b43aa9a-ab7d-45b1-9e6a-b1fbb402e25a",
+            "last_modified": "2024-04-02T01:08:08.582495",
+            "metadata_modified": "2024-04-02T01:08:08.612631",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24210-1900-2024.zip",
+            "package_id": "8e51fdb7-50b3-4b84-bb65-b82d0dcf9f2b",
+            "position": 2,
+            "resource_type": null,
+            "size": 122923696,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8e51fdb7-50b3-4b84-bb65-b82d0dcf9f2b/resource/9b43aa9a-ab7d-45b1-9e6a-b1fbb402e25a/download/24210-1900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "亀山市",
+            "id": "4ee4525b-018f-49ff-a212-65d886414abc",
+            "name": "亀山市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b29a1e33-6e77-4300-aeeb-ef132b19324a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:07.530042",
+        "metadata_modified": "2024-04-15T03:17:33.262382",
+        "name": "houmusyouchizu-2024-1-1183",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "鳥羽市（津地方法務局伊勢支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:08:19.791815",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "b7cb0a88-3554-4ead-82f5-a0c707e28959",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:08:19.778968",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b29a1e33-6e77-4300-aeeb-ef132b19324a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:08:24.545298",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1d9ef4a3-b5ff-46ef-8129-b06b312f94a7",
+            "last_modified": "2024-04-02T01:08:24.505370",
+            "metadata_modified": "2024-04-02T01:08:24.533071",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24211-1904-2023.zip",
+            "package_id": "b29a1e33-6e77-4300-aeeb-ef132b19324a",
+            "position": 1,
+            "resource_type": null,
+            "size": 38702363,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b29a1e33-6e77-4300-aeeb-ef132b19324a/resource/1d9ef4a3-b5ff-46ef-8129-b06b312f94a7/download/24211-1904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:08:34.526576",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0836504d-04d2-40f1-9df0-4a0dec5f6322",
+            "last_modified": "2024-04-02T01:08:34.483912",
+            "metadata_modified": "2024-04-02T01:08:34.513110",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24211-1904-2024.zip",
+            "package_id": "b29a1e33-6e77-4300-aeeb-ef132b19324a",
+            "position": 2,
+            "resource_type": null,
+            "size": 38742235,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b29a1e33-6e77-4300-aeeb-ef132b19324a/resource/0836504d-04d2-40f1-9df0-4a0dec5f6322/download/24211-1904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥羽市",
+            "id": "95e1a599-7a77-417e-b84d-dd3f6d1e5635",
+            "name": "鳥羽市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0c25c0fe-9081-4823-8b6c-38e38f0de7ec",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:07.956501",
+        "metadata_modified": "2024-04-15T03:17:32.245680",
+        "name": "houmusyouchizu-2024-1-1184",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "熊野市（津地方法務局熊野支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:08:39.629122",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "2ed65fbf-52fc-4e18-945b-8e95d64fb2b1",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:08:39.617202",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0c25c0fe-9081-4823-8b6c-38e38f0de7ec",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:08:53.197853",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9196307a-b77c-4f72-8887-faa220c23b98",
+            "last_modified": "2024-04-02T01:08:53.156579",
+            "metadata_modified": "2024-04-02T01:08:53.184544",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24212-1905-2023.zip",
+            "package_id": "0c25c0fe-9081-4823-8b6c-38e38f0de7ec",
+            "position": 1,
+            "resource_type": null,
+            "size": 121561251,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0c25c0fe-9081-4823-8b6c-38e38f0de7ec/resource/9196307a-b77c-4f72-8887-faa220c23b98/download/24212-1905-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:09:19.032381",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f3207aef-7b06-4fb2-96ec-50960f24d898",
+            "last_modified": "2024-04-02T01:09:18.988512",
+            "metadata_modified": "2024-04-02T01:09:19.018253",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24212-1905-2024.zip",
+            "package_id": "0c25c0fe-9081-4823-8b6c-38e38f0de7ec",
+            "position": 2,
+            "resource_type": null,
+            "size": 121666450,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0c25c0fe-9081-4823-8b6c-38e38f0de7ec/resource/f3207aef-7b06-4fb2-96ec-50960f24d898/download/24212-1905-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "熊野市",
+            "id": "c07159c8-607d-497b-b513-bddc4ded167b",
+            "name": "熊野市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6bae5355-0d1b-4ff9-a0c8-53a4879075ec",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:08.387899",
+        "metadata_modified": "2024-04-15T03:17:31.193057",
+        "name": "houmusyouchizu-2024-1-1185",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "いなべ市（津地方法務局桑名支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:09:29.956526",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "3a7a561c-91a2-4bec-a511-4d38bacb9050",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:09:29.943995",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6bae5355-0d1b-4ff9-a0c8-53a4879075ec",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:09:42.461259",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2e3bb2e0-b8e2-4cdc-8ab6-f8b64667a983",
+            "last_modified": "2024-04-02T01:09:42.420416",
+            "metadata_modified": "2024-04-02T01:09:42.447721",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24214-1923-2023.zip",
+            "package_id": "6bae5355-0d1b-4ff9-a0c8-53a4879075ec",
+            "position": 1,
+            "resource_type": null,
+            "size": 93605116,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6bae5355-0d1b-4ff9-a0c8-53a4879075ec/resource/2e3bb2e0-b8e2-4cdc-8ab6-f8b64667a983/download/24214-1923-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:10:02.263761",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "cb724315-f3bd-41cc-bcc5-d1ef88265ffb",
+            "last_modified": "2024-04-02T01:10:02.220218",
+            "metadata_modified": "2024-04-02T01:10:02.251127",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24214-1923-2024.zip",
+            "package_id": "6bae5355-0d1b-4ff9-a0c8-53a4879075ec",
+            "position": 2,
+            "resource_type": null,
+            "size": 93699406,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6bae5355-0d1b-4ff9-a0c8-53a4879075ec/resource/cb724315-f3bd-41cc-bcc5-d1ef88265ffb/download/24214-1923-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "いなべ市",
+            "id": "141ba5c4-3161-4590-9928-50831052a7b6",
+            "name": "いなべ市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "070062cf-4eec-4ba3-9ca8-bf680b47c1df",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:08.793585",
+        "metadata_modified": "2024-04-15T03:17:30.105189",
+        "name": "houmusyouchizu-2024-1-1186",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "志摩市（津地方法務局伊勢支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:10:11.619837",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "af0add35-421b-4ad8-bdce-79ea2fcbfb3b",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:10:11.608692",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "070062cf-4eec-4ba3-9ca8-bf680b47c1df",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:10:27.440642",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d2464912-45b5-4f60-b8a4-45ddcc957b6d",
+            "last_modified": "2024-04-02T01:10:27.400035",
+            "metadata_modified": "2024-04-02T01:10:27.428100",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24215-1904-2023.zip",
+            "package_id": "070062cf-4eec-4ba3-9ca8-bf680b47c1df",
+            "position": 1,
+            "resource_type": null,
+            "size": 107644999,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/070062cf-4eec-4ba3-9ca8-bf680b47c1df/resource/d2464912-45b5-4f60-b8a4-45ddcc957b6d/download/24215-1904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:10:50.668312",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8da805b0-828d-4729-9bdc-197243a96809",
+            "last_modified": "2024-04-02T01:10:50.625612",
+            "metadata_modified": "2024-04-02T01:10:50.655835",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24215-1904-2024.zip",
+            "package_id": "070062cf-4eec-4ba3-9ca8-bf680b47c1df",
+            "position": 2,
+            "resource_type": null,
+            "size": 107687298,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/070062cf-4eec-4ba3-9ca8-bf680b47c1df/resource/8da805b0-828d-4729-9bdc-197243a96809/download/24215-1904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "志摩市",
+            "id": "c3f14e02-23df-4d67-8033-9e268208106c",
+            "name": "志摩市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "52cfc3b1-3ee9-4a3b-ba99-257e239577ab",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:09.214329",
+        "metadata_modified": "2024-04-15T03:17:29.107148",
+        "name": "houmusyouchizu-2024-1-1187",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "伊賀市（津地方法務局伊賀支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:11:00.594365",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "55390486-e3f2-4958-8e2a-4b1135562407",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:11:00.581400",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "52cfc3b1-3ee9-4a3b-ba99-257e239577ab",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:11:42.755579",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5326ef85-9a15-4681-956b-2d08093138a1",
+            "last_modified": "2024-04-02T01:11:42.714505",
+            "metadata_modified": "2024-04-02T01:11:42.742334",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24216-1902-2023.zip",
+            "package_id": "52cfc3b1-3ee9-4a3b-ba99-257e239577ab",
+            "position": 1,
+            "resource_type": null,
+            "size": 355262251,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/52cfc3b1-3ee9-4a3b-ba99-257e239577ab/resource/5326ef85-9a15-4681-956b-2d08093138a1/download/24216-1902-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:12:51.908465",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "59ba6d34-8855-4071-ad94-566001439e51",
+            "last_modified": "2024-04-02T01:12:51.866706",
+            "metadata_modified": "2024-04-02T01:12:51.895027",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24216-1902-2024.zip",
+            "package_id": "52cfc3b1-3ee9-4a3b-ba99-257e239577ab",
+            "position": 2,
+            "resource_type": null,
+            "size": 355253844,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/52cfc3b1-3ee9-4a3b-ba99-257e239577ab/resource/59ba6d34-8855-4071-ad94-566001439e51/download/24216-1902-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "伊賀市",
+            "id": "c9d776fd-44db-4baa-a459-755bc1131328",
+            "name": "伊賀市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "fc22346d-4a47-4ce9-901d-e1e17f861f8a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:09.626844",
+        "metadata_modified": "2024-04-15T03:17:28.031878",
+        "name": "houmusyouchizu-2024-1-1188",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "桑名郡長島町（津地方法務局桑名支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:19.322268",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "57feffd9-a48b-4d65-9a57-32c75bb32e61",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:13:19.310269",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "fc22346d-4a47-4ce9-901d-e1e17f861f8a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:19.877069",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7908a20a-4770-46a7-8194-0e7afc0277e5",
+            "last_modified": "2024-04-02T01:13:19.832548",
+            "metadata_modified": "2024-04-02T01:13:19.861660",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24302-1923-2023.zip",
+            "package_id": "fc22346d-4a47-4ce9-901d-e1e17f861f8a",
+            "position": 1,
+            "resource_type": null,
+            "size": 13280,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc22346d-4a47-4ce9-901d-e1e17f861f8a/resource/7908a20a-4770-46a7-8194-0e7afc0277e5/download/24302-1923-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:21.359950",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8122cdac-3d00-4534-ae3b-234a4508d406",
+            "last_modified": "2024-04-02T01:13:21.315288",
+            "metadata_modified": "2024-04-02T01:13:21.345942",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24302-1923-2024.zip",
+            "package_id": "fc22346d-4a47-4ce9-901d-e1e17f861f8a",
+            "position": 2,
+            "resource_type": null,
+            "size": 13282,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc22346d-4a47-4ce9-901d-e1e17f861f8a/resource/8122cdac-3d00-4534-ae3b-234a4508d406/download/24302-1923-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "桑名郡長島町",
+            "id": "6b9c5f9b-fec6-4da9-b7eb-1095f5df600c",
+            "name": "桑名郡長島町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "fe63912a-c581-4ecd-8cbb-63d41dc3da4d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:10.051135",
+        "metadata_modified": "2024-04-15T03:17:26.935980",
+        "name": "houmusyouchizu-2024-1-1189",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "桑名郡木曽岬町（津地方法務局桑名支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:22.864065",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "eae59a76-8a6f-4fd4-a277-f86918b6d47e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:13:22.851314",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "fe63912a-c581-4ecd-8cbb-63d41dc3da4d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:24.591890",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "01962dcd-ec4d-4efe-8132-3db366755d61",
+            "last_modified": "2024-04-02T01:13:24.552072",
+            "metadata_modified": "2024-04-02T01:13:24.580161",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24303-1923-2023.zip",
+            "package_id": "fe63912a-c581-4ecd-8cbb-63d41dc3da4d",
+            "position": 1,
+            "resource_type": null,
+            "size": 4122984,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fe63912a-c581-4ecd-8cbb-63d41dc3da4d/resource/01962dcd-ec4d-4efe-8132-3db366755d61/download/24303-1923-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:28.016693",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7a3eb01d-4a64-4b9f-bdea-99fe7ff61191",
+            "last_modified": "2024-04-02T01:13:27.972730",
+            "metadata_modified": "2024-04-02T01:13:28.003832",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24303-1923-2024.zip",
+            "package_id": "fe63912a-c581-4ecd-8cbb-63d41dc3da4d",
+            "position": 2,
+            "resource_type": null,
+            "size": 4127367,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fe63912a-c581-4ecd-8cbb-63d41dc3da4d/resource/7a3eb01d-4a64-4b9f-bdea-99fe7ff61191/download/24303-1923-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "桑名郡木曽岬町",
+            "id": "659a625e-7421-4dd5-9dd3-93f01d55636c",
+            "name": "桑名郡木曽岬町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "116b92f6-ec30-4f11-a7ea-615095cf38e1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:10.505467",
+        "metadata_modified": "2024-04-15T03:17:25.786480",
+        "name": "houmusyouchizu-2024-1-1190",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "員弁郡員弁町（津地方法務局桑名支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:30.870875",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "656b2879-f911-466b-8761-5f956f8f85a9",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:13:30.859078",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "116b92f6-ec30-4f11-a7ea-615095cf38e1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:31.395540",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "64952b3b-3466-4992-a2bb-95f0ff45b993",
+            "last_modified": "2024-04-02T01:13:31.351998",
+            "metadata_modified": "2024-04-02T01:13:31.381785",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24322-1923-2023.zip",
+            "package_id": "116b92f6-ec30-4f11-a7ea-615095cf38e1",
+            "position": 1,
+            "resource_type": null,
+            "size": 45842,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/116b92f6-ec30-4f11-a7ea-615095cf38e1/resource/64952b3b-3466-4992-a2bb-95f0ff45b993/download/24322-1923-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:33.274361",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b7a6ba9f-7002-4dbf-b38c-1dade9287e35",
+            "last_modified": "2024-04-02T01:13:33.232753",
+            "metadata_modified": "2024-04-02T01:13:33.262262",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24322-1923-2024.zip",
+            "package_id": "116b92f6-ec30-4f11-a7ea-615095cf38e1",
+            "position": 2,
+            "resource_type": null,
+            "size": 45843,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/116b92f6-ec30-4f11-a7ea-615095cf38e1/resource/b7a6ba9f-7002-4dbf-b38c-1dade9287e35/download/24322-1923-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "員弁郡員弁町",
+            "id": "62bfcf75-f73d-46ba-bdb9-f5797eef68c3",
+            "name": "員弁郡員弁町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5f5b6034-559d-4563-a425-16fbf2bc1427",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:10.937357",
+        "metadata_modified": "2024-04-15T03:17:24.783562",
+        "name": "houmusyouchizu-2024-1-1191",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "員弁郡東員町（津地方法務局桑名支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:35.133914",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1355c3f5-6dc6-4af6-ab1a-3afe705d2877",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:13:35.122320",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5f5b6034-559d-4563-a425-16fbf2bc1427",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:37.521919",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "20b38ff9-6661-45a1-b3fa-6d72a2191933",
+            "last_modified": "2024-04-02T01:13:37.476720",
+            "metadata_modified": "2024-04-02T01:13:37.507499",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24324-1923-2023.zip",
+            "package_id": "5f5b6034-559d-4563-a425-16fbf2bc1427",
+            "position": 1,
+            "resource_type": null,
+            "size": 15612710,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5f5b6034-559d-4563-a425-16fbf2bc1427/resource/20b38ff9-6661-45a1-b3fa-6d72a2191933/download/24324-1923-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:43.203724",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f85db1e8-d18c-4fc5-bf38-bb05c5b22db8",
+            "last_modified": "2024-04-02T01:13:43.160413",
+            "metadata_modified": "2024-04-02T01:13:43.189871",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24324-1923-2024.zip",
+            "package_id": "5f5b6034-559d-4563-a425-16fbf2bc1427",
+            "position": 2,
+            "resource_type": null,
+            "size": 15631296,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5f5b6034-559d-4563-a425-16fbf2bc1427/resource/f85db1e8-d18c-4fc5-bf38-bb05c5b22db8/download/24324-1923-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "員弁郡東員町",
+            "id": "43cc15ed-064f-49b7-9e71-7d25cf56f4a8",
+            "name": "員弁郡東員町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bffb266f-bc39-41ed-b32d-3029b98d7f3f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:11.358149",
+        "metadata_modified": "2024-04-15T03:17:23.710321",
+        "name": "houmusyouchizu-2024-1-1192",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "三重郡菰野町（津地方法務局四日市支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:46.747370",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "900943cb-c9db-4458-a4a0-2694c1d56cd2",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:13:46.735510",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bffb266f-bc39-41ed-b32d-3029b98d7f3f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:13:51.318042",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "51e95dd1-83d6-4b90-982d-7d86f4b01510",
+            "last_modified": "2024-04-02T01:13:51.273614",
+            "metadata_modified": "2024-04-02T01:13:51.305724",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24341-1903-2023.zip",
+            "package_id": "bffb266f-bc39-41ed-b32d-3029b98d7f3f",
+            "position": 1,
+            "resource_type": null,
+            "size": 32673871,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bffb266f-bc39-41ed-b32d-3029b98d7f3f/resource/51e95dd1-83d6-4b90-982d-7d86f4b01510/download/24341-1903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:00.295753",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9a62a72a-bda8-4bcf-9901-fd0283b5a8fe",
+            "last_modified": "2024-04-02T01:14:00.252863",
+            "metadata_modified": "2024-04-02T01:14:00.282210",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24341-1903-2024.zip",
+            "package_id": "bffb266f-bc39-41ed-b32d-3029b98d7f3f",
+            "position": 2,
+            "resource_type": null,
+            "size": 32781415,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bffb266f-bc39-41ed-b32d-3029b98d7f3f/resource/9a62a72a-bda8-4bcf-9901-fd0283b5a8fe/download/24341-1903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "三重郡菰野町",
+            "id": "cc3f9bbf-1ccc-448b-87e2-f3ef87839528",
+            "name": "三重郡菰野町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a42cfbf7-57b5-4968-8780-72f6443ea5e8",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:11.761351",
+        "metadata_modified": "2024-04-15T03:17:22.718123",
+        "name": "houmusyouchizu-2024-1-1193",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "三重郡朝日町（津地方法務局四日市支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:05.059946",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "cb6bbdbf-f5f8-4c27-b06d-e74b3a792fbc",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:14:05.045490",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a42cfbf7-57b5-4968-8780-72f6443ea5e8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:06.186080",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5e37d03d-42a0-4092-af06-12e5465097fc",
+            "last_modified": "2024-04-02T01:14:06.143259",
+            "metadata_modified": "2024-04-02T01:14:06.172930",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24343-1903-2023.zip",
+            "package_id": "a42cfbf7-57b5-4968-8780-72f6443ea5e8",
+            "position": 1,
+            "resource_type": null,
+            "size": 4637777,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a42cfbf7-57b5-4968-8780-72f6443ea5e8/resource/5e37d03d-42a0-4092-af06-12e5465097fc/download/24343-1903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:09.530268",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "dcb6d321-5ca0-4681-b9b5-c576a46690f1",
+            "last_modified": "2024-04-02T01:14:09.486937",
+            "metadata_modified": "2024-04-02T01:14:09.517257",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24343-1903-2024.zip",
+            "package_id": "a42cfbf7-57b5-4968-8780-72f6443ea5e8",
+            "position": 2,
+            "resource_type": null,
+            "size": 4658625,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a42cfbf7-57b5-4968-8780-72f6443ea5e8/resource/dcb6d321-5ca0-4681-b9b5-c576a46690f1/download/24343-1903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "三重郡朝日町",
+            "id": "b3507fe5-f367-4732-8343-fe4b74688a70",
+            "name": "三重郡朝日町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b9f169d0-56b5-47cf-aedd-6d228a79cf37",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:12.161113",
+        "metadata_modified": "2024-04-15T03:17:21.698227",
+        "name": "houmusyouchizu-2024-1-1194",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "三重郡川越町（津地方法務局四日市支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:12.410509",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "e40cb502-c86b-4176-95cf-5dd7524e9fc4",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:14:12.399144",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b9f169d0-56b5-47cf-aedd-6d228a79cf37",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:13.474453",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0b5dd70e-9810-4b1b-bceb-a620025c38fc",
+            "last_modified": "2024-04-02T01:14:13.434869",
+            "metadata_modified": "2024-04-02T01:14:13.461487",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24344-1903-2023.zip",
+            "package_id": "b9f169d0-56b5-47cf-aedd-6d228a79cf37",
+            "position": 1,
+            "resource_type": null,
+            "size": 4362258,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b9f169d0-56b5-47cf-aedd-6d228a79cf37/resource/0b5dd70e-9810-4b1b-bceb-a620025c38fc/download/24344-1903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:17.048165",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "25452ada-dc9a-468f-a931-0b8426df168f",
+            "last_modified": "2024-04-02T01:14:17.004103",
+            "metadata_modified": "2024-04-02T01:14:17.034495",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24344-1903-2024.zip",
+            "package_id": "b9f169d0-56b5-47cf-aedd-6d228a79cf37",
+            "position": 2,
+            "resource_type": null,
+            "size": 4377895,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b9f169d0-56b5-47cf-aedd-6d228a79cf37/resource/25452ada-dc9a-468f-a931-0b8426df168f/download/24344-1903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "三重郡川越町",
+            "id": "4cd3a91c-3ea7-47e3-8b8b-ca00034f2a20",
+            "name": "三重郡川越町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4b4c33eb-8e29-4a6c-bab6-5592012129b5",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:12.559868",
+        "metadata_modified": "2024-04-15T03:17:20.620309",
+        "name": "houmusyouchizu-2024-1-1195",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "安芸郡芸濃町（津地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:20.078959",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "4738b14b-b147-41fd-a80f-c99ec08d9f57",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:14:20.065679",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4b4c33eb-8e29-4a6c-bab6-5592012129b5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:20.601923",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a99d5796-cceb-4014-9e81-92ad8c241cf5",
+            "last_modified": "2024-04-02T01:14:20.559989",
+            "metadata_modified": "2024-04-02T01:14:20.588351",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24382-1900-2023.zip",
+            "package_id": "4b4c33eb-8e29-4a6c-bab6-5592012129b5",
+            "position": 1,
+            "resource_type": null,
+            "size": 39596,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4b4c33eb-8e29-4a6c-bab6-5592012129b5/resource/a99d5796-cceb-4014-9e81-92ad8c241cf5/download/24382-1900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:22.309990",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0ae2b776-5075-4269-8289-c0c72a32e509",
+            "last_modified": "2024-04-02T01:14:22.265378",
+            "metadata_modified": "2024-04-02T01:14:22.295757",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24382-1900-2024.zip",
+            "package_id": "4b4c33eb-8e29-4a6c-bab6-5592012129b5",
+            "position": 2,
+            "resource_type": null,
+            "size": 39596,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4b4c33eb-8e29-4a6c-bab6-5592012129b5/resource/0ae2b776-5075-4269-8289-c0c72a32e509/download/24382-1900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸郡芸濃町",
+            "id": "1ea63916-7569-4caf-a14f-b98a5ccb469d",
+            "name": "安芸郡芸濃町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "331cbdf4-f2bb-4c54-a1b1-4e3dc6839b2d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:12.962604",
+        "metadata_modified": "2024-04-15T03:17:19.546481",
+        "name": "houmusyouchizu-2024-1-1196",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "安芸郡安濃町（津地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:23.970928",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "97e47427-4cc6-4418-ad70-3924783180dd",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:14:23.958950",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "331cbdf4-f2bb-4c54-a1b1-4e3dc6839b2d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:24.478003",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "726f59f7-c3cc-41d4-af0e-75ebc9d23760",
+            "last_modified": "2024-04-02T01:14:24.436040",
+            "metadata_modified": "2024-04-02T01:14:24.465214",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24384-1900-2023.zip",
+            "package_id": "331cbdf4-f2bb-4c54-a1b1-4e3dc6839b2d",
+            "position": 1,
+            "resource_type": null,
+            "size": 24189,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/331cbdf4-f2bb-4c54-a1b1-4e3dc6839b2d/resource/726f59f7-c3cc-41d4-af0e-75ebc9d23760/download/24384-1900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:26.154114",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8692672a-0991-489d-9d6d-f67825cfa295",
+            "last_modified": "2024-04-02T01:14:26.102301",
+            "metadata_modified": "2024-04-02T01:14:26.134922",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24384-1900-2024.zip",
+            "package_id": "331cbdf4-f2bb-4c54-a1b1-4e3dc6839b2d",
+            "position": 2,
+            "resource_type": null,
+            "size": 24189,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/331cbdf4-f2bb-4c54-a1b1-4e3dc6839b2d/resource/8692672a-0991-489d-9d6d-f67825cfa295/download/24384-1900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸郡安濃町",
+            "id": "3095b5ee-060c-4c04-a6bb-0bbeec9725e8",
+            "name": "安芸郡安濃町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "55912776-a8bf-4516-9ffe-2cc5489b0fb2",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:13.425882",
+        "metadata_modified": "2024-04-15T03:17:18.529515",
+        "name": "houmusyouchizu-2024-1-1197",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "一志郡嬉野町（津地方法務局松阪支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:27.811126",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "b56646a6-6675-4555-91c2-5ba58db380fd",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:14:27.798309",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "55912776-a8bf-4516-9ffe-2cc5489b0fb2",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:28.330162",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "67b04d30-c94b-48f4-9739-731c7b88211e",
+            "last_modified": "2024-04-02T01:14:28.286518",
+            "metadata_modified": "2024-04-02T01:14:28.314978",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24405-1901-2023.zip",
+            "package_id": "55912776-a8bf-4516-9ffe-2cc5489b0fb2",
+            "position": 1,
+            "resource_type": null,
+            "size": 5501,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/55912776-a8bf-4516-9ffe-2cc5489b0fb2/resource/67b04d30-c94b-48f4-9739-731c7b88211e/download/24405-1901-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:29.814362",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "80130439-5217-4af6-b37c-49c77e3dfd93",
+            "last_modified": "2024-04-02T01:14:29.770400",
+            "metadata_modified": "2024-04-02T01:14:29.801806",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24405-1901-2024.zip",
+            "package_id": "55912776-a8bf-4516-9ffe-2cc5489b0fb2",
+            "position": 2,
+            "resource_type": null,
+            "size": 5501,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/55912776-a8bf-4516-9ffe-2cc5489b0fb2/resource/80130439-5217-4af6-b37c-49c77e3dfd93/download/24405-1901-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "一志郡嬉野町",
+            "id": "502328f5-02f7-444d-9326-f236cf65f8bf",
+            "name": "一志郡嬉野町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f582ffa4-5573-4ffe-94e1-3a5116f013cb",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:13.848455",
+        "metadata_modified": "2024-04-15T03:17:17.522717",
+        "name": "houmusyouchizu-2024-1-1198",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "飯南郡飯高町（津地方法務局松阪支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:31.608235",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "40ffba0e-a5f3-4f19-858a-8237d652bfc2",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:14:31.594473",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f582ffa4-5573-4ffe-94e1-3a5116f013cb",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:32.127225",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "30100a86-125b-4720-8fee-03b591d3f033",
+            "last_modified": "2024-04-02T01:14:32.086730",
+            "metadata_modified": "2024-04-02T01:14:32.115079",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24422-1901-2023.zip",
+            "package_id": "f582ffa4-5573-4ffe-94e1-3a5116f013cb",
+            "position": 1,
+            "resource_type": null,
+            "size": 4043,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f582ffa4-5573-4ffe-94e1-3a5116f013cb/resource/30100a86-125b-4720-8fee-03b591d3f033/download/24422-1901-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:33.586032",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "40956efd-e9bb-433b-a606-cd73ec418c44",
+            "last_modified": "2024-04-02T01:14:33.543550",
+            "metadata_modified": "2024-04-02T01:14:33.572498",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24422-1901-2024.zip",
+            "package_id": "f582ffa4-5573-4ffe-94e1-3a5116f013cb",
+            "position": 2,
+            "resource_type": null,
+            "size": 4043,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f582ffa4-5573-4ffe-94e1-3a5116f013cb/resource/40956efd-e9bb-433b-a606-cd73ec418c44/download/24422-1901-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "飯南郡飯高町",
+            "id": "b434abc0-32a5-4970-8965-f3921a204ea7",
+            "name": "飯南郡飯高町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a78025b6-3c17-4ce7-87bb-9879e38133ea",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:14.287083",
+        "metadata_modified": "2024-04-15T03:17:16.434611",
+        "name": "houmusyouchizu-2024-1-1199",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "多気郡多気町（津地方法務局松阪支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:35.072385",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "10fc46a9-fcaf-4239-a030-bb2aec4535db",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:14:35.059220",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a78025b6-3c17-4ce7-87bb-9879e38133ea",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:42.442838",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "3917ac65-b806-43f3-a5f7-1fb2de22832d",
+            "last_modified": "2024-04-02T01:14:42.401645",
+            "metadata_modified": "2024-04-02T01:14:42.430797",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24441-1901-2023.zip",
+            "package_id": "a78025b6-3c17-4ce7-87bb-9879e38133ea",
+            "position": 1,
+            "resource_type": null,
+            "size": 59589930,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a78025b6-3c17-4ce7-87bb-9879e38133ea/resource/3917ac65-b806-43f3-a5f7-1fb2de22832d/download/24441-1901-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:14:55.957850",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "88b082c7-513c-47ad-93c3-0ce924a8156a",
+            "last_modified": "2024-04-02T01:14:55.900403",
+            "metadata_modified": "2024-04-02T01:14:55.937272",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24441-1901-2024.zip",
+            "package_id": "a78025b6-3c17-4ce7-87bb-9879e38133ea",
+            "position": 2,
+            "resource_type": null,
+            "size": 59844562,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a78025b6-3c17-4ce7-87bb-9879e38133ea/resource/88b082c7-513c-47ad-93c3-0ce924a8156a/download/24441-1901-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "多気郡多気町",
+            "id": "02d9011b-821d-49e2-b4eb-c2b4abd4737e",
+            "name": "多気郡多気町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "427131c3-29d9-4c9d-bee3-9e8c1f145d81",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:14.723349",
+        "metadata_modified": "2024-04-15T03:17:15.425282",
+        "name": "houmusyouchizu-2024-1-1200",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "多気郡明和町（津地方法務局松阪支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:38:51.572286",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "5750bbaf-95ae-4a15-8893-b00c85154479",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:38:51.560732",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "427131c3-29d9-4c9d-bee3-9e8c1f145d81",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:38:54.662134",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f0422a17-fa1b-4749-8198-b303e9d5187e",
+            "last_modified": "2024-04-02T01:38:54.620846",
+            "metadata_modified": "2024-04-02T01:38:54.649938",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24442-1901-2023.zip",
+            "package_id": "427131c3-29d9-4c9d-bee3-9e8c1f145d81",
+            "position": 1,
+            "resource_type": null,
+            "size": 20426612,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/427131c3-29d9-4c9d-bee3-9e8c1f145d81/resource/f0422a17-fa1b-4749-8198-b303e9d5187e/download/24442-1901-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:39:00.985038",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2035d3dc-f389-4b99-998f-7c37b5f7888d",
+            "last_modified": "2024-04-02T01:39:00.934496",
+            "metadata_modified": "2024-04-02T01:39:00.970288",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24442-1901-2024.zip",
+            "package_id": "427131c3-29d9-4c9d-bee3-9e8c1f145d81",
+            "position": 2,
+            "resource_type": null,
+            "size": 20404363,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/427131c3-29d9-4c9d-bee3-9e8c1f145d81/resource/2035d3dc-f389-4b99-998f-7c37b5f7888d/download/24442-1901-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "多気郡明和町",
+            "id": "4202e7b5-89e1-4d31-88a4-08d76aa17a2b",
+            "name": "多気郡明和町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "350f767a-f69c-4b69-9e25-900b4e759221",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:15.145982",
+        "metadata_modified": "2024-04-15T03:17:14.415522",
+        "name": "houmusyouchizu-2024-1-1201",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "多気郡大台町（津地方法務局松阪支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:39:05.317956",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ea328706-7900-41ad-afdc-d02358e0f5d5",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:39:05.304246",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "350f767a-f69c-4b69-9e25-900b4e759221",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:39:11.670204",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "424348c5-2ac8-43db-ab2c-b0b003695ee6",
+            "last_modified": "2024-04-02T01:39:11.629071",
+            "metadata_modified": "2024-04-02T01:39:11.657945",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24443-1901-2023.zip",
+            "package_id": "350f767a-f69c-4b69-9e25-900b4e759221",
+            "position": 1,
+            "resource_type": null,
+            "size": 49316861,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/350f767a-f69c-4b69-9e25-900b4e759221/resource/424348c5-2ac8-43db-ab2c-b0b003695ee6/download/24443-1901-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:39:23.077752",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b1aa7ef0-100f-4c7e-918c-ad8014d29953",
+            "last_modified": "2024-04-02T01:39:23.034645",
+            "metadata_modified": "2024-04-02T01:39:23.065153",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24443-1901-2024.zip",
+            "package_id": "350f767a-f69c-4b69-9e25-900b4e759221",
+            "position": 2,
+            "resource_type": null,
+            "size": 49383215,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/350f767a-f69c-4b69-9e25-900b4e759221/resource/b1aa7ef0-100f-4c7e-918c-ad8014d29953/download/24443-1901-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "多気郡大台町",
+            "id": "6a513f16-c9f7-4245-ac21-9d0d1b93333b",
+            "name": "多気郡大台町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cb7429c8-f1fb-488e-af8f-71dcf9ec5df2",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:15.558760",
+        "metadata_modified": "2024-04-15T03:17:13.420624",
+        "name": "houmusyouchizu-2024-1-1202",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "度会郡玉城町（津地方法務局伊勢支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:39:28.938394",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "85c68902-aaa1-4189-ae76-76b2b1ef63ac",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:39:28.926011",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cb7429c8-f1fb-488e-af8f-71dcf9ec5df2",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:39:31.880376",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e8b715f0-19dd-47c0-8bce-07c4cbc7068c",
+            "last_modified": "2024-04-02T01:39:31.838840",
+            "metadata_modified": "2024-04-02T01:39:31.868118",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24461-1904-2023.zip",
+            "package_id": "cb7429c8-f1fb-488e-af8f-71dcf9ec5df2",
+            "position": 1,
+            "resource_type": null,
+            "size": 21122176,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cb7429c8-f1fb-488e-af8f-71dcf9ec5df2/resource/e8b715f0-19dd-47c0-8bce-07c4cbc7068c/download/24461-1904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:39:38.430122",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2ab6e67f-6466-4af4-b06c-2eaa20c5b0f7",
+            "last_modified": "2024-04-02T01:39:38.384936",
+            "metadata_modified": "2024-04-02T01:39:38.417368",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24461-1904-2024.zip",
+            "package_id": "cb7429c8-f1fb-488e-af8f-71dcf9ec5df2",
+            "position": 2,
+            "resource_type": null,
+            "size": 21105317,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cb7429c8-f1fb-488e-af8f-71dcf9ec5df2/resource/2ab6e67f-6466-4af4-b06c-2eaa20c5b0f7/download/24461-1904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "度会郡玉城町",
+            "id": "7735d354-8467-44d6-8d8f-c512f96d787d",
+            "name": "度会郡玉城町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c97669d9-81f2-4638-bd09-ab1396ef615b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:15.989475",
+        "metadata_modified": "2024-04-15T03:17:12.465030",
+        "name": "houmusyouchizu-2024-1-1203",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "度会郡度会町（津地方法務局伊勢支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:39:42.267630",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "2ee97a6f-edcc-4f6f-9b5b-f2f8fae27b1c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:39:42.255520",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c97669d9-81f2-4638-bd09-ab1396ef615b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:39:48.812795",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "24bb2c7f-9690-4ecb-971c-db7224b1b1a4",
+            "last_modified": "2024-04-02T01:39:48.773678",
+            "metadata_modified": "2024-04-02T01:39:48.801014",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24470-1904-2023.zip",
+            "package_id": "c97669d9-81f2-4638-bd09-ab1396ef615b",
+            "position": 1,
+            "resource_type": null,
+            "size": 45788355,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c97669d9-81f2-4638-bd09-ab1396ef615b/resource/24bb2c7f-9690-4ecb-971c-db7224b1b1a4/download/24470-1904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:40:00.401411",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5425d9fe-f3d1-49cb-9525-bd7a938d4fb2",
+            "last_modified": "2024-04-02T01:40:00.358561",
+            "metadata_modified": "2024-04-02T01:40:00.388828",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24470-1904-2024.zip",
+            "package_id": "c97669d9-81f2-4638-bd09-ab1396ef615b",
+            "position": 2,
+            "resource_type": null,
+            "size": 45776842,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c97669d9-81f2-4638-bd09-ab1396ef615b/resource/5425d9fe-f3d1-49cb-9525-bd7a938d4fb2/download/24470-1904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "度会郡度会町",
+            "id": "ee884140-1da0-4665-a0cb-b5678896c3be",
+            "name": "度会郡度会町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "82b33582-6436-4137-b1ca-7d1dc19ad999",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:16.675048",
+        "metadata_modified": "2024-04-15T03:17:11.409585",
+        "name": "houmusyouchizu-2024-1-1204",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "度会郡大紀町（津地方法務局松阪支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:40:06.277447",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "22cf2ab7-c12c-4628-a5ef-5cc156f186b4",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:40:06.265572",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "82b33582-6436-4137-b1ca-7d1dc19ad999",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:40:12.721897",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "48c991f6-af47-43d0-9799-02a2a6b3aa51",
+            "last_modified": "2024-04-02T01:40:12.680662",
+            "metadata_modified": "2024-04-02T01:40:12.708803",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24471-1901-2023.zip",
+            "package_id": "82b33582-6436-4137-b1ca-7d1dc19ad999",
+            "position": 1,
+            "resource_type": null,
+            "size": 47328229,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/82b33582-6436-4137-b1ca-7d1dc19ad999/resource/48c991f6-af47-43d0-9799-02a2a6b3aa51/download/24471-1901-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:40:24.923522",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "08e48d26-8557-449e-8bfd-d8d0527f2535",
+            "last_modified": "2024-04-02T01:40:24.882554",
+            "metadata_modified": "2024-04-02T01:40:24.911355",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24471-1901-2024.zip",
+            "package_id": "82b33582-6436-4137-b1ca-7d1dc19ad999",
+            "position": 2,
+            "resource_type": null,
+            "size": 47335055,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/82b33582-6436-4137-b1ca-7d1dc19ad999/resource/08e48d26-8557-449e-8bfd-d8d0527f2535/download/24471-1901-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "度会郡大紀町",
+            "id": "848e170d-846a-4649-86b1-89b273649220",
+            "name": "度会郡大紀町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "319583bc-58ee-4c10-b4b0-9f005c475527",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:17.091079",
+        "metadata_modified": "2024-04-15T03:17:10.433664",
+        "name": "houmusyouchizu-2024-1-1205",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "度会郡南伊勢町（津地方法務局伊勢支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:40:30.718869",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "b0378e08-3bf0-4106-85ef-1887df9a7887",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:40:30.705364",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "319583bc-58ee-4c10-b4b0-9f005c475527",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:40:39.047464",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "76f15a3e-5233-4fe9-8d5e-8c217f481787",
+            "last_modified": "2024-04-02T01:40:39.009104",
+            "metadata_modified": "2024-04-02T01:40:39.036002",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24472-1904-2023.zip",
+            "package_id": "319583bc-58ee-4c10-b4b0-9f005c475527",
+            "position": 1,
+            "resource_type": null,
+            "size": 67748074,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/319583bc-58ee-4c10-b4b0-9f005c475527/resource/76f15a3e-5233-4fe9-8d5e-8c217f481787/download/24472-1904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:40:54.818575",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b25a9dc2-f708-4f19-9af2-e18c2d03057d",
+            "last_modified": "2024-04-02T01:40:54.777762",
+            "metadata_modified": "2024-04-02T01:40:54.806819",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24472-1904-2024.zip",
+            "package_id": "319583bc-58ee-4c10-b4b0-9f005c475527",
+            "position": 2,
+            "resource_type": null,
+            "size": 67659031,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/319583bc-58ee-4c10-b4b0-9f005c475527/resource/b25a9dc2-f708-4f19-9af2-e18c2d03057d/download/24472-1904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "度会郡南伊勢町",
+            "id": "79223e5b-3e89-46b6-8384-56e0c5dc9752",
+            "name": "度会郡南伊勢町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "565581fe-ac9f-474c-a88a-0c3124e3a50f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:17.512817",
+        "metadata_modified": "2024-04-15T03:17:09.381909",
+        "name": "houmusyouchizu-2024-1-1206",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "北牟婁郡紀北町（津地方法務局尾鷲出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:41:02.278523",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "4193fa26-5b37-40b2-a82f-afda608eca7b",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:41:02.264981",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "565581fe-ac9f-474c-a88a-0c3124e3a50f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:41:06.439948",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "bd5123cb-7c22-4af5-bb43-cd98c9ae4052",
+            "last_modified": "2024-04-02T01:41:06.399498",
+            "metadata_modified": "2024-04-02T01:41:06.426732",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24543-1934-2023.zip",
+            "package_id": "565581fe-ac9f-474c-a88a-0c3124e3a50f",
+            "position": 1,
+            "resource_type": null,
+            "size": 32995402,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/565581fe-ac9f-474c-a88a-0c3124e3a50f/resource/bd5123cb-7c22-4af5-bb43-cd98c9ae4052/download/24543-1934-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:41:15.103097",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "441652d3-7fe0-4f05-b1f4-4603524e02d2",
+            "last_modified": "2024-04-02T01:41:15.060501",
+            "metadata_modified": "2024-04-02T01:41:15.090668",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24543-1934-2024.zip",
+            "package_id": "565581fe-ac9f-474c-a88a-0c3124e3a50f",
+            "position": 2,
+            "resource_type": null,
+            "size": 32974119,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/565581fe-ac9f-474c-a88a-0c3124e3a50f/resource/441652d3-7fe0-4f05-b1f4-4603524e02d2/download/24543-1934-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "北牟婁郡紀北町",
+            "id": "3f5fd153-d1eb-4329-a846-df44d16b728f",
+            "name": "北牟婁郡紀北町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e2458478-6235-4569-88e5-54a660c63b8c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:17.922961",
+        "metadata_modified": "2024-04-15T03:17:08.305428",
+        "name": "houmusyouchizu-2024-1-1207",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "南牟婁郡御浜町（津地方法務局熊野支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:41:19.949596",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ff90a090-01cd-403c-9018-da3d11f37068",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:41:19.933057",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e2458478-6235-4569-88e5-54a660c63b8c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:41:26.728671",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "78568024-bc3f-4173-b1e2-f0b460676549",
+            "last_modified": "2024-04-02T01:41:26.684572",
+            "metadata_modified": "2024-04-02T01:41:26.716989",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24561-1905-2023.zip",
+            "package_id": "e2458478-6235-4569-88e5-54a660c63b8c",
+            "position": 1,
+            "resource_type": null,
+            "size": 52097222,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e2458478-6235-4569-88e5-54a660c63b8c/resource/78568024-bc3f-4173-b1e2-f0b460676549/download/24561-1905-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:41:39.133476",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0167a110-ba55-4aa7-a40b-4d93b0348dc1",
+            "last_modified": "2024-04-02T01:41:39.091465",
+            "metadata_modified": "2024-04-02T01:41:39.121257",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24561-1905-2024.zip",
+            "package_id": "e2458478-6235-4569-88e5-54a660c63b8c",
+            "position": 2,
+            "resource_type": null,
+            "size": 52127964,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e2458478-6235-4569-88e5-54a660c63b8c/resource/0167a110-ba55-4aa7-a40b-4d93b0348dc1/download/24561-1905-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "南牟婁郡御浜町",
+            "id": "1e8a086a-0283-413c-b25c-755a2f2707ed",
+            "name": "南牟婁郡御浜町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e883972e-70f1-4c5e-9e3c-845b7cc2091d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:28:18.339800",
+        "metadata_modified": "2024-04-15T03:17:07.167433",
+        "name": "houmusyouchizu-2024-1-1208",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-24mie",
+          "name": "moj-24mie",
+          "title": "24三重県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:24.331186",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-24mie",
+        "private": false,
+        "state": "active",
+        "title": "南牟婁郡紀宝町（津地方法務局熊野支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:41:45.801669",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "15a95483-3b21-4d53-9048-fdc2332b6b0c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T01:41:45.786043",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e883972e-70f1-4c5e-9e3c-845b7cc2091d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:41:53.632695",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ce9322a8-97d8-4c48-98c9-8f639eadfcfc",
+            "last_modified": "2024-04-02T01:41:53.590695",
+            "metadata_modified": "2024-04-02T01:41:53.619387",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24562-1905-2023.zip",
+            "package_id": "e883972e-70f1-4c5e-9e3c-845b7cc2091d",
+            "position": 1,
+            "resource_type": null,
+            "size": 66873005,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e883972e-70f1-4c5e-9e3c-845b7cc2091d/resource/ce9322a8-97d8-4c48-98c9-8f639eadfcfc/download/24562-1905-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T01:42:08.024690",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "fe4ea55d-7e81-4f96-abef-72d6ced8daf2",
+            "last_modified": "2024-04-02T01:42:07.980768",
+            "metadata_modified": "2024-04-02T01:42:08.011993",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "24562-1905-2024.zip",
+            "package_id": "e883972e-70f1-4c5e-9e3c-845b7cc2091d",
+            "position": 2,
+            "resource_type": null,
+            "size": 66786668,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e883972e-70f1-4c5e-9e3c-845b7cc2091d/resource/fe4ea55d-7e81-4f96-abef-72d6ced8daf2/download/24562-1905-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三重県",
+            "id": "a8853297-7f08-456d-a361-80c38ec9df32",
+            "name": "三重県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "南牟婁郡紀宝町",
+            "id": "00b5ade0-ea3a-4280-9280-0ea09a0c997b",
+            "name": "南牟婁郡紀宝町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "metadata_modified desc",
+    "search_facets": {
+    }
+  }
+}

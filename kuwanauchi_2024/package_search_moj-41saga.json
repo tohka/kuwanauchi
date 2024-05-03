@@ -1,0 +1,3518 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 24,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bd4f5aa6-eef0-40a8-b910-cfbaee1135ec",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:20.602145",
+        "metadata_modified": "2024-04-15T03:06:42.909266",
+        "name": "houmusyouchizu-2024-1-1785",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "佐賀市（佐賀地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:18:37.940737",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "a604345a-64e8-4c22-aab7-d099de831907",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:18:37.929656",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bd4f5aa6-eef0-40a8-b910-cfbaee1135ec",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:19:00.982840",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "aef92607-ab2e-481d-a530-291bdb1b7ad1",
+            "last_modified": "2024-04-02T10:19:00.942209",
+            "metadata_modified": "2024-04-02T10:19:00.970721",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41201-3000-2023.zip",
+            "package_id": "bd4f5aa6-eef0-40a8-b910-cfbaee1135ec",
+            "position": 1,
+            "resource_type": null,
+            "size": 188052797,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bd4f5aa6-eef0-40a8-b910-cfbaee1135ec/resource/aef92607-ab2e-481d-a530-291bdb1b7ad1/download/41201-3000-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:19:39.821922",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8b081dc3-00f4-470c-83d8-3d403fc0af9a",
+            "last_modified": "2024-04-02T10:19:39.780334",
+            "metadata_modified": "2024-04-02T10:19:39.809822",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41201-3000-2024.zip",
+            "package_id": "bd4f5aa6-eef0-40a8-b910-cfbaee1135ec",
+            "position": 2,
+            "resource_type": null,
+            "size": 188123772,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bd4f5aa6-eef0-40a8-b910-cfbaee1135ec/resource/8b081dc3-00f4-470c-83d8-3d403fc0af9a/download/41201-3000-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀市",
+            "id": "37ee1924-2b90-45c4-bb96-eba7c4e6fc38",
+            "name": "佐賀市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4d72f572-e116-4d60-96cb-32a01c4f1ee5",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:21.055389",
+        "metadata_modified": "2024-04-15T03:06:41.773476",
+        "name": "houmusyouchizu-2024-1-1786",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "唐津市（佐賀地方法務局唐津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:19:55.373354",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "697bce84-5487-44ac-a94e-876928bf06cc",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:19:55.360257",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4d72f572-e116-4d60-96cb-32a01c4f1ee5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:20:29.046978",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7706362c-3030-4a92-90cb-e1be599f1ad3",
+            "last_modified": "2024-04-02T10:20:29.005076",
+            "metadata_modified": "2024-04-02T10:20:29.033257",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41202-3003-2023.zip",
+            "package_id": "4d72f572-e116-4d60-96cb-32a01c4f1ee5",
+            "position": 1,
+            "resource_type": null,
+            "size": 291791101,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4d72f572-e116-4d60-96cb-32a01c4f1ee5/resource/7706362c-3030-4a92-90cb-e1be599f1ad3/download/41202-3003-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:21:30.127644",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4d2e2ab9-d656-4d6a-b30b-bb47220c4d3e",
+            "last_modified": "2024-04-02T10:21:30.083734",
+            "metadata_modified": "2024-04-02T10:21:30.115016",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41202-3003-2024.zip",
+            "package_id": "4d72f572-e116-4d60-96cb-32a01c4f1ee5",
+            "position": 2,
+            "resource_type": null,
+            "size": 291875005,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4d72f572-e116-4d60-96cb-32a01c4f1ee5/resource/4d2e2ab9-d656-4d6a-b30b-bb47220c4d3e/download/41202-3003-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "唐津市",
+            "id": "438d8057-c1f7-435d-842a-d28cc2c0dd8d",
+            "name": "唐津市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "2f6152cf-dd16-4411-97a3-81fbccb3e09b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:21.503018",
+        "metadata_modified": "2024-04-15T03:06:40.398321",
+        "name": "houmusyouchizu-2024-1-1787",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "鳥栖市（佐賀地方法務局鳥栖出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:21:52.992059",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "4335c4fc-05d4-48a5-8051-7e3f8f27a4b1",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:21:52.975488",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "2f6152cf-dd16-4411-97a3-81fbccb3e09b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:21:59.447696",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7efc74e0-a0af-474d-bfbe-2526328b2e44",
+            "last_modified": "2024-04-02T10:21:59.408523",
+            "metadata_modified": "2024-04-02T10:21:59.435116",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41203-3011-2023.zip",
+            "package_id": "2f6152cf-dd16-4411-97a3-81fbccb3e09b",
+            "position": 1,
+            "resource_type": null,
+            "size": 46349382,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2f6152cf-dd16-4411-97a3-81fbccb3e09b/resource/7efc74e0-a0af-474d-bfbe-2526328b2e44/download/41203-3011-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:22:10.486813",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0215d523-b6b6-464e-be9c-8144dd87e596",
+            "last_modified": "2024-04-02T10:22:10.444975",
+            "metadata_modified": "2024-04-02T10:22:10.474274",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41203-3011-2024.zip",
+            "package_id": "2f6152cf-dd16-4411-97a3-81fbccb3e09b",
+            "position": 2,
+            "resource_type": null,
+            "size": 46435198,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2f6152cf-dd16-4411-97a3-81fbccb3e09b/resource/0215d523-b6b6-464e-be9c-8144dd87e596/download/41203-3011-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥栖市",
+            "id": "dca43851-ffa4-4b4e-afc1-cb27f40e2765",
+            "name": "鳥栖市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "02988f14-cb9e-437e-8317-288b0d0bf8a4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:21.955486",
+        "metadata_modified": "2024-04-15T03:06:39.242535",
+        "name": "houmusyouchizu-2024-1-1788",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "多久市（佐賀地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:22:16.564592",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "24853650-57cd-4f21-80a4-e8665bf85f87",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:22:16.550876",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "02988f14-cb9e-437e-8317-288b0d0bf8a4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:22:23.077960",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2aa42aec-8b7e-4768-a367-e32f92e50500",
+            "last_modified": "2024-04-02T10:22:23.037667",
+            "metadata_modified": "2024-04-02T10:22:23.065956",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41204-3000-2023.zip",
+            "package_id": "02988f14-cb9e-437e-8317-288b0d0bf8a4",
+            "position": 1,
+            "resource_type": null,
+            "size": 48129384,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/02988f14-cb9e-437e-8317-288b0d0bf8a4/resource/2aa42aec-8b7e-4768-a367-e32f92e50500/download/41204-3000-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:22:34.808407",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d31a9268-f1f1-4eea-9674-ccc43264a499",
+            "last_modified": "2024-04-02T10:22:34.765532",
+            "metadata_modified": "2024-04-02T10:22:34.794450",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41204-3000-2024.zip",
+            "package_id": "02988f14-cb9e-437e-8317-288b0d0bf8a4",
+            "position": 2,
+            "resource_type": null,
+            "size": 48146990,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/02988f14-cb9e-437e-8317-288b0d0bf8a4/resource/d31a9268-f1f1-4eea-9674-ccc43264a499/download/41204-3000-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "多久市",
+            "id": "3fdcc77d-01b2-45a4-9950-fbf026326431",
+            "name": "多久市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "caae41f0-debe-4adb-a080-afa189dcb03f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:22.396635",
+        "metadata_modified": "2024-04-15T03:06:38.219566",
+        "name": "houmusyouchizu-2024-1-1789",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "伊万里市（佐賀地方法務局伊万里支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:22:40.805674",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "0a226315-1d6b-43a5-802c-1335a579add5",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:22:40.792664",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "caae41f0-debe-4adb-a080-afa189dcb03f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:22:58.117499",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "08890f68-6ecf-480d-8bfe-8a052781529d",
+            "last_modified": "2024-04-02T10:22:58.075717",
+            "metadata_modified": "2024-04-02T10:22:58.105123",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41205-3002-2023.zip",
+            "package_id": "caae41f0-debe-4adb-a080-afa189dcb03f",
+            "position": 1,
+            "resource_type": null,
+            "size": 149782602,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/caae41f0-debe-4adb-a080-afa189dcb03f/resource/08890f68-6ecf-480d-8bfe-8a052781529d/download/41205-3002-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:23:31.129103",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "670a00f6-b563-479b-866e-525556baa435",
+            "last_modified": "2024-04-02T10:23:31.087211",
+            "metadata_modified": "2024-04-02T10:23:31.116811",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41205-3002-2024.zip",
+            "package_id": "caae41f0-debe-4adb-a080-afa189dcb03f",
+            "position": 2,
+            "resource_type": null,
+            "size": 149872655,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/caae41f0-debe-4adb-a080-afa189dcb03f/resource/670a00f6-b563-479b-866e-525556baa435/download/41205-3002-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "伊万里市",
+            "id": "e8ab61a8-feff-48e2-ad0b-0f3f1bc55fbf",
+            "name": "伊万里市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "99f896a5-da70-4d74-b637-3321760f6844",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:22.865600",
+        "metadata_modified": "2024-04-15T03:06:37.231169",
+        "name": "houmusyouchizu-2024-1-1790",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "武雄市（佐賀地方法務局武雄支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:23:44.491624",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "c62680ee-0d7c-40c3-b795-a852681874f2",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:23:44.480484",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "99f896a5-da70-4d74-b637-3321760f6844",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:24:05.242413",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a8a876ec-a75a-4cfe-bbe7-0d5543b7c598",
+            "last_modified": "2024-04-02T10:24:05.200981",
+            "metadata_modified": "2024-04-02T10:24:05.229721",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41206-3001-2023.zip",
+            "package_id": "99f896a5-da70-4d74-b637-3321760f6844",
+            "position": 1,
+            "resource_type": null,
+            "size": 148922530,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/99f896a5-da70-4d74-b637-3321760f6844/resource/a8a876ec-a75a-4cfe-bbe7-0d5543b7c598/download/41206-3001-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:24:38.551828",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1fa98061-1b06-4064-a974-aeeeabdf3371",
+            "last_modified": "2024-04-02T10:24:38.509422",
+            "metadata_modified": "2024-04-02T10:24:38.538203",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41206-3001-2024.zip",
+            "package_id": "99f896a5-da70-4d74-b637-3321760f6844",
+            "position": 2,
+            "resource_type": null,
+            "size": 149003048,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/99f896a5-da70-4d74-b637-3321760f6844/resource/1fa98061-1b06-4064-a974-aeeeabdf3371/download/41206-3001-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "武雄市",
+            "id": "9dbd1ed2-1108-4b86-aa41-ab6502798751",
+            "name": "武雄市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "53482bff-c9dc-469f-a2f1-9d446e701f13",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:23.300919",
+        "metadata_modified": "2024-04-15T03:06:36.152427",
+        "name": "houmusyouchizu-2024-1-1791",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "鹿島市（佐賀地方法務局武雄支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:24:51.344493",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "d84929d6-3e01-41ff-be9e-891b0be13d0f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:24:51.331287",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "53482bff-c9dc-469f-a2f1-9d446e701f13",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:25:00.785669",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0d579d39-5dae-4548-9684-d9d1234ab924",
+            "last_modified": "2024-04-02T10:25:00.745804",
+            "metadata_modified": "2024-04-02T10:25:00.773814",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41207-3001-2023.zip",
+            "package_id": "53482bff-c9dc-469f-a2f1-9d446e701f13",
+            "position": 1,
+            "resource_type": null,
+            "size": 75812058,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/53482bff-c9dc-469f-a2f1-9d446e701f13/resource/0d579d39-5dae-4548-9684-d9d1234ab924/download/41207-3001-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:25:17.619008",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f53eac00-936c-447f-b221-d15cc89efd98",
+            "last_modified": "2024-04-02T10:25:17.575726",
+            "metadata_modified": "2024-04-02T10:25:17.605430",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41207-3001-2024.zip",
+            "package_id": "53482bff-c9dc-469f-a2f1-9d446e701f13",
+            "position": 2,
+            "resource_type": null,
+            "size": 75872865,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/53482bff-c9dc-469f-a2f1-9d446e701f13/resource/f53eac00-936c-447f-b221-d15cc89efd98/download/41207-3001-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鹿島市",
+            "id": "8d1bb7ec-3c6a-430f-8ebc-9f3ec059a882",
+            "name": "鹿島市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d4a8645f-8c20-4cf4-9fbb-268ec37e23f2",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:23.768694",
+        "metadata_modified": "2024-04-15T03:06:35.134228",
+        "name": "houmusyouchizu-2024-1-1792",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "小城市（佐賀地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:25:25.815448",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "d2bc9a2a-163b-4673-a375-60f57c7977d6",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:25:25.804092",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d4a8645f-8c20-4cf4-9fbb-268ec37e23f2",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:25:32.806473",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "11c17d9c-5766-4e17-bd6a-d8dbfd2fefe8",
+            "last_modified": "2024-04-02T10:25:32.766188",
+            "metadata_modified": "2024-04-02T10:25:32.794725",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41208-3000-2023.zip",
+            "package_id": "d4a8645f-8c20-4cf4-9fbb-268ec37e23f2",
+            "position": 1,
+            "resource_type": null,
+            "size": 56649668,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d4a8645f-8c20-4cf4-9fbb-268ec37e23f2/resource/11c17d9c-5766-4e17-bd6a-d8dbfd2fefe8/download/41208-3000-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:25:45.925769",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5477c4be-8f25-46a3-acba-80433a9c58cb",
+            "last_modified": "2024-04-02T10:25:45.874143",
+            "metadata_modified": "2024-04-02T10:25:45.911413",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41208-3000-2024.zip",
+            "package_id": "d4a8645f-8c20-4cf4-9fbb-268ec37e23f2",
+            "position": 2,
+            "resource_type": null,
+            "size": 56738009,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d4a8645f-8c20-4cf4-9fbb-268ec37e23f2/resource/5477c4be-8f25-46a3-acba-80433a9c58cb/download/41208-3000-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "小城市",
+            "id": "41de53f8-1ddc-4ef0-a725-ecbce5bf68f7",
+            "name": "小城市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b6f63fdd-53db-4194-9a88-ef78d8d95805",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:24.199753",
+        "metadata_modified": "2024-04-15T03:06:34.124152",
+        "name": "houmusyouchizu-2024-1-1793",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "嬉野市（佐賀地方法務局武雄支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:25:52.323304",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "adee3897-2a7e-472c-8dde-b002b7b95c06",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:25:52.308627",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b6f63fdd-53db-4194-9a88-ef78d8d95805",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:26:03.299509",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e51e53e5-4cbf-4250-b3f2-12a9e5552327",
+            "last_modified": "2024-04-02T10:26:03.257692",
+            "metadata_modified": "2024-04-02T10:26:03.286271",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41209-3001-2023.zip",
+            "package_id": "b6f63fdd-53db-4194-9a88-ef78d8d95805",
+            "position": 1,
+            "resource_type": null,
+            "size": 84143067,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b6f63fdd-53db-4194-9a88-ef78d8d95805/resource/e51e53e5-4cbf-4250-b3f2-12a9e5552327/download/41209-3001-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:26:22.035843",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "3921ec5d-7577-450e-b590-f46d647645d9",
+            "last_modified": "2024-04-02T10:26:21.993332",
+            "metadata_modified": "2024-04-02T10:26:22.023895",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41209-3001-2024.zip",
+            "package_id": "b6f63fdd-53db-4194-9a88-ef78d8d95805",
+            "position": 2,
+            "resource_type": null,
+            "size": 84180941,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b6f63fdd-53db-4194-9a88-ef78d8d95805/resource/3921ec5d-7577-450e-b590-f46d647645d9/download/41209-3001-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "嬉野市",
+            "id": "9b637ede-b5fa-43bf-8433-28a30784fa7e",
+            "name": "嬉野市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7fc20d9f-f787-44db-a6f9-4c1912b2e5b4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:24.636233",
+        "metadata_modified": "2024-04-15T03:06:33.099182",
+        "name": "houmusyouchizu-2024-1-1794",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "神埼市（佐賀地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:26:30.509160",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "7473719d-294e-4202-bd3d-80f79ae72745",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:26:30.496243",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7fc20d9f-f787-44db-a6f9-4c1912b2e5b4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:26:38.851562",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ca24e1e9-2b54-4cae-b6c1-61a67365eaff",
+            "last_modified": "2024-04-02T10:26:38.800052",
+            "metadata_modified": "2024-04-02T10:26:38.836189",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41210-3000-2023.zip",
+            "package_id": "7fc20d9f-f787-44db-a6f9-4c1912b2e5b4",
+            "position": 1,
+            "resource_type": null,
+            "size": 63875955,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7fc20d9f-f787-44db-a6f9-4c1912b2e5b4/resource/ca24e1e9-2b54-4cae-b6c1-61a67365eaff/download/41210-3000-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:26:53.606806",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "59648fc3-3566-423b-8075-2124bbe2d263",
+            "last_modified": "2024-04-02T10:26:53.563955",
+            "metadata_modified": "2024-04-02T10:26:53.592824",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41210-3000-2024.zip",
+            "package_id": "7fc20d9f-f787-44db-a6f9-4c1912b2e5b4",
+            "position": 2,
+            "resource_type": null,
+            "size": 63914319,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7fc20d9f-f787-44db-a6f9-4c1912b2e5b4/resource/59648fc3-3566-423b-8075-2124bbe2d263/download/41210-3000-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "神埼市",
+            "id": "d61564a7-3c0f-4520-bb1b-7f7b260de812",
+            "name": "神埼市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c021affb-4407-4c73-a8b6-035c66b128c4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:25.082376",
+        "metadata_modified": "2024-04-15T03:06:31.938080",
+        "name": "houmusyouchizu-2024-1-1795",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "佐賀郡川副町（佐賀地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:01.005845",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "574e05e7-1348-4aae-bf9c-51bcfa4556fe",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:27:00.992156",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c021affb-4407-4c73-a8b6-035c66b128c4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:01.721491",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4482dd99-3145-41d5-9941-4796132c90b2",
+            "last_modified": "2024-04-02T10:27:01.666272",
+            "metadata_modified": "2024-04-02T10:27:01.700342",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41302-3000-2023.zip",
+            "package_id": "c021affb-4407-4c73-a8b6-035c66b128c4",
+            "position": 1,
+            "resource_type": null,
+            "size": 879640,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c021affb-4407-4c73-a8b6-035c66b128c4/resource/4482dd99-3145-41d5-9941-4796132c90b2/download/41302-3000-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:04.571042",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "25f9a49b-5bd4-4603-9190-5753597ab403",
+            "last_modified": "2024-04-02T10:27:04.527864",
+            "metadata_modified": "2024-04-02T10:27:04.558641",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41302-3000-2024.zip",
+            "package_id": "c021affb-4407-4c73-a8b6-035c66b128c4",
+            "position": 2,
+            "resource_type": null,
+            "size": 879725,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c021affb-4407-4c73-a8b6-035c66b128c4/resource/25f9a49b-5bd4-4603-9190-5753597ab403/download/41302-3000-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "佐賀郡川副町",
+            "id": "f2c9d7d9-1438-458a-9e1d-3dbeecb1d784",
+            "name": "佐賀郡川副町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "584e0568-86ce-4f07-8ff3-67c2e6870c4b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:25.536246",
+        "metadata_modified": "2024-04-15T03:06:30.882094",
+        "name": "houmusyouchizu-2024-1-1796",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "佐賀郡東与賀町（佐賀地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:06.916807",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ca180ae0-2c91-4d3d-837c-0dc37f7149ba",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:27:06.905468",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "584e0568-86ce-4f07-8ff3-67c2e6870c4b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:07.620724",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "43f5a21f-0b1f-498d-9410-cd4f2123d3ad",
+            "last_modified": "2024-04-02T10:27:07.539072",
+            "metadata_modified": "2024-04-02T10:27:07.601383",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41303-3000-2023.zip",
+            "package_id": "584e0568-86ce-4f07-8ff3-67c2e6870c4b",
+            "position": 1,
+            "resource_type": null,
+            "size": 600610,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/584e0568-86ce-4f07-8ff3-67c2e6870c4b/resource/43f5a21f-0b1f-498d-9410-cd4f2123d3ad/download/41303-3000-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:10.105072",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "efd95d40-3611-48d5-ba42-cb6933eb9a9e",
+            "last_modified": "2024-04-02T10:27:10.052095",
+            "metadata_modified": "2024-04-02T10:27:10.091180",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41303-3000-2024.zip",
+            "package_id": "584e0568-86ce-4f07-8ff3-67c2e6870c4b",
+            "position": 2,
+            "resource_type": null,
+            "size": 600572,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/584e0568-86ce-4f07-8ff3-67c2e6870c4b/resource/efd95d40-3611-48d5-ba42-cb6933eb9a9e/download/41303-3000-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "佐賀郡東与賀町",
+            "id": "51c05cee-0f6d-4dd3-aca6-4ed15c994e38",
+            "name": "佐賀郡東与賀町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "80580323-f577-4178-9282-d58f536fc188",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:25.980188",
+        "metadata_modified": "2024-04-15T03:06:29.901265",
+        "name": "houmusyouchizu-2024-1-1797",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "佐賀郡久保田町（佐賀地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:12.479749",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "86660c20-8306-4a94-9ced-407289f3905c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:27:12.465968",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "80580323-f577-4178-9282-d58f536fc188",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:13.160714",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e2d62350-df46-4382-afab-7f17472a5fd3",
+            "last_modified": "2024-04-02T10:27:13.118096",
+            "metadata_modified": "2024-04-02T10:27:13.148227",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41304-3000-2023.zip",
+            "package_id": "80580323-f577-4178-9282-d58f536fc188",
+            "position": 1,
+            "resource_type": null,
+            "size": 843821,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/80580323-f577-4178-9282-d58f536fc188/resource/e2d62350-df46-4382-afab-7f17472a5fd3/download/41304-3000-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:15.668870",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ef71e9b1-8825-43e8-9b64-8e31e314825e",
+            "last_modified": "2024-04-02T10:27:15.626250",
+            "metadata_modified": "2024-04-02T10:27:15.655001",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41304-3000-2024.zip",
+            "package_id": "80580323-f577-4178-9282-d58f536fc188",
+            "position": 2,
+            "resource_type": null,
+            "size": 843973,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/80580323-f577-4178-9282-d58f536fc188/resource/ef71e9b1-8825-43e8-9b64-8e31e314825e/download/41304-3000-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "佐賀郡久保田町",
+            "id": "bf3eed2c-81af-4748-95cb-accdf23245b8",
+            "name": "佐賀郡久保田町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "74bf7bcd-9efb-48fc-a138-541c9dce5f95",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:26.423479",
+        "metadata_modified": "2024-04-15T03:06:28.825592",
+        "name": "houmusyouchizu-2024-1-1798",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "神埼郡吉野ヶ里町（佐賀地方法務局鳥栖出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:18.238700",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "6e5dbecd-4183-4af2-a5c8-9197820513cf",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:27:18.227464",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "74bf7bcd-9efb-48fc-a138-541c9dce5f95",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:21.606044",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6357b4a9-38a1-44d5-9cc3-7b13e0467df1",
+            "last_modified": "2024-04-02T10:27:21.568334",
+            "metadata_modified": "2024-04-02T10:27:21.594634",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41327-3011-2023.zip",
+            "package_id": "74bf7bcd-9efb-48fc-a138-541c9dce5f95",
+            "position": 1,
+            "resource_type": null,
+            "size": 20213147,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/74bf7bcd-9efb-48fc-a138-541c9dce5f95/resource/6357b4a9-38a1-44d5-9cc3-7b13e0467df1/download/41327-3011-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:28.082714",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c8937430-b4dc-40e1-9412-f9ff1fe0a09f",
+            "last_modified": "2024-04-02T10:27:28.032653",
+            "metadata_modified": "2024-04-02T10:27:28.069003",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41327-3011-2024.zip",
+            "package_id": "74bf7bcd-9efb-48fc-a138-541c9dce5f95",
+            "position": 2,
+            "resource_type": null,
+            "size": 20247877,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/74bf7bcd-9efb-48fc-a138-541c9dce5f95/resource/c8937430-b4dc-40e1-9412-f9ff1fe0a09f/download/41327-3011-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "神埼郡吉野ヶ里町",
+            "id": "d6fbc07a-079d-47b6-bdd9-fca0ecb13cd9",
+            "name": "神埼郡吉野ヶ里町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "89e1e382-56e3-4a59-8dc5-7a2d2cbc122b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:26.851203",
+        "metadata_modified": "2024-04-15T03:06:27.847811",
+        "name": "houmusyouchizu-2024-1-1799",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "三養基郡基山町（佐賀地方法務局鳥栖出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:32.288287",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ba4f2eac-ea9e-41c9-a66b-719960b453c6",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:27:32.276129",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "89e1e382-56e3-4a59-8dc5-7a2d2cbc122b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:34.527396",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "466a5dc2-1c95-453e-8443-ff58a668a6b2",
+            "last_modified": "2024-04-02T10:27:34.479506",
+            "metadata_modified": "2024-04-02T10:27:34.510649",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41341-3011-2023.zip",
+            "package_id": "89e1e382-56e3-4a59-8dc5-7a2d2cbc122b",
+            "position": 1,
+            "resource_type": null,
+            "size": 13091470,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/89e1e382-56e3-4a59-8dc5-7a2d2cbc122b/resource/466a5dc2-1c95-453e-8443-ff58a668a6b2/download/41341-3011-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:39.768702",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9d9dff60-445c-41db-b163-d1f2c695af20",
+            "last_modified": "2024-04-02T10:27:39.722181",
+            "metadata_modified": "2024-04-02T10:27:39.754934",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41341-3011-2024.zip",
+            "package_id": "89e1e382-56e3-4a59-8dc5-7a2d2cbc122b",
+            "position": 2,
+            "resource_type": null,
+            "size": 13103281,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/89e1e382-56e3-4a59-8dc5-7a2d2cbc122b/resource/9d9dff60-445c-41db-b163-d1f2c695af20/download/41341-3011-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三養基郡基山町",
+            "id": "6c0e6813-9739-49ec-aa17-2e05401a1967",
+            "name": "三養基郡基山町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ddf46bd8-45af-4dea-9bff-1737bdc3faaa",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:27.281177",
+        "metadata_modified": "2024-04-15T03:06:26.841122",
+        "name": "houmusyouchizu-2024-1-1800",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "三養基郡上峰町（佐賀地方法務局鳥栖出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:43.492394",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1251fc8e-7bbd-4a9d-a6b0-440647279771",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:27:43.478837",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ddf46bd8-45af-4dea-9bff-1737bdc3faaa",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:45.517197",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c7875a81-2d69-4d4c-9b6b-e6b5ce4e5707",
+            "last_modified": "2024-04-02T10:27:45.478073",
+            "metadata_modified": "2024-04-02T10:27:45.504488",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41345-3011-2023.zip",
+            "package_id": "ddf46bd8-45af-4dea-9bff-1737bdc3faaa",
+            "position": 1,
+            "resource_type": null,
+            "size": 5915932,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ddf46bd8-45af-4dea-9bff-1737bdc3faaa/resource/c7875a81-2d69-4d4c-9b6b-e6b5ce4e5707/download/41345-3011-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:49.491579",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "21963d1c-ed84-4cac-ace6-4f03fa1fee06",
+            "last_modified": "2024-04-02T10:27:49.446085",
+            "metadata_modified": "2024-04-02T10:27:49.479023",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41345-3011-2024.zip",
+            "package_id": "ddf46bd8-45af-4dea-9bff-1737bdc3faaa",
+            "position": 2,
+            "resource_type": null,
+            "size": 5932475,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ddf46bd8-45af-4dea-9bff-1737bdc3faaa/resource/21963d1c-ed84-4cac-ace6-4f03fa1fee06/download/41345-3011-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三養基郡上峰町",
+            "id": "ccfc7818-13f0-4fa7-a5d9-6ab36a15f5cc",
+            "name": "三養基郡上峰町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "77d6fd4b-9cf0-4c31-b2da-d04544c8f531",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:27.709475",
+        "metadata_modified": "2024-04-15T03:06:25.848781",
+        "name": "houmusyouchizu-2024-1-1801",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "三養基郡みやき町（佐賀地方法務局鳥栖出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:52.414946",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8709f52d-c880-4682-acb3-a05716f2d60a",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:27:52.401922",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "77d6fd4b-9cf0-4c31-b2da-d04544c8f531",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:27:56.142215",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "000cc9b5-22e3-417a-8c74-b1af727c7838",
+            "last_modified": "2024-04-02T10:27:56.100345",
+            "metadata_modified": "2024-04-02T10:27:56.128698",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41346-3011-2023.zip",
+            "package_id": "77d6fd4b-9cf0-4c31-b2da-d04544c8f531",
+            "position": 1,
+            "resource_type": null,
+            "size": 26283697,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77d6fd4b-9cf0-4c31-b2da-d04544c8f531/resource/000cc9b5-22e3-417a-8c74-b1af727c7838/download/41346-3011-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:03.841291",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1b295382-0925-4ac9-ac0a-22171824f741",
+            "last_modified": "2024-04-02T10:28:03.798760",
+            "metadata_modified": "2024-04-02T10:28:03.828799",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41346-3011-2024.zip",
+            "package_id": "77d6fd4b-9cf0-4c31-b2da-d04544c8f531",
+            "position": 2,
+            "resource_type": null,
+            "size": 26330401,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77d6fd4b-9cf0-4c31-b2da-d04544c8f531/resource/1b295382-0925-4ac9-ac0a-22171824f741/download/41346-3011-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三養基郡みやき町",
+            "id": "e4e3f2ee-86a6-4b71-9f78-4bc0063461a1",
+            "name": "三養基郡みやき町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "74675938-53d2-4bd9-bec6-a0ed9f1c1ebe",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:28.124261",
+        "metadata_modified": "2024-04-15T03:06:24.841704",
+        "name": "houmusyouchizu-2024-1-1802",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "小城郡芦刈町（佐賀地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:08.277275",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1e6addfb-8606-4d70-9a14-25bdc0864e6f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:28:08.265366",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "74675938-53d2-4bd9-bec6-a0ed9f1c1ebe",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:08.810973",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "157735ca-fa8e-4b2a-bf74-011b6e59fa58",
+            "last_modified": "2024-04-02T10:28:08.767278",
+            "metadata_modified": "2024-04-02T10:28:08.797426",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41364-3000-2023.zip",
+            "package_id": "74675938-53d2-4bd9-bec6-a0ed9f1c1ebe",
+            "position": 1,
+            "resource_type": null,
+            "size": 38251,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/74675938-53d2-4bd9-bec6-a0ed9f1c1ebe/resource/157735ca-fa8e-4b2a-bf74-011b6e59fa58/download/41364-3000-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:10.500171",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "3d36cbb8-9747-486c-b168-0e941ff2950f",
+            "last_modified": "2024-04-02T10:28:10.455770",
+            "metadata_modified": "2024-04-02T10:28:10.486100",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41364-3000-2024.zip",
+            "package_id": "74675938-53d2-4bd9-bec6-a0ed9f1c1ebe",
+            "position": 2,
+            "resource_type": null,
+            "size": 38251,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/74675938-53d2-4bd9-bec6-a0ed9f1c1ebe/resource/3d36cbb8-9747-486c-b168-0e941ff2950f/download/41364-3000-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "小城郡芦刈町",
+            "id": "d94d109e-e3f9-4bbc-9a5e-7323556d8b56",
+            "name": "小城郡芦刈町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ba386c97-18f8-4e8f-80f6-cc41ecf1fa43",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:28.559509",
+        "metadata_modified": "2024-04-15T03:06:23.845475",
+        "name": "houmusyouchizu-2024-1-1803",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "東松浦郡玄海町（佐賀地方法務局唐津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:12.184070",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "55880149-bb54-464d-b546-2ab11ca7364c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:28:12.170854",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ba386c97-18f8-4e8f-80f6-cc41ecf1fa43",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:17.191451",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a3f94eeb-7443-47cd-9c76-676f3ae4e9d0",
+            "last_modified": "2024-04-02T10:28:17.130387",
+            "metadata_modified": "2024-04-02T10:28:17.177590",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41387-3003-2023.zip",
+            "package_id": "ba386c97-18f8-4e8f-80f6-cc41ecf1fa43",
+            "position": 1,
+            "resource_type": null,
+            "size": 33009115,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ba386c97-18f8-4e8f-80f6-cc41ecf1fa43/resource/a3f94eeb-7443-47cd-9c76-676f3ae4e9d0/download/41387-3003-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:26.495816",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "00e6812b-1d89-4e58-8b4f-126ffdf61479",
+            "last_modified": "2024-04-02T10:28:26.453387",
+            "metadata_modified": "2024-04-02T10:28:26.482343",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41387-3003-2024.zip",
+            "package_id": "ba386c97-18f8-4e8f-80f6-cc41ecf1fa43",
+            "position": 2,
+            "resource_type": null,
+            "size": 33036151,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ba386c97-18f8-4e8f-80f6-cc41ecf1fa43/resource/00e6812b-1d89-4e58-8b4f-126ffdf61479/download/41387-3003-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東松浦郡玄海町",
+            "id": "f1876278-159f-407a-a451-766d5e95bd66",
+            "name": "東松浦郡玄海町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4892311f-9c65-4862-851f-45207d7bc5eb",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:29.002022",
+        "metadata_modified": "2024-04-15T03:06:22.835617",
+        "name": "houmusyouchizu-2024-1-1804",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "西松浦郡有田町（佐賀地方法務局伊万里支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:31.343654",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "16a4f642-8094-4c66-8f64-0dc5991a5fea",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:28:31.329777",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4892311f-9c65-4862-851f-45207d7bc5eb",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:37.591263",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e1f9c347-df70-460c-b37d-b33817572bef",
+            "last_modified": "2024-04-02T10:28:37.551230",
+            "metadata_modified": "2024-04-02T10:28:37.579233",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41401-3002-2023.zip",
+            "package_id": "4892311f-9c65-4862-851f-45207d7bc5eb",
+            "position": 1,
+            "resource_type": null,
+            "size": 46142674,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4892311f-9c65-4862-851f-45207d7bc5eb/resource/e1f9c347-df70-460c-b37d-b33817572bef/download/41401-3002-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:49.055060",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "379fd269-43e7-455d-a4a0-8f4713acb2f0",
+            "last_modified": "2024-04-02T10:28:49.011496",
+            "metadata_modified": "2024-04-02T10:28:49.041335",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41401-3002-2024.zip",
+            "package_id": "4892311f-9c65-4862-851f-45207d7bc5eb",
+            "position": 2,
+            "resource_type": null,
+            "size": 46164464,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4892311f-9c65-4862-851f-45207d7bc5eb/resource/379fd269-43e7-455d-a4a0-8f4713acb2f0/download/41401-3002-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西松浦郡有田町",
+            "id": "e26963fc-d8a6-4a8e-bf2a-038165dc049d",
+            "name": "西松浦郡有田町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8f8192bc-3363-4d47-894c-d467c691a820",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:29.444514",
+        "metadata_modified": "2024-04-15T03:06:21.786751",
+        "name": "houmusyouchizu-2024-1-1805",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "杵島郡大町町（佐賀地方法務局武雄支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:54.804980",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1fcfe635-1d7a-4938-a1fc-5c40bc12ac0e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:28:54.793170",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8f8192bc-3363-4d47-894c-d467c691a820",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:56.082197",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "315c7c61-620b-4a10-ac62-aeeb0a0e5ac7",
+            "last_modified": "2024-04-02T10:28:56.038354",
+            "metadata_modified": "2024-04-02T10:28:56.068523",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41423-3001-2023.zip",
+            "package_id": "8f8192bc-3363-4d47-894c-d467c691a820",
+            "position": 1,
+            "resource_type": null,
+            "size": 6065293,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8f8192bc-3363-4d47-894c-d467c691a820/resource/315c7c61-620b-4a10-ac62-aeeb0a0e5ac7/download/41423-3001-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:28:59.770641",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e21b9fb7-df41-46f1-93d2-7ef08ac9f9bb",
+            "last_modified": "2024-04-02T10:28:59.726158",
+            "metadata_modified": "2024-04-02T10:28:59.756863",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41423-3001-2024.zip",
+            "package_id": "8f8192bc-3363-4d47-894c-d467c691a820",
+            "position": 2,
+            "resource_type": null,
+            "size": 6068153,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8f8192bc-3363-4d47-894c-d467c691a820/resource/e21b9fb7-df41-46f1-93d2-7ef08ac9f9bb/download/41423-3001-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "杵島郡大町町",
+            "id": "b0f2e0ea-eef7-435e-afd7-fce3a1504392",
+            "name": "杵島郡大町町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f370df80-fd7e-4538-a1ec-dc71511d0aea",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:29.880575",
+        "metadata_modified": "2024-04-15T03:06:20.764523",
+        "name": "houmusyouchizu-2024-1-1806",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "杵島郡江北町（佐賀地方法務局武雄支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:29:02.679275",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "46035ef2-164d-4b6a-8b88-a65fb2040e5a",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:29:02.666289",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f370df80-fd7e-4538-a1ec-dc71511d0aea",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:29:04.736117",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "48859f53-ad29-48d7-9938-efd03088fc96",
+            "last_modified": "2024-04-02T10:29:04.694275",
+            "metadata_modified": "2024-04-02T10:29:04.722889",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41424-3001-2023.zip",
+            "package_id": "f370df80-fd7e-4538-a1ec-dc71511d0aea",
+            "position": 1,
+            "resource_type": null,
+            "size": 11389489,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f370df80-fd7e-4538-a1ec-dc71511d0aea/resource/48859f53-ad29-48d7-9938-efd03088fc96/download/41424-3001-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:29:09.503687",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "da53f5c3-25e5-45f8-9327-3a7ec69b07ea",
+            "last_modified": "2024-04-02T10:29:09.460441",
+            "metadata_modified": "2024-04-02T10:29:09.490232",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41424-3001-2024.zip",
+            "package_id": "f370df80-fd7e-4538-a1ec-dc71511d0aea",
+            "position": 2,
+            "resource_type": null,
+            "size": 11394483,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f370df80-fd7e-4538-a1ec-dc71511d0aea/resource/da53f5c3-25e5-45f8-9327-3a7ec69b07ea/download/41424-3001-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "杵島郡江北町",
+            "id": "2989b4eb-472e-4fe4-9ca1-b6a3ed324a83",
+            "name": "杵島郡江北町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a77b6cd5-baed-4a98-8cfd-66f395a6e565",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:30.315148",
+        "metadata_modified": "2024-04-15T03:06:19.751510",
+        "name": "houmusyouchizu-2024-1-1807",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "杵島郡白石町（佐賀地方法務局武雄支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:29:12.740754",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ae72a82b-a4b5-478b-85b5-f6c5d1ecb058",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:29:12.729676",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a77b6cd5-baed-4a98-8cfd-66f395a6e565",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:29:17.124097",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "54c70f4f-8912-40a3-b3eb-db32fae1079b",
+            "last_modified": "2024-04-02T10:29:17.084191",
+            "metadata_modified": "2024-04-02T10:29:17.110688",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41425-3001-2023.zip",
+            "package_id": "a77b6cd5-baed-4a98-8cfd-66f395a6e565",
+            "position": 1,
+            "resource_type": null,
+            "size": 28113723,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a77b6cd5-baed-4a98-8cfd-66f395a6e565/resource/54c70f4f-8912-40a3-b3eb-db32fae1079b/download/41425-3001-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:29:24.821028",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5216c9d6-3175-4d6e-b80e-1019d3827aeb",
+            "last_modified": "2024-04-02T10:29:24.779583",
+            "metadata_modified": "2024-04-02T10:29:24.807754",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41425-3001-2024.zip",
+            "package_id": "a77b6cd5-baed-4a98-8cfd-66f395a6e565",
+            "position": 2,
+            "resource_type": null,
+            "size": 28116163,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a77b6cd5-baed-4a98-8cfd-66f395a6e565/resource/5216c9d6-3175-4d6e-b80e-1019d3827aeb/download/41425-3001-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "杵島郡白石町",
+            "id": "10aa3e21-3f4f-4b1b-8ff8-1b18bae601fa",
+            "name": "杵島郡白石町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3ad309ca-4d04-4558-bc0c-0e1ebc622235",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:01:30.734350",
+        "metadata_modified": "2024-04-15T03:06:18.777548",
+        "name": "houmusyouchizu-2024-1-1808",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-41saga",
+          "name": "moj-41saga",
+          "title": "41佐賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:41.495829",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-41saga",
+        "private": false,
+        "state": "active",
+        "title": "藤津郡太良町（佐賀地方法務局武雄支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:29:29.545723",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "4bc65b87-441f-4cc6-ab66-5aec45c1303b",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T10:29:29.532437",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3ad309ca-4d04-4558-bc0c-0e1ebc622235",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:29:35.877651",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "31293fb1-1f68-4257-8cc5-5e4658a0b0ac",
+            "last_modified": "2024-04-02T10:29:35.836962",
+            "metadata_modified": "2024-04-02T10:29:35.864474",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41441-3001-2023.zip",
+            "package_id": "3ad309ca-4d04-4558-bc0c-0e1ebc622235",
+            "position": 1,
+            "resource_type": null,
+            "size": 42256330,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3ad309ca-4d04-4558-bc0c-0e1ebc622235/resource/31293fb1-1f68-4257-8cc5-5e4658a0b0ac/download/41441-3001-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T10:29:46.961652",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9e495f74-f26b-419e-8607-842ddcd70e93",
+            "last_modified": "2024-04-02T10:29:46.918567",
+            "metadata_modified": "2024-04-02T10:29:46.948588",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "41441-3001-2024.zip",
+            "package_id": "3ad309ca-4d04-4558-bc0c-0e1ebc622235",
+            "position": 2,
+            "resource_type": null,
+            "size": 42288336,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3ad309ca-4d04-4558-bc0c-0e1ebc622235/resource/9e495f74-f26b-419e-8607-842ddcd70e93/download/41441-3001-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐賀県",
+            "id": "038bd615-fb62-4675-9195-72a237b6f42b",
+            "name": "佐賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "藤津郡太良町",
+            "id": "1a8e9cf7-84ed-4bdf-bfbd-5ca4a249cd4b",
+            "name": "藤津郡太良町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "metadata_modified desc",
+    "search_facets": {
+    }
+  }
+}

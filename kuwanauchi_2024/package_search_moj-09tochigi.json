@@ -1,0 +1,4331 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 30,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "befbb3fe-629b-4034-8687-6f65a69547dc",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:14.967393",
+        "metadata_modified": "2024-04-15T03:43:28.783964",
+        "name": "houmusyouchizu-2024-1-493",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "下都賀郡野木町（宇都宮地方法務局小山出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:31.107222",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "5d436ec7-6b0c-42f7-b032-9bab4bc00d30",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:31:31.092297",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "befbb3fe-629b-4034-8687-6f65a69547dc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:33.101882",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "128b5e56-68ee-4fa9-9570-4d31b790abb7",
+            "last_modified": "2024-04-01T09:31:33.061256",
+            "metadata_modified": "2024-04-01T09:31:33.089417",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09364-0624-2023.zip",
+            "package_id": "befbb3fe-629b-4034-8687-6f65a69547dc",
+            "position": 1,
+            "resource_type": null,
+            "size": 11521387,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/befbb3fe-629b-4034-8687-6f65a69547dc/resource/128b5e56-68ee-4fa9-9570-4d31b790abb7/download/09364-0624-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:38.026909",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "80ddaf3d-5d6f-425c-bb43-1cff45b76ff8",
+            "last_modified": "2024-04-01T09:31:37.984702",
+            "metadata_modified": "2024-04-01T09:31:38.013635",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09364-0624-2024.zip",
+            "package_id": "befbb3fe-629b-4034-8687-6f65a69547dc",
+            "position": 2,
+            "resource_type": null,
+            "size": 11544641,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/befbb3fe-629b-4034-8687-6f65a69547dc/resource/80ddaf3d-5d6f-425c-bb43-1cff45b76ff8/download/09364-0624-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "下都賀郡野木町",
+            "id": "a7b2c8f8-96fc-4ad0-aac0-c9dec3cf4004",
+            "name": "下都賀郡野木町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "808464ee-c477-4c91-8fe6-a6418af0ac92",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:15.381378",
+        "metadata_modified": "2024-04-15T03:43:27.780399",
+        "name": "houmusyouchizu-2024-1-494",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "下都賀郡岩舟町（宇都宮地方法務局栃木支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:41.755012",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "845ef8bb-8e57-4780-97c4-739f2aae72d9",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:31:41.741736",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "808464ee-c477-4c91-8fe6-a6418af0ac92",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:42.530698",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "041ad10f-0449-4022-846c-35df1c5f8fdb",
+            "last_modified": "2024-04-01T09:31:42.490839",
+            "metadata_modified": "2024-04-01T09:31:42.519029",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09367-0604-2023.zip",
+            "package_id": "808464ee-c477-4c91-8fe6-a6418af0ac92",
+            "position": 1,
+            "resource_type": null,
+            "size": 1671214,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/808464ee-c477-4c91-8fe6-a6418af0ac92/resource/041ad10f-0449-4022-846c-35df1c5f8fdb/download/09367-0604-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:45.299077",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "41001eee-a29a-4b8b-99a0-fdf9c3494dff",
+            "last_modified": "2024-04-01T09:31:45.254388",
+            "metadata_modified": "2024-04-01T09:31:45.285161",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09367-0604-2024.zip",
+            "package_id": "808464ee-c477-4c91-8fe6-a6418af0ac92",
+            "position": 2,
+            "resource_type": null,
+            "size": 1671273,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/808464ee-c477-4c91-8fe6-a6418af0ac92/resource/41001eee-a29a-4b8b-99a0-fdf9c3494dff/download/09367-0604-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "下都賀郡岩舟町",
+            "id": "b584117e-7a05-4c7b-953d-2ca3b861f87b",
+            "name": "下都賀郡岩舟町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "45ca2f9e-1d2f-4848-94b2-fc07d04cfa70",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:15.791095",
+        "metadata_modified": "2024-04-15T03:43:26.805383",
+        "name": "houmusyouchizu-2024-1-495",
+        "notes": null,
+        "num_resources": 2,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "塩谷郡塩谷町（宇都宮地方法務局大田原支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:47.944229",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "7f516f2f-ef62-4137-9d6e-93267b59ffc3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:31:47.932710",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "45ca2f9e-1d2f-4848-94b2-fc07d04cfa70",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:48.454467",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "06cee2b6-c4c5-4ad4-be72-36bf9e15b796",
+            "last_modified": "2024-04-01T09:31:48.414014",
+            "metadata_modified": "2024-04-01T09:31:48.442656",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09384-0602-2023.zip",
+            "package_id": "45ca2f9e-1d2f-4848-94b2-fc07d04cfa70",
+            "position": 1,
+            "resource_type": null,
+            "size": 5307,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/45ca2f9e-1d2f-4848-94b2-fc07d04cfa70/resource/06cee2b6-c4c5-4ad4-be72-36bf9e15b796/download/09384-0602-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "塩谷郡塩谷町",
+            "id": "81af507a-911c-427d-a764-c15326cd1c41",
+            "name": "塩谷郡塩谷町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "987ab5f4-a156-4be7-a257-823135be4f54",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:16.218348",
+        "metadata_modified": "2024-04-15T03:43:25.849048",
+        "name": "houmusyouchizu-2024-1-496",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "塩谷郡塩谷町（宇都宮地方法務局日光支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:50.420485",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "68cb64ed-c7e1-4356-b4ab-8eab64a318bb",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:31:50.407066",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "987ab5f4-a156-4be7-a257-823135be4f54",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:54.301286",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6ac70573-17b5-407b-8603-b1b05dc00ec5",
+            "last_modified": "2024-04-01T09:31:54.260932",
+            "metadata_modified": "2024-04-01T09:31:54.289088",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09384-0608-2023.zip",
+            "package_id": "987ab5f4-a156-4be7-a257-823135be4f54",
+            "position": 1,
+            "resource_type": null,
+            "size": 29568610,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/987ab5f4-a156-4be7-a257-823135be4f54/resource/6ac70573-17b5-407b-8603-b1b05dc00ec5/download/09384-0608-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:32:02.639321",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "68c157df-86d6-4925-bdc2-99095fe04141",
+            "last_modified": "2024-04-01T09:32:02.591043",
+            "metadata_modified": "2024-04-01T09:32:02.622719",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09384-0608-2024.zip",
+            "package_id": "987ab5f4-a156-4be7-a257-823135be4f54",
+            "position": 2,
+            "resource_type": null,
+            "size": 29585850,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/987ab5f4-a156-4be7-a257-823135be4f54/resource/68c157df-86d6-4925-bdc2-99095fe04141/download/09384-0608-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "塩谷郡塩谷町",
+            "id": "81af507a-911c-427d-a764-c15326cd1c41",
+            "name": "塩谷郡塩谷町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ad1772bf-393c-4d31-9b76-e8714c740116",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:16.632596",
+        "metadata_modified": "2024-04-15T03:43:24.861966",
+        "name": "houmusyouchizu-2024-1-497",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "塩谷郡高根沢町（宇都宮地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:32:07.097095",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "b5bcf353-c4b9-4313-9fe0-b73e6fb5e5d0",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:32:07.085288",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ad1772bf-393c-4d31-9b76-e8714c740116",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:32:10.886641",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "44977d18-5dfe-46f7-a6c8-50947a6a096c",
+            "last_modified": "2024-04-01T09:32:10.847706",
+            "metadata_modified": "2024-04-01T09:32:10.875286",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09386-0600-2023.zip",
+            "package_id": "ad1772bf-393c-4d31-9b76-e8714c740116",
+            "position": 1,
+            "resource_type": null,
+            "size": 26271072,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ad1772bf-393c-4d31-9b76-e8714c740116/resource/44977d18-5dfe-46f7-a6c8-50947a6a096c/download/09386-0600-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:32:18.033416",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "12800d5f-12c5-435f-9222-aae685e3e6cb",
+            "last_modified": "2024-04-01T09:32:17.990886",
+            "metadata_modified": "2024-04-01T09:32:18.019990",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09386-0600-2024.zip",
+            "package_id": "ad1772bf-393c-4d31-9b76-e8714c740116",
+            "position": 2,
+            "resource_type": null,
+            "size": 26288921,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ad1772bf-393c-4d31-9b76-e8714c740116/resource/12800d5f-12c5-435f-9222-aae685e3e6cb/download/09386-0600-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "塩谷郡高根沢町",
+            "id": "9047354a-fe83-40c5-9cf0-671a7b0027ff",
+            "name": "塩谷郡高根沢町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "205f6d92-b1b8-416e-874c-e5e7a3d61527",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:17.086567",
+        "metadata_modified": "2024-04-15T03:43:23.872151",
+        "name": "houmusyouchizu-2024-1-498",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "那須郡那須町（宇都宮地方法務局大田原支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:32:22.309835",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "7d017864-4217-45c1-bd9d-90d51bee4037",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:32:22.295603",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "205f6d92-b1b8-416e-874c-e5e7a3d61527",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:32:33.718033",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "47bcf305-4c72-4754-b854-eb18f00b03af",
+            "last_modified": "2024-04-01T09:32:33.677535",
+            "metadata_modified": "2024-04-01T09:32:33.704684",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09407-0602-2023.zip",
+            "package_id": "205f6d92-b1b8-416e-874c-e5e7a3d61527",
+            "position": 1,
+            "resource_type": null,
+            "size": 95811696,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/205f6d92-b1b8-416e-874c-e5e7a3d61527/resource/47bcf305-4c72-4754-b854-eb18f00b03af/download/09407-0602-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:32:53.440141",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "72cdd080-6e9c-42ba-84fa-67f550631740",
+            "last_modified": "2024-04-01T09:32:53.394766",
+            "metadata_modified": "2024-04-01T09:32:53.427673",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09407-0602-2024.zip",
+            "package_id": "205f6d92-b1b8-416e-874c-e5e7a3d61527",
+            "position": 2,
+            "resource_type": null,
+            "size": 95836387,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/205f6d92-b1b8-416e-874c-e5e7a3d61527/resource/72cdd080-6e9c-42ba-84fa-67f550631740/download/09407-0602-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "那須郡那須町",
+            "id": "fb8b4ca9-4877-480a-be7a-137676b14a8b",
+            "name": "那須郡那須町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c8b5e31b-9e95-4fb6-8f0e-80d9b9663184",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:05.372795",
+        "metadata_modified": "2024-04-15T03:30:31.651973",
+        "name": "houmusyouchizu-2024-1-470",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "宇都宮市（宇都宮地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:04:21.965744",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "666cc459-7c24-4456-84f0-d8afdf72d71c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:04:21.953861",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c8b5e31b-9e95-4fb6-8f0e-80d9b9663184",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:04:44.072792",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "3c1c3a5e-2dca-4749-bcef-5621011e4efb",
+            "last_modified": "2024-04-01T09:04:44.030549",
+            "metadata_modified": "2024-04-01T09:04:44.058575",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09201-0600-2023.zip",
+            "package_id": "c8b5e31b-9e95-4fb6-8f0e-80d9b9663184",
+            "position": 1,
+            "resource_type": null,
+            "size": 182172259,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c8b5e31b-9e95-4fb6-8f0e-80d9b9663184/resource/3c1c3a5e-2dca-4749-bcef-5621011e4efb/download/09201-0600-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:05:24.084917",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0c2a2c96-d265-4222-9144-e07249b3c380",
+            "last_modified": "2024-04-01T09:05:24.044297",
+            "metadata_modified": "2024-04-01T09:05:24.072415",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09201-0600-2024.zip",
+            "package_id": "c8b5e31b-9e95-4fb6-8f0e-80d9b9663184",
+            "position": 2,
+            "resource_type": null,
+            "size": 181959294,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c8b5e31b-9e95-4fb6-8f0e-80d9b9663184/resource/0c2a2c96-d265-4222-9144-e07249b3c380/download/09201-0600-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "宇都宮市",
+            "id": "3856784c-f82c-4206-998b-68cbb33f95bf",
+            "name": "宇都宮市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bc3376a1-95cd-4d16-b2dd-9c08788dce0e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:05.802180",
+        "metadata_modified": "2024-04-15T03:30:30.601117",
+        "name": "houmusyouchizu-2024-1-471",
+        "notes": null,
+        "num_resources": 2,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "宇都宮市（宇都宮地方法務局日光支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:05:39.114098",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "cd9aefd3-f536-424d-9879-306ca0752c21",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:05:39.101877",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bc3376a1-95cd-4d16-b2dd-9c08788dce0e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:05:39.661526",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "97e64876-8859-4da6-a21c-0b9ad3701277",
+            "last_modified": "2024-04-01T09:05:39.621004",
+            "metadata_modified": "2024-04-01T09:05:39.649322",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09201-0608-2024.zip",
+            "package_id": "bc3376a1-95cd-4d16-b2dd-9c08788dce0e",
+            "position": 1,
+            "resource_type": null,
+            "size": 3969,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bc3376a1-95cd-4d16-b2dd-9c08788dce0e/resource/97e64876-8859-4da6-a21c-0b9ad3701277/download/09201-0608-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "宇都宮市",
+            "id": "3856784c-f82c-4206-998b-68cbb33f95bf",
+            "name": "宇都宮市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "42c4b88b-2440-4978-b45f-683c1660e3d1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:06.205216",
+        "metadata_modified": "2024-04-15T03:30:29.603102",
+        "name": "houmusyouchizu-2024-1-472",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "足利市（宇都宮地方法務局足利支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:05:41.132846",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1474e156-098a-4f58-9ddf-68496360ad9d",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:05:41.121922",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "42c4b88b-2440-4978-b45f-683c1660e3d1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:05:52.703288",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4e81880a-f029-43a4-aa86-d499d2694672",
+            "last_modified": "2024-04-01T09:05:52.650868",
+            "metadata_modified": "2024-04-01T09:05:52.686493",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09202-0605-2023.zip",
+            "package_id": "42c4b88b-2440-4978-b45f-683c1660e3d1",
+            "position": 1,
+            "resource_type": null,
+            "size": 81979391,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/42c4b88b-2440-4978-b45f-683c1660e3d1/resource/4e81880a-f029-43a4-aa86-d499d2694672/download/09202-0605-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:06:11.485447",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d360145c-f00c-428f-b53d-b9d030343207",
+            "last_modified": "2024-04-01T09:06:11.442377",
+            "metadata_modified": "2024-04-01T09:06:11.472109",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09202-0605-2024.zip",
+            "package_id": "42c4b88b-2440-4978-b45f-683c1660e3d1",
+            "position": 2,
+            "resource_type": null,
+            "size": 82011321,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/42c4b88b-2440-4978-b45f-683c1660e3d1/resource/d360145c-f00c-428f-b53d-b9d030343207/download/09202-0605-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "足利市",
+            "id": "76d15c11-d676-4821-8b81-84a8f87c05fd",
+            "name": "足利市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "718ed36c-986c-4766-a7ab-b77a22fd9969",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:06.616325",
+        "metadata_modified": "2024-04-15T03:30:28.552249",
+        "name": "houmusyouchizu-2024-1-473",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "栃木市（宇都宮地方法務局栃木支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:06:19.848698",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ae1f2452-4a31-4cef-bd74-28833c55955a",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:06:19.836949",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "718ed36c-986c-4766-a7ab-b77a22fd9969",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:06:40.862600",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a1d2898c-c4b4-4bdb-91a9-73abadec2239",
+            "last_modified": "2024-04-01T09:06:40.822111",
+            "metadata_modified": "2024-04-01T09:06:40.849636",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09203-0604-2023.zip",
+            "package_id": "718ed36c-986c-4766-a7ab-b77a22fd9969",
+            "position": 1,
+            "resource_type": null,
+            "size": 146566380,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/718ed36c-986c-4766-a7ab-b77a22fd9969/resource/a1d2898c-c4b4-4bdb-91a9-73abadec2239/download/09203-0604-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:07:11.557945",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6717b3f5-7640-441c-8b2b-f33162c651c5",
+            "last_modified": "2024-04-01T09:07:11.505320",
+            "metadata_modified": "2024-04-01T09:07:11.539448",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09203-0604-2024.zip",
+            "package_id": "718ed36c-986c-4766-a7ab-b77a22fd9969",
+            "position": 2,
+            "resource_type": null,
+            "size": 146710309,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/718ed36c-986c-4766-a7ab-b77a22fd9969/resource/6717b3f5-7640-441c-8b2b-f33162c651c5/download/09203-0604-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木市",
+            "id": "4dd81f5a-fb9e-4090-befa-cdf017e17af0",
+            "name": "栃木市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5c9691b1-13eb-4285-9f1d-7b347070394f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:07.032408",
+        "metadata_modified": "2024-04-15T03:30:27.510391",
+        "name": "houmusyouchizu-2024-1-474",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "佐野市（宇都宮地方法務局足利支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:07:24.366259",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "75c666d6-e119-4277-adb0-0b27472eb74f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:07:24.353148",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5c9691b1-13eb-4285-9f1d-7b347070394f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:07:38.383687",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "096ea32f-cca2-4d06-be94-83a294bfc4b4",
+            "last_modified": "2024-04-01T09:07:38.344155",
+            "metadata_modified": "2024-04-01T09:07:38.370582",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09204-0605-2023.zip",
+            "package_id": "5c9691b1-13eb-4285-9f1d-7b347070394f",
+            "position": 1,
+            "resource_type": null,
+            "size": 104702729,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5c9691b1-13eb-4285-9f1d-7b347070394f/resource/096ea32f-cca2-4d06-be94-83a294bfc4b4/download/09204-0605-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:08:00.766897",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "469e31dc-7de5-4b5f-8f3f-53b7b5133213",
+            "last_modified": "2024-04-01T09:08:00.724296",
+            "metadata_modified": "2024-04-01T09:08:00.754218",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09204-0605-2024.zip",
+            "package_id": "5c9691b1-13eb-4285-9f1d-7b347070394f",
+            "position": 2,
+            "resource_type": null,
+            "size": 104694112,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5c9691b1-13eb-4285-9f1d-7b347070394f/resource/469e31dc-7de5-4b5f-8f3f-53b7b5133213/download/09204-0605-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐野市",
+            "id": "f5bfd6fd-e3dc-4dcf-b282-3c0617181db3",
+            "name": "佐野市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "181ef446-93d2-41f3-b219-a91e7438f50a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:07.447775",
+        "metadata_modified": "2024-04-15T03:30:26.447250",
+        "name": "houmusyouchizu-2024-1-475",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "鹿沼市（宇都宮地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:08:10.497892",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "cb3ae274-4490-423b-a579-351fb4b3d8f1",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:08:10.484753",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "181ef446-93d2-41f3-b219-a91e7438f50a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:08:23.352615",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8f6c3648-6393-4d91-8d63-895ea5b98233",
+            "last_modified": "2024-04-01T09:08:23.312659",
+            "metadata_modified": "2024-04-01T09:08:23.339643",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09205-0600-2023.zip",
+            "package_id": "181ef446-93d2-41f3-b219-a91e7438f50a",
+            "position": 1,
+            "resource_type": null,
+            "size": 103277100,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/181ef446-93d2-41f3-b219-a91e7438f50a/resource/8f6c3648-6393-4d91-8d63-895ea5b98233/download/09205-0600-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:08:45.449523",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "743941ba-116b-4a22-affe-fc967d382ee9",
+            "last_modified": "2024-04-01T09:08:45.406264",
+            "metadata_modified": "2024-04-01T09:08:45.435837",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09205-0600-2024.zip",
+            "package_id": "181ef446-93d2-41f3-b219-a91e7438f50a",
+            "position": 2,
+            "resource_type": null,
+            "size": 103413912,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/181ef446-93d2-41f3-b219-a91e7438f50a/resource/743941ba-116b-4a22-affe-fc967d382ee9/download/09205-0600-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鹿沼市",
+            "id": "4c30a9aa-18d7-4d8c-b51b-55e4e9ac9e1e",
+            "name": "鹿沼市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3f96e208-858e-4d44-8057-7c8fd7f73dc8",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:07.852319",
+        "metadata_modified": "2024-04-15T03:30:25.319690",
+        "name": "houmusyouchizu-2024-1-476",
+        "notes": null,
+        "num_resources": 2,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "日光市（宇都宮地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:08:55.205545",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "54e2213a-61f6-4b44-9db3-e3db73d011e3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:08:55.194106",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3f96e208-858e-4d44-8057-7c8fd7f73dc8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:08:55.715294",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2320dfd1-5156-4d3b-95fd-873a22a47384",
+            "last_modified": "2024-04-01T09:08:55.675096",
+            "metadata_modified": "2024-04-01T09:08:55.703205",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09206-0600-2024.zip",
+            "package_id": "3f96e208-858e-4d44-8057-7c8fd7f73dc8",
+            "position": 1,
+            "resource_type": null,
+            "size": 7324,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3f96e208-858e-4d44-8057-7c8fd7f73dc8/resource/2320dfd1-5156-4d3b-95fd-873a22a47384/download/09206-0600-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日光市",
+            "id": "3345f577-e82f-4aef-8001-c14192f54811",
+            "name": "日光市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ace54cd8-9c58-46d0-9163-f6666cf67659",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:08.288938",
+        "metadata_modified": "2024-04-15T03:30:24.269406",
+        "name": "houmusyouchizu-2024-1-477",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "日光市（宇都宮地方法務局日光支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:08:57.168307",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "6b1d392f-1c5f-4425-85f2-ed37cbc891dc",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:08:57.155429",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ace54cd8-9c58-46d0-9163-f6666cf67659",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:09:10.352827",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "57b153e5-2796-4843-a839-09f206ca59de",
+            "last_modified": "2024-04-01T09:09:10.312932",
+            "metadata_modified": "2024-04-01T09:09:10.340481",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09206-0608-2023.zip",
+            "package_id": "ace54cd8-9c58-46d0-9163-f6666cf67659",
+            "position": 1,
+            "resource_type": null,
+            "size": 103618524,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ace54cd8-9c58-46d0-9163-f6666cf67659/resource/57b153e5-2796-4843-a839-09f206ca59de/download/09206-0608-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:09:33.393485",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a4772d56-e0a2-47fc-9301-c58ceebee55a",
+            "last_modified": "2024-04-01T09:09:33.348129",
+            "metadata_modified": "2024-04-01T09:09:33.379714",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09206-0608-2024.zip",
+            "package_id": "ace54cd8-9c58-46d0-9163-f6666cf67659",
+            "position": 2,
+            "resource_type": null,
+            "size": 103597079,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ace54cd8-9c58-46d0-9163-f6666cf67659/resource/a4772d56-e0a2-47fc-9301-c58ceebee55a/download/09206-0608-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日光市",
+            "id": "3345f577-e82f-4aef-8001-c14192f54811",
+            "name": "日光市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cc753d73-b85b-41dd-a5ce-00b340d3656b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:08.706118",
+        "metadata_modified": "2024-04-15T03:30:23.201787",
+        "name": "houmusyouchizu-2024-1-478",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "小山市（宇都宮地方法務局小山出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:09:43.081781",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "c089a577-2c83-4356-ae7f-eb8a0befdcf5",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:09:43.067491",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cc753d73-b85b-41dd-a5ce-00b340d3656b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:09:52.228576",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "bdbf78cd-9e1a-4de4-8e28-05c098931947",
+            "last_modified": "2024-04-01T09:09:52.188030",
+            "metadata_modified": "2024-04-01T09:09:52.215341",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09208-0624-2023.zip",
+            "package_id": "cc753d73-b85b-41dd-a5ce-00b340d3656b",
+            "position": 1,
+            "resource_type": null,
+            "size": 68524422,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cc753d73-b85b-41dd-a5ce-00b340d3656b/resource/bdbf78cd-9e1a-4de4-8e28-05c098931947/download/09208-0624-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:10:08.882762",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "af2e9ac3-9caa-490b-815d-95f57b75b33d",
+            "last_modified": "2024-04-01T09:10:08.838618",
+            "metadata_modified": "2024-04-01T09:10:08.869023",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09208-0624-2024.zip",
+            "package_id": "cc753d73-b85b-41dd-a5ce-00b340d3656b",
+            "position": 2,
+            "resource_type": null,
+            "size": 68695004,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cc753d73-b85b-41dd-a5ce-00b340d3656b/resource/af2e9ac3-9caa-490b-815d-95f57b75b33d/download/09208-0624-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "小山市",
+            "id": "eed6f8b5-8cf2-4c1a-9169-ce39d7a62908",
+            "name": "小山市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e4adaee9-ee3f-4589-a7cf-360966de92d3",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:09.116064",
+        "metadata_modified": "2024-04-15T03:30:22.170486",
+        "name": "houmusyouchizu-2024-1-479",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "真岡市（宇都宮地方法務局真岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:10:16.424429",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "c61df852-86f7-491c-8e29-08ac4a2dd117",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:10:16.411458",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e4adaee9-ee3f-4589-a7cf-360966de92d3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:10:23.643391",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d1f266f3-e406-4ca6-a32f-e1bb9e4d5f4e",
+            "last_modified": "2024-04-01T09:10:23.599797",
+            "metadata_modified": "2024-04-01T09:10:23.627920",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09209-0601-2023.zip",
+            "package_id": "e4adaee9-ee3f-4589-a7cf-360966de92d3",
+            "position": 1,
+            "resource_type": null,
+            "size": 60009323,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e4adaee9-ee3f-4589-a7cf-360966de92d3/resource/d1f266f3-e406-4ca6-a32f-e1bb9e4d5f4e/download/09209-0601-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:10:37.966055",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b3078aaa-5efe-41fd-9df9-44a2378f63e5",
+            "last_modified": "2024-04-01T09:10:37.921839",
+            "metadata_modified": "2024-04-01T09:10:37.952015",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09209-0601-2024.zip",
+            "package_id": "e4adaee9-ee3f-4589-a7cf-360966de92d3",
+            "position": 2,
+            "resource_type": null,
+            "size": 60086438,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e4adaee9-ee3f-4589-a7cf-360966de92d3/resource/b3078aaa-5efe-41fd-9df9-44a2378f63e5/download/09209-0601-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "真岡市",
+            "id": "4e574989-bcd2-4bc0-b832-19538b017faa",
+            "name": "真岡市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b94e1ab6-c1ac-4857-8b56-02aa1539b089",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:09.559152",
+        "metadata_modified": "2024-04-15T03:30:21.163282",
+        "name": "houmusyouchizu-2024-1-480",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "大田原市（宇都宮地方法務局大田原支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:10:44.622086",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "45021677-e48b-40e4-859d-612e94184ef6",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:10:44.610465",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b94e1ab6-c1ac-4857-8b56-02aa1539b089",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:10:57.323730",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "cee41e27-dd89-4d5d-936a-6414f275d0d1",
+            "last_modified": "2024-04-01T09:10:57.282600",
+            "metadata_modified": "2024-04-01T09:10:57.310249",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09210-0602-2023.zip",
+            "package_id": "b94e1ab6-c1ac-4857-8b56-02aa1539b089",
+            "position": 1,
+            "resource_type": null,
+            "size": 113074690,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b94e1ab6-c1ac-4857-8b56-02aa1539b089/resource/cee41e27-dd89-4d5d-936a-6414f275d0d1/download/09210-0602-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:11:20.238724",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8121caff-2ae4-4e9c-9a7a-9395f1b81478",
+            "last_modified": "2024-04-01T09:11:20.195915",
+            "metadata_modified": "2024-04-01T09:11:20.225112",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09210-0602-2024.zip",
+            "package_id": "b94e1ab6-c1ac-4857-8b56-02aa1539b089",
+            "position": 2,
+            "resource_type": null,
+            "size": 113170789,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b94e1ab6-c1ac-4857-8b56-02aa1539b089/resource/8121caff-2ae4-4e9c-9a7a-9395f1b81478/download/09210-0602-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大田原市",
+            "id": "b2b0cc80-61fb-43cd-baf0-ceeb37b26095",
+            "name": "大田原市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cf725c5a-9f8e-4b67-b82c-cd7ed4d0b27d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:09.972610",
+        "metadata_modified": "2024-04-15T03:30:20.123289",
+        "name": "houmusyouchizu-2024-1-481",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "矢板市（宇都宮地方法務局大田原支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:11:30.384053",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1f919fb9-c00f-4fe8-bd65-79b9ba621ffb",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:11:30.372364",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cf725c5a-9f8e-4b67-b82c-cd7ed4d0b27d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:11:36.302314",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "753fa497-fc92-40d8-9eef-6c3444aa07bb",
+            "last_modified": "2024-04-01T09:11:36.262057",
+            "metadata_modified": "2024-04-01T09:11:36.289184",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09211-0602-2023.zip",
+            "package_id": "cf725c5a-9f8e-4b67-b82c-cd7ed4d0b27d",
+            "position": 1,
+            "resource_type": null,
+            "size": 44568951,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cf725c5a-9f8e-4b67-b82c-cd7ed4d0b27d/resource/753fa497-fc92-40d8-9eef-6c3444aa07bb/download/09211-0602-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:11:47.066094",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "33f74d36-f453-426d-acd1-3eae4eb576eb",
+            "last_modified": "2024-04-01T09:11:47.024676",
+            "metadata_modified": "2024-04-01T09:11:47.054050",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09211-0602-2024.zip",
+            "package_id": "cf725c5a-9f8e-4b67-b82c-cd7ed4d0b27d",
+            "position": 2,
+            "resource_type": null,
+            "size": 44544889,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cf725c5a-9f8e-4b67-b82c-cd7ed4d0b27d/resource/33f74d36-f453-426d-acd1-3eae4eb576eb/download/09211-0602-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "矢板市",
+            "id": "e6e29a14-0dc8-4536-b059-5bf121f84a51",
+            "name": "矢板市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e34d9cf4-c767-433f-b466-139bdb41939e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:10.383660",
+        "metadata_modified": "2024-04-15T03:30:19.049381",
+        "name": "houmusyouchizu-2024-1-482",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "那須塩原市（宇都宮地方法務局大田原支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:11:52.470155",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "da07bf50-163d-4a94-bca1-acbd6b354940",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:11:52.456274",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e34d9cf4-c767-433f-b466-139bdb41939e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:12:03.604424",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7b7de084-73ff-413a-9045-63a50101cce1",
+            "last_modified": "2024-04-01T09:12:03.552884",
+            "metadata_modified": "2024-04-01T09:12:03.584834",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09213-0602-2023.zip",
+            "package_id": "e34d9cf4-c767-433f-b466-139bdb41939e",
+            "position": 1,
+            "resource_type": null,
+            "size": 85738534,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e34d9cf4-c767-433f-b466-139bdb41939e/resource/7b7de084-73ff-413a-9045-63a50101cce1/download/09213-0602-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:12:21.834422",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b944c480-6387-4044-940f-d9be949be5b9",
+            "last_modified": "2024-04-01T09:12:21.788876",
+            "metadata_modified": "2024-04-01T09:12:21.820586",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09213-0602-2024.zip",
+            "package_id": "e34d9cf4-c767-433f-b466-139bdb41939e",
+            "position": 2,
+            "resource_type": null,
+            "size": 85876637,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e34d9cf4-c767-433f-b466-139bdb41939e/resource/b944c480-6387-4044-940f-d9be949be5b9/download/09213-0602-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "那須塩原市",
+            "id": "5b3e6053-14f5-4c5a-8a17-c389aa1fcc04",
+            "name": "那須塩原市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4de1f8da-0fec-46a1-ab0c-1b221b235eb7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:10.796914",
+        "metadata_modified": "2024-04-15T03:30:17.968133",
+        "name": "houmusyouchizu-2024-1-483",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "さくら市（宇都宮地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:12:30.222073",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "132c2a9a-a673-48e1-8845-3aa074aee64e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:12:30.208665",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4de1f8da-0fec-46a1-ab0c-1b221b235eb7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:12:35.896953",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c016ac21-7fd9-49ac-ad6c-3e4226e65a79",
+            "last_modified": "2024-04-01T09:12:35.855296",
+            "metadata_modified": "2024-04-01T09:12:35.883654",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09214-0600-2023.zip",
+            "package_id": "4de1f8da-0fec-46a1-ab0c-1b221b235eb7",
+            "position": 1,
+            "resource_type": null,
+            "size": 41939227,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4de1f8da-0fec-46a1-ab0c-1b221b235eb7/resource/c016ac21-7fd9-49ac-ad6c-3e4226e65a79/download/09214-0600-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:12:46.492562",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d6bf2284-35b4-407a-88e3-ea8e284d0bca",
+            "last_modified": "2024-04-01T09:12:46.450245",
+            "metadata_modified": "2024-04-01T09:12:46.479015",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09214-0600-2024.zip",
+            "package_id": "4de1f8da-0fec-46a1-ab0c-1b221b235eb7",
+            "position": 2,
+            "resource_type": null,
+            "size": 42039969,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4de1f8da-0fec-46a1-ab0c-1b221b235eb7/resource/d6bf2284-35b4-407a-88e3-ea8e284d0bca/download/09214-0600-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "さくら市",
+            "id": "b3c8d6ac-d5df-4121-8ed4-53604104b440",
+            "name": "さくら市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3c9a14fa-87d1-40e8-80f9-9eb518bc2827",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:11.203141",
+        "metadata_modified": "2024-04-15T03:30:16.921295",
+        "name": "houmusyouchizu-2024-1-484",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "那須烏山市（宇都宮地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:12:52.080260",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1f1274fb-1219-4b3b-9ed9-49f0178f87a5",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:12:52.069314",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3c9a14fa-87d1-40e8-80f9-9eb518bc2827",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:12:58.983650",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a371ed61-d9bb-4f0e-b695-cb564860254b",
+            "last_modified": "2024-04-01T09:12:58.942687",
+            "metadata_modified": "2024-04-01T09:12:58.970217",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09215-0600-2023.zip",
+            "package_id": "3c9a14fa-87d1-40e8-80f9-9eb518bc2827",
+            "position": 1,
+            "resource_type": null,
+            "size": 57575938,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3c9a14fa-87d1-40e8-80f9-9eb518bc2827/resource/a371ed61-d9bb-4f0e-b695-cb564860254b/download/09215-0600-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:11.854095",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9f514545-6716-4190-9550-57e7abd25a8f",
+            "last_modified": "2024-04-01T09:13:11.810741",
+            "metadata_modified": "2024-04-01T09:13:11.840432",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09215-0600-2024.zip",
+            "package_id": "3c9a14fa-87d1-40e8-80f9-9eb518bc2827",
+            "position": 2,
+            "resource_type": null,
+            "size": 57587749,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3c9a14fa-87d1-40e8-80f9-9eb518bc2827/resource/9f514545-6716-4190-9550-57e7abd25a8f/download/09215-0600-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "那須烏山市",
+            "id": "30d52eab-248c-4a1c-b251-fce4a62fdcac",
+            "name": "那須烏山市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8c372ef9-81a5-46fc-86f8-6f260e3744af",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:11.613853",
+        "metadata_modified": "2024-04-15T03:30:15.905031",
+        "name": "houmusyouchizu-2024-1-485",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "下野市（宇都宮地方法務局小山出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:18.335463",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "fc1d170d-8ed9-43b6-81f6-24ebcc61507f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:13:18.324284",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8c372ef9-81a5-46fc-86f8-6f260e3744af",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:22.074584",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "844071cc-cc82-45b7-a5f6-ef674b3a2d56",
+            "last_modified": "2024-04-01T09:13:22.034278",
+            "metadata_modified": "2024-04-01T09:13:22.061661",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09216-0624-2023.zip",
+            "package_id": "8c372ef9-81a5-46fc-86f8-6f260e3744af",
+            "position": 1,
+            "resource_type": null,
+            "size": 28061721,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8c372ef9-81a5-46fc-86f8-6f260e3744af/resource/844071cc-cc82-45b7-a5f6-ef674b3a2d56/download/09216-0624-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:30.224085",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "765e91de-6ad5-4ab1-b654-d50f39e5c7ac",
+            "last_modified": "2024-04-01T09:13:30.180143",
+            "metadata_modified": "2024-04-01T09:13:30.210253",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09216-0624-2024.zip",
+            "package_id": "8c372ef9-81a5-46fc-86f8-6f260e3744af",
+            "position": 2,
+            "resource_type": null,
+            "size": 28021791,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8c372ef9-81a5-46fc-86f8-6f260e3744af/resource/765e91de-6ad5-4ab1-b654-d50f39e5c7ac/download/09216-0624-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "下野市",
+            "id": "8678761c-0252-4c5d-9f62-8614e9ff12a6",
+            "name": "下野市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b388fd0d-3170-4838-b9d6-057b673dcd5d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:12.032196",
+        "metadata_modified": "2024-04-15T03:30:14.881365",
+        "name": "houmusyouchizu-2024-1-486",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "河内郡上三川町（宇都宮地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:34.948626",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "05a0fa22-21ee-4365-b29e-4a7d784a1d39",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:13:34.937451",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b388fd0d-3170-4838-b9d6-057b673dcd5d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:37.849552",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6e62e7f6-cf12-4799-8b8f-93187b359b0f",
+            "last_modified": "2024-04-01T09:13:37.807346",
+            "metadata_modified": "2024-04-01T09:13:37.836058",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09301-0600-2023.zip",
+            "package_id": "b388fd0d-3170-4838-b9d6-057b673dcd5d",
+            "position": 1,
+            "resource_type": null,
+            "size": 20019896,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b388fd0d-3170-4838-b9d6-057b673dcd5d/resource/6e62e7f6-cf12-4799-8b8f-93187b359b0f/download/09301-0600-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:44.292502",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "01a21297-17ac-4a74-b486-68d6ad78b3e9",
+            "last_modified": "2024-04-01T09:13:44.251164",
+            "metadata_modified": "2024-04-01T09:13:44.280426",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09301-0600-2024.zip",
+            "package_id": "b388fd0d-3170-4838-b9d6-057b673dcd5d",
+            "position": 2,
+            "resource_type": null,
+            "size": 20029360,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b388fd0d-3170-4838-b9d6-057b673dcd5d/resource/01a21297-17ac-4a74-b486-68d6ad78b3e9/download/09301-0600-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "河内郡上三川町",
+            "id": "9f6c8529-c2ea-4aef-a262-f12b26cde7cb",
+            "name": "河内郡上三川町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5c7609cb-7548-4bef-be43-c18933fb112f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:12.447923",
+        "metadata_modified": "2024-04-15T03:30:13.604737",
+        "name": "houmusyouchizu-2024-1-487",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "上都賀郡西方町（宇都宮地方法務局栃木支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:48.156639",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "2aad8f4b-fdf0-4468-bb19-101d5b7bc1e3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:13:48.143468",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5c7609cb-7548-4bef-be43-c18933fb112f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:49.225718",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "cf3219bd-9292-4bbe-ac67-456eae542c6a",
+            "last_modified": "2024-04-01T09:13:49.184704",
+            "metadata_modified": "2024-04-01T09:13:49.212332",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09321-0604-2023.zip",
+            "package_id": "5c7609cb-7548-4bef-be43-c18933fb112f",
+            "position": 1,
+            "resource_type": null,
+            "size": 4940320,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5c7609cb-7548-4bef-be43-c18933fb112f/resource/cf3219bd-9292-4bbe-ac67-456eae542c6a/download/09321-0604-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:52.722892",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "23de14f3-8ae2-4fb3-9f51-62bbfae0de86",
+            "last_modified": "2024-04-01T09:13:52.679833",
+            "metadata_modified": "2024-04-01T09:13:52.709154",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09321-0604-2024.zip",
+            "package_id": "5c7609cb-7548-4bef-be43-c18933fb112f",
+            "position": 2,
+            "resource_type": null,
+            "size": 4935701,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5c7609cb-7548-4bef-be43-c18933fb112f/resource/23de14f3-8ae2-4fb3-9f51-62bbfae0de86/download/09321-0604-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "上都賀郡西方町",
+            "id": "a9e596eb-8210-47f2-aa15-dadc54a8bf03",
+            "name": "上都賀郡西方町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5dfa1bd4-bb3d-452a-bc4f-822a564bba51",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:12.857887",
+        "metadata_modified": "2024-04-15T03:30:12.500794",
+        "name": "houmusyouchizu-2024-1-488",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "芳賀郡益子町（宇都宮地方法務局真岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:13:55.606334",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "6648b489-f808-43cb-8d11-aee7433b4db8",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:13:55.591921",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5dfa1bd4-bb3d-452a-bc4f-822a564bba51",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:14:00.926830",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2ae30b23-1170-4b76-97ce-af8206749204",
+            "last_modified": "2024-04-01T09:14:00.881259",
+            "metadata_modified": "2024-04-01T09:14:00.911690",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09342-0601-2023.zip",
+            "package_id": "5dfa1bd4-bb3d-452a-bc4f-822a564bba51",
+            "position": 1,
+            "resource_type": null,
+            "size": 32162152,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5dfa1bd4-bb3d-452a-bc4f-822a564bba51/resource/2ae30b23-1170-4b76-97ce-af8206749204/download/09342-0601-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:14:10.046126",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "50c059cc-10df-47b8-9125-223cb1fc41f2",
+            "last_modified": "2024-04-01T09:14:10.002321",
+            "metadata_modified": "2024-04-01T09:14:10.032672",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09342-0601-2024.zip",
+            "package_id": "5dfa1bd4-bb3d-452a-bc4f-822a564bba51",
+            "position": 2,
+            "resource_type": null,
+            "size": 32193576,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5dfa1bd4-bb3d-452a-bc4f-822a564bba51/resource/50c059cc-10df-47b8-9125-223cb1fc41f2/download/09342-0601-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "芳賀郡益子町",
+            "id": "b5290e57-13af-4e29-a494-874ee90a15bb",
+            "name": "芳賀郡益子町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "229520f2-76f0-42a2-831e-6b08f8e0228c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:13.292445",
+        "metadata_modified": "2024-04-15T03:30:11.387728",
+        "name": "houmusyouchizu-2024-1-489",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "芳賀郡茂木町（宇都宮地方法務局真岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:14:14.687043",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "5c0ff1ea-8295-4206-b699-d750df555d66",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:14:14.673369",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "229520f2-76f0-42a2-831e-6b08f8e0228c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:14:24.477907",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2f813c7c-d01b-40a3-9ed2-495503d00589",
+            "last_modified": "2024-04-01T09:14:24.439052",
+            "metadata_modified": "2024-04-01T09:14:24.466129",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09343-0601-2023.zip",
+            "package_id": "229520f2-76f0-42a2-831e-6b08f8e0228c",
+            "position": 1,
+            "resource_type": null,
+            "size": 78000887,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/229520f2-76f0-42a2-831e-6b08f8e0228c/resource/2f813c7c-d01b-40a3-9ed2-495503d00589/download/09343-0601-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:14:42.471529",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "524f9fb2-8f2c-4c42-ba58-52a71954f0fd",
+            "last_modified": "2024-04-01T09:14:42.427823",
+            "metadata_modified": "2024-04-01T09:14:42.458154",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09343-0601-2024.zip",
+            "package_id": "229520f2-76f0-42a2-831e-6b08f8e0228c",
+            "position": 2,
+            "resource_type": null,
+            "size": 78025404,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/229520f2-76f0-42a2-831e-6b08f8e0228c/resource/524f9fb2-8f2c-4c42-ba58-52a71954f0fd/download/09343-0601-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "芳賀郡茂木町",
+            "id": "90fb801e-a7f0-4d7f-8581-332eccb7fe17",
+            "name": "芳賀郡茂木町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8a868dc7-dd1f-4d14-84f9-65227ca04e1f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:13.713059",
+        "metadata_modified": "2024-04-15T03:30:10.341072",
+        "name": "houmusyouchizu-2024-1-490",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "芳賀郡市貝町（宇都宮地方法務局真岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:30:42.169191",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "c5e55011-89d1-4196-82bb-2abde691f099",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:30:42.155735",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8a868dc7-dd1f-4d14-84f9-65227ca04e1f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:30:47.068048",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f77bc12a-1a2e-4a4d-a845-e0bc6f87cc81",
+            "last_modified": "2024-04-01T09:30:47.012869",
+            "metadata_modified": "2024-04-01T09:30:47.049359",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09344-0601-2023.zip",
+            "package_id": "8a868dc7-dd1f-4d14-84f9-65227ca04e1f",
+            "position": 1,
+            "resource_type": null,
+            "size": 29559809,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8a868dc7-dd1f-4d14-84f9-65227ca04e1f/resource/f77bc12a-1a2e-4a4d-a845-e0bc6f87cc81/download/09344-0601-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:30:54.704876",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "915aca36-de80-4398-b64a-6247ef783a11",
+            "last_modified": "2024-04-01T09:30:54.662689",
+            "metadata_modified": "2024-04-01T09:30:54.692615",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09344-0601-2024.zip",
+            "package_id": "8a868dc7-dd1f-4d14-84f9-65227ca04e1f",
+            "position": 2,
+            "resource_type": null,
+            "size": 29598375,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8a868dc7-dd1f-4d14-84f9-65227ca04e1f/resource/915aca36-de80-4398-b64a-6247ef783a11/download/09344-0601-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "芳賀郡市貝町",
+            "id": "cc8042f2-d926-4565-a62f-145fd234fbde",
+            "name": "芳賀郡市貝町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a5c6cb40-2b61-4dc7-aac4-fecd2e43ef97",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:14.149815",
+        "metadata_modified": "2024-04-15T03:30:09.175764",
+        "name": "houmusyouchizu-2024-1-491",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "芳賀郡芳賀町（宇都宮地方法務局真岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:30:59.220950",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "348d8f09-d311-400b-a494-cd93e7651716",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:30:59.207539",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a5c6cb40-2b61-4dc7-aac4-fecd2e43ef97",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:02.502155",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5d4df38b-beb0-46cd-a3e1-8f58a88fee79",
+            "last_modified": "2024-04-01T09:31:02.458712",
+            "metadata_modified": "2024-04-01T09:31:02.488712",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09345-0601-2023.zip",
+            "package_id": "a5c6cb40-2b61-4dc7-aac4-fecd2e43ef97",
+            "position": 1,
+            "resource_type": null,
+            "size": 25200386,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a5c6cb40-2b61-4dc7-aac4-fecd2e43ef97/resource/5d4df38b-beb0-46cd-a3e1-8f58a88fee79/download/09345-0601-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:09.822850",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "78629f48-5aae-4611-98c4-fe530cd5eb7f",
+            "last_modified": "2024-04-01T09:31:09.776003",
+            "metadata_modified": "2024-04-01T09:31:09.810213",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09345-0601-2024.zip",
+            "package_id": "a5c6cb40-2b61-4dc7-aac4-fecd2e43ef97",
+            "position": 2,
+            "resource_type": null,
+            "size": 25209760,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a5c6cb40-2b61-4dc7-aac4-fecd2e43ef97/resource/78629f48-5aae-4611-98c4-fe530cd5eb7f/download/09345-0601-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "芳賀郡芳賀町",
+            "id": "a42a868c-c2fd-4dff-a4ca-96d39fe62e5b",
+            "name": "芳賀郡芳賀町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a4371d51-9376-4221-9522-29932ebe9f36",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:14.560267",
+        "metadata_modified": "2024-04-15T03:30:07.759354",
+        "name": "houmusyouchizu-2024-1-492",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "下都賀郡壬生町（宇都宮地方法務局栃木支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:14.085059",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "9a2c5851-5e8d-42d9-a5e2-6dacdcb263f6",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:31:14.071259",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a4371d51-9376-4221-9522-29932ebe9f36",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:18.415650",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b6d65adc-2620-4ad5-a831-d0677f205709",
+            "last_modified": "2024-04-01T09:31:18.376115",
+            "metadata_modified": "2024-04-01T09:31:18.403821",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09361-0604-2023.zip",
+            "package_id": "a4371d51-9376-4221-9522-29932ebe9f36",
+            "position": 1,
+            "resource_type": null,
+            "size": 31252073,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a4371d51-9376-4221-9522-29932ebe9f36/resource/b6d65adc-2620-4ad5-a831-d0677f205709/download/09361-0604-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:31:26.479756",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "93d8949f-32f7-4fc4-9d2d-6085861f7803",
+            "last_modified": "2024-04-01T09:31:26.436117",
+            "metadata_modified": "2024-04-01T09:31:26.465807",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09361-0604-2024.zip",
+            "package_id": "a4371d51-9376-4221-9522-29932ebe9f36",
+            "position": 2,
+            "resource_type": null,
+            "size": 31309875,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a4371d51-9376-4221-9522-29932ebe9f36/resource/93d8949f-32f7-4fc4-9d2d-6085861f7803/download/09361-0604-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "下都賀郡壬生町",
+            "id": "42594b7c-0cf9-48fb-a3f7-16f9205bd190",
+            "name": "下都賀郡壬生町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ccbf46fb-1ee6-40a9-9e9c-61b59423c35e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:23:17.506808",
+        "metadata_modified": "2024-04-15T03:30:00.692320",
+        "name": "houmusyouchizu-2024-1-499",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-09tochigi",
+          "name": "moj-09tochigi",
+          "title": "09栃木県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:09.050734",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-09tochigi",
+        "private": false,
+        "state": "active",
+        "title": "那須郡那珂川町（宇都宮地方法務局大田原支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:33:02.363642",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "5a617548-5126-4474-b2f1-921d601759f7",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T09:33:02.350662",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ccbf46fb-1ee6-40a9-9e9c-61b59423c35e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:33:09.187794",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9ec29b12-ba1d-4111-bef1-0f8efd39ca7a",
+            "last_modified": "2024-04-01T09:33:09.145185",
+            "metadata_modified": "2024-04-01T09:33:09.174343",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09411-0602-2023.zip",
+            "package_id": "ccbf46fb-1ee6-40a9-9e9c-61b59423c35e",
+            "position": 1,
+            "resource_type": null,
+            "size": 53758167,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ccbf46fb-1ee6-40a9-9e9c-61b59423c35e/resource/9ec29b12-ba1d-4111-bef1-0f8efd39ca7a/download/09411-0602-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T09:33:22.210394",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a170ec43-9ce0-4fc2-a83f-bde6bbcea452",
+            "last_modified": "2024-04-01T09:33:22.167446",
+            "metadata_modified": "2024-04-01T09:33:22.196949",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "09411-0602-2024.zip",
+            "package_id": "ccbf46fb-1ee6-40a9-9e9c-61b59423c35e",
+            "position": 2,
+            "resource_type": null,
+            "size": 53657135,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ccbf46fb-1ee6-40a9-9e9c-61b59423c35e/resource/a170ec43-9ce0-4fc2-a83f-bde6bbcea452/download/09411-0602-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栃木県",
+            "id": "9488135b-ce8d-4978-802e-e99b37222bd7",
+            "name": "栃木県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "那須郡那珂川町",
+            "id": "d1d6005f-1f0e-4a63-bb06-5e6f3a802372",
+            "name": "那須郡那珂川町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "metadata_modified desc",
+    "search_facets": {
+    }
+  }
+}

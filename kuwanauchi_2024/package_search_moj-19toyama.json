@@ -1,0 +1,2204 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 15,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "acac3f7b-799f-4e6c-89a8-e7e07621f48c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:45.046603",
+        "metadata_modified": "2024-04-15T03:23:34.905695",
+        "name": "houmusyouchizu-2024-1-844",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "富山市（富山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:35:58.265511",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "509d3fb3-f904-4c18-b29f-9cde815b4f83",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:35:58.252616",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "acac3f7b-799f-4e6c-89a8-e7e07621f48c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:37:22.929503",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d19b97c8-7e63-4855-99bd-25c0545b90de",
+            "last_modified": "2024-04-01T12:37:22.888274",
+            "metadata_modified": "2024-04-01T12:37:22.915817",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16201-2300-2023.zip",
+            "package_id": "acac3f7b-799f-4e6c-89a8-e7e07621f48c",
+            "position": 1,
+            "resource_type": null,
+            "size": 652568953,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/acac3f7b-799f-4e6c-89a8-e7e07621f48c/resource/d19b97c8-7e63-4855-99bd-25c0545b90de/download/16201-2300-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:39:32.087387",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "540c8331-70ba-4735-b310-029b9777584b",
+            "last_modified": "2024-04-01T12:39:32.044919",
+            "metadata_modified": "2024-04-01T12:39:32.073548",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16201-2300-2024.zip",
+            "package_id": "acac3f7b-799f-4e6c-89a8-e7e07621f48c",
+            "position": 2,
+            "resource_type": null,
+            "size": 652422945,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/acac3f7b-799f-4e6c-89a8-e7e07621f48c/resource/540c8331-70ba-4735-b310-029b9777584b/download/16201-2300-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山市",
+            "id": "c085dde3-85fa-4d2c-aee4-d8a4dc60b62b",
+            "name": "富山市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5c85c745-1793-4077-ac45-0fd1f87eb17e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:45.478275",
+        "metadata_modified": "2024-04-15T03:23:33.916757",
+        "name": "houmusyouchizu-2024-1-845",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "高岡市（富山地方法務局高岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:40:20.185173",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "e0e271f1-75ee-4555-a45d-daa633222452",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:40:20.171943",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5c85c745-1793-4077-ac45-0fd1f87eb17e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:40:36.512141",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "109c287a-5729-4d98-8d9f-644a98421058",
+            "last_modified": "2024-04-01T12:40:36.472215",
+            "metadata_modified": "2024-04-01T12:40:36.498827",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16202-2302-2023.zip",
+            "package_id": "5c85c745-1793-4077-ac45-0fd1f87eb17e",
+            "position": 1,
+            "resource_type": null,
+            "size": 139078365,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5c85c745-1793-4077-ac45-0fd1f87eb17e/resource/109c287a-5729-4d98-8d9f-644a98421058/download/16202-2302-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:41:08.164100",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7fbc6d24-e8ad-4177-9500-c379382557d3",
+            "last_modified": "2024-04-01T12:41:08.120876",
+            "metadata_modified": "2024-04-01T12:41:08.151431",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16202-2302-2024.zip",
+            "package_id": "5c85c745-1793-4077-ac45-0fd1f87eb17e",
+            "position": 2,
+            "resource_type": null,
+            "size": 139158039,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5c85c745-1793-4077-ac45-0fd1f87eb17e/resource/7fbc6d24-e8ad-4177-9500-c379382557d3/download/16202-2302-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高岡市",
+            "id": "b858d122-b541-4902-a28a-f90f9aa97b60",
+            "name": "高岡市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "53767c83-618f-4df5-937a-f24c08ef2ab4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:45.894403",
+        "metadata_modified": "2024-04-15T03:23:32.895160",
+        "name": "houmusyouchizu-2024-1-846",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "魚津市（富山地方法務局魚津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:41:20.896755",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "629c4eb3-7220-48ba-81b3-d7c7b2ac211e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:41:20.882739",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "53767c83-618f-4df5-937a-f24c08ef2ab4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:41:34.431155",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "148e2801-390c-4e7c-a02a-bc3ec0dbec94",
+            "last_modified": "2024-04-01T12:41:34.392102",
+            "metadata_modified": "2024-04-01T12:41:34.419227",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16204-2301-2023.zip",
+            "package_id": "53767c83-618f-4df5-937a-f24c08ef2ab4",
+            "position": 1,
+            "resource_type": null,
+            "size": 113338451,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/53767c83-618f-4df5-937a-f24c08ef2ab4/resource/148e2801-390c-4e7c-a02a-bc3ec0dbec94/download/16204-2301-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:41:59.004774",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c9c41f51-5fd5-4f2d-8457-935f96879b48",
+            "last_modified": "2024-04-01T12:41:58.949286",
+            "metadata_modified": "2024-04-01T12:41:58.985684",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16204-2301-2024.zip",
+            "package_id": "53767c83-618f-4df5-937a-f24c08ef2ab4",
+            "position": 2,
+            "resource_type": null,
+            "size": 113323344,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/53767c83-618f-4df5-937a-f24c08ef2ab4/resource/c9c41f51-5fd5-4f2d-8457-935f96879b48/download/16204-2301-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "魚津市",
+            "id": "8c13fe6e-a01d-4c19-bc9e-4286aabb75f0",
+            "name": "魚津市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7f50a59b-c6fd-495a-b04a-6e0ab9c9450f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:46.320472",
+        "metadata_modified": "2024-04-15T03:23:31.954801",
+        "name": "houmusyouchizu-2024-1-847",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "氷見市（富山地方法務局高岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:42:09.425119",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "5bc1e495-7777-480e-ad1d-bb399acbe137",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:42:09.411744",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7f50a59b-c6fd-495a-b04a-6e0ab9c9450f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:42:30.910724",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b1cb8d6f-aedf-4456-b88d-a1543eaa9eae",
+            "last_modified": "2024-04-01T12:42:30.870881",
+            "metadata_modified": "2024-04-01T12:42:30.899059",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16205-2302-2023.zip",
+            "package_id": "7f50a59b-c6fd-495a-b04a-6e0ab9c9450f",
+            "position": 1,
+            "resource_type": null,
+            "size": 181539838,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7f50a59b-c6fd-495a-b04a-6e0ab9c9450f/resource/b1cb8d6f-aedf-4456-b88d-a1543eaa9eae/download/16205-2302-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:43:10.827923",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "59f5eb46-e40a-4146-be9d-82389f07ac87",
+            "last_modified": "2024-04-01T12:43:10.784407",
+            "metadata_modified": "2024-04-01T12:43:10.815945",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16205-2302-2024.zip",
+            "package_id": "7f50a59b-c6fd-495a-b04a-6e0ab9c9450f",
+            "position": 2,
+            "resource_type": null,
+            "size": 180964951,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7f50a59b-c6fd-495a-b04a-6e0ab9c9450f/resource/59f5eb46-e40a-4146-be9d-82389f07ac87/download/16205-2302-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "氷見市",
+            "id": "d3db4089-af64-4b34-bee1-7ce9c4c04938",
+            "name": "氷見市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0080594e-612c-4d5d-8683-9a68c6ab821f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:46.731393",
+        "metadata_modified": "2024-04-15T03:23:30.976506",
+        "name": "houmusyouchizu-2024-1-848",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "滑川市（富山地方法務局魚津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:43:25.759997",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8a16e852-d264-442a-9902-da7548ed0bf4",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:43:25.748244",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0080594e-612c-4d5d-8683-9a68c6ab821f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:43:33.992111",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "66547bce-2217-441e-8cd4-cb6340de496d",
+            "last_modified": "2024-04-01T12:43:33.945335",
+            "metadata_modified": "2024-04-01T12:43:33.978374",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16206-2301-2023.zip",
+            "package_id": "0080594e-612c-4d5d-8683-9a68c6ab821f",
+            "position": 1,
+            "resource_type": null,
+            "size": 59180086,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0080594e-612c-4d5d-8683-9a68c6ab821f/resource/66547bce-2217-441e-8cd4-cb6340de496d/download/16206-2301-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:43:48.713461",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "810ebcce-7976-401b-9627-57a156bb93cc",
+            "last_modified": "2024-04-01T12:43:48.664823",
+            "metadata_modified": "2024-04-01T12:43:48.694391",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16206-2301-2024.zip",
+            "package_id": "0080594e-612c-4d5d-8683-9a68c6ab821f",
+            "position": 2,
+            "resource_type": null,
+            "size": 59190823,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0080594e-612c-4d5d-8683-9a68c6ab821f/resource/810ebcce-7976-401b-9627-57a156bb93cc/download/16206-2301-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滑川市",
+            "id": "b8f6e62d-4990-42fb-b9f2-5261a0c355a3",
+            "name": "滑川市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a3e86c00-27f1-49d9-ada2-9db9d481670c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:47.146934",
+        "metadata_modified": "2024-04-15T03:23:30.020860",
+        "name": "houmusyouchizu-2024-1-849",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "黒部市（富山地方法務局魚津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:43:55.330307",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "b0df99c3-a36f-4a72-b763-7f1ebebf34db",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:43:55.317279",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a3e86c00-27f1-49d9-ada2-9db9d481670c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:44:06.549530",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ef7c4acc-23d2-420e-ad52-1f78db11c18e",
+            "last_modified": "2024-04-01T12:44:06.509264",
+            "metadata_modified": "2024-04-01T12:44:06.537453",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16207-2301-2023.zip",
+            "package_id": "a3e86c00-27f1-49d9-ada2-9db9d481670c",
+            "position": 1,
+            "resource_type": null,
+            "size": 89192926,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a3e86c00-27f1-49d9-ada2-9db9d481670c/resource/ef7c4acc-23d2-420e-ad52-1f78db11c18e/download/16207-2301-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:44:27.020877",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "da30da2c-c48c-4ffb-ba4b-9bda038c278f",
+            "last_modified": "2024-04-01T12:44:26.977824",
+            "metadata_modified": "2024-04-01T12:44:27.008073",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16207-2301-2024.zip",
+            "package_id": "a3e86c00-27f1-49d9-ada2-9db9d481670c",
+            "position": 2,
+            "resource_type": null,
+            "size": 89250279,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a3e86c00-27f1-49d9-ada2-9db9d481670c/resource/da30da2c-c48c-4ffb-ba4b-9bda038c278f/download/16207-2301-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "黒部市",
+            "id": "97efa98d-bded-47c6-8d7d-6821c31e90c6",
+            "name": "黒部市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "fa0b863e-474d-4770-be30-91b7f14ee2da",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:47.559053",
+        "metadata_modified": "2024-04-15T03:23:29.062920",
+        "name": "houmusyouchizu-2024-1-850",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "砺波市（富山地方法務局砺波支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:44:35.653455",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "44c9189b-d4c2-4c6d-9368-c1af49334147",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:44:35.640678",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "fa0b863e-474d-4770-be30-91b7f14ee2da",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:44:45.057434",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f1ed8671-a7f6-4f11-85e7-f4bcccf1d43a",
+            "last_modified": "2024-04-01T12:44:45.015556",
+            "metadata_modified": "2024-04-01T12:44:45.043538",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16208-2303-2023.zip",
+            "package_id": "fa0b863e-474d-4770-be30-91b7f14ee2da",
+            "position": 1,
+            "resource_type": null,
+            "size": 76202570,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fa0b863e-474d-4770-be30-91b7f14ee2da/resource/f1ed8671-a7f6-4f11-85e7-f4bcccf1d43a/download/16208-2303-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:45:01.856511",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ccab7b8b-1068-4ec3-bb48-ed5c83292829",
+            "last_modified": "2024-04-01T12:45:01.810094",
+            "metadata_modified": "2024-04-01T12:45:01.841956",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16208-2303-2024.zip",
+            "package_id": "fa0b863e-474d-4770-be30-91b7f14ee2da",
+            "position": 2,
+            "resource_type": null,
+            "size": 76233160,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fa0b863e-474d-4770-be30-91b7f14ee2da/resource/ccab7b8b-1068-4ec3-bb48-ed5c83292829/download/16208-2303-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "砺波市",
+            "id": "f6defccf-e506-4098-b98f-770c59835364",
+            "name": "砺波市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e1a17364-c81d-4fbe-961d-9f856e881ee7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:47.971519",
+        "metadata_modified": "2024-04-15T03:23:28.065279",
+        "name": "houmusyouchizu-2024-1-851",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "小矢部市（富山地方法務局砺波支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:45:10.201446",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "daeaf9a6-c3b5-4b9b-8617-f0a67c6ed241",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:45:10.187606",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e1a17364-c81d-4fbe-961d-9f856e881ee7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:45:26.742485",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "971edcc1-ddfe-4757-9555-422c247c8be9",
+            "last_modified": "2024-04-01T12:45:26.701868",
+            "metadata_modified": "2024-04-01T12:45:26.730286",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16209-2303-2023.zip",
+            "package_id": "e1a17364-c81d-4fbe-961d-9f856e881ee7",
+            "position": 1,
+            "resource_type": null,
+            "size": 117198821,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e1a17364-c81d-4fbe-961d-9f856e881ee7/resource/971edcc1-ddfe-4757-9555-422c247c8be9/download/16209-2303-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:45:52.133260",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "914c449f-e886-42c1-ab04-15a170db5cda",
+            "last_modified": "2024-04-01T12:45:52.092647",
+            "metadata_modified": "2024-04-01T12:45:52.121458",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16209-2303-2024.zip",
+            "package_id": "e1a17364-c81d-4fbe-961d-9f856e881ee7",
+            "position": 2,
+            "resource_type": null,
+            "size": 117218785,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e1a17364-c81d-4fbe-961d-9f856e881ee7/resource/914c449f-e886-42c1-ab04-15a170db5cda/download/16209-2303-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "小矢部市",
+            "id": "1b4dab49-abfe-4f62-b7b7-118cc686a71d",
+            "name": "小矢部市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3c47fbd9-93cf-416e-b3a5-328e20ab69f7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:48.391458",
+        "metadata_modified": "2024-04-15T03:23:27.050348",
+        "name": "houmusyouchizu-2024-1-852",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "南砺市（富山地方法務局砺波支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:46:02.762854",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "0a8d72c6-de50-4a0d-bc86-9f9af9c0cd30",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:46:02.750913",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3c47fbd9-93cf-416e-b3a5-328e20ab69f7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:46:34.549816",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "75af6f94-a2b9-408f-bea9-f1fca53c6333",
+            "last_modified": "2024-04-01T12:46:34.508004",
+            "metadata_modified": "2024-04-01T12:46:34.535813",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16210-2303-2023.zip",
+            "package_id": "3c47fbd9-93cf-416e-b3a5-328e20ab69f7",
+            "position": 1,
+            "resource_type": null,
+            "size": 215379077,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3c47fbd9-93cf-416e-b3a5-328e20ab69f7/resource/75af6f94-a2b9-408f-bea9-f1fca53c6333/download/16210-2303-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:47:20.156487",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1d45d53c-8436-49af-a92e-0b23cf58c4ce",
+            "last_modified": "2024-04-01T12:47:20.112443",
+            "metadata_modified": "2024-04-01T12:47:20.143249",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16210-2303-2024.zip",
+            "package_id": "3c47fbd9-93cf-416e-b3a5-328e20ab69f7",
+            "position": 2,
+            "resource_type": null,
+            "size": 214879547,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3c47fbd9-93cf-416e-b3a5-328e20ab69f7/resource/1d45d53c-8436-49af-a92e-0b23cf58c4ce/download/16210-2303-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "南砺市",
+            "id": "41345613-c3b9-48bb-8130-5f43c090ab8a",
+            "name": "南砺市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "96751e55-0cad-4195-96a6-9304d422ed74",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:48.810920",
+        "metadata_modified": "2024-04-15T03:23:26.061671",
+        "name": "houmusyouchizu-2024-1-853",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "射水市（富山地方法務局高岡支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:47:37.468855",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "14a33ff7-41ef-4a5c-b298-0528dd4b00c3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:47:37.455967",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "96751e55-0cad-4195-96a6-9304d422ed74",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:47:48.390824",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c1fc951b-09e4-4f47-8afd-6d400a266c14",
+            "last_modified": "2024-04-01T12:47:48.351243",
+            "metadata_modified": "2024-04-01T12:47:48.377668",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16211-2302-2023.zip",
+            "package_id": "96751e55-0cad-4195-96a6-9304d422ed74",
+            "position": 1,
+            "resource_type": null,
+            "size": 74946349,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/96751e55-0cad-4195-96a6-9304d422ed74/resource/c1fc951b-09e4-4f47-8afd-6d400a266c14/download/16211-2302-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:48:06.926471",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d1a2892d-d554-4a80-9fab-489446393071",
+            "last_modified": "2024-04-01T12:48:06.884374",
+            "metadata_modified": "2024-04-01T12:48:06.913155",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16211-2302-2024.zip",
+            "package_id": "96751e55-0cad-4195-96a6-9304d422ed74",
+            "position": 2,
+            "resource_type": null,
+            "size": 74984339,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/96751e55-0cad-4195-96a6-9304d422ed74/resource/d1a2892d-d554-4a80-9fab-489446393071/download/16211-2302-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "射水市",
+            "id": "85a32d49-1ce2-4cea-9a69-af505a310aea",
+            "name": "射水市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "2181c928-cddd-4096-af71-1513521db20c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:49.211428",
+        "metadata_modified": "2024-04-15T03:23:25.027004",
+        "name": "houmusyouchizu-2024-1-854",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "中新川郡舟橋村（富山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:48:14.767220",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "c389bb2f-60cd-464d-992f-64ca88622e2e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:48:14.755821",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "2181c928-cddd-4096-af71-1513521db20c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:48:16.129907",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1ff8ae56-8498-4cbe-a920-ea61ef982cd1",
+            "last_modified": "2024-04-01T12:48:16.088796",
+            "metadata_modified": "2024-04-01T12:48:16.116411",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16321-2300-2023.zip",
+            "package_id": "2181c928-cddd-4096-af71-1513521db20c",
+            "position": 1,
+            "resource_type": null,
+            "size": 3678737,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2181c928-cddd-4096-af71-1513521db20c/resource/1ff8ae56-8498-4cbe-a920-ea61ef982cd1/download/16321-2300-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:48:19.684698",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7164a86c-ac2a-4f54-8a9c-af0b3bd73419",
+            "last_modified": "2024-04-01T12:48:19.642277",
+            "metadata_modified": "2024-04-01T12:48:19.671113",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16321-2300-2024.zip",
+            "package_id": "2181c928-cddd-4096-af71-1513521db20c",
+            "position": 2,
+            "resource_type": null,
+            "size": 3681443,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2181c928-cddd-4096-af71-1513521db20c/resource/7164a86c-ac2a-4f54-8a9c-af0b3bd73419/download/16321-2300-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "中新川郡舟橋村",
+            "id": "d1bc5636-833f-4de7-acfc-abb67aee1a3f",
+            "name": "中新川郡舟橋村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9caab121-b5ae-45dd-ae9c-2b50ba0bac2e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:49.611950",
+        "metadata_modified": "2024-04-15T03:23:24.034086",
+        "name": "houmusyouchizu-2024-1-855",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "中新川郡上市町（富山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:48:22.558073",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "e53852bb-ca63-47b4-bd8d-0688675d350e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:48:22.546518",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9caab121-b5ae-45dd-ae9c-2b50ba0bac2e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:48:33.534809",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "cf0232fd-d1a3-40a6-ae1d-666aa275af0d",
+            "last_modified": "2024-04-01T12:48:33.474279",
+            "metadata_modified": "2024-04-01T12:48:33.519018",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16322-2300-2023.zip",
+            "package_id": "9caab121-b5ae-45dd-ae9c-2b50ba0bac2e",
+            "position": 1,
+            "resource_type": null,
+            "size": 83094380,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9caab121-b5ae-45dd-ae9c-2b50ba0bac2e/resource/cf0232fd-d1a3-40a6-ae1d-666aa275af0d/download/16322-2300-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:48:52.450957",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4ba87e61-33dc-453f-88bb-30c476e27d81",
+            "last_modified": "2024-04-01T12:48:52.411190",
+            "metadata_modified": "2024-04-01T12:48:52.439361",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16322-2300-2024.zip",
+            "package_id": "9caab121-b5ae-45dd-ae9c-2b50ba0bac2e",
+            "position": 2,
+            "resource_type": null,
+            "size": 82982427,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9caab121-b5ae-45dd-ae9c-2b50ba0bac2e/resource/4ba87e61-33dc-453f-88bb-30c476e27d81/download/16322-2300-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "中新川郡上市町",
+            "id": "ca0a7dbc-71dc-4aa7-9187-99ea0c10347a",
+            "name": "中新川郡上市町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "de4287c7-b4ad-4fa0-be53-88530759ebe3",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:50.024680",
+        "metadata_modified": "2024-04-15T03:23:23.050579",
+        "name": "houmusyouchizu-2024-1-856",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "中新川郡立山町（富山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:49:00.777138",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "cf475d2e-084a-414b-91eb-616e2f2346c5",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:49:00.765535",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "de4287c7-b4ad-4fa0-be53-88530759ebe3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:49:12.860447",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2c4b3855-88a4-4304-a046-9e14e7c80b8b",
+            "last_modified": "2024-04-01T12:49:12.819911",
+            "metadata_modified": "2024-04-01T12:49:12.848085",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16323-2300-2023.zip",
+            "package_id": "de4287c7-b4ad-4fa0-be53-88530759ebe3",
+            "position": 1,
+            "resource_type": null,
+            "size": 95472307,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/de4287c7-b4ad-4fa0-be53-88530759ebe3/resource/2c4b3855-88a4-4304-a046-9e14e7c80b8b/download/16323-2300-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:49:32.560788",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "fa00814c-ccca-4a22-84be-5a5ab353516d",
+            "last_modified": "2024-04-01T12:49:32.518994",
+            "metadata_modified": "2024-04-01T12:49:32.548531",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16323-2300-2024.zip",
+            "package_id": "de4287c7-b4ad-4fa0-be53-88530759ebe3",
+            "position": 2,
+            "resource_type": null,
+            "size": 94905518,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/de4287c7-b4ad-4fa0-be53-88530759ebe3/resource/fa00814c-ccca-4a22-84be-5a5ab353516d/download/16323-2300-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "中新川郡立山町",
+            "id": "bc9fc28b-c27f-4a98-8d7b-15149f4093d7",
+            "name": "中新川郡立山町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bfcb2e86-b2c1-4189-8a63-5df51ae7ff2a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:50.444651",
+        "metadata_modified": "2024-04-15T03:23:22.040210",
+        "name": "houmusyouchizu-2024-1-857",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "下新川郡入善町（富山地方法務局魚津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:49:41.470980",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ab900a8f-9707-4afe-a93f-a22b88755655",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:49:41.457952",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bfcb2e86-b2c1-4189-8a63-5df51ae7ff2a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:49:46.260933",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e3764a09-7fee-40de-9f57-7871225c3b17",
+            "last_modified": "2024-04-01T12:49:46.220315",
+            "metadata_modified": "2024-04-01T12:49:46.247682",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16342-2301-2023.zip",
+            "package_id": "bfcb2e86-b2c1-4189-8a63-5df51ae7ff2a",
+            "position": 1,
+            "resource_type": null,
+            "size": 33893791,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bfcb2e86-b2c1-4189-8a63-5df51ae7ff2a/resource/e3764a09-7fee-40de-9f57-7871225c3b17/download/16342-2301-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:49:55.319978",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9ca3811b-e880-4ff4-9400-862b8aecf153",
+            "last_modified": "2024-04-01T12:49:55.279204",
+            "metadata_modified": "2024-04-01T12:49:55.307090",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16342-2301-2024.zip",
+            "package_id": "bfcb2e86-b2c1-4189-8a63-5df51ae7ff2a",
+            "position": 2,
+            "resource_type": null,
+            "size": 33906038,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bfcb2e86-b2c1-4189-8a63-5df51ae7ff2a/resource/9ca3811b-e880-4ff4-9400-862b8aecf153/download/16342-2301-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "下新川郡入善町",
+            "id": "f9ae396f-0062-4fe4-a888-228f801a673c",
+            "name": "下新川郡入善町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "046137d4-f371-4555-9e8d-727f1802e42d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:25:50.914278",
+        "metadata_modified": "2024-04-15T03:23:21.032308",
+        "name": "houmusyouchizu-2024-1-858",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-19toyama",
+          "name": "moj-19toyama",
+          "title": "19富山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:19.092859",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-19toyama",
+        "private": false,
+        "state": "active",
+        "title": "下新川郡朝日町（富山地方法務局魚津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:50:00.303880",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "72de5bb0-ab2d-4b0c-a46c-965d296ed538",
+            "last_modified": null,
+            "metadata_modified": "2024-04-01T12:50:00.292193",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "046137d4-f371-4555-9e8d-727f1802e42d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:50:09.061648",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5b40fef5-9ccf-4b1d-b375-8417b98ad1a7",
+            "last_modified": "2024-04-01T12:50:09.019490",
+            "metadata_modified": "2024-04-01T12:50:09.047830",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16343-2301-2023.zip",
+            "package_id": "046137d4-f371-4555-9e8d-727f1802e42d",
+            "position": 1,
+            "resource_type": null,
+            "size": 64024571,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/046137d4-f371-4555-9e8d-727f1802e42d/resource/5b40fef5-9ccf-4b1d-b375-8417b98ad1a7/download/16343-2301-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-01T12:50:24.335717",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "43604261-c8b4-422a-a6ec-f39121bd9684",
+            "last_modified": "2024-04-01T12:50:24.293186",
+            "metadata_modified": "2024-04-01T12:50:24.321953",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "16343-2301-2024.zip",
+            "package_id": "046137d4-f371-4555-9e8d-727f1802e42d",
+            "position": 2,
+            "resource_type": null,
+            "size": 63900158,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/046137d4-f371-4555-9e8d-727f1802e42d/resource/43604261-c8b4-422a-a6ec-f39121bd9684/download/16343-2301-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "下新川郡朝日町",
+            "id": "300bad16-0677-4ed4-8df5-c0b5ba802303",
+            "name": "下新川郡朝日町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "富山県",
+            "id": "d7f11cde-8aa8-4bbd-9297-635485520fcc",
+            "name": "富山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "metadata_modified desc",
+    "search_facets": {
+    }
+  }
+}

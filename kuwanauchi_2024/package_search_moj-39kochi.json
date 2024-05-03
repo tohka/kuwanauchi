@@ -1,0 +1,5124 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 35,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "25e98b31-e653-43e8-a393-ab4e893c2a22",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:30.208036",
+        "metadata_modified": "2024-04-15T03:08:57.001154",
+        "name": "houmusyouchizu-2024-1-1670",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "高知市（高知地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:04:23.278261",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "2733aa2d-1c9b-439d-affe-0991e79c0fee",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:04:23.265504",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "25e98b31-e653-43e8-a393-ab4e893c2a22",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:04:52.300017",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "cb6bd6ca-102e-4774-bf8b-3053f0d7cab2",
+            "last_modified": "2024-04-02T09:04:52.258235",
+            "metadata_modified": "2024-04-02T09:04:52.286540",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39201-4900-2023.zip",
+            "package_id": "25e98b31-e653-43e8-a393-ab4e893c2a22",
+            "position": 1,
+            "resource_type": null,
+            "size": 242574216,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/25e98b31-e653-43e8-a393-ab4e893c2a22/resource/cb6bd6ca-102e-4774-bf8b-3053f0d7cab2/download/39201-4900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:05:44.235745",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "bc5a5e8e-ab0a-4bd6-928d-ba82313ff30b",
+            "last_modified": "2024-04-02T09:05:44.169795",
+            "metadata_modified": "2024-04-02T09:05:44.210480",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39201-4900-2024.zip",
+            "package_id": "25e98b31-e653-43e8-a393-ab4e893c2a22",
+            "position": 2,
+            "resource_type": null,
+            "size": 242409592,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/25e98b31-e653-43e8-a393-ab4e893c2a22/resource/bc5a5e8e-ab0a-4bd6-928d-ba82313ff30b/download/39201-4900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知市",
+            "id": "c97c2f87-c4be-4473-87b2-49c8259f95b6",
+            "name": "高知市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "67f5ab8f-3678-477d-a419-17474f830411",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:30.640031",
+        "metadata_modified": "2024-04-15T03:08:55.899871",
+        "name": "houmusyouchizu-2024-1-1671",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "室戸市（高知地方法務局安芸支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:06:03.821818",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "7f1c960b-df6c-4f6b-b4d1-f756a9132b08",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:06:03.808779",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "67f5ab8f-3678-477d-a419-17474f830411",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:06:11.099256",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0156b508-8076-448b-ba44-cd88e752aeac",
+            "last_modified": "2024-04-02T09:06:11.056425",
+            "metadata_modified": "2024-04-02T09:06:11.087471",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39202-4903-2023.zip",
+            "package_id": "67f5ab8f-3678-477d-a419-17474f830411",
+            "position": 1,
+            "resource_type": null,
+            "size": 56213838,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/67f5ab8f-3678-477d-a419-17474f830411/resource/0156b508-8076-448b-ba44-cd88e752aeac/download/39202-4903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:06:24.855770",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8104fafd-d332-40b4-bc54-dd5d457e7fdc",
+            "last_modified": "2024-04-02T09:06:24.814247",
+            "metadata_modified": "2024-04-02T09:06:24.843628",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39202-4903-2024.zip",
+            "package_id": "67f5ab8f-3678-477d-a419-17474f830411",
+            "position": 2,
+            "resource_type": null,
+            "size": 55885445,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/67f5ab8f-3678-477d-a419-17474f830411/resource/8104fafd-d332-40b4-bc54-dd5d457e7fdc/download/39202-4903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "室戸市",
+            "id": "5d52dfc5-2067-4467-a31c-e95c4b9818af",
+            "name": "室戸市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0c282bd5-0ac9-4800-84c0-3aec527330cd",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:31.093272",
+        "metadata_modified": "2024-04-15T03:08:54.861476",
+        "name": "houmusyouchizu-2024-1-1672",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "安芸市（高知地方法務局安芸支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:06:31.460945",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "7f89dc49-842f-4709-8c4d-f7010bdd6358",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:06:31.449323",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0c282bd5-0ac9-4800-84c0-3aec527330cd",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:06:42.100934",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "993261f0-da0e-4f90-89ee-d8a02abefd5b",
+            "last_modified": "2024-04-02T09:06:42.060070",
+            "metadata_modified": "2024-04-02T09:06:42.087236",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39203-4903-2023.zip",
+            "package_id": "0c282bd5-0ac9-4800-84c0-3aec527330cd",
+            "position": 1,
+            "resource_type": null,
+            "size": 91506194,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0c282bd5-0ac9-4800-84c0-3aec527330cd/resource/993261f0-da0e-4f90-89ee-d8a02abefd5b/download/39203-4903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:07:02.261377",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "57b89a82-9eb9-4d9c-8a64-37d3469c65af",
+            "last_modified": "2024-04-02T09:07:02.217897",
+            "metadata_modified": "2024-04-02T09:07:02.248944",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39203-4903-2024.zip",
+            "package_id": "0c282bd5-0ac9-4800-84c0-3aec527330cd",
+            "position": 2,
+            "resource_type": null,
+            "size": 91546184,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0c282bd5-0ac9-4800-84c0-3aec527330cd/resource/57b89a82-9eb9-4d9c-8a64-37d3469c65af/download/39203-4903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸市",
+            "id": "f21f20ca-394d-44a8-aba9-accc3eb9e334",
+            "name": "安芸市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ac408dfb-da80-44ec-bde5-ce15c46314bb",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:31.512337",
+        "metadata_modified": "2024-04-15T03:08:53.810937",
+        "name": "houmusyouchizu-2024-1-1673",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "南国市（高知地方法務局香美支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:07:11.346002",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "37aed50e-c5a0-4286-8512-d7d46fc66f10",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:07:11.334664",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ac408dfb-da80-44ec-bde5-ce15c46314bb",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:07:25.025202",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "50743f2d-a212-45b4-8f64-f9bc894b67c2",
+            "last_modified": "2024-04-02T09:07:24.980657",
+            "metadata_modified": "2024-04-02T09:07:25.010855",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39204-4913-2023.zip",
+            "package_id": "ac408dfb-da80-44ec-bde5-ce15c46314bb",
+            "position": 1,
+            "resource_type": null,
+            "size": 116179238,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ac408dfb-da80-44ec-bde5-ce15c46314bb/resource/50743f2d-a212-45b4-8f64-f9bc894b67c2/download/39204-4913-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:07:50.370496",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8a88c7aa-060f-4a47-aa42-c8e30e8c44d2",
+            "last_modified": "2024-04-02T09:07:50.328318",
+            "metadata_modified": "2024-04-02T09:07:50.356862",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39204-4913-2024.zip",
+            "package_id": "ac408dfb-da80-44ec-bde5-ce15c46314bb",
+            "position": 2,
+            "resource_type": null,
+            "size": 115396047,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ac408dfb-da80-44ec-bde5-ce15c46314bb/resource/8a88c7aa-060f-4a47-aa42-c8e30e8c44d2/download/39204-4913-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "南国市",
+            "id": "e1ea9b1b-f080-45ad-9fc9-986a4e704565",
+            "name": "南国市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a0cb4b73-09ba-4c1e-ada1-20728319a866",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:31.929431",
+        "metadata_modified": "2024-04-15T03:08:52.712052",
+        "name": "houmusyouchizu-2024-1-1674",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "土佐市（高知地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:08:00.804890",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ac80d1a5-9996-47be-9a99-55792fb6cba5",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:08:00.791849",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a0cb4b73-09ba-4c1e-ada1-20728319a866",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:08:11.836036",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "3ff6441e-4675-47b2-99b1-cc894b9ded67",
+            "last_modified": "2024-04-02T09:08:11.797233",
+            "metadata_modified": "2024-04-02T09:08:11.824397",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39205-4900-2023.zip",
+            "package_id": "a0cb4b73-09ba-4c1e-ada1-20728319a866",
+            "position": 1,
+            "resource_type": null,
+            "size": 86162243,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a0cb4b73-09ba-4c1e-ada1-20728319a866/resource/3ff6441e-4675-47b2-99b1-cc894b9ded67/download/39205-4900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:08:30.701663",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "01c9621c-5746-4ce6-9759-4dc1f8aca456",
+            "last_modified": "2024-04-02T09:08:30.659293",
+            "metadata_modified": "2024-04-02T09:08:30.688299",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39205-4900-2024.zip",
+            "package_id": "a0cb4b73-09ba-4c1e-ada1-20728319a866",
+            "position": 2,
+            "resource_type": null,
+            "size": 85023795,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a0cb4b73-09ba-4c1e-ada1-20728319a866/resource/01c9621c-5746-4ce6-9759-4dc1f8aca456/download/39205-4900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "土佐市",
+            "id": "574808d1-2b0e-4e51-9d0a-60e93495da2f",
+            "name": "土佐市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b489c515-2848-4611-bf11-a35545dec2f9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:32.370578",
+        "metadata_modified": "2024-04-15T03:08:51.609902",
+        "name": "houmusyouchizu-2024-1-1675",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "須崎市（高知地方法務局須崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:08:38.978594",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "58818da4-2ee6-4645-922e-046f6fb91166",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:08:38.965631",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b489c515-2848-4611-bf11-a35545dec2f9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:08:48.245917",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6e9e2493-289a-40ef-a336-f22d802ddf26",
+            "last_modified": "2024-04-02T09:08:48.205171",
+            "metadata_modified": "2024-04-02T09:08:48.232789",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39206-4902-2023.zip",
+            "package_id": "b489c515-2848-4611-bf11-a35545dec2f9",
+            "position": 1,
+            "resource_type": null,
+            "size": 73657778,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b489c515-2848-4611-bf11-a35545dec2f9/resource/6e9e2493-289a-40ef-a336-f22d802ddf26/download/39206-4902-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:09:04.517823",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6d5bf03e-d143-495f-a0f9-70059e604a78",
+            "last_modified": "2024-04-02T09:09:04.472786",
+            "metadata_modified": "2024-04-02T09:09:04.503651",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39206-4902-2024.zip",
+            "package_id": "b489c515-2848-4611-bf11-a35545dec2f9",
+            "position": 2,
+            "resource_type": null,
+            "size": 73657243,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b489c515-2848-4611-bf11-a35545dec2f9/resource/6d5bf03e-d143-495f-a0f9-70059e604a78/download/39206-4902-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "須崎市",
+            "id": "521104b0-e948-4cc3-85b2-28c62f5202f8",
+            "name": "須崎市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "86aad46d-b8e0-4ae3-94c1-250191099b26",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:32.806446",
+        "metadata_modified": "2024-04-15T03:08:50.485948",
+        "name": "houmusyouchizu-2024-1-1676",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "宿毛市（高知地方法務局四万十支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:09:12.132826",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "76367a20-6ae9-4feb-902d-135103436b7b",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:09:12.115481",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "86aad46d-b8e0-4ae3-94c1-250191099b26",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:09:22.729364",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "041b2774-57a2-4016-b329-f0f786f2264f",
+            "last_modified": "2024-04-02T09:09:22.689364",
+            "metadata_modified": "2024-04-02T09:09:22.717481",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39208-4904-2023.zip",
+            "package_id": "86aad46d-b8e0-4ae3-94c1-250191099b26",
+            "position": 1,
+            "resource_type": null,
+            "size": 82365071,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/86aad46d-b8e0-4ae3-94c1-250191099b26/resource/041b2774-57a2-4016-b329-f0f786f2264f/download/39208-4904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:09:42.898395",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "800a306f-38b0-4023-b9b0-585cd4f8eddf",
+            "last_modified": "2024-04-02T09:09:42.854435",
+            "metadata_modified": "2024-04-02T09:09:42.884624",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39208-4904-2024.zip",
+            "package_id": "86aad46d-b8e0-4ae3-94c1-250191099b26",
+            "position": 2,
+            "resource_type": null,
+            "size": 82172755,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/86aad46d-b8e0-4ae3-94c1-250191099b26/resource/800a306f-38b0-4023-b9b0-585cd4f8eddf/download/39208-4904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "宿毛市",
+            "id": "351d5dea-e2dd-45e7-80e8-fd7369a3a471",
+            "name": "宿毛市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "087f92b4-f304-40f8-a33b-6ca5f0d5c87c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:33.278537",
+        "metadata_modified": "2024-04-15T03:08:49.437338",
+        "name": "houmusyouchizu-2024-1-1677",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "土佐清水市（高知地方法務局四万十支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:09:51.000176",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "49de25fd-bd39-4eee-a942-e6050706056e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:09:50.986575",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "087f92b4-f304-40f8-a33b-6ca5f0d5c87c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:09:59.028776",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0dbd2a3f-a515-4354-a471-a98337812b74",
+            "last_modified": "2024-04-02T09:09:58.990569",
+            "metadata_modified": "2024-04-02T09:09:59.017374",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39209-4904-2023.zip",
+            "package_id": "087f92b4-f304-40f8-a33b-6ca5f0d5c87c",
+            "position": 1,
+            "resource_type": null,
+            "size": 63558822,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/087f92b4-f304-40f8-a33b-6ca5f0d5c87c/resource/0dbd2a3f-a515-4354-a471-a98337812b74/download/39209-4904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:10:13.941229",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ed554296-7daa-4457-86e3-02daeed69b99",
+            "last_modified": "2024-04-02T09:10:13.900498",
+            "metadata_modified": "2024-04-02T09:10:13.929336",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39209-4904-2024.zip",
+            "package_id": "087f92b4-f304-40f8-a33b-6ca5f0d5c87c",
+            "position": 2,
+            "resource_type": null,
+            "size": 63257806,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/087f92b4-f304-40f8-a33b-6ca5f0d5c87c/resource/ed554296-7daa-4457-86e3-02daeed69b99/download/39209-4904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "土佐清水市",
+            "id": "bc0b95f8-f0d2-4a75-aeeb-af57832f339e",
+            "name": "土佐清水市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e94ec13b-3873-4f14-872a-f65287de3e0f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:33.727525",
+        "metadata_modified": "2024-04-15T03:08:48.401198",
+        "name": "houmusyouchizu-2024-1-1678",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "四万十市（高知地方法務局四万十支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:10:21.049136",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "4c574fe3-ea90-4e30-a63d-36eb1f0ae1b6",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:10:21.034609",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e94ec13b-3873-4f14-872a-f65287de3e0f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:10:53.693442",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b76b04c1-f074-43d7-ba0f-704e3a71b2fe",
+            "last_modified": "2024-04-02T09:10:53.634242",
+            "metadata_modified": "2024-04-02T09:10:53.678493",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39210-4904-2023.zip",
+            "package_id": "e94ec13b-3873-4f14-872a-f65287de3e0f",
+            "position": 1,
+            "resource_type": null,
+            "size": 229467923,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e94ec13b-3873-4f14-872a-f65287de3e0f/resource/b76b04c1-f074-43d7-ba0f-704e3a71b2fe/download/39210-4904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:11:42.074973",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d236b80f-5fe4-4446-ae8e-158037ef75b3",
+            "last_modified": "2024-04-02T09:11:42.031288",
+            "metadata_modified": "2024-04-02T09:11:42.060980",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39210-4904-2024.zip",
+            "package_id": "e94ec13b-3873-4f14-872a-f65287de3e0f",
+            "position": 2,
+            "resource_type": null,
+            "size": 229025470,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e94ec13b-3873-4f14-872a-f65287de3e0f/resource/d236b80f-5fe4-4446-ae8e-158037ef75b3/download/39210-4904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "四万十市",
+            "id": "3ac8f26b-3e5a-4e9e-a6cd-e7fbf4dd6771",
+            "name": "四万十市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5202c8b9-c1e1-4591-92e0-1b36a74b02e1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:34.189141",
+        "metadata_modified": "2024-04-15T03:08:47.345003",
+        "name": "houmusyouchizu-2024-1-1679",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "香南市（高知地方法務局香美支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:12:05.643833",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "dd4d322a-3423-454a-a886-70ff053adf82",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:12:05.632046",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5202c8b9-c1e1-4591-92e0-1b36a74b02e1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:12:22.996545",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "63f1dc34-5b74-4682-98f4-f67724d0aaff",
+            "last_modified": "2024-04-02T09:12:22.955239",
+            "metadata_modified": "2024-04-02T09:12:22.984558",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39211-4913-2023.zip",
+            "package_id": "5202c8b9-c1e1-4591-92e0-1b36a74b02e1",
+            "position": 1,
+            "resource_type": null,
+            "size": 139780748,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5202c8b9-c1e1-4591-92e0-1b36a74b02e1/resource/63f1dc34-5b74-4682-98f4-f67724d0aaff/download/39211-4913-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:12:51.563404",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "46e3bceb-e4c1-4c6f-9805-d315bd4244e5",
+            "last_modified": "2024-04-02T09:12:51.518186",
+            "metadata_modified": "2024-04-02T09:12:51.549099",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39211-4913-2024.zip",
+            "package_id": "5202c8b9-c1e1-4591-92e0-1b36a74b02e1",
+            "position": 2,
+            "resource_type": null,
+            "size": 139824000,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5202c8b9-c1e1-4591-92e0-1b36a74b02e1/resource/46e3bceb-e4c1-4c6f-9805-d315bd4244e5/download/39211-4913-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "香南市",
+            "id": "da8ae06c-907b-4ff7-814f-541ca0f94c43",
+            "name": "香南市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e935353b-2606-4d61-a377-096702ae4e2c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:34.633916",
+        "metadata_modified": "2024-04-15T03:08:46.302248",
+        "name": "houmusyouchizu-2024-1-1680",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "香美市（高知地方法務局香美支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:13:03.466247",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "e55b3fcd-7475-4a79-9ae4-72bb2f5ffe60",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:13:03.452397",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e935353b-2606-4d61-a377-096702ae4e2c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:13:36.490178",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7bfa3c3c-f28c-4d3f-82c2-c86167f85b67",
+            "last_modified": "2024-04-02T09:13:36.452052",
+            "metadata_modified": "2024-04-02T09:13:36.478634",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39212-4913-2023.zip",
+            "package_id": "e935353b-2606-4d61-a377-096702ae4e2c",
+            "position": 1,
+            "resource_type": null,
+            "size": 276469188,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e935353b-2606-4d61-a377-096702ae4e2c/resource/7bfa3c3c-f28c-4d3f-82c2-c86167f85b67/download/39212-4913-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:14:29.063803",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "718f1b94-2e88-4ca7-9be6-fa017dd7f302",
+            "last_modified": "2024-04-02T09:14:29.023084",
+            "metadata_modified": "2024-04-02T09:14:29.052232",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39212-4913-2024.zip",
+            "package_id": "e935353b-2606-4d61-a377-096702ae4e2c",
+            "position": 2,
+            "resource_type": null,
+            "size": 275707396,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e935353b-2606-4d61-a377-096702ae4e2c/resource/718f1b94-2e88-4ca7-9be6-fa017dd7f302/download/39212-4913-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "香美市",
+            "id": "abe5ea98-225b-4dac-9291-c999b8a47829",
+            "name": "香美市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8956871a-cb3e-4926-baed-a53050d4e67c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:35.074215",
+        "metadata_modified": "2024-04-15T03:08:45.293840",
+        "name": "houmusyouchizu-2024-1-1681",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "安芸郡東洋町（高知地方法務局安芸支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:14:50.365016",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "d84e9e0a-ec6a-4b28-ac7b-897710ac6cb0",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:14:50.351486",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8956871a-cb3e-4926-baed-a53050d4e67c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:14:52.657258",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "68ba7029-55cb-4f1c-af5a-3d67d2a717a9",
+            "last_modified": "2024-04-02T09:14:52.615923",
+            "metadata_modified": "2024-04-02T09:14:52.643211",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39301-4903-2023.zip",
+            "package_id": "8956871a-cb3e-4926-baed-a53050d4e67c",
+            "position": 1,
+            "resource_type": null,
+            "size": 14597210,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8956871a-cb3e-4926-baed-a53050d4e67c/resource/68ba7029-55cb-4f1c-af5a-3d67d2a717a9/download/39301-4903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:14:57.966580",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c78e5b65-6c55-4374-a698-eeb7132a1a30",
+            "last_modified": "2024-04-02T09:14:57.923281",
+            "metadata_modified": "2024-04-02T09:14:57.953127",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39301-4903-2024.zip",
+            "package_id": "8956871a-cb3e-4926-baed-a53050d4e67c",
+            "position": 2,
+            "resource_type": null,
+            "size": 14641704,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8956871a-cb3e-4926-baed-a53050d4e67c/resource/c78e5b65-6c55-4374-a698-eeb7132a1a30/download/39301-4903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸郡東洋町",
+            "id": "14c7ef82-b8d2-4c0a-8386-80e8bc8654f0",
+            "name": "安芸郡東洋町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e9e75e88-c408-48ab-be43-ffed668beb40",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:35.500759",
+        "metadata_modified": "2024-04-15T03:08:44.273054",
+        "name": "houmusyouchizu-2024-1-1682",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "安芸郡奈半利町（高知地方法務局安芸支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:08.181075",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "596d0853-ef54-4a6b-8728-69bed327036f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:18:08.169700",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e9e75e88-c408-48ab-be43-ffed668beb40",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:10.277526",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "fab97fa0-3472-4fb1-9dc6-a91fc0406c04",
+            "last_modified": "2024-04-02T09:18:10.215649",
+            "metadata_modified": "2024-04-02T09:18:10.262145",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39302-4903-2023.zip",
+            "package_id": "e9e75e88-c408-48ab-be43-ffed668beb40",
+            "position": 1,
+            "resource_type": null,
+            "size": 12069167,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e9e75e88-c408-48ab-be43-ffed668beb40/resource/fab97fa0-3472-4fb1-9dc6-a91fc0406c04/download/39302-4903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:15.298367",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "cd683097-5217-4d27-84b1-c6d3ffa30934",
+            "last_modified": "2024-04-02T09:18:15.247792",
+            "metadata_modified": "2024-04-02T09:18:15.286263",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39302-4903-2024.zip",
+            "package_id": "e9e75e88-c408-48ab-be43-ffed668beb40",
+            "position": 2,
+            "resource_type": null,
+            "size": 12068004,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e9e75e88-c408-48ab-be43-ffed668beb40/resource/cd683097-5217-4d27-84b1-c6d3ffa30934/download/39302-4903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸郡奈半利町",
+            "id": "b4ad939c-bd76-4d09-8bcf-a2679fa064ff",
+            "name": "安芸郡奈半利町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a11771ba-ce4f-4cba-ba10-9ee983da4982",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:35.936563",
+        "metadata_modified": "2024-04-15T03:08:43.265378",
+        "name": "houmusyouchizu-2024-1-1683",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "安芸郡田野町（高知地方法務局安芸支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:18.758905",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "3e24c81c-174e-4fd1-9a15-4d20213ed36f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:18:18.746931",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a11771ba-ce4f-4cba-ba10-9ee983da4982",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:19.913866",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "77f750c3-5180-4bd4-80c7-1f2c3768a3cf",
+            "last_modified": "2024-04-02T09:18:19.873787",
+            "metadata_modified": "2024-04-02T09:18:19.901975",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39303-4903-2023.zip",
+            "package_id": "a11771ba-ce4f-4cba-ba10-9ee983da4982",
+            "position": 1,
+            "resource_type": null,
+            "size": 5036010,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a11771ba-ce4f-4cba-ba10-9ee983da4982/resource/77f750c3-5180-4bd4-80c7-1f2c3768a3cf/download/39303-4903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:23.559494",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "226b67db-af07-4d8b-a10f-e67ac437622e",
+            "last_modified": "2024-04-02T09:18:23.512631",
+            "metadata_modified": "2024-04-02T09:18:23.545095",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39303-4903-2024.zip",
+            "package_id": "a11771ba-ce4f-4cba-ba10-9ee983da4982",
+            "position": 2,
+            "resource_type": null,
+            "size": 5036096,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a11771ba-ce4f-4cba-ba10-9ee983da4982/resource/226b67db-af07-4d8b-a10f-e67ac437622e/download/39303-4903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸郡田野町",
+            "id": "ddc3dc04-9c47-473a-a30a-05c5c779bb25",
+            "name": "安芸郡田野町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3fd274de-3832-420c-9e89-bbcbe43f273a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:36.365971",
+        "metadata_modified": "2024-04-15T03:08:42.205994",
+        "name": "houmusyouchizu-2024-1-1684",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "安芸郡安田町（高知地方法務局安芸支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:26.494940",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "3274818d-637b-425e-86b2-c17afec09b5a",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:18:26.483148",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3fd274de-3832-420c-9e89-bbcbe43f273a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:31.165328",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d1560b41-9b47-478d-84e5-3a63f394bf39",
+            "last_modified": "2024-04-02T09:18:31.123555",
+            "metadata_modified": "2024-04-02T09:18:31.151880",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39304-4903-2023.zip",
+            "package_id": "3fd274de-3832-420c-9e89-bbcbe43f273a",
+            "position": 1,
+            "resource_type": null,
+            "size": 37823498,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3fd274de-3832-420c-9e89-bbcbe43f273a/resource/d1560b41-9b47-478d-84e5-3a63f394bf39/download/39304-4903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:40.804127",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "bda418a2-b53b-471a-90e0-73f9b77f7bc4",
+            "last_modified": "2024-04-02T09:18:40.762958",
+            "metadata_modified": "2024-04-02T09:18:40.792243",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39304-4903-2024.zip",
+            "package_id": "3fd274de-3832-420c-9e89-bbcbe43f273a",
+            "position": 2,
+            "resource_type": null,
+            "size": 36729493,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3fd274de-3832-420c-9e89-bbcbe43f273a/resource/bda418a2-b53b-471a-90e0-73f9b77f7bc4/download/39304-4903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸郡安田町",
+            "id": "546bf914-f02a-4e3c-9a51-e36b1b245f88",
+            "name": "安芸郡安田町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "57c94a5a-0cce-4425-9a45-d84382ab5cc7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:36.777515",
+        "metadata_modified": "2024-04-15T03:08:41.184869",
+        "name": "houmusyouchizu-2024-1-1685",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "安芸郡北川村（高知地方法務局安芸支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:45.994829",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ac29c9a7-e83d-4c58-be3c-6e43446846b8",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:18:45.981739",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "57c94a5a-0cce-4425-9a45-d84382ab5cc7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:49.437355",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "df481ba1-ebad-4941-8f4b-f07553cd58db",
+            "last_modified": "2024-04-02T09:18:49.396440",
+            "metadata_modified": "2024-04-02T09:18:49.424231",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39305-4903-2023.zip",
+            "package_id": "57c94a5a-0cce-4425-9a45-d84382ab5cc7",
+            "position": 1,
+            "resource_type": null,
+            "size": 23477131,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/57c94a5a-0cce-4425-9a45-d84382ab5cc7/resource/df481ba1-ebad-4941-8f4b-f07553cd58db/download/39305-4903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:18:56.418291",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9488240d-6929-40cb-ae83-191c47e172cc",
+            "last_modified": "2024-04-02T09:18:56.375485",
+            "metadata_modified": "2024-04-02T09:18:56.404638",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39305-4903-2024.zip",
+            "package_id": "57c94a5a-0cce-4425-9a45-d84382ab5cc7",
+            "position": 2,
+            "resource_type": null,
+            "size": 23562149,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/57c94a5a-0cce-4425-9a45-d84382ab5cc7/resource/9488240d-6929-40cb-ae83-191c47e172cc/download/39305-4903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸郡北川村",
+            "id": "5d26733f-e561-40dd-8578-9fe4acd1fa10",
+            "name": "安芸郡北川村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "597fec7a-5a0e-4188-a1e7-6f8e03714aa6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:37.184674",
+        "metadata_modified": "2024-04-15T03:08:40.173686",
+        "name": "houmusyouchizu-2024-1-1686",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "安芸郡馬路村（高知地方法務局安芸支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:00.468887",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "60b539d6-63a2-494e-ac7b-4cb1fac63263",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:19:00.456739",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "597fec7a-5a0e-4188-a1e7-6f8e03714aa6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:02.141592",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "82e22fc6-322d-4069-a355-59cfa5dc7f18",
+            "last_modified": "2024-04-02T09:19:02.098499",
+            "metadata_modified": "2024-04-02T09:19:02.127174",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39306-4903-2023.zip",
+            "package_id": "597fec7a-5a0e-4188-a1e7-6f8e03714aa6",
+            "position": 1,
+            "resource_type": null,
+            "size": 9856433,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/597fec7a-5a0e-4188-a1e7-6f8e03714aa6/resource/82e22fc6-322d-4069-a355-59cfa5dc7f18/download/39306-4903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:06.543277",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5ea2c38f-9486-4288-b927-03b5a36a9941",
+            "last_modified": "2024-04-02T09:19:06.501731",
+            "metadata_modified": "2024-04-02T09:19:06.531384",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39306-4903-2024.zip",
+            "package_id": "597fec7a-5a0e-4188-a1e7-6f8e03714aa6",
+            "position": 2,
+            "resource_type": null,
+            "size": 9858404,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/597fec7a-5a0e-4188-a1e7-6f8e03714aa6/resource/5ea2c38f-9486-4288-b927-03b5a36a9941/download/39306-4903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸郡馬路村",
+            "id": "ea74a5b3-0b9f-47c0-a2bd-eca1b88ccbde",
+            "name": "安芸郡馬路村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5f132406-1be9-4742-a4f5-6c4098d144b3",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:37.631110",
+        "metadata_modified": "2024-04-15T03:08:39.080465",
+        "name": "houmusyouchizu-2024-1-1687",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "安芸郡芸西村（高知地方法務局安芸支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:10.087570",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8fd08e2c-0901-48d0-acd3-d7595c164732",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:19:10.075498",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5f132406-1be9-4742-a4f5-6c4098d144b3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:13.708985",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7d0113b4-541e-4878-99e9-ee8f4d9a4036",
+            "last_modified": "2024-04-02T09:19:13.670507",
+            "metadata_modified": "2024-04-02T09:19:13.697430",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39307-4903-2023.zip",
+            "package_id": "5f132406-1be9-4742-a4f5-6c4098d144b3",
+            "position": 1,
+            "resource_type": null,
+            "size": 25077509,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5f132406-1be9-4742-a4f5-6c4098d144b3/resource/7d0113b4-541e-4878-99e9-ee8f4d9a4036/download/39307-4903-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:21.136423",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "83e79525-8d90-42d5-a5de-743bd8961228",
+            "last_modified": "2024-04-02T09:19:21.094705",
+            "metadata_modified": "2024-04-02T09:19:21.123022",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39307-4903-2024.zip",
+            "package_id": "5f132406-1be9-4742-a4f5-6c4098d144b3",
+            "position": 2,
+            "resource_type": null,
+            "size": 24598018,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5f132406-1be9-4742-a4f5-6c4098d144b3/resource/83e79525-8d90-42d5-a5de-743bd8961228/download/39307-4903-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "安芸郡芸西村",
+            "id": "49696a36-c867-401d-9921-6b36d0a1fd54",
+            "name": "安芸郡芸西村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "daa5f99c-7a99-40af-8be3-594b2048dc09",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:38.068677",
+        "metadata_modified": "2024-04-15T03:08:38.037688",
+        "name": "houmusyouchizu-2024-1-1688",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "長岡郡本山町（高知地方法務局香美支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:25.304763",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "790ddf52-25d9-4277-835b-8f6185c85947",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:19:25.291975",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "daa5f99c-7a99-40af-8be3-594b2048dc09",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:30.616067",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b60155f0-6df8-4f45-ad47-00ffcca90199",
+            "last_modified": "2024-04-02T09:19:30.549259",
+            "metadata_modified": "2024-04-02T09:19:30.595392",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39341-4913-2023.zip",
+            "package_id": "daa5f99c-7a99-40af-8be3-594b2048dc09",
+            "position": 1,
+            "resource_type": null,
+            "size": 42877061,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/daa5f99c-7a99-40af-8be3-594b2048dc09/resource/b60155f0-6df8-4f45-ad47-00ffcca90199/download/39341-4913-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:40.787733",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "09dfe50a-9338-41c3-b95f-43314dccea11",
+            "last_modified": "2024-04-02T09:19:40.746908",
+            "metadata_modified": "2024-04-02T09:19:40.774628",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39341-4913-2024.zip",
+            "package_id": "daa5f99c-7a99-40af-8be3-594b2048dc09",
+            "position": 2,
+            "resource_type": null,
+            "size": 42875042,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/daa5f99c-7a99-40af-8be3-594b2048dc09/resource/09dfe50a-9338-41c3-b95f-43314dccea11/download/39341-4913-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "長岡郡本山町",
+            "id": "1f8f6da4-9d07-4462-82f5-be879fa2cf91",
+            "name": "長岡郡本山町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "660c2636-61ad-46f5-8456-e5fd70b4745c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:38.511743",
+        "metadata_modified": "2024-04-15T03:08:37.029771",
+        "name": "houmusyouchizu-2024-1-1689",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "長岡郡大豊町（高知地方法務局香美支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:19:46.328005",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "35413eb3-ea0e-40e5-802d-145f42513418",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:19:46.315577",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "660c2636-61ad-46f5-8456-e5fd70b4745c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:20:00.694686",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9d989841-06d9-400f-a4dd-54eb3146fff5",
+            "last_modified": "2024-04-02T09:20:00.654378",
+            "metadata_modified": "2024-04-02T09:20:00.682568",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39344-4913-2023.zip",
+            "package_id": "660c2636-61ad-46f5-8456-e5fd70b4745c",
+            "position": 1,
+            "resource_type": null,
+            "size": 113983394,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/660c2636-61ad-46f5-8456-e5fd70b4745c/resource/9d989841-06d9-400f-a4dd-54eb3146fff5/download/39344-4913-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:20:25.761501",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6550500d-9134-4f56-a7a0-0c10c102edc3",
+            "last_modified": "2024-04-02T09:20:25.716905",
+            "metadata_modified": "2024-04-02T09:20:25.747481",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39344-4913-2024.zip",
+            "package_id": "660c2636-61ad-46f5-8456-e5fd70b4745c",
+            "position": 2,
+            "resource_type": null,
+            "size": 113950757,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/660c2636-61ad-46f5-8456-e5fd70b4745c/resource/6550500d-9134-4f56-a7a0-0c10c102edc3/download/39344-4913-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "長岡郡大豊町",
+            "id": "d2656b8d-15a3-466f-abc6-8780d7a45737",
+            "name": "長岡郡大豊町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "26ce4e59-db64-4c31-82d4-84177a9f5a77",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:38.942678",
+        "metadata_modified": "2024-04-15T03:08:36.004135",
+        "name": "houmusyouchizu-2024-1-1690",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "土佐郡土佐町（高知地方法務局香美支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:20:36.590063",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "65ff4e78-1ad1-4280-a843-79aeafb8156d",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:20:36.576296",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "26ce4e59-db64-4c31-82d4-84177a9f5a77",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:20:44.892633",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1c26e90f-b953-4d77-adb9-551f392c3308",
+            "last_modified": "2024-04-02T09:20:44.852079",
+            "metadata_modified": "2024-04-02T09:20:44.881065",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39363-4913-2023.zip",
+            "package_id": "26ce4e59-db64-4c31-82d4-84177a9f5a77",
+            "position": 1,
+            "resource_type": null,
+            "size": 65660754,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/26ce4e59-db64-4c31-82d4-84177a9f5a77/resource/1c26e90f-b953-4d77-adb9-551f392c3308/download/39363-4913-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:20:59.946315",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "616194c6-9a38-446d-9bd8-9f5a41b10ef4",
+            "last_modified": "2024-04-02T09:20:59.905644",
+            "metadata_modified": "2024-04-02T09:20:59.934413",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39363-4913-2024.zip",
+            "package_id": "26ce4e59-db64-4c31-82d4-84177a9f5a77",
+            "position": 2,
+            "resource_type": null,
+            "size": 65496774,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/26ce4e59-db64-4c31-82d4-84177a9f5a77/resource/616194c6-9a38-446d-9bd8-9f5a41b10ef4/download/39363-4913-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "土佐郡土佐町",
+            "id": "e8700cf2-e7fe-41dc-9b8c-864c4bd2382b",
+            "name": "土佐郡土佐町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7235abc2-3af8-47fd-b8b6-9864c1d30759",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:39.360297",
+        "metadata_modified": "2024-04-15T03:08:35.004936",
+        "name": "houmusyouchizu-2024-1-1691",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "土佐郡大川村（高知地方法務局香美支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:21:07.158864",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "43d4b9f1-5f70-4de2-ac6a-a5cea5abecee",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:21:07.145634",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7235abc2-3af8-47fd-b8b6-9864c1d30759",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:21:08.609883",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "25c0041e-ec36-4a29-b5c3-60e9badd68e0",
+            "last_modified": "2024-04-02T09:21:08.567698",
+            "metadata_modified": "2024-04-02T09:21:08.596537",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39364-4913-2023.zip",
+            "package_id": "7235abc2-3af8-47fd-b8b6-9864c1d30759",
+            "position": 1,
+            "resource_type": null,
+            "size": 5959261,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7235abc2-3af8-47fd-b8b6-9864c1d30759/resource/25c0041e-ec36-4a29-b5c3-60e9badd68e0/download/39364-4913-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:21:12.708064",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0e4b1abd-df4b-4a62-928d-e5fd0d088303",
+            "last_modified": "2024-04-02T09:21:12.666894",
+            "metadata_modified": "2024-04-02T09:21:12.695362",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39364-4913-2024.zip",
+            "package_id": "7235abc2-3af8-47fd-b8b6-9864c1d30759",
+            "position": 2,
+            "resource_type": null,
+            "size": 5962306,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7235abc2-3af8-47fd-b8b6-9864c1d30759/resource/0e4b1abd-df4b-4a62-928d-e5fd0d088303/download/39364-4913-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "土佐郡大川村",
+            "id": "5d1e6bc9-afd6-4e83-82b0-b80211461832",
+            "name": "土佐郡大川村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "2107d992-ca5b-48b4-8628-9c33958aea76",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:39.799117",
+        "metadata_modified": "2024-04-15T03:08:33.948293",
+        "name": "houmusyouchizu-2024-1-1692",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "吾川郡春野町（高知地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:21:15.834268",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "af0ed626-2369-4825-bc2e-9edd9f24af99",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:21:15.821699",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "2107d992-ca5b-48b4-8628-9c33958aea76",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:21:19.407319",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c84e4296-041e-42ad-9d79-caae851c2000",
+            "last_modified": "2024-04-02T09:21:19.368680",
+            "metadata_modified": "2024-04-02T09:21:19.395733",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39383-4900-2023.zip",
+            "package_id": "2107d992-ca5b-48b4-8628-9c33958aea76",
+            "position": 1,
+            "resource_type": null,
+            "size": 23862119,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2107d992-ca5b-48b4-8628-9c33958aea76/resource/c84e4296-041e-42ad-9d79-caae851c2000/download/39383-4900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:21:26.550235",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "878e4a14-f08e-4b5c-8639-3f00b444b128",
+            "last_modified": "2024-04-02T09:21:26.508076",
+            "metadata_modified": "2024-04-02T09:21:26.537044",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39383-4900-2024.zip",
+            "package_id": "2107d992-ca5b-48b4-8628-9c33958aea76",
+            "position": 2,
+            "resource_type": null,
+            "size": 23819391,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2107d992-ca5b-48b4-8628-9c33958aea76/resource/878e4a14-f08e-4b5c-8639-3f00b444b128/download/39383-4900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吾川郡春野町",
+            "id": "fc8c44e1-ca39-40b8-820b-3c68f13763fb",
+            "name": "吾川郡春野町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f57fac9e-4c5c-4e9c-a0ca-d1a7596ab66c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:40.234231",
+        "metadata_modified": "2024-04-15T03:08:32.904833",
+        "name": "houmusyouchizu-2024-1-1693",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "吾川郡いの町（高知地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:21:30.684201",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "50c9ea86-fb6d-443a-8a1d-a92cdbf011fe",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:21:30.670991",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f57fac9e-4c5c-4e9c-a0ca-d1a7596ab66c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:21:48.126300",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d6997462-1344-407d-9c57-2334c701a517",
+            "last_modified": "2024-04-02T09:21:48.087564",
+            "metadata_modified": "2024-04-02T09:21:48.114455",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39386-4900-2023.zip",
+            "package_id": "f57fac9e-4c5c-4e9c-a0ca-d1a7596ab66c",
+            "position": 1,
+            "resource_type": null,
+            "size": 129030630,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f57fac9e-4c5c-4e9c-a0ca-d1a7596ab66c/resource/d6997462-1344-407d-9c57-2334c701a517/download/39386-4900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:22:13.657446",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "69893d4b-245b-44f5-a3a8-1292ee930162",
+            "last_modified": "2024-04-02T09:22:13.613511",
+            "metadata_modified": "2024-04-02T09:22:13.643133",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39386-4900-2024.zip",
+            "package_id": "f57fac9e-4c5c-4e9c-a0ca-d1a7596ab66c",
+            "position": 2,
+            "resource_type": null,
+            "size": 127442400,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f57fac9e-4c5c-4e9c-a0ca-d1a7596ab66c/resource/69893d4b-245b-44f5-a3a8-1292ee930162/download/39386-4900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吾川郡いの町",
+            "id": "9fe05a75-65d1-4e0b-a57d-bc0494e958d1",
+            "name": "吾川郡いの町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4376ecea-43dd-469d-9110-d0cd728a5aab",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:40.666018",
+        "metadata_modified": "2024-04-15T03:08:31.899436",
+        "name": "houmusyouchizu-2024-1-1694",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "吾川郡仁淀川町（高知地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:22:25.320554",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "ba0889f3-8df4-4a7c-9d38-6421eef8ee53",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:22:25.307231",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4376ecea-43dd-469d-9110-d0cd728a5aab",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:22:39.339617",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b0da799f-ac18-4e23-ae15-1f5f004de521",
+            "last_modified": "2024-04-02T09:22:39.301433",
+            "metadata_modified": "2024-04-02T09:22:39.327919",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39387-4900-2023.zip",
+            "package_id": "4376ecea-43dd-469d-9110-d0cd728a5aab",
+            "position": 1,
+            "resource_type": null,
+            "size": 116764037,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4376ecea-43dd-469d-9110-d0cd728a5aab/resource/b0da799f-ac18-4e23-ae15-1f5f004de521/download/39387-4900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:23:03.460050",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "de83330c-1464-4ff2-890d-9b3406a8ccd9",
+            "last_modified": "2024-04-02T09:23:03.419536",
+            "metadata_modified": "2024-04-02T09:23:03.448314",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39387-4900-2024.zip",
+            "package_id": "4376ecea-43dd-469d-9110-d0cd728a5aab",
+            "position": 2,
+            "resource_type": null,
+            "size": 116807431,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4376ecea-43dd-469d-9110-d0cd728a5aab/resource/de83330c-1464-4ff2-890d-9b3406a8ccd9/download/39387-4900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吾川郡仁淀川町",
+            "id": "4aab375c-1b36-409e-a243-7680bef00096",
+            "name": "吾川郡仁淀川町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e6ecd7ed-e979-499a-a21d-8eda0486c61b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:41.079396",
+        "metadata_modified": "2024-04-15T03:08:30.837245",
+        "name": "houmusyouchizu-2024-1-1695",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "高岡郡中土佐町（高知地方法務局須崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:23:14.448276",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "dc99de3a-2be5-4b39-a34c-0c8c4fc229c7",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:23:14.434990",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e6ecd7ed-e979-499a-a21d-8eda0486c61b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:23:21.327493",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "dee7cde3-cd3f-41d8-a402-3931ca680a36",
+            "last_modified": "2024-04-02T09:23:21.286690",
+            "metadata_modified": "2024-04-02T09:23:21.313842",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39401-4902-2023.zip",
+            "package_id": "e6ecd7ed-e979-499a-a21d-8eda0486c61b",
+            "position": 1,
+            "resource_type": null,
+            "size": 52593803,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e6ecd7ed-e979-499a-a21d-8eda0486c61b/resource/dee7cde3-cd3f-41d8-a402-3931ca680a36/download/39401-4902-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:23:33.975737",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e12fc221-f7e5-4d37-b226-aa8533bd28b6",
+            "last_modified": "2024-04-02T09:23:33.933032",
+            "metadata_modified": "2024-04-02T09:23:33.962312",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39401-4902-2024.zip",
+            "package_id": "e6ecd7ed-e979-499a-a21d-8eda0486c61b",
+            "position": 2,
+            "resource_type": null,
+            "size": 52607584,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e6ecd7ed-e979-499a-a21d-8eda0486c61b/resource/e12fc221-f7e5-4d37-b226-aa8533bd28b6/download/39401-4902-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高岡郡中土佐町",
+            "id": "74724aa8-acda-4ac8-80c4-1d8fe7b7f54c",
+            "name": "高岡郡中土佐町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "05847728-db24-413d-88f3-07398c0cb4d7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:41.500892",
+        "metadata_modified": "2024-04-15T03:08:29.775495",
+        "name": "houmusyouchizu-2024-1-1696",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "高岡郡佐川町（高知地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:23:40.373628",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "3a318e68-9c63-480f-8171-324ec3e17333",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:23:40.361765",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "05847728-db24-413d-88f3-07398c0cb4d7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:23:48.024487",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "09d4a564-1d76-40ec-9a03-d6fcbf8640d7",
+            "last_modified": "2024-04-02T09:23:47.982861",
+            "metadata_modified": "2024-04-02T09:23:48.011341",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39402-4900-2023.zip",
+            "package_id": "05847728-db24-413d-88f3-07398c0cb4d7",
+            "position": 1,
+            "resource_type": null,
+            "size": 56172738,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/05847728-db24-413d-88f3-07398c0cb4d7/resource/09d4a564-1d76-40ec-9a03-d6fcbf8640d7/download/39402-4900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:24:01.677929",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8f35c56d-850b-4cc4-8071-9615f3aebc44",
+            "last_modified": "2024-04-02T09:24:01.631549",
+            "metadata_modified": "2024-04-02T09:24:01.663637",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39402-4900-2024.zip",
+            "package_id": "05847728-db24-413d-88f3-07398c0cb4d7",
+            "position": 2,
+            "resource_type": null,
+            "size": 56196112,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/05847728-db24-413d-88f3-07398c0cb4d7/resource/8f35c56d-850b-4cc4-8071-9615f3aebc44/download/39402-4900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高岡郡佐川町",
+            "id": "13bb8ba1-612e-4ba0-9391-bcbf9ca00089",
+            "name": "高岡郡佐川町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "be7143a5-fe64-49fb-b164-7f40dc410e18",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:41.959011",
+        "metadata_modified": "2024-04-15T03:08:28.704616",
+        "name": "houmusyouchizu-2024-1-1697",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "高岡郡越知町（高知地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:24:08.478903",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8d9eb660-44d6-45ad-996e-57fdd50d60c5",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:24:08.464300",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "be7143a5-fe64-49fb-b164-7f40dc410e18",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:24:19.832121",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "06386637-1537-4fb4-8c41-55ed3f7b9a75",
+            "last_modified": "2024-04-02T09:24:19.792989",
+            "metadata_modified": "2024-04-02T09:24:19.820542",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39403-4900-2023.zip",
+            "package_id": "be7143a5-fe64-49fb-b164-7f40dc410e18",
+            "position": 1,
+            "resource_type": null,
+            "size": 91472434,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/be7143a5-fe64-49fb-b164-7f40dc410e18/resource/06386637-1537-4fb4-8c41-55ed3f7b9a75/download/39403-4900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:24:40.025454",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d23996c3-9b82-4067-8590-67f45725f98e",
+            "last_modified": "2024-04-02T09:24:39.982579",
+            "metadata_modified": "2024-04-02T09:24:40.011818",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39403-4900-2024.zip",
+            "package_id": "be7143a5-fe64-49fb-b164-7f40dc410e18",
+            "position": 2,
+            "resource_type": null,
+            "size": 90016444,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/be7143a5-fe64-49fb-b164-7f40dc410e18/resource/d23996c3-9b82-4067-8590-67f45725f98e/download/39403-4900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高岡郡越知町",
+            "id": "5dc6b4fc-2b11-41fe-8d26-ba81b2997ea2",
+            "name": "高岡郡越知町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b6474733-ce37-4b17-864b-b7e300f02c4d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:42.377845",
+        "metadata_modified": "2024-04-15T03:08:27.638273",
+        "name": "houmusyouchizu-2024-1-1698",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "高岡郡檮原町（高知地方法務局須崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:24:48.747470",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "827b4b6c-42a8-4564-bdd8-4c64b576b615",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:24:48.734494",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b6474733-ce37-4b17-864b-b7e300f02c4d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:24:55.820640",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e178dc04-e829-4f0a-a3a9-f13045e4b856",
+            "last_modified": "2024-04-02T09:24:55.779737",
+            "metadata_modified": "2024-04-02T09:24:55.808633",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39405-4902-2023.zip",
+            "package_id": "b6474733-ce37-4b17-864b-b7e300f02c4d",
+            "position": 1,
+            "resource_type": null,
+            "size": 48920870,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b6474733-ce37-4b17-864b-b7e300f02c4d/resource/e178dc04-e829-4f0a-a3a9-f13045e4b856/download/39405-4902-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:25:07.444196",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9a0becb7-71a8-40b9-9d38-07a932c69772",
+            "last_modified": "2024-04-02T09:25:07.399673",
+            "metadata_modified": "2024-04-02T09:25:07.430401",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39405-4902-2024.zip",
+            "package_id": "b6474733-ce37-4b17-864b-b7e300f02c4d",
+            "position": 2,
+            "resource_type": null,
+            "size": 48930810,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b6474733-ce37-4b17-864b-b7e300f02c4d/resource/9a0becb7-71a8-40b9-9d38-07a932c69772/download/39405-4902-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高岡郡檮原町",
+            "id": "dd514fb1-e476-4841-b37d-520f08579165",
+            "name": "高岡郡檮原町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0fe53fe3-53b7-43a3-a8b8-ac26861d4385",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:42.806183",
+        "metadata_modified": "2024-04-15T03:08:26.587885",
+        "name": "houmusyouchizu-2024-1-1699",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "高岡郡日高村（高知地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:25:13.273229",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "280c3ebf-115f-4b47-922a-5c4dbade6ad6",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:25:13.261517",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0fe53fe3-53b7-43a3-a8b8-ac26861d4385",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:25:16.874321",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "db9f073e-8490-471e-815f-a442c0054de4",
+            "last_modified": "2024-04-02T09:25:16.836664",
+            "metadata_modified": "2024-04-02T09:25:16.862851",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39410-4900-2023.zip",
+            "package_id": "0fe53fe3-53b7-43a3-a8b8-ac26861d4385",
+            "position": 1,
+            "resource_type": null,
+            "size": 26046853,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0fe53fe3-53b7-43a3-a8b8-ac26861d4385/resource/db9f073e-8490-471e-815f-a442c0054de4/download/39410-4900-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:25:24.399838",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8ebbc504-bd75-44ad-b65b-a649897020a2",
+            "last_modified": "2024-04-02T09:25:24.356599",
+            "metadata_modified": "2024-04-02T09:25:24.386283",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39410-4900-2024.zip",
+            "package_id": "0fe53fe3-53b7-43a3-a8b8-ac26861d4385",
+            "position": 2,
+            "resource_type": null,
+            "size": 26082197,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0fe53fe3-53b7-43a3-a8b8-ac26861d4385/resource/8ebbc504-bd75-44ad-b65b-a649897020a2/download/39410-4900-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高岡郡日高村",
+            "id": "ef9a2cc1-cca8-4b96-adf0-6f42c4807fdd",
+            "name": "高岡郡日高村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5d57b422-e52e-4405-93c4-26ede311e37f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:43.230559",
+        "metadata_modified": "2024-04-15T03:08:25.549047",
+        "name": "houmusyouchizu-2024-1-1700",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "高岡郡津野町（高知地方法務局須崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:25:28.715746",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "12e6377d-8db8-4571-b975-03b1e0ef0b84",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:25:28.704583",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5d57b422-e52e-4405-93c4-26ede311e37f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:25:37.209291",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d2d18145-d7ce-471e-9fd6-1c5de2a67eba",
+            "last_modified": "2024-04-02T09:25:37.170505",
+            "metadata_modified": "2024-04-02T09:25:37.197748",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39411-4902-2023.zip",
+            "package_id": "5d57b422-e52e-4405-93c4-26ede311e37f",
+            "position": 1,
+            "resource_type": null,
+            "size": 68439841,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5d57b422-e52e-4405-93c4-26ede311e37f/resource/d2d18145-d7ce-471e-9fd6-1c5de2a67eba/download/39411-4902-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:25:52.159743",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "63dc4eca-a594-4c4d-9f14-ed9d52d05cfc",
+            "last_modified": "2024-04-02T09:25:52.116239",
+            "metadata_modified": "2024-04-02T09:25:52.146080",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39411-4902-2024.zip",
+            "package_id": "5d57b422-e52e-4405-93c4-26ede311e37f",
+            "position": 2,
+            "resource_type": null,
+            "size": 68456176,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5d57b422-e52e-4405-93c4-26ede311e37f/resource/63dc4eca-a594-4c4d-9f14-ed9d52d05cfc/download/39411-4902-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高岡郡津野町",
+            "id": "f7522cb4-a933-40b4-8a77-3025760f2c20",
+            "name": "高岡郡津野町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "42122f0e-1a12-41ad-897c-4722f3d5b3f7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:43.641692",
+        "metadata_modified": "2024-04-15T03:08:24.541641",
+        "name": "houmusyouchizu-2024-1-1701",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "高岡郡四万十町（高知地方法務局須崎支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:25:59.308119",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "c7818bfb-3e9c-4ae1-b9d1-d01fdee7fcb1",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:25:59.296827",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "42122f0e-1a12-41ad-897c-4722f3d5b3f7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:26:19.139795",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "fd7cc8a9-80c6-4fd3-a879-fd6eda24aee9",
+            "last_modified": "2024-04-02T09:26:19.100359",
+            "metadata_modified": "2024-04-02T09:26:19.128425",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39412-4902-2023.zip",
+            "package_id": "42122f0e-1a12-41ad-897c-4722f3d5b3f7",
+            "position": 1,
+            "resource_type": null,
+            "size": 150014146,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/42122f0e-1a12-41ad-897c-4722f3d5b3f7/resource/fd7cc8a9-80c6-4fd3-a879-fd6eda24aee9/download/39412-4902-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:26:50.412248",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5fb55a58-7cc9-474b-b473-7e43588dc657",
+            "last_modified": "2024-04-02T09:26:50.342957",
+            "metadata_modified": "2024-04-02T09:26:50.394378",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39412-4902-2024.zip",
+            "package_id": "42122f0e-1a12-41ad-897c-4722f3d5b3f7",
+            "position": 2,
+            "resource_type": null,
+            "size": 150050546,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/42122f0e-1a12-41ad-897c-4722f3d5b3f7/resource/5fb55a58-7cc9-474b-b473-7e43588dc657/download/39412-4902-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高岡郡四万十町",
+            "id": "fde5500c-e955-4731-88f7-864a074d440d",
+            "name": "高岡郡四万十町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8fb8bb5f-722b-4a3f-9e97-8a20de0c5bc6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:44.072011",
+        "metadata_modified": "2024-04-15T03:08:23.550993",
+        "name": "houmusyouchizu-2024-1-1702",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "幡多郡大月町（高知地方法務局四万十支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:27:03.784925",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8a62d69b-c93e-4289-aa78-75db0bd5130d",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:27:03.773601",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8fb8bb5f-722b-4a3f-9e97-8a20de0c5bc6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:27:09.256822",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e55f8496-c7ee-47d7-95bd-b63f92a55f28",
+            "last_modified": "2024-04-02T09:27:09.214400",
+            "metadata_modified": "2024-04-02T09:27:09.243043",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39424-4904-2023.zip",
+            "package_id": "8fb8bb5f-722b-4a3f-9e97-8a20de0c5bc6",
+            "position": 1,
+            "resource_type": null,
+            "size": 36311196,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8fb8bb5f-722b-4a3f-9e97-8a20de0c5bc6/resource/e55f8496-c7ee-47d7-95bd-b63f92a55f28/download/39424-4904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:27:18.527314",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e3a03a08-4d75-4252-a3d2-ab44f0dd0949",
+            "last_modified": "2024-04-02T09:27:18.486504",
+            "metadata_modified": "2024-04-02T09:27:18.515296",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39424-4904-2024.zip",
+            "package_id": "8fb8bb5f-722b-4a3f-9e97-8a20de0c5bc6",
+            "position": 2,
+            "resource_type": null,
+            "size": 35993974,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8fb8bb5f-722b-4a3f-9e97-8a20de0c5bc6/resource/e3a03a08-4d75-4252-a3d2-ab44f0dd0949/download/39424-4904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "幡多郡大月町",
+            "id": "797546b5-a0ad-4a02-b7e3-0834dba4a9e0",
+            "name": "幡多郡大月町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3bbd6fdc-1b38-4610-b761-8c01494be802",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:44.742176",
+        "metadata_modified": "2024-04-15T03:08:22.183732",
+        "name": "houmusyouchizu-2024-1-1703",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "幡多郡三原村（高知地方法務局四万十支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:28:07.607964",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "0ef1bd1c-3452-4da7-bd2a-c6b0f28ea30d",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:28:07.594448",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3bbd6fdc-1b38-4610-b761-8c01494be802",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:28:10.425059",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "82f5094b-db1c-4d87-948d-13232ca5cd03",
+            "last_modified": "2024-04-02T09:28:10.384200",
+            "metadata_modified": "2024-04-02T09:28:10.412951",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39427-4904-2023.zip",
+            "package_id": "3bbd6fdc-1b38-4610-b761-8c01494be802",
+            "position": 1,
+            "resource_type": null,
+            "size": 18198818,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3bbd6fdc-1b38-4610-b761-8c01494be802/resource/82f5094b-db1c-4d87-948d-13232ca5cd03/download/39427-4904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:28:16.813452",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c6e81bbb-0fc9-4897-b6a2-e2e5e4980222",
+            "last_modified": "2024-04-02T09:28:16.765844",
+            "metadata_modified": "2024-04-02T09:28:16.799328",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39427-4904-2024.zip",
+            "package_id": "3bbd6fdc-1b38-4610-b761-8c01494be802",
+            "position": 2,
+            "resource_type": null,
+            "size": 18201423,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3bbd6fdc-1b38-4610-b761-8c01494be802/resource/c6e81bbb-0fc9-4897-b6a2-e2e5e4980222/download/39427-4904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "幡多郡三原村",
+            "id": "41be2905-cb03-493d-8d80-b5f4179f716d",
+            "name": "幡多郡三原村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4d9205b4-5fbf-4e6d-8fbf-2a114b31f4cc",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T10:00:45.156898",
+        "metadata_modified": "2024-04-15T03:08:20.909298",
+        "name": "houmusyouchizu-2024-1-1704",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-39kochi",
+          "name": "moj-39kochi",
+          "title": "39高知県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:39.632451",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-39kochi",
+        "private": false,
+        "state": "active",
+        "title": "幡多郡黒潮町（高知地方法務局四万十支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:28:24.085706",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "d89cc5b8-386e-479e-a362-6df954fbd83e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T09:28:24.073042",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4d9205b4-5fbf-4e6d-8fbf-2a114b31f4cc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:28:36.509595",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "112f2511-e7bb-43dc-b5d1-a308c1a502ff",
+            "last_modified": "2024-04-02T09:28:36.469339",
+            "metadata_modified": "2024-04-02T09:28:36.496605",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39428-4904-2023.zip",
+            "package_id": "4d9205b4-5fbf-4e6d-8fbf-2a114b31f4cc",
+            "position": 1,
+            "resource_type": null,
+            "size": 97858786,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4d9205b4-5fbf-4e6d-8fbf-2a114b31f4cc/resource/112f2511-e7bb-43dc-b5d1-a308c1a502ff/download/39428-4904-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T09:28:57.870583",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1c36cf44-7eb4-4b9d-81cc-8eb2ce5fb0f2",
+            "last_modified": "2024-04-02T09:28:57.828652",
+            "metadata_modified": "2024-04-02T09:28:57.857121",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "39428-4904-2024.zip",
+            "package_id": "4d9205b4-5fbf-4e6d-8fbf-2a114b31f4cc",
+            "position": 2,
+            "resource_type": null,
+            "size": 96853422,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4d9205b4-5fbf-4e6d-8fbf-2a114b31f4cc/resource/1c36cf44-7eb4-4b9d-81cc-8eb2ce5fb0f2/download/39428-4904-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "幡多郡黒潮町",
+            "id": "a7b0f8ea-f06f-4ab7-aa0b-b9e0713e6aa6",
+            "name": "幡多郡黒潮町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高知県",
+            "id": "07766845-3b00-4351-befa-3077902ffbbc",
+            "name": "高知県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "metadata_modified desc",
+    "search_facets": {
+    }
+  }
+}

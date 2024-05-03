@@ -1,0 +1,3080 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 21,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "96fc3e63-8bf2-41c4-853b-589b4acf23a3",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:36.798114",
+        "metadata_modified": "2024-04-15T03:10:23.979790",
+        "name": "houmusyouchizu-2024-1-1586",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "下関市（山口地方法務局下関支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:38:48.607468",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "02da6456-2780-463f-b995-69b834187755",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:38:48.594021",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "96fc3e63-8bf2-41c4-853b-589b4acf23a3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:39:25.553999",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "3c405a82-f8fd-4ef1-a74e-61060919bc53",
+            "last_modified": "2024-04-02T07:39:25.513664",
+            "metadata_modified": "2024-04-02T07:39:25.540419",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35201-2504-2023.zip",
+            "package_id": "96fc3e63-8bf2-41c4-853b-589b4acf23a3",
+            "position": 1,
+            "resource_type": null,
+            "size": 301249466,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/96fc3e63-8bf2-41c4-853b-589b4acf23a3/resource/3c405a82-f8fd-4ef1-a74e-61060919bc53/download/35201-2504-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:40:24.365218",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "45580195-f2bf-497c-9f00-244c275c36ff",
+            "last_modified": "2024-04-02T07:40:24.324769",
+            "metadata_modified": "2024-04-02T07:40:24.353434",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35201-2504-2024.zip",
+            "package_id": "96fc3e63-8bf2-41c4-853b-589b4acf23a3",
+            "position": 2,
+            "resource_type": null,
+            "size": 301494222,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/96fc3e63-8bf2-41c4-853b-589b4acf23a3/resource/45580195-f2bf-497c-9f00-244c275c36ff/download/35201-2504-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "下関市",
+            "id": "3ed7f16a-1719-476e-861b-036209dd9373",
+            "name": "下関市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "066d1e30-7e38-496e-a34e-4850abc0fcdb",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:37.215434",
+        "metadata_modified": "2024-04-15T03:10:23.001388",
+        "name": "houmusyouchizu-2024-1-1587",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "宇部市（山口地方法務局宇部支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:40:47.706331",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "d68f82a9-741e-4c4b-a245-8f46c1c027c8",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:40:47.693048",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "066d1e30-7e38-496e-a34e-4850abc0fcdb",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:41:05.881187",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5b262aef-1164-49e8-87a2-f0dbe55b8a20",
+            "last_modified": "2024-04-02T07:41:05.835074",
+            "metadata_modified": "2024-04-02T07:41:05.865424",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35202-2505-2023.zip",
+            "package_id": "066d1e30-7e38-496e-a34e-4850abc0fcdb",
+            "position": 1,
+            "resource_type": null,
+            "size": 141773248,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/066d1e30-7e38-496e-a34e-4850abc0fcdb/resource/5b262aef-1164-49e8-87a2-f0dbe55b8a20/download/35202-2505-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:41:35.812410",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7334c84c-97be-4e48-81f2-90d0be1e19c5",
+            "last_modified": "2024-04-02T07:41:35.772272",
+            "metadata_modified": "2024-04-02T07:41:35.800572",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35202-2505-2024.zip",
+            "package_id": "066d1e30-7e38-496e-a34e-4850abc0fcdb",
+            "position": 2,
+            "resource_type": null,
+            "size": 142108687,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/066d1e30-7e38-496e-a34e-4850abc0fcdb/resource/7334c84c-97be-4e48-81f2-90d0be1e19c5/download/35202-2505-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "宇部市",
+            "id": "a8dbb2e6-a2a5-4dd6-aee8-9ade145c9477",
+            "name": "宇部市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b56b3ecb-3140-44b5-be04-55587dc11e9d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:37.621418",
+        "metadata_modified": "2024-04-15T03:10:21.664676",
+        "name": "houmusyouchizu-2024-1-1588",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "山口市（山口地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:41:48.086196",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "9826e90d-707a-4dc5-83db-63a819b3e581",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:41:48.072745",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b56b3ecb-3140-44b5-be04-55587dc11e9d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:42:21.084530",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ffe48667-03ad-4ee3-a767-c144737efed0",
+            "last_modified": "2024-04-02T07:42:21.040357",
+            "metadata_modified": "2024-04-02T07:42:21.072116",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35203-2500-2023.zip",
+            "package_id": "b56b3ecb-3140-44b5-be04-55587dc11e9d",
+            "position": 1,
+            "resource_type": null,
+            "size": 299390219,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b56b3ecb-3140-44b5-be04-55587dc11e9d/resource/ffe48667-03ad-4ee3-a767-c144737efed0/download/35203-2500-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:43:17.498430",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5cad1157-5507-4003-88c8-6220f2066eb0",
+            "last_modified": "2024-04-02T07:43:17.456086",
+            "metadata_modified": "2024-04-02T07:43:17.486086",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35203-2500-2024.zip",
+            "package_id": "b56b3ecb-3140-44b5-be04-55587dc11e9d",
+            "position": 2,
+            "resource_type": null,
+            "size": 299662998,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b56b3ecb-3140-44b5-be04-55587dc11e9d/resource/5cad1157-5507-4003-88c8-6220f2066eb0/download/35203-2500-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口市",
+            "id": "0f584149-2184-4409-ad15-907d8e1b7177",
+            "name": "山口市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6fc604b5-ddff-4af3-b894-7c45791f7a1a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:38.066916",
+        "metadata_modified": "2024-04-15T03:10:20.558245",
+        "name": "houmusyouchizu-2024-1-1589",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "萩市（山口地方法務局萩支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:43:41.615197",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "22295cb0-76ef-4061-a13a-2b6628e6e945",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:43:41.603645",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6fc604b5-ddff-4af3-b894-7c45791f7a1a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:44:11.378641",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7338315b-d1a6-4c8b-bfe9-1d3dd82fda96",
+            "last_modified": "2024-04-02T07:44:11.338447",
+            "metadata_modified": "2024-04-02T07:44:11.365536",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35204-2502-2023.zip",
+            "package_id": "6fc604b5-ddff-4af3-b894-7c45791f7a1a",
+            "position": 1,
+            "resource_type": null,
+            "size": 242018459,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6fc604b5-ddff-4af3-b894-7c45791f7a1a/resource/7338315b-d1a6-4c8b-bfe9-1d3dd82fda96/download/35204-2502-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:44:59.189496",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7fc39bbe-2ee8-47b2-b3d1-fd63b1711419",
+            "last_modified": "2024-04-02T07:44:59.145812",
+            "metadata_modified": "2024-04-02T07:44:59.175382",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35204-2502-2024.zip",
+            "package_id": "6fc604b5-ddff-4af3-b894-7c45791f7a1a",
+            "position": 2,
+            "resource_type": null,
+            "size": 242124483,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6fc604b5-ddff-4af3-b894-7c45791f7a1a/resource/7fc39bbe-2ee8-47b2-b3d1-fd63b1711419/download/35204-2502-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "萩市",
+            "id": "75803e2b-5718-4d36-ad41-5e5eee01fcb3",
+            "name": "萩市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e03119d7-2c82-44b0-bfd6-59b6edf7dcb7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:38.485276",
+        "metadata_modified": "2024-04-15T03:10:19.534197",
+        "name": "houmusyouchizu-2024-1-1590",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "防府市（山口地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:45:19.467589",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "7c94e879-8f88-4b17-84f6-c832d7ee201d",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:45:19.454317",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e03119d7-2c82-44b0-bfd6-59b6edf7dcb7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:45:29.807990",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "49bfbc20-e361-4e73-95d7-da8c387bc682",
+            "last_modified": "2024-04-02T07:45:29.767200",
+            "metadata_modified": "2024-04-02T07:45:29.795077",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35206-2500-2023.zip",
+            "package_id": "e03119d7-2c82-44b0-bfd6-59b6edf7dcb7",
+            "position": 1,
+            "resource_type": null,
+            "size": 90004722,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e03119d7-2c82-44b0-bfd6-59b6edf7dcb7/resource/49bfbc20-e361-4e73-95d7-da8c387bc682/download/35206-2500-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:45:50.021264",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9e43c7d9-7d43-48ef-9127-2a9a87c68573",
+            "last_modified": "2024-04-02T07:45:49.974134",
+            "metadata_modified": "2024-04-02T07:45:50.007662",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35206-2500-2024.zip",
+            "package_id": "e03119d7-2c82-44b0-bfd6-59b6edf7dcb7",
+            "position": 2,
+            "resource_type": null,
+            "size": 90125013,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e03119d7-2c82-44b0-bfd6-59b6edf7dcb7/resource/9e43c7d9-7d43-48ef-9127-2a9a87c68573/download/35206-2500-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "防府市",
+            "id": "f0b3a136-7e86-4115-9d8d-268366152fa0",
+            "name": "防府市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "af760b53-13d5-41c6-be7f-656ab7e58cd6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:38.911953",
+        "metadata_modified": "2024-04-15T03:10:18.538762",
+        "name": "houmusyouchizu-2024-1-1591",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "下松市（山口地方法務局周南支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:45:59.003333",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "755b949d-8d19-46f8-aa9d-b0f7e02f8a01",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:45:58.990450",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "af760b53-13d5-41c6-be7f-656ab7e58cd6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:46:04.586331",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "25f48cc9-5ebb-4a1b-9d70-e6a005f40f8e",
+            "last_modified": "2024-04-02T07:46:04.537830",
+            "metadata_modified": "2024-04-02T07:46:04.569987",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35207-2501-2023.zip",
+            "package_id": "af760b53-13d5-41c6-be7f-656ab7e58cd6",
+            "position": 1,
+            "resource_type": null,
+            "size": 46672305,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/af760b53-13d5-41c6-be7f-656ab7e58cd6/resource/25f48cc9-5ebb-4a1b-9d70-e6a005f40f8e/download/35207-2501-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:46:15.363776",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a9f8e696-d18f-4807-b0b3-501d6f5b1005",
+            "last_modified": "2024-04-02T07:46:15.318055",
+            "metadata_modified": "2024-04-02T07:46:15.349783",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35207-2501-2024.zip",
+            "package_id": "af760b53-13d5-41c6-be7f-656ab7e58cd6",
+            "position": 2,
+            "resource_type": null,
+            "size": 46768797,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/af760b53-13d5-41c6-be7f-656ab7e58cd6/resource/a9f8e696-d18f-4807-b0b3-501d6f5b1005/download/35207-2501-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "下松市",
+            "id": "cc6e1f32-6dee-4379-9b28-7ffc704e5900",
+            "name": "下松市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "dd9eef1c-3abe-4540-8c53-c740ab160e02",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:39.358271",
+        "metadata_modified": "2024-04-15T03:10:17.519153",
+        "name": "houmusyouchizu-2024-1-1592",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "岩国市（山口地方法務局岩国支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:46:21.443580",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "09806d0c-9c88-4256-9e41-0d651e6bf439",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:46:21.430385",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "dd9eef1c-3abe-4540-8c53-c740ab160e02",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:47:01.346689",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e9a86112-762a-4707-9e95-10b2ff6d90db",
+            "last_modified": "2024-04-02T07:47:01.300971",
+            "metadata_modified": "2024-04-02T07:47:01.331363",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35208-2503-2023.zip",
+            "package_id": "dd9eef1c-3abe-4540-8c53-c740ab160e02",
+            "position": 1,
+            "resource_type": null,
+            "size": 331801372,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/dd9eef1c-3abe-4540-8c53-c740ab160e02/resource/e9a86112-762a-4707-9e95-10b2ff6d90db/download/35208-2503-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:48:06.576213",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0f9991f7-574a-42fd-b40f-92c8178e62ae",
+            "last_modified": "2024-04-02T07:48:06.534152",
+            "metadata_modified": "2024-04-02T07:48:06.563931",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35208-2503-2024.zip",
+            "package_id": "dd9eef1c-3abe-4540-8c53-c740ab160e02",
+            "position": 2,
+            "resource_type": null,
+            "size": 332042676,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/dd9eef1c-3abe-4540-8c53-c740ab160e02/resource/0f9991f7-574a-42fd-b40f-92c8178e62ae/download/35208-2503-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "岩国市",
+            "id": "e7e2e8f6-6c94-4f8a-ad80-59c33d979de6",
+            "name": "岩国市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f5836800-b83b-491a-bdf4-a4ab9170e98f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:39.800931",
+        "metadata_modified": "2024-04-15T03:10:16.501304",
+        "name": "houmusyouchizu-2024-1-1593",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "光市（山口地方法務局周南支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:48:32.576398",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8902119b-4308-48fa-9561-160bfc3a5f1f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:48:32.565071",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f5836800-b83b-491a-bdf4-a4ab9170e98f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:48:39.977357",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f2fbb5a7-38cb-4142-b0b8-648ee46835f9",
+            "last_modified": "2024-04-02T07:48:39.935567",
+            "metadata_modified": "2024-04-02T07:48:39.963533",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35210-2501-2023.zip",
+            "package_id": "f5836800-b83b-491a-bdf4-a4ab9170e98f",
+            "position": 1,
+            "resource_type": null,
+            "size": 63517965,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f5836800-b83b-491a-bdf4-a4ab9170e98f/resource/f2fbb5a7-38cb-4142-b0b8-648ee46835f9/download/35210-2501-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:48:53.893545",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2407d449-69fb-45eb-a063-7c19aefdad00",
+            "last_modified": "2024-04-02T07:48:53.849343",
+            "metadata_modified": "2024-04-02T07:48:53.879766",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35210-2501-2024.zip",
+            "package_id": "f5836800-b83b-491a-bdf4-a4ab9170e98f",
+            "position": 2,
+            "resource_type": null,
+            "size": 63575760,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f5836800-b83b-491a-bdf4-a4ab9170e98f/resource/2407d449-69fb-45eb-a063-7c19aefdad00/download/35210-2501-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "光市",
+            "id": "5a663d42-9022-424f-acf3-a46a9b2db77d",
+            "name": "光市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "07ffc456-b2a4-4654-808f-9c7af07babc9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:40.218659",
+        "metadata_modified": "2024-04-15T03:10:15.384245",
+        "name": "houmusyouchizu-2024-1-1594",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "長門市（山口地方法務局萩支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:49:00.834546",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "27324d1a-1b7a-4644-aab4-794825dbc495",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:49:00.821634",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "07ffc456-b2a4-4654-808f-9c7af07babc9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:49:17.439966",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "006df065-7a9c-4222-bc8d-f5513298c36b",
+            "last_modified": "2024-04-02T07:49:17.399585",
+            "metadata_modified": "2024-04-02T07:49:17.426749",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35211-2502-2023.zip",
+            "package_id": "07ffc456-b2a4-4654-808f-9c7af07babc9",
+            "position": 1,
+            "resource_type": null,
+            "size": 123898861,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/07ffc456-b2a4-4654-808f-9c7af07babc9/resource/006df065-7a9c-4222-bc8d-f5513298c36b/download/35211-2502-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:49:41.532243",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6a364ee5-22a7-4dd5-98e1-5a02258a4e58",
+            "last_modified": "2024-04-02T07:49:41.488908",
+            "metadata_modified": "2024-04-02T07:49:41.518538",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35211-2502-2024.zip",
+            "package_id": "07ffc456-b2a4-4654-808f-9c7af07babc9",
+            "position": 2,
+            "resource_type": null,
+            "size": 123977127,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/07ffc456-b2a4-4654-808f-9c7af07babc9/resource/6a364ee5-22a7-4dd5-98e1-5a02258a4e58/download/35211-2502-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "長門市",
+            "id": "b2b6cfcf-7911-4d62-9e29-9e9dc6365e65",
+            "name": "長門市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f8ee05fd-00fb-4fac-b230-592666ad3393",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:40.632178",
+        "metadata_modified": "2024-04-15T03:10:14.270047",
+        "name": "houmusyouchizu-2024-1-1595",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "柳井市（山口地方法務局柳井出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:49:52.996896",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "beef556f-b10f-48d8-9375-dbf9727aa70b",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:49:52.985288",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f8ee05fd-00fb-4fac-b230-592666ad3393",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:50:05.721061",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f2bf9e13-3363-473e-b8cd-bdc4ed504d4b",
+            "last_modified": "2024-04-02T07:50:05.679345",
+            "metadata_modified": "2024-04-02T07:50:05.707601",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35212-2525-2023.zip",
+            "package_id": "f8ee05fd-00fb-4fac-b230-592666ad3393",
+            "position": 1,
+            "resource_type": null,
+            "size": 88554861,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f8ee05fd-00fb-4fac-b230-592666ad3393/resource/f2bf9e13-3363-473e-b8cd-bdc4ed504d4b/download/35212-2525-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:50:25.260133",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ee5742ae-30ed-4236-93d0-c73542d35905",
+            "last_modified": "2024-04-02T07:50:25.219513",
+            "metadata_modified": "2024-04-02T07:50:25.248129",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35212-2525-2024.zip",
+            "package_id": "f8ee05fd-00fb-4fac-b230-592666ad3393",
+            "position": 2,
+            "resource_type": null,
+            "size": 88696337,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f8ee05fd-00fb-4fac-b230-592666ad3393/resource/ee5742ae-30ed-4236-93d0-c73542d35905/download/35212-2525-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "柳井市",
+            "id": "90b8b1e4-6200-46e9-a145-d469979ad01a",
+            "name": "柳井市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "060d66b4-7a17-4928-ade6-cb8dfad7c443",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:41.027874",
+        "metadata_modified": "2024-04-15T03:10:13.214599",
+        "name": "houmusyouchizu-2024-1-1596",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "美祢市（山口地方法務局宇部支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:50:33.843656",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1574966a-d125-4efe-aeac-94959f8c7231",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:50:33.830811",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "060d66b4-7a17-4928-ade6-cb8dfad7c443",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:50:58.931980",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "915340b6-4308-461c-9853-743d6621b6b1",
+            "last_modified": "2024-04-02T07:50:58.890102",
+            "metadata_modified": "2024-04-02T07:50:58.918036",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35213-2505-2023.zip",
+            "package_id": "060d66b4-7a17-4928-ade6-cb8dfad7c443",
+            "position": 1,
+            "resource_type": null,
+            "size": 189339357,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/060d66b4-7a17-4928-ade6-cb8dfad7c443/resource/915340b6-4308-461c-9853-743d6621b6b1/download/35213-2505-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:51:37.662719",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d13ef793-65a7-4e9e-a1f3-90bf91329339",
+            "last_modified": "2024-04-02T07:51:37.622103",
+            "metadata_modified": "2024-04-02T07:51:37.651220",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35213-2505-2024.zip",
+            "package_id": "060d66b4-7a17-4928-ade6-cb8dfad7c443",
+            "position": 2,
+            "resource_type": null,
+            "size": 190447954,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/060d66b4-7a17-4928-ade6-cb8dfad7c443/resource/d13ef793-65a7-4e9e-a1f3-90bf91329339/download/35213-2505-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "美祢市",
+            "id": "74c831b7-a291-4dc6-9d32-88c285cbd871",
+            "name": "美祢市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "fd817fe6-06c2-42be-ad21-7d94b6e58c9d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:41.446448",
+        "metadata_modified": "2024-04-15T03:10:12.156947",
+        "name": "houmusyouchizu-2024-1-1597",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "周南市（山口地方法務局周南支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:51:53.235421",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1333ff01-3b83-4efa-b973-5725227de69d",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:51:53.221930",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "fd817fe6-06c2-42be-ad21-7d94b6e58c9d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:52:21.687101",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "bc76fff5-495b-4aef-9629-0b14c1e7aef8",
+            "last_modified": "2024-04-02T07:52:21.645471",
+            "metadata_modified": "2024-04-02T07:52:21.673552",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35215-2501-2023.zip",
+            "package_id": "fd817fe6-06c2-42be-ad21-7d94b6e58c9d",
+            "position": 1,
+            "resource_type": null,
+            "size": 215120256,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fd817fe6-06c2-42be-ad21-7d94b6e58c9d/resource/bc76fff5-495b-4aef-9629-0b14c1e7aef8/download/35215-2501-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:53:04.856848",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4ea2254a-8a2f-4a3a-891c-0f36ca7aeb54",
+            "last_modified": "2024-04-02T07:53:04.797686",
+            "metadata_modified": "2024-04-02T07:53:04.838005",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35215-2501-2024.zip",
+            "package_id": "fd817fe6-06c2-42be-ad21-7d94b6e58c9d",
+            "position": 2,
+            "resource_type": null,
+            "size": 215215042,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fd817fe6-06c2-42be-ad21-7d94b6e58c9d/resource/4ea2254a-8a2f-4a3a-891c-0f36ca7aeb54/download/35215-2501-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "周南市",
+            "id": "89e40ed6-6c3a-42c8-9b45-a78b486a87c6",
+            "name": "周南市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e2e205eb-1456-44a6-8034-5a647465ad9c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:41.860006",
+        "metadata_modified": "2024-04-15T03:10:11.031520",
+        "name": "houmusyouchizu-2024-1-1598",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "山陽小野田市（山口地方法務局宇部支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:53:22.187172",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "488c4681-0315-4c05-9ab4-928da10d08eb",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:53:22.175358",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e2e205eb-1456-44a6-8034-5a647465ad9c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:53:29.796118",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9b7b837b-d77f-43ad-8e54-39e42b6ce5de",
+            "last_modified": "2024-04-02T07:53:29.756673",
+            "metadata_modified": "2024-04-02T07:53:29.784368",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35216-2505-2023.zip",
+            "package_id": "e2e205eb-1456-44a6-8034-5a647465ad9c",
+            "position": 1,
+            "resource_type": null,
+            "size": 61392061,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e2e205eb-1456-44a6-8034-5a647465ad9c/resource/9b7b837b-d77f-43ad-8e54-39e42b6ce5de/download/35216-2505-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:53:43.388435",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a3672d5e-5da8-4dd4-ac47-ce047ea92ac7",
+            "last_modified": "2024-04-02T07:53:43.345628",
+            "metadata_modified": "2024-04-02T07:53:43.376049",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35216-2505-2024.zip",
+            "package_id": "e2e205eb-1456-44a6-8034-5a647465ad9c",
+            "position": 2,
+            "resource_type": null,
+            "size": 61436741,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e2e205eb-1456-44a6-8034-5a647465ad9c/resource/a3672d5e-5da8-4dd4-ac47-ce047ea92ac7/download/35216-2505-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山陽小野田市",
+            "id": "0939f51c-5687-492b-b6ad-7b73759b6be4",
+            "name": "山陽小野田市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4aaddcb0-aa9e-4812-94e0-b94ba251708e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:42.280143",
+        "metadata_modified": "2024-04-15T03:10:10.010916",
+        "name": "houmusyouchizu-2024-1-1599",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "大島郡周防大島町（山口地方法務局柳井出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:53:50.295566",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "fd958fba-22d2-40ba-8c56-9c3882895d70",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:53:50.282754",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4aaddcb0-aa9e-4812-94e0-b94ba251708e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:54:04.043946",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6c14b8dc-69cf-451d-b695-95fff2ffeaff",
+            "last_modified": "2024-04-02T07:54:04.004447",
+            "metadata_modified": "2024-04-02T07:54:04.032223",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35305-2525-2023.zip",
+            "package_id": "4aaddcb0-aa9e-4812-94e0-b94ba251708e",
+            "position": 1,
+            "resource_type": null,
+            "size": 122335581,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4aaddcb0-aa9e-4812-94e0-b94ba251708e/resource/6c14b8dc-69cf-451d-b695-95fff2ffeaff/download/35305-2525-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:54:29.279328",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7ee8ccf3-b150-49b8-9d01-214764031644",
+            "last_modified": "2024-04-02T07:54:29.237954",
+            "metadata_modified": "2024-04-02T07:54:29.267330",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35305-2525-2024.zip",
+            "package_id": "4aaddcb0-aa9e-4812-94e0-b94ba251708e",
+            "position": 2,
+            "resource_type": null,
+            "size": 122343818,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4aaddcb0-aa9e-4812-94e0-b94ba251708e/resource/7ee8ccf3-b150-49b8-9d01-214764031644/download/35305-2525-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大島郡周防大島町",
+            "id": "3e1e7dbe-3fef-436a-94f7-1e9ad7329732",
+            "name": "大島郡周防大島町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "59589560-4903-45b6-9756-0947b8618203",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:42.703554",
+        "metadata_modified": "2024-04-15T03:10:09.016161",
+        "name": "houmusyouchizu-2024-1-1600",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "玖珂郡和木町（山口地方法務局岩国支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:54:40.479567",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "128cfc99-91fc-4416-89c6-297ca7aefc55",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:54:40.468363",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "59589560-4903-45b6-9756-0947b8618203",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:54:41.558156",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8fbcebee-3df3-41bd-8c9e-4f583a2884bb",
+            "last_modified": "2024-04-02T07:54:41.518498",
+            "metadata_modified": "2024-04-02T07:54:41.546327",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35321-2503-2023.zip",
+            "package_id": "59589560-4903-45b6-9756-0947b8618203",
+            "position": 1,
+            "resource_type": null,
+            "size": 4287635,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/59589560-4903-45b6-9756-0947b8618203/resource/8fbcebee-3df3-41bd-8c9e-4f583a2884bb/download/35321-2503-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:54:45.010252",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e6a80c74-daa7-444e-ae7b-0967ee61d2fb",
+            "last_modified": "2024-04-02T07:54:44.963982",
+            "metadata_modified": "2024-04-02T07:54:44.995759",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35321-2503-2024.zip",
+            "package_id": "59589560-4903-45b6-9756-0947b8618203",
+            "position": 2,
+            "resource_type": null,
+            "size": 4296598,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/59589560-4903-45b6-9756-0947b8618203/resource/e6a80c74-daa7-444e-ae7b-0967ee61d2fb/download/35321-2503-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "玖珂郡和木町",
+            "id": "acbc05d9-3a2a-4d05-bedf-cd41c50671c7",
+            "name": "玖珂郡和木町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7af78fe7-4be4-4e41-b529-70c03ee04a47",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:43.164597",
+        "metadata_modified": "2024-04-15T03:10:07.993519",
+        "name": "houmusyouchizu-2024-1-1601",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "熊毛郡上関町（山口地方法務局柳井出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:54:47.905494",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "4d0385b3-fd37-4f3b-9c9e-42deb03ca89c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:54:47.893701",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7af78fe7-4be4-4e41-b529-70c03ee04a47",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:54:50.377608",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c6de4ef9-d2f7-485e-b890-d71316356b1b",
+            "last_modified": "2024-04-02T07:54:50.339826",
+            "metadata_modified": "2024-04-02T07:54:50.366127",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35341-2525-2023.zip",
+            "package_id": "7af78fe7-4be4-4e41-b529-70c03ee04a47",
+            "position": 1,
+            "resource_type": null,
+            "size": 16548090,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7af78fe7-4be4-4e41-b529-70c03ee04a47/resource/c6de4ef9-d2f7-485e-b890-d71316356b1b/download/35341-2525-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:54:56.344743",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e75b00a0-6d71-48da-92ee-50110d5325f0",
+            "last_modified": "2024-04-02T07:54:56.302834",
+            "metadata_modified": "2024-04-02T07:54:56.331195",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35341-2525-2024.zip",
+            "package_id": "7af78fe7-4be4-4e41-b529-70c03ee04a47",
+            "position": 2,
+            "resource_type": null,
+            "size": 16556577,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7af78fe7-4be4-4e41-b529-70c03ee04a47/resource/e75b00a0-6d71-48da-92ee-50110d5325f0/download/35341-2525-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "熊毛郡上関町",
+            "id": "f557a23b-5aa0-48bc-bd2b-cc999e2ed2e2",
+            "name": "熊毛郡上関町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7e54ab33-2af0-4c18-9254-dca2752fa660",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:43.598319",
+        "metadata_modified": "2024-04-15T03:10:06.949717",
+        "name": "houmusyouchizu-2024-1-1602",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "熊毛郡田布施町（山口地方法務局柳井出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:00.137472",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "f09b2467-2af7-44fb-ad27-bd2387f9f672",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:55:00.126313",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7e54ab33-2af0-4c18-9254-dca2752fa660",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:05.173492",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f09295b9-65f8-4d21-8d53-583d3af2bb71",
+            "last_modified": "2024-04-02T07:55:05.131568",
+            "metadata_modified": "2024-04-02T07:55:05.160020",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35343-2525-2023.zip",
+            "package_id": "7e54ab33-2af0-4c18-9254-dca2752fa660",
+            "position": 1,
+            "resource_type": null,
+            "size": 36117660,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7e54ab33-2af0-4c18-9254-dca2752fa660/resource/f09295b9-65f8-4d21-8d53-583d3af2bb71/download/35343-2525-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:14.128950",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9f8a9b55-7dd2-49bf-b65c-06ecc51493e1",
+            "last_modified": "2024-04-02T07:55:14.067982",
+            "metadata_modified": "2024-04-02T07:55:14.102113",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35343-2525-2024.zip",
+            "package_id": "7e54ab33-2af0-4c18-9254-dca2752fa660",
+            "position": 2,
+            "resource_type": null,
+            "size": 36161895,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7e54ab33-2af0-4c18-9254-dca2752fa660/resource/9f8a9b55-7dd2-49bf-b65c-06ecc51493e1/download/35343-2525-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "熊毛郡田布施町",
+            "id": "02d17dcd-c662-49f4-a8b8-66810b8a3ed1",
+            "name": "熊毛郡田布施町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c4b44eb3-0cbd-419b-a561-02be4ab721fa",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:44.015987",
+        "metadata_modified": "2024-04-15T03:10:05.925900",
+        "name": "houmusyouchizu-2024-1-1603",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "熊毛郡平生町（山口地方法務局柳井出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:19.424586",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "03b861a4-0b74-4b99-839e-8bdbc883016d",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:55:19.410620",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c4b44eb3-0cbd-419b-a561-02be4ab721fa",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:23.105417",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "bf0c5e4b-e84e-43cd-b28d-87226d45f267",
+            "last_modified": "2024-04-02T07:55:23.061299",
+            "metadata_modified": "2024-04-02T07:55:23.091601",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35344-2525-2023.zip",
+            "package_id": "c4b44eb3-0cbd-419b-a561-02be4ab721fa",
+            "position": 1,
+            "resource_type": null,
+            "size": 26438990,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c4b44eb3-0cbd-419b-a561-02be4ab721fa/resource/bf0c5e4b-e84e-43cd-b28d-87226d45f267/download/35344-2525-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:31.044924",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c84af40f-e0fc-42cc-9fb0-71dd9fcc4693",
+            "last_modified": "2024-04-02T07:55:30.999565",
+            "metadata_modified": "2024-04-02T07:55:31.030649",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35344-2525-2024.zip",
+            "package_id": "c4b44eb3-0cbd-419b-a561-02be4ab721fa",
+            "position": 2,
+            "resource_type": null,
+            "size": 26457924,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c4b44eb3-0cbd-419b-a561-02be4ab721fa/resource/c84af40f-e0fc-42cc-9fb0-71dd9fcc4693/download/35344-2525-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "熊毛郡平生町",
+            "id": "9ebf9b11-0631-417b-bde0-e5167b911c91",
+            "name": "熊毛郡平生町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f19d72f4-906e-4dd1-879a-e357dcae1fd8",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:44.436685",
+        "metadata_modified": "2024-04-15T03:10:04.868579",
+        "name": "houmusyouchizu-2024-1-1604",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "美祢郡美東町（山口地方法務局宇部支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:35.482042",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "d05d075e-7258-46d7-bf70-b2144c0b4b4d",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:55:35.467636",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f19d72f4-906e-4dd1-879a-e357dcae1fd8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:36.357080",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1b9e22c8-5e52-4521-b48b-5e69bd9a6f02",
+            "last_modified": "2024-04-02T07:55:36.316390",
+            "metadata_modified": "2024-04-02T07:55:36.343958",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35461-2505-2023.zip",
+            "package_id": "f19d72f4-906e-4dd1-879a-e357dcae1fd8",
+            "position": 1,
+            "resource_type": null,
+            "size": 105306,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f19d72f4-906e-4dd1-879a-e357dcae1fd8/resource/1b9e22c8-5e52-4521-b48b-5e69bd9a6f02/download/35461-2505-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:38.665690",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d7bd0955-99ee-4951-9e88-0e78cd1e1a71",
+            "last_modified": "2024-04-02T07:55:38.625401",
+            "metadata_modified": "2024-04-02T07:55:38.653935",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35461-2505-2024.zip",
+            "package_id": "f19d72f4-906e-4dd1-879a-e357dcae1fd8",
+            "position": 2,
+            "resource_type": null,
+            "size": 88553,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f19d72f4-906e-4dd1-879a-e357dcae1fd8/resource/d7bd0955-99ee-4951-9e88-0e78cd1e1a71/download/35461-2505-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "美祢郡美東町",
+            "id": "b5db5d22-9dfe-4877-a169-4ecf7a393840",
+            "name": "美祢郡美東町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7c825c12-78b8-449c-aa2c-baff112afcde",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:44.877246",
+        "metadata_modified": "2024-04-15T03:10:03.818374",
+        "name": "houmusyouchizu-2024-1-1605",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "美祢郡秋芳町（山口地方法務局宇部支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:40.489617",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "282294e8-07c6-42a1-961c-305c00c02620",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:55:40.478102",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7c825c12-78b8-449c-aa2c-baff112afcde",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:41.526384",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9061be8b-eb5f-44fd-88a1-95c1055e5c5e",
+            "last_modified": "2024-04-02T07:55:41.485208",
+            "metadata_modified": "2024-04-02T07:55:41.514004",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35462-2505-2023.zip",
+            "package_id": "7c825c12-78b8-449c-aa2c-baff112afcde",
+            "position": 1,
+            "resource_type": null,
+            "size": 3895682,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7c825c12-78b8-449c-aa2c-baff112afcde/resource/9061be8b-eb5f-44fd-88a1-95c1055e5c5e/download/35462-2505-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:44.618000",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "13a43f05-5435-4370-9c9a-45c5a847a0d9",
+            "last_modified": "2024-04-02T07:55:44.576113",
+            "metadata_modified": "2024-04-02T07:55:44.605837",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35462-2505-2024.zip",
+            "package_id": "7c825c12-78b8-449c-aa2c-baff112afcde",
+            "position": 2,
+            "resource_type": null,
+            "size": 388331,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7c825c12-78b8-449c-aa2c-baff112afcde/resource/13a43f05-5435-4370-9c9a-45c5a847a0d9/download/35462-2505-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "美祢郡秋芳町",
+            "id": "8458eb60-9577-43d9-8d65-ecd7637fdfb8",
+            "name": "美祢郡秋芳町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ae13fb3b-a1b2-47b8-8a52-0a7f16543d2d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:29:45.325996",
+        "metadata_modified": "2024-04-15T03:10:02.776530",
+        "name": "houmusyouchizu-2024-1-1606",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-35yamaguchi",
+          "name": "moj-35yamaguchi",
+          "title": "35山口県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:35.630674",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-35yamaguchi",
+        "private": false,
+        "state": "active",
+        "title": "阿武郡阿武町（山口地方法務局萩支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:46.938434",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "abb8954c-4031-49fc-9a90-847980d333d3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T07:55:46.927205",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ae13fb3b-a1b2-47b8-8a52-0a7f16543d2d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:55:51.922361",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "04894ded-abd2-48aa-86c1-2188c13eb95e",
+            "last_modified": "2024-04-02T07:55:51.883415",
+            "metadata_modified": "2024-04-02T07:55:51.911052",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35502-2502-2023.zip",
+            "package_id": "ae13fb3b-a1b2-47b8-8a52-0a7f16543d2d",
+            "position": 1,
+            "resource_type": null,
+            "size": 35175079,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ae13fb3b-a1b2-47b8-8a52-0a7f16543d2d/resource/04894ded-abd2-48aa-86c1-2188c13eb95e/download/35502-2502-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T07:56:01.223698",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9d659a08-8680-4410-8753-a556a93b5cc8",
+            "last_modified": "2024-04-02T07:56:01.178250",
+            "metadata_modified": "2024-04-02T07:56:01.209227",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "35502-2502-2024.zip",
+            "package_id": "ae13fb3b-a1b2-47b8-8a52-0a7f16543d2d",
+            "position": 2,
+            "resource_type": null,
+            "size": 35179483,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ae13fb3b-a1b2-47b8-8a52-0a7f16543d2d/resource/9d659a08-8680-4410-8753-a556a93b5cc8/download/35502-2502-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山口県",
+            "id": "80f5ae54-4e3e-4ce7-9513-da6a289d6319",
+            "name": "山口県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "阿武郡阿武町",
+            "id": "a3122771-cfb9-41d5-97b8-e958125a7dd1",
+            "name": "阿武郡阿武町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "metadata_modified desc",
+    "search_facets": {
+    }
+  }
+}

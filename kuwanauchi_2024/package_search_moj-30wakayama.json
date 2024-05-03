@@ -1,0 +1,4540 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 31,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "75107a0e-b242-4b5a-8a51-59764e41c2f0",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:29:57.947357",
+        "metadata_modified": "2024-04-15T03:12:54.592658",
+        "name": "houmusyouchizu-2024-1-1441",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "和歌山市（和歌山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:56:37.281892",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8b16dde5-bd94-4699-bf49-57c7a3ae26b2",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T04:56:37.269627",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "75107a0e-b242-4b5a-8a51-59764e41c2f0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:56:55.830705",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "28480cfa-9afc-402a-b518-4603aa9d1ef2",
+            "last_modified": "2024-04-02T04:56:55.790472",
+            "metadata_modified": "2024-04-02T04:56:55.818649",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30201-1700-2023.zip",
+            "package_id": "75107a0e-b242-4b5a-8a51-59764e41c2f0",
+            "position": 1,
+            "resource_type": null,
+            "size": 142152479,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/75107a0e-b242-4b5a-8a51-59764e41c2f0/resource/28480cfa-9afc-402a-b518-4603aa9d1ef2/download/30201-1700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:57:26.496201",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7d32dee9-3ab9-4cf3-a36c-1b5899766b71",
+            "last_modified": "2024-04-02T04:57:26.451338",
+            "metadata_modified": "2024-04-02T04:57:26.482449",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30201-1700-2024.zip",
+            "package_id": "75107a0e-b242-4b5a-8a51-59764e41c2f0",
+            "position": 2,
+            "resource_type": null,
+            "size": 142407627,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/75107a0e-b242-4b5a-8a51-59764e41c2f0/resource/7d32dee9-3ab9-4cf3-a36c-1b5899766b71/download/30201-1700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山市",
+            "id": "22b163d7-9499-4a3f-a9d3-e62e9651d8f3",
+            "name": "和歌山市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e12e5d74-932d-403c-8461-f68f0936a96c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:29:58.363379",
+        "metadata_modified": "2024-04-15T03:12:53.578968",
+        "name": "houmusyouchizu-2024-1-1442",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "海南市（和歌山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:57:38.980295",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "308906bf-4620-4b70-9c53-f923e0268143",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T04:57:38.967850",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e12e5d74-932d-403c-8461-f68f0936a96c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:57:49.333706",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "e39dbfb3-2d95-4b6e-b091-aff91fe43525",
+            "last_modified": "2024-04-02T04:57:49.290994",
+            "metadata_modified": "2024-04-02T04:57:49.320234",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30202-1700-2023.zip",
+            "package_id": "e12e5d74-932d-403c-8461-f68f0936a96c",
+            "position": 1,
+            "resource_type": null,
+            "size": 74010134,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e12e5d74-932d-403c-8461-f68f0936a96c/resource/e39dbfb3-2d95-4b6e-b091-aff91fe43525/download/30202-1700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:58:05.391072",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0d5d9cb6-5653-416a-89bc-9b185ddfe560",
+            "last_modified": "2024-04-02T04:58:05.348633",
+            "metadata_modified": "2024-04-02T04:58:05.379050",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30202-1700-2024.zip",
+            "package_id": "e12e5d74-932d-403c-8461-f68f0936a96c",
+            "position": 2,
+            "resource_type": null,
+            "size": 73443359,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e12e5d74-932d-403c-8461-f68f0936a96c/resource/0d5d9cb6-5653-416a-89bc-9b185ddfe560/download/30202-1700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "海南市",
+            "id": "136486cd-4a62-445c-84ac-080104a8c88e",
+            "name": "海南市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "062605ff-aa73-4943-9970-3e7b94ed0c42",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:29:58.782123",
+        "metadata_modified": "2024-04-15T03:12:52.600914",
+        "name": "houmusyouchizu-2024-1-1443",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "橋本市（和歌山地方法務局橋本支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:58:12.842436",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "dfbba033-32f6-4e6c-b9e7-77eea870606e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T04:58:12.829769",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "062605ff-aa73-4943-9970-3e7b94ed0c42",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:58:24.154487",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "34b2aa1d-3dbe-4631-9c6c-e5e57d548da3",
+            "last_modified": "2024-04-02T04:58:24.111199",
+            "metadata_modified": "2024-04-02T04:58:24.140663",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30203-1716-2023.zip",
+            "package_id": "062605ff-aa73-4943-9970-3e7b94ed0c42",
+            "position": 1,
+            "resource_type": null,
+            "size": 92949432,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/062605ff-aa73-4943-9970-3e7b94ed0c42/resource/34b2aa1d-3dbe-4631-9c6c-e5e57d548da3/download/30203-1716-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:58:43.968588",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b207ea57-30de-4ac6-a79a-465b3f65d0b5",
+            "last_modified": "2024-04-02T04:58:43.915435",
+            "metadata_modified": "2024-04-02T04:58:43.952996",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30203-1716-2024.zip",
+            "package_id": "062605ff-aa73-4943-9970-3e7b94ed0c42",
+            "position": 2,
+            "resource_type": null,
+            "size": 92897058,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/062605ff-aa73-4943-9970-3e7b94ed0c42/resource/b207ea57-30de-4ac6-a79a-465b3f65d0b5/download/30203-1716-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "橋本市",
+            "id": "4afa3d0f-35c9-4364-8958-0747f81e2796",
+            "name": "橋本市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "972db664-32e6-453c-8b78-2c3d4a4fdb98",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:29:59.210590",
+        "metadata_modified": "2024-04-15T03:12:51.549043",
+        "name": "houmusyouchizu-2024-1-1444",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "有田市（和歌山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:58:53.078443",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "073c3943-cf28-498a-bb86-5122b40de7aa",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T04:58:53.065750",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "972db664-32e6-453c-8b78-2c3d4a4fdb98",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:58:56.424243",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "134b102f-e56c-45b9-9da1-3de8c82add9e",
+            "last_modified": "2024-04-02T04:58:56.382826",
+            "metadata_modified": "2024-04-02T04:58:56.410997",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30204-1700-2023.zip",
+            "package_id": "972db664-32e6-453c-8b78-2c3d4a4fdb98",
+            "position": 1,
+            "resource_type": null,
+            "size": 25037000,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/972db664-32e6-453c-8b78-2c3d4a4fdb98/resource/134b102f-e56c-45b9-9da1-3de8c82add9e/download/30204-1700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:59:04.631745",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "97d7102b-97de-4f12-9642-0bf8b144fcd0",
+            "last_modified": "2024-04-02T04:59:04.589380",
+            "metadata_modified": "2024-04-02T04:59:04.618365",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30204-1700-2024.zip",
+            "package_id": "972db664-32e6-453c-8b78-2c3d4a4fdb98",
+            "position": 2,
+            "resource_type": null,
+            "size": 25289850,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/972db664-32e6-453c-8b78-2c3d4a4fdb98/resource/97d7102b-97de-4f12-9642-0bf8b144fcd0/download/30204-1700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "有田市",
+            "id": "5eba18e9-92b1-4e78-82ef-87e4df181282",
+            "name": "有田市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ecf10f25-e8dc-4f93-99e5-740e4bb32b29",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:29:59.625749",
+        "metadata_modified": "2024-04-15T03:12:50.553663",
+        "name": "houmusyouchizu-2024-1-1445",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "御坊市（和歌山地方法務局御坊支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:59:08.901221",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "0788c787-a682-4cae-922b-3d96a626c2a7",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T04:59:08.887545",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ecf10f25-e8dc-4f93-99e5-740e4bb32b29",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:59:12.423927",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d1a52725-2f74-4171-a7b0-bc6a1c916155",
+            "last_modified": "2024-04-02T04:59:12.381377",
+            "metadata_modified": "2024-04-02T04:59:12.409956",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30205-1703-2023.zip",
+            "package_id": "ecf10f25-e8dc-4f93-99e5-740e4bb32b29",
+            "position": 1,
+            "resource_type": null,
+            "size": 27805915,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ecf10f25-e8dc-4f93-99e5-740e4bb32b29/resource/d1a52725-2f74-4171-a7b0-bc6a1c916155/download/30205-1703-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T04:59:20.081067",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "bf2b2f14-8c91-48ce-aa81-195f2bf828c5",
+            "last_modified": "2024-04-02T04:59:20.038765",
+            "metadata_modified": "2024-04-02T04:59:20.068771",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30205-1703-2024.zip",
+            "package_id": "ecf10f25-e8dc-4f93-99e5-740e4bb32b29",
+            "position": 2,
+            "resource_type": null,
+            "size": 28002878,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ecf10f25-e8dc-4f93-99e5-740e4bb32b29/resource/bf2b2f14-8c91-48ce-aa81-195f2bf828c5/download/30205-1703-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "御坊市",
+            "id": "a77c776d-d139-42cf-b1d2-9fd6c1168d5d",
+            "name": "御坊市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b1bcbfc0-9d56-4415-8e87-a84e7b323b49",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:30:00.075045",
+        "metadata_modified": "2024-04-15T03:12:49.465256",
+        "name": "houmusyouchizu-2024-1-1446",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "田辺市（和歌山地方法務局田辺支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:06:50.774188",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "a7b10606-4de9-4b0e-8dd1-a19de85bef5c",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:06:50.762392",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b1bcbfc0-9d56-4415-8e87-a84e7b323b49",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:07:16.818667",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "9a8658f6-20eb-4d65-ac1d-86c1b9af6967",
+            "last_modified": "2024-04-02T05:07:16.779167",
+            "metadata_modified": "2024-04-02T05:07:16.806818",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30206-1702-2023.zip",
+            "package_id": "b1bcbfc0-9d56-4415-8e87-a84e7b323b49",
+            "position": 1,
+            "resource_type": null,
+            "size": 215858084,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b1bcbfc0-9d56-4415-8e87-a84e7b323b49/resource/9a8658f6-20eb-4d65-ac1d-86c1b9af6967/download/30206-1702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:07:59.084830",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f9859409-3a74-48a3-ab5f-ff1ea6bd5343",
+            "last_modified": "2024-04-02T05:07:59.039259",
+            "metadata_modified": "2024-04-02T05:07:59.070941",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30206-1702-2024.zip",
+            "package_id": "b1bcbfc0-9d56-4415-8e87-a84e7b323b49",
+            "position": 2,
+            "resource_type": null,
+            "size": 214360637,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b1bcbfc0-9d56-4415-8e87-a84e7b323b49/resource/f9859409-3a74-48a3-ab5f-ff1ea6bd5343/download/30206-1702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "田辺市",
+            "id": "2877435a-ff5e-4acb-a71f-88ea756a2ddc",
+            "name": "田辺市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ae92b15e-7691-4c65-b8cd-ed69a0ecb164",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:30:00.514966",
+        "metadata_modified": "2024-04-15T03:12:48.498262",
+        "name": "houmusyouchizu-2024-1-1447",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "新宮市（和歌山地方法務局新宮支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:08:16.436293",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "6fbdf5a1-1448-492e-b4fe-64daf4b86182",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:08:16.422918",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ae92b15e-7691-4c65-b8cd-ed69a0ecb164",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:08:23.944172",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b82974e3-9242-44c6-a648-a1a31c1fca67",
+            "last_modified": "2024-04-02T05:08:23.900804",
+            "metadata_modified": "2024-04-02T05:08:23.930580",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30207-1704-2023.zip",
+            "package_id": "ae92b15e-7691-4c65-b8cd-ed69a0ecb164",
+            "position": 1,
+            "resource_type": null,
+            "size": 53460714,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ae92b15e-7691-4c65-b8cd-ed69a0ecb164/resource/b82974e3-9242-44c6-a648-a1a31c1fca67/download/30207-1704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:08:36.295340",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "54f135c1-8255-409e-8079-dab1e348dfb5",
+            "last_modified": "2024-04-02T05:08:36.252571",
+            "metadata_modified": "2024-04-02T05:08:36.282914",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30207-1704-2024.zip",
+            "package_id": "ae92b15e-7691-4c65-b8cd-ed69a0ecb164",
+            "position": 2,
+            "resource_type": null,
+            "size": 52985750,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ae92b15e-7691-4c65-b8cd-ed69a0ecb164/resource/54f135c1-8255-409e-8079-dab1e348dfb5/download/30207-1704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "新宮市",
+            "id": "17d32fa3-3776-4ec6-9304-1b7b40a528bd",
+            "name": "新宮市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4b5d98b8-aeda-4562-b129-7599f5cc5362",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:30:00.937380",
+        "metadata_modified": "2024-04-15T03:12:47.453254",
+        "name": "houmusyouchizu-2024-1-1448",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "紀の川市（和歌山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:08:42.696068",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "142352f9-6f3f-41b8-90cb-690209c8a8f9",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:08:42.683438",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4b5d98b8-aeda-4562-b129-7599f5cc5362",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:08:57.927301",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "4fbd86e1-c6a4-4252-a53b-ff77669e42e2",
+            "last_modified": "2024-04-02T05:08:57.888992",
+            "metadata_modified": "2024-04-02T05:08:57.915872",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30208-1700-2023.zip",
+            "package_id": "4b5d98b8-aeda-4562-b129-7599f5cc5362",
+            "position": 1,
+            "resource_type": null,
+            "size": 125562557,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4b5d98b8-aeda-4562-b129-7599f5cc5362/resource/4fbd86e1-c6a4-4252-a53b-ff77669e42e2/download/30208-1700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:09:24.236696",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5c2bd901-4bde-4238-b2b8-062bc24e779f",
+            "last_modified": "2024-04-02T05:09:24.194289",
+            "metadata_modified": "2024-04-02T05:09:24.224254",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30208-1700-2024.zip",
+            "package_id": "4b5d98b8-aeda-4562-b129-7599f5cc5362",
+            "position": 2,
+            "resource_type": null,
+            "size": 125898713,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4b5d98b8-aeda-4562-b129-7599f5cc5362/resource/5c2bd901-4bde-4238-b2b8-062bc24e779f/download/30208-1700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "紀の川市",
+            "id": "3a7447cf-a766-43bb-932f-23cb5c9bcdfe",
+            "name": "紀の川市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "366f61d2-43a6-4032-abb7-73b765981078",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:30:01.392090",
+        "metadata_modified": "2024-04-15T03:12:46.389515",
+        "name": "houmusyouchizu-2024-1-1449",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "岩出市（和歌山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:09:35.448643",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "a3c6e04c-6d7f-4a92-97c4-711fd7b9dc1a",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:09:35.434862",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "366f61d2-43a6-4032-abb7-73b765981078",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:09:40.110486",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "399ff8be-27ba-4a6c-98f0-a41ed8f9c4d4",
+            "last_modified": "2024-04-02T05:09:40.067379",
+            "metadata_modified": "2024-04-02T05:09:40.097144",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30209-1700-2023.zip",
+            "package_id": "366f61d2-43a6-4032-abb7-73b765981078",
+            "position": 1,
+            "resource_type": null,
+            "size": 30412292,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/366f61d2-43a6-4032-abb7-73b765981078/resource/399ff8be-27ba-4a6c-98f0-a41ed8f9c4d4/download/30209-1700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:09:48.870575",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "083215db-66da-4bab-b81c-13b093e9f085",
+            "last_modified": "2024-04-02T05:09:48.822911",
+            "metadata_modified": "2024-04-02T05:09:48.854302",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30209-1700-2024.zip",
+            "package_id": "366f61d2-43a6-4032-abb7-73b765981078",
+            "position": 2,
+            "resource_type": null,
+            "size": 30436920,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/366f61d2-43a6-4032-abb7-73b765981078/resource/083215db-66da-4bab-b81c-13b093e9f085/download/30209-1700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "岩出市",
+            "id": "4ae87a1a-e79f-43c7-bcf8-ff7400cdb641",
+            "name": "岩出市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9bab3897-0502-4bf5-a80b-1166a6b2f638",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T08:30:01.828758",
+        "metadata_modified": "2024-04-15T03:12:45.246896",
+        "name": "houmusyouchizu-2024-1-1450",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "海草郡紀美野町（和歌山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:09:53.689204",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "546ee6ee-7ed3-41d9-9f95-15198f9c3c0f",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:09:53.676261",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9bab3897-0502-4bf5-a80b-1166a6b2f638",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:10:01.536891",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a65b8db0-04f2-48ac-a6c6-df4ef35e4d2b",
+            "last_modified": "2024-04-02T05:10:01.491935",
+            "metadata_modified": "2024-04-02T05:10:01.523198",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30304-1700-2023.zip",
+            "package_id": "9bab3897-0502-4bf5-a80b-1166a6b2f638",
+            "position": 1,
+            "resource_type": null,
+            "size": 58150697,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9bab3897-0502-4bf5-a80b-1166a6b2f638/resource/a65b8db0-04f2-48ac-a6c6-df4ef35e4d2b/download/30304-1700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:10:14.979386",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "f36e80a6-4b6f-4183-81a3-817d97c6ae8b",
+            "last_modified": "2024-04-02T05:10:14.936563",
+            "metadata_modified": "2024-04-02T05:10:14.967237",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30304-1700-2024.zip",
+            "package_id": "9bab3897-0502-4bf5-a80b-1166a6b2f638",
+            "position": 2,
+            "resource_type": null,
+            "size": 58184077,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9bab3897-0502-4bf5-a80b-1166a6b2f638/resource/f36e80a6-4b6f-4183-81a3-817d97c6ae8b/download/30304-1700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "海草郡紀美野町",
+            "id": "937ef7ee-7307-4f3e-8689-985ba867b7be",
+            "name": "海草郡紀美野町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "350175cf-16e4-49a1-88cb-0d01134c99c6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:36.305982",
+        "metadata_modified": "2024-04-15T03:12:44.246727",
+        "name": "houmusyouchizu-2024-1-1451",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "伊都郡かつらぎ町（和歌山地方法務局橋本支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:10:21.462661",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "c7530078-ce33-4c02-b29b-55c6de6d7cce",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:10:21.450547",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "350175cf-16e4-49a1-88cb-0d01134c99c6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:10:32.105268",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "edd18dfc-4898-4725-9953-599c7f1c5613",
+            "last_modified": "2024-04-02T05:10:32.062158",
+            "metadata_modified": "2024-04-02T05:10:32.092201",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30341-1716-2023.zip",
+            "package_id": "350175cf-16e4-49a1-88cb-0d01134c99c6",
+            "position": 1,
+            "resource_type": null,
+            "size": 75033933,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/350175cf-16e4-49a1-88cb-0d01134c99c6/resource/edd18dfc-4898-4725-9953-599c7f1c5613/download/30341-1716-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:10:48.625270",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ca693a38-cbbc-465c-ac4e-3525497d75a2",
+            "last_modified": "2024-04-02T05:10:48.583140",
+            "metadata_modified": "2024-04-02T05:10:48.613064",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30341-1716-2024.zip",
+            "package_id": "350175cf-16e4-49a1-88cb-0d01134c99c6",
+            "position": 2,
+            "resource_type": null,
+            "size": 75074291,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/350175cf-16e4-49a1-88cb-0d01134c99c6/resource/ca693a38-cbbc-465c-ac4e-3525497d75a2/download/30341-1716-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "伊都郡かつらぎ町",
+            "id": "0578a041-9547-4c4d-a482-4405a17fa184",
+            "name": "伊都郡かつらぎ町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "60e24575-c8ca-4c6c-824c-b6779f3eb6b9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:36.728804",
+        "metadata_modified": "2024-04-15T03:12:43.239988",
+        "name": "houmusyouchizu-2024-1-1452",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "伊都郡九度山町（和歌山地方法務局橋本支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:10:56.108013",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "1b6ba69e-a185-4ab5-b089-a7170d0e26bb",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:10:56.096084",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "60e24575-c8ca-4c6c-824c-b6779f3eb6b9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:10:58.828510",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "5045ad9b-ed21-44bb-a19c-8e4734bfefca",
+            "last_modified": "2024-04-02T05:10:58.789168",
+            "metadata_modified": "2024-04-02T05:10:58.816739",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30343-1716-2023.zip",
+            "package_id": "60e24575-c8ca-4c6c-824c-b6779f3eb6b9",
+            "position": 1,
+            "resource_type": null,
+            "size": 19653924,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/60e24575-c8ca-4c6c-824c-b6779f3eb6b9/resource/5045ad9b-ed21-44bb-a19c-8e4734bfefca/download/30343-1716-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:04.899827",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b4378848-b8c9-4a55-a72e-adb1505e76ce",
+            "last_modified": "2024-04-02T05:11:04.856909",
+            "metadata_modified": "2024-04-02T05:11:04.887122",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30343-1716-2024.zip",
+            "package_id": "60e24575-c8ca-4c6c-824c-b6779f3eb6b9",
+            "position": 2,
+            "resource_type": null,
+            "size": 19531115,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/60e24575-c8ca-4c6c-824c-b6779f3eb6b9/resource/b4378848-b8c9-4a55-a72e-adb1505e76ce/download/30343-1716-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "伊都郡九度山町",
+            "id": "fad0a077-a8ff-4c86-809e-121ed5cb0c5a",
+            "name": "伊都郡九度山町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d0cf8c13-1c62-4a39-bcdb-3fdc9d0df7ae",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:37.159807",
+        "metadata_modified": "2024-04-15T03:12:42.190559",
+        "name": "houmusyouchizu-2024-1-1453",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "伊都郡高野町（和歌山地方法務局橋本支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:08.835734",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "edf078c3-af30-44d8-af1d-2b6981916210",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:11:08.821683",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d0cf8c13-1c62-4a39-bcdb-3fdc9d0df7ae",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:11.523765",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "97a84901-e2f7-4701-a2c9-880868dba7da",
+            "last_modified": "2024-04-02T05:11:11.473516",
+            "metadata_modified": "2024-04-02T05:11:11.508816",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30344-1716-2023.zip",
+            "package_id": "d0cf8c13-1c62-4a39-bcdb-3fdc9d0df7ae",
+            "position": 1,
+            "resource_type": null,
+            "size": 19343752,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d0cf8c13-1c62-4a39-bcdb-3fdc9d0df7ae/resource/97a84901-e2f7-4701-a2c9-880868dba7da/download/30344-1716-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:17.664148",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "60b41305-860a-4fcd-aa16-02c8dd9f7782",
+            "last_modified": "2024-04-02T05:11:17.620894",
+            "metadata_modified": "2024-04-02T05:11:17.651553",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30344-1716-2024.zip",
+            "package_id": "d0cf8c13-1c62-4a39-bcdb-3fdc9d0df7ae",
+            "position": 2,
+            "resource_type": null,
+            "size": 19335303,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d0cf8c13-1c62-4a39-bcdb-3fdc9d0df7ae/resource/60b41305-860a-4fcd-aa16-02c8dd9f7782/download/30344-1716-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "伊都郡高野町",
+            "id": "15ae205c-13d0-4a6c-ada8-d3721382e70b",
+            "name": "伊都郡高野町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6349a882-194a-4c4c-9091-caeae55b7db8",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:37.581633",
+        "metadata_modified": "2024-04-15T03:12:41.105484",
+        "name": "houmusyouchizu-2024-1-1454",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "有田郡湯浅町（和歌山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:21.937469",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "5be9a354-d33a-4805-9206-0af8f6f8dda4",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:11:21.925340",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6349a882-194a-4c4c-9091-caeae55b7db8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:24.245242",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "8ae062a7-55f7-48eb-80e4-1786f3f2194f",
+            "last_modified": "2024-04-02T05:11:24.203031",
+            "metadata_modified": "2024-04-02T05:11:24.231425",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30361-1700-2023.zip",
+            "package_id": "6349a882-194a-4c4c-9091-caeae55b7db8",
+            "position": 1,
+            "resource_type": null,
+            "size": 16439918,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6349a882-194a-4c4c-9091-caeae55b7db8/resource/8ae062a7-55f7-48eb-80e4-1786f3f2194f/download/30361-1700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:30.007093",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "bcb88829-21c4-4a9e-a595-818fc967cf4e",
+            "last_modified": "2024-04-02T05:11:29.963201",
+            "metadata_modified": "2024-04-02T05:11:29.993306",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30361-1700-2024.zip",
+            "package_id": "6349a882-194a-4c4c-9091-caeae55b7db8",
+            "position": 2,
+            "resource_type": null,
+            "size": 16473968,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6349a882-194a-4c4c-9091-caeae55b7db8/resource/bcb88829-21c4-4a9e-a595-818fc967cf4e/download/30361-1700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "有田郡湯浅町",
+            "id": "035a9dca-d7c5-4d57-b2b3-b77d84a87baa",
+            "name": "有田郡湯浅町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0fb60572-32c2-451e-889f-51ba1654ea49",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:38.026352",
+        "metadata_modified": "2024-04-15T03:12:40.112591",
+        "name": "houmusyouchizu-2024-1-1455",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "有田郡広川町（和歌山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:33.728879",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "0cf65b93-23ed-4adc-9043-48dc5d912a98",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:11:33.717613",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0fb60572-32c2-451e-889f-51ba1654ea49",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:37.427055",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7e454015-c406-4601-8715-6a17c16c9dbc",
+            "last_modified": "2024-04-02T05:11:37.385748",
+            "metadata_modified": "2024-04-02T05:11:37.414920",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30362-1700-2023.zip",
+            "package_id": "0fb60572-32c2-451e-889f-51ba1654ea49",
+            "position": 1,
+            "resource_type": null,
+            "size": 29817067,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0fb60572-32c2-451e-889f-51ba1654ea49/resource/7e454015-c406-4601-8715-6a17c16c9dbc/download/30362-1700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:45.732019",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "15ad9a3b-a778-4fb6-bba5-a4cab2c394c9",
+            "last_modified": "2024-04-02T05:11:45.687645",
+            "metadata_modified": "2024-04-02T05:11:45.718366",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30362-1700-2024.zip",
+            "package_id": "0fb60572-32c2-451e-889f-51ba1654ea49",
+            "position": 2,
+            "resource_type": null,
+            "size": 29942698,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0fb60572-32c2-451e-889f-51ba1654ea49/resource/15ad9a3b-a778-4fb6-bba5-a4cab2c394c9/download/30362-1700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "有田郡広川町",
+            "id": "2e705517-10ee-4160-8228-0f25e9e6e3ad",
+            "name": "有田郡広川町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e600cd88-c10c-47d8-95a4-bf7b91d62ca5",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:38.480615",
+        "metadata_modified": "2024-04-15T03:12:39.084643",
+        "name": "houmusyouchizu-2024-1-1456",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "有田郡有田川町（和歌山地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:11:50.680566",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "40e280ba-24b8-46a2-bf24-5603520ebf76",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:11:50.669149",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e600cd88-c10c-47d8-95a4-bf7b91d62ca5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:12:03.908206",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "1fa0d0ce-f545-4ac9-a436-f25c8a82a5fb",
+            "last_modified": "2024-04-02T05:12:03.869442",
+            "metadata_modified": "2024-04-02T05:12:03.896892",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30366-1700-2023.zip",
+            "package_id": "e600cd88-c10c-47d8-95a4-bf7b91d62ca5",
+            "position": 1,
+            "resource_type": null,
+            "size": 111532886,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e600cd88-c10c-47d8-95a4-bf7b91d62ca5/resource/1fa0d0ce-f545-4ac9-a436-f25c8a82a5fb/download/30366-1700-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:12:26.889449",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "cb4ebde8-3108-4fa2-8082-b537b9558178",
+            "last_modified": "2024-04-02T05:12:26.835167",
+            "metadata_modified": "2024-04-02T05:12:26.873192",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30366-1700-2024.zip",
+            "package_id": "e600cd88-c10c-47d8-95a4-bf7b91d62ca5",
+            "position": 2,
+            "resource_type": null,
+            "size": 112394670,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e600cd88-c10c-47d8-95a4-bf7b91d62ca5/resource/cb4ebde8-3108-4fa2-8082-b537b9558178/download/30366-1700-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "有田郡有田川町",
+            "id": "3a4e4976-1de4-421b-9212-2ee1dd52b165",
+            "name": "有田郡有田川町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0fc99602-dff4-4b5b-b9be-d920c6e0a5d0",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:38.933260",
+        "metadata_modified": "2024-04-15T03:12:38.078896",
+        "name": "houmusyouchizu-2024-1-1457",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "日高郡美浜町（和歌山地方法務局御坊支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:12:37.350741",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "59ffa4c1-918b-4d11-8425-81e1d0738f2a",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:12:37.337344",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0fc99602-dff4-4b5b-b9be-d920c6e0a5d0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:12:38.714196",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "b1be8480-db20-414f-b6ec-fb6f33eb7a32",
+            "last_modified": "2024-04-02T05:12:38.673762",
+            "metadata_modified": "2024-04-02T05:12:38.702179",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30381-1703-2023.zip",
+            "package_id": "0fc99602-dff4-4b5b-b9be-d920c6e0a5d0",
+            "position": 1,
+            "resource_type": null,
+            "size": 6774768,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0fc99602-dff4-4b5b-b9be-d920c6e0a5d0/resource/b1be8480-db20-414f-b6ec-fb6f33eb7a32/download/30381-1703-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:12:42.663055",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ea4b7ee5-5800-4770-800d-1d83d44c3e04",
+            "last_modified": "2024-04-02T05:12:42.619096",
+            "metadata_modified": "2024-04-02T05:12:42.650529",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30381-1703-2024.zip",
+            "package_id": "0fc99602-dff4-4b5b-b9be-d920c6e0a5d0",
+            "position": 2,
+            "resource_type": null,
+            "size": 6780214,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0fc99602-dff4-4b5b-b9be-d920c6e0a5d0/resource/ea4b7ee5-5800-4770-800d-1d83d44c3e04/download/30381-1703-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日高郡美浜町",
+            "id": "84759f56-6404-496c-b517-d59dbcd6499b",
+            "name": "日高郡美浜町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cde769ed-63e7-4bf8-a0f8-9cba14c23471",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:39.355162",
+        "metadata_modified": "2024-04-15T03:12:37.112805",
+        "name": "houmusyouchizu-2024-1-1458",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "日高郡日高町（和歌山地方法務局御坊支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:12:45.807156",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "45146e2b-9acf-4fa8-b661-cfecc28324b6",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:12:45.794076",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cde769ed-63e7-4bf8-a0f8-9cba14c23471",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:12:49.248190",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a9b6b866-afb6-4d4e-98e2-a03729f94845",
+            "last_modified": "2024-04-02T05:12:49.186468",
+            "metadata_modified": "2024-04-02T05:12:49.229640",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30382-1703-2023.zip",
+            "package_id": "cde769ed-63e7-4bf8-a0f8-9cba14c23471",
+            "position": 1,
+            "resource_type": null,
+            "size": 26615703,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cde769ed-63e7-4bf8-a0f8-9cba14c23471/resource/a9b6b866-afb6-4d4e-98e2-a03729f94845/download/30382-1703-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:12:56.765858",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "ece01d0c-7d57-486a-949f-2dadbfaef0f0",
+            "last_modified": "2024-04-02T05:12:56.719634",
+            "metadata_modified": "2024-04-02T05:12:56.751433",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30382-1703-2024.zip",
+            "package_id": "cde769ed-63e7-4bf8-a0f8-9cba14c23471",
+            "position": 2,
+            "resource_type": null,
+            "size": 26693104,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cde769ed-63e7-4bf8-a0f8-9cba14c23471/resource/ece01d0c-7d57-486a-949f-2dadbfaef0f0/download/30382-1703-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日高郡日高町",
+            "id": "56f94d69-bb49-403f-9ecf-e20775671053",
+            "name": "日高郡日高町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e72468f7-c5d0-4566-9113-352aba3ab549",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:39.777986",
+        "metadata_modified": "2024-04-15T03:12:36.115875",
+        "name": "houmusyouchizu-2024-1-1459",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "日高郡由良町（和歌山地方法務局御坊支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:01.359532",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "767ed454-5ba6-49bb-a9d8-601a3b289c56",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:13:01.346150",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e72468f7-c5d0-4566-9113-352aba3ab549",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:04.311667",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "3d72e2a9-3ddd-4014-a497-bfa3c7cbdd77",
+            "last_modified": "2024-04-02T05:13:04.269096",
+            "metadata_modified": "2024-04-02T05:13:04.299089",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30383-1703-2023.zip",
+            "package_id": "e72468f7-c5d0-4566-9113-352aba3ab549",
+            "position": 1,
+            "resource_type": null,
+            "size": 19298393,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e72468f7-c5d0-4566-9113-352aba3ab549/resource/3d72e2a9-3ddd-4014-a497-bfa3c7cbdd77/download/30383-1703-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:10.401135",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "96220744-8233-4a68-9412-f25e5cc33498",
+            "last_modified": "2024-04-02T05:13:10.357745",
+            "metadata_modified": "2024-04-02T05:13:10.387544",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30383-1703-2024.zip",
+            "package_id": "e72468f7-c5d0-4566-9113-352aba3ab549",
+            "position": 2,
+            "resource_type": null,
+            "size": 19312759,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e72468f7-c5d0-4566-9113-352aba3ab549/resource/96220744-8233-4a68-9412-f25e5cc33498/download/30383-1703-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日高郡由良町",
+            "id": "b1d3ab28-1a46-46cf-b5ec-d860abeef14c",
+            "name": "日高郡由良町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b0c9f4b3-c4b3-4b1a-a4c4-52c01336acfe",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:40.257392",
+        "metadata_modified": "2024-04-15T03:12:35.135402",
+        "name": "houmusyouchizu-2024-1-1460",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "日高郡印南町（和歌山地方法務局御坊支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:14.189107",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "18a092cc-0158-489e-b588-debfa8b8a3c4",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:13:14.176011",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b0c9f4b3-c4b3-4b1a-a4c4-52c01336acfe",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:19.341874",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "652fb816-fa2f-4ac9-be55-3c8258541524",
+            "last_modified": "2024-04-02T05:13:19.299794",
+            "metadata_modified": "2024-04-02T05:13:19.326322",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30390-1703-2023.zip",
+            "package_id": "b0c9f4b3-c4b3-4b1a-a4c4-52c01336acfe",
+            "position": 1,
+            "resource_type": null,
+            "size": 39334281,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b0c9f4b3-c4b3-4b1a-a4c4-52c01336acfe/resource/652fb816-fa2f-4ac9-be55-3c8258541524/download/30390-1703-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:29.293598",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "7b3b3ae9-f702-4625-8a61-6e57248fc54e",
+            "last_modified": "2024-04-02T05:13:29.248966",
+            "metadata_modified": "2024-04-02T05:13:29.280855",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30390-1703-2024.zip",
+            "package_id": "b0c9f4b3-c4b3-4b1a-a4c4-52c01336acfe",
+            "position": 2,
+            "resource_type": null,
+            "size": 39504774,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b0c9f4b3-c4b3-4b1a-a4c4-52c01336acfe/resource/7b3b3ae9-f702-4625-8a61-6e57248fc54e/download/30390-1703-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日高郡印南町",
+            "id": "7fd0bec6-f677-47d8-8457-48fdbedd4f2e",
+            "name": "日高郡印南町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "be792db7-8d41-46c3-9fab-68b1d0ba12d5",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:40.760797",
+        "metadata_modified": "2024-04-15T03:12:34.147468",
+        "name": "houmusyouchizu-2024-1-1461",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "日高郡みなべ町（和歌山地方法務局田辺支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:34.760575",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "8531d9a2-91b1-4448-a46f-96cd956e5745",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:13:34.747750",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "be792db7-8d41-46c3-9fab-68b1d0ba12d5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:41.412231",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "35453955-2fd5-434e-aa58-1c1c194fdd4c",
+            "last_modified": "2024-04-02T05:13:41.370949",
+            "metadata_modified": "2024-04-02T05:13:41.399105",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30391-1702-2023.zip",
+            "package_id": "be792db7-8d41-46c3-9fab-68b1d0ba12d5",
+            "position": 1,
+            "resource_type": null,
+            "size": 50915208,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/be792db7-8d41-46c3-9fab-68b1d0ba12d5/resource/35453955-2fd5-434e-aa58-1c1c194fdd4c/download/30391-1702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:53.238563",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "d4f4d7c4-4b65-41df-9014-a28d8849c7b6",
+            "last_modified": "2024-04-02T05:13:53.196770",
+            "metadata_modified": "2024-04-02T05:13:53.226604",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30391-1702-2024.zip",
+            "package_id": "be792db7-8d41-46c3-9fab-68b1d0ba12d5",
+            "position": 2,
+            "resource_type": null,
+            "size": 51016378,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/be792db7-8d41-46c3-9fab-68b1d0ba12d5/resource/d4f4d7c4-4b65-41df-9014-a28d8849c7b6/download/30391-1702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日高郡みなべ町",
+            "id": "ae57e879-ea90-4498-ab56-70314d9e77d7",
+            "name": "日高郡みなべ町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "40887aea-29ef-4c2a-bd7a-0dd684d34d8f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:41.189043",
+        "metadata_modified": "2024-04-15T03:12:33.087257",
+        "name": "houmusyouchizu-2024-1-1462",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "日高郡日高川町（和歌山地方法務局御坊支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:13:59.598234",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "f5593493-c671-4b5c-82a6-9e641d53579e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:13:59.585484",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "40887aea-29ef-4c2a-bd7a-0dd684d34d8f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:14:07.494017",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0e448fe8-ec01-49ef-b316-ba0ea082f259",
+            "last_modified": "2024-04-02T05:14:07.453892",
+            "metadata_modified": "2024-04-02T05:14:07.481721",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30392-1703-2023.zip",
+            "package_id": "40887aea-29ef-4c2a-bd7a-0dd684d34d8f",
+            "position": 1,
+            "resource_type": null,
+            "size": 63396809,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/40887aea-29ef-4c2a-bd7a-0dd684d34d8f/resource/0e448fe8-ec01-49ef-b316-ba0ea082f259/download/30392-1703-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:14:21.183472",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "27564b98-c725-4896-a35a-dd18916b0071",
+            "last_modified": "2024-04-02T05:14:21.139238",
+            "metadata_modified": "2024-04-02T05:14:21.169593",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30392-1703-2024.zip",
+            "package_id": "40887aea-29ef-4c2a-bd7a-0dd684d34d8f",
+            "position": 2,
+            "resource_type": null,
+            "size": 63667583,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/40887aea-29ef-4c2a-bd7a-0dd684d34d8f/resource/27564b98-c725-4896-a35a-dd18916b0071/download/30392-1703-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日高郡日高川町",
+            "id": "f6d3a15c-9d2e-43f2-b607-64d4def7bdca",
+            "name": "日高郡日高川町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "30dcc60d-1e7c-4489-8140-dea7b6dc29b3",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:41.611560",
+        "metadata_modified": "2024-04-15T03:12:32.031382",
+        "name": "houmusyouchizu-2024-1-1463",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "西牟婁郡白浜町（和歌山地方法務局田辺支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:14:28.191593",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "75f7fb1e-9c75-46de-9589-89d8334ebb14",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:14:28.178501",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "30dcc60d-1e7c-4489-8140-dea7b6dc29b3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:14:33.887012",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "01f57f61-5396-4a01-ab40-48e249e632d7",
+            "last_modified": "2024-04-02T05:14:33.846123",
+            "metadata_modified": "2024-04-02T05:14:33.873510",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30401-1702-2023.zip",
+            "package_id": "30dcc60d-1e7c-4489-8140-dea7b6dc29b3",
+            "position": 1,
+            "resource_type": null,
+            "size": 44313218,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/30dcc60d-1e7c-4489-8140-dea7b6dc29b3/resource/01f57f61-5396-4a01-ab40-48e249e632d7/download/30401-1702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:14:45.347454",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0cad2345-4852-4132-944a-a4d7e66d9cc4",
+            "last_modified": "2024-04-02T05:14:45.304948",
+            "metadata_modified": "2024-04-02T05:14:45.335140",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30401-1702-2024.zip",
+            "package_id": "30dcc60d-1e7c-4489-8140-dea7b6dc29b3",
+            "position": 2,
+            "resource_type": null,
+            "size": 44586679,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/30dcc60d-1e7c-4489-8140-dea7b6dc29b3/resource/0cad2345-4852-4132-944a-a4d7e66d9cc4/download/30401-1702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西牟婁郡白浜町",
+            "id": "33ce3f6d-127e-401d-bfe7-8de1040f9006",
+            "name": "西牟婁郡白浜町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0bda11b2-8c8a-497c-965f-8d06b3e4e788",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:42.050920",
+        "metadata_modified": "2024-04-15T03:12:31.048252",
+        "name": "houmusyouchizu-2024-1-1464",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "西牟婁郡大塔村（和歌山地方法務局田辺支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:14:50.898191",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "67eca442-23b9-4daa-8a00-0344bb25d587",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:14:50.885048",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0bda11b2-8c8a-497c-965f-8d06b3e4e788",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:14:51.443388",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "90cfba78-748c-4aec-8542-7e85a46a6f6f",
+            "last_modified": "2024-04-02T05:14:51.402469",
+            "metadata_modified": "2024-04-02T05:14:51.431638",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30403-1702-2023.zip",
+            "package_id": "0bda11b2-8c8a-497c-965f-8d06b3e4e788",
+            "position": 1,
+            "resource_type": null,
+            "size": 19426,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0bda11b2-8c8a-497c-965f-8d06b3e4e788/resource/90cfba78-748c-4aec-8542-7e85a46a6f6f/download/30403-1702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:14:53.523818",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "73726cdb-0993-4e9e-918a-5319007e4827",
+            "last_modified": "2024-04-02T05:14:53.481692",
+            "metadata_modified": "2024-04-02T05:14:53.511370",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30403-1702-2024.zip",
+            "package_id": "0bda11b2-8c8a-497c-965f-8d06b3e4e788",
+            "position": 2,
+            "resource_type": null,
+            "size": 19426,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0bda11b2-8c8a-497c-965f-8d06b3e4e788/resource/73726cdb-0993-4e9e-918a-5319007e4827/download/30403-1702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西牟婁郡大塔村",
+            "id": "4ec182db-82c4-4b7b-9ff2-b5a5bcd5e336",
+            "name": "西牟婁郡大塔村",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c447a5dc-d593-4836-834b-f0de60a4ecec",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:42.478606",
+        "metadata_modified": "2024-04-15T03:12:30.010180",
+        "name": "houmusyouchizu-2024-1-1465",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "西牟婁郡上富田町（和歌山地方法務局田辺支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:39:07.288577",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "45462155-0207-40ae-96b6-7d3a5d472c86",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:39:07.274036",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c447a5dc-d593-4836-834b-f0de60a4ecec",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:39:10.409767",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "0618a16b-d206-4cc3-8aaf-ce8e33c81075",
+            "last_modified": "2024-04-02T05:39:10.367880",
+            "metadata_modified": "2024-04-02T05:39:10.397959",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30404-1702-2023.zip",
+            "package_id": "c447a5dc-d593-4836-834b-f0de60a4ecec",
+            "position": 1,
+            "resource_type": null,
+            "size": 23188387,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c447a5dc-d593-4836-834b-f0de60a4ecec/resource/0618a16b-d206-4cc3-8aaf-ce8e33c81075/download/30404-1702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:39:17.022976",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "6ff458e6-dcbd-4408-9a5d-917d172f0cee",
+            "last_modified": "2024-04-02T05:39:16.978459",
+            "metadata_modified": "2024-04-02T05:39:17.008733",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30404-1702-2024.zip",
+            "package_id": "c447a5dc-d593-4836-834b-f0de60a4ecec",
+            "position": 2,
+            "resource_type": null,
+            "size": 23273302,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c447a5dc-d593-4836-834b-f0de60a4ecec/resource/6ff458e6-dcbd-4408-9a5d-917d172f0cee/download/30404-1702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西牟婁郡上富田町",
+            "id": "922436da-86d1-4fba-8732-dbdf10a06a1c",
+            "name": "西牟婁郡上富田町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5b3a5b3f-3622-4267-8fa7-fb2991067876",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:42.929136",
+        "metadata_modified": "2024-04-15T03:12:29.024037",
+        "name": "houmusyouchizu-2024-1-1466",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "西牟婁郡すさみ町（和歌山地方法務局田辺支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:39:21.134248",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "e301544a-5293-4cfb-9b6c-107ec73b5674",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:39:21.120748",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5b3a5b3f-3622-4267-8fa7-fb2991067876",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:39:24.666898",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c4503696-3997-4947-bdd9-040389fddb2e",
+            "last_modified": "2024-04-02T05:39:24.626161",
+            "metadata_modified": "2024-04-02T05:39:24.653777",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30406-1702-2023.zip",
+            "package_id": "5b3a5b3f-3622-4267-8fa7-fb2991067876",
+            "position": 1,
+            "resource_type": null,
+            "size": 25579998,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5b3a5b3f-3622-4267-8fa7-fb2991067876/resource/c4503696-3997-4947-bdd9-040389fddb2e/download/30406-1702-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:39:31.739600",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "23375e3a-2464-4353-9bbd-e1101bbdcc07",
+            "last_modified": "2024-04-02T05:39:31.698244",
+            "metadata_modified": "2024-04-02T05:39:31.727397",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30406-1702-2024.zip",
+            "package_id": "5b3a5b3f-3622-4267-8fa7-fb2991067876",
+            "position": 2,
+            "resource_type": null,
+            "size": 25618101,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5b3a5b3f-3622-4267-8fa7-fb2991067876/resource/23375e3a-2464-4353-9bbd-e1101bbdcc07/download/30406-1702-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西牟婁郡すさみ町",
+            "id": "d3a36f86-3ddc-42ab-9be4-cd1c4e7eb9b7",
+            "name": "西牟婁郡すさみ町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bd6f88f0-5282-464e-acb7-9698d7bbcd86",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:43.365186",
+        "metadata_modified": "2024-04-15T03:12:28.075579",
+        "name": "houmusyouchizu-2024-1-1467",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "東牟婁郡那智勝浦町（和歌山地方法務局新宮支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:39:36.337999",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "a2405589-5fc0-4a17-946b-d73565da56ce",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:39:36.324532",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bd6f88f0-5282-464e-acb7-9698d7bbcd86",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:39:46.707907",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "80c9aa8a-bdd8-4ad8-885a-d0a219bdb00a",
+            "last_modified": "2024-04-02T05:39:46.667276",
+            "metadata_modified": "2024-04-02T05:39:46.695978",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30421-1704-2023.zip",
+            "package_id": "bd6f88f0-5282-464e-acb7-9698d7bbcd86",
+            "position": 1,
+            "resource_type": null,
+            "size": 89976883,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bd6f88f0-5282-464e-acb7-9698d7bbcd86/resource/80c9aa8a-bdd8-4ad8-885a-d0a219bdb00a/download/30421-1704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:05.870271",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "2ae5ff68-20d7-4fcb-9238-a79dec916577",
+            "last_modified": "2024-04-02T05:40:05.820036",
+            "metadata_modified": "2024-04-02T05:40:05.856815",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30421-1704-2024.zip",
+            "package_id": "bd6f88f0-5282-464e-acb7-9698d7bbcd86",
+            "position": 2,
+            "resource_type": null,
+            "size": 89239656,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bd6f88f0-5282-464e-acb7-9698d7bbcd86/resource/2ae5ff68-20d7-4fcb-9238-a79dec916577/download/30421-1704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東牟婁郡那智勝浦町",
+            "id": "ac8c93ca-68e3-4f7f-bc8b-93f5851d3037",
+            "name": "東牟婁郡那智勝浦町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "2ac5f797-dcc0-433b-bf9e-30d4a7610d6a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:43.805664",
+        "metadata_modified": "2024-04-15T03:12:27.084314",
+        "name": "houmusyouchizu-2024-1-1468",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "東牟婁郡太地町（和歌山地方法務局新宮支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:14.752472",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "14ca4bea-6a0e-4e40-abde-1f64716a7e37",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:40:14.739309",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "2ac5f797-dcc0-433b-bf9e-30d4a7610d6a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:15.765197",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "3f305967-23f6-4ed1-b01e-b225b8be98aa",
+            "last_modified": "2024-04-02T05:40:15.724201",
+            "metadata_modified": "2024-04-02T05:40:15.753202",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30422-1704-2023.zip",
+            "package_id": "2ac5f797-dcc0-433b-bf9e-30d4a7610d6a",
+            "position": 1,
+            "resource_type": null,
+            "size": 3783871,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2ac5f797-dcc0-433b-bf9e-30d4a7610d6a/resource/3f305967-23f6-4ed1-b01e-b225b8be98aa/download/30422-1704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:19.053686",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "a5ec9fab-17e8-4eaf-aad6-ba09d5f58600",
+            "last_modified": "2024-04-02T05:40:19.011825",
+            "metadata_modified": "2024-04-02T05:40:19.041703",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30422-1704-2024.zip",
+            "package_id": "2ac5f797-dcc0-433b-bf9e-30d4a7610d6a",
+            "position": 2,
+            "resource_type": null,
+            "size": 3789353,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2ac5f797-dcc0-433b-bf9e-30d4a7610d6a/resource/a5ec9fab-17e8-4eaf-aad6-ba09d5f58600/download/30422-1704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東牟婁郡太地町",
+            "id": "27cc52b5-881e-4c28-af39-045881cc3666",
+            "name": "東牟婁郡太地町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "33a6bab4-2df6-4f30-bae2-91a875a67e9d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:44.266899",
+        "metadata_modified": "2024-04-15T03:12:26.024461",
+        "name": "houmusyouchizu-2024-1-1469",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "東牟婁郡古座川町（和歌山地方法務局新宮支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:22.431006",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "f2f00158-0e6e-47a5-bacc-97e7ac7d60b6",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:40:22.416817",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "33a6bab4-2df6-4f30-bae2-91a875a67e9d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:27.007053",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "c8044b95-b386-4df7-9bc2-29116642d368",
+            "last_modified": "2024-04-02T05:40:26.969065",
+            "metadata_modified": "2024-04-02T05:40:26.995571",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30424-1704-2023.zip",
+            "package_id": "33a6bab4-2df6-4f30-bae2-91a875a67e9d",
+            "position": 1,
+            "resource_type": null,
+            "size": 33999618,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/33a6bab4-2df6-4f30-bae2-91a875a67e9d/resource/c8044b95-b386-4df7-9bc2-29116642d368/download/30424-1704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:36.081222",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "faa9d37d-2bad-498c-adf2-45eb7a6581f3",
+            "last_modified": "2024-04-02T05:40:36.036320",
+            "metadata_modified": "2024-04-02T05:40:36.069329",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30424-1704-2024.zip",
+            "package_id": "33a6bab4-2df6-4f30-bae2-91a875a67e9d",
+            "position": 2,
+            "resource_type": null,
+            "size": 33998574,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/33a6bab4-2df6-4f30-bae2-91a875a67e9d/resource/faa9d37d-2bad-498c-adf2-45eb7a6581f3/download/30424-1704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東牟婁郡古座川町",
+            "id": "2cc9f01a-bfd0-455f-9c97-6955c0c7b514",
+            "name": "東牟婁郡古座川町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9bab444a-a985-4671-a6c3-844f67a76b0b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:44.675925",
+        "metadata_modified": "2024-04-15T03:12:25.058171",
+        "name": "houmusyouchizu-2024-1-1470",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "東牟婁郡北山村（和歌山地方法務局新宮支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:41.144205",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "cdcf82e1-7712-4daf-883e-aae41cc27cd3",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:40:41.131118",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9bab444a-a985-4671-a6c3-844f67a76b0b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:42.081735",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "75a06283-1e10-4364-a889-bfcd4db0f9b2",
+            "last_modified": "2024-04-02T05:40:42.042665",
+            "metadata_modified": "2024-04-02T05:40:42.070359",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30427-1704-2023.zip",
+            "package_id": "9bab444a-a985-4671-a6c3-844f67a76b0b",
+            "position": 1,
+            "resource_type": null,
+            "size": 3694154,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9bab444a-a985-4671-a6c3-844f67a76b0b/resource/75a06283-1e10-4364-a889-bfcd4db0f9b2/download/30427-1704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:45.372138",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "529ae60a-58b4-498d-91ef-fd60a0eb0ab4",
+            "last_modified": "2024-04-02T05:40:45.328241",
+            "metadata_modified": "2024-04-02T05:40:45.358371",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30427-1704-2024.zip",
+            "package_id": "9bab444a-a985-4671-a6c3-844f67a76b0b",
+            "position": 2,
+            "resource_type": null,
+            "size": 3703624,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9bab444a-a985-4671-a6c3-844f67a76b0b/resource/529ae60a-58b4-498d-91ef-fd60a0eb0ab4/download/30427-1704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東牟婁郡北山村",
+            "id": "fbe919ef-dbd7-4ecf-bf5b-778ce605f619",
+            "name": "東牟婁郡北山村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "55a8161d-a7b2-4daf-8416-de9c2918dfd6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2024-03-27T09:28:45.086162",
+        "metadata_modified": "2024-04-15T03:12:24.012709",
+        "name": "houmusyouchizu-2024-1-1471",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-30wakayama",
+          "name": "moj-30wakayama",
+          "title": "30和歌山県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:30.575170",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-30wakayama",
+        "private": false,
+        "state": "active",
+        "title": "東牟婁郡串本町（和歌山地方法務局新宮支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:48.289592",
+            "description": null,
+            "format": "PDF",
+            "hash": "",
+            "id": "bb692f77-05de-489f-81d5-701af515c97e",
+            "last_modified": null,
+            "metadata_modified": "2024-04-02T05:40:48.278077",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "55a8161d-a7b2-4daf-8416-de9c2918dfd6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:40:55.260356",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "83941f77-66aa-4fda-bcf8-1b70ceffc4cc",
+            "last_modified": "2024-04-02T05:40:55.218348",
+            "metadata_modified": "2024-04-02T05:40:55.246984",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30428-1704-2023.zip",
+            "package_id": "55a8161d-a7b2-4daf-8416-de9c2918dfd6",
+            "position": 1,
+            "resource_type": null,
+            "size": 54632291,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/55a8161d-a7b2-4daf-8416-de9c2918dfd6/resource/83941f77-66aa-4fda-bcf8-1b70ceffc4cc/download/30428-1704-2023.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-02T05:41:08.545682",
+            "description": null,
+            "format": "ZIP",
+            "hash": "",
+            "id": "35de7b8c-b43a-4173-a4d7-faa275327864",
+            "last_modified": "2024-04-02T05:41:08.502427",
+            "metadata_modified": "2024-04-02T05:41:08.532646",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "30428-1704-2024.zip",
+            "package_id": "55a8161d-a7b2-4daf-8416-de9c2918dfd6",
+            "position": 2,
+            "resource_type": null,
+            "size": 54524401,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/55a8161d-a7b2-4daf-8416-de9c2918dfd6/resource/35de7b8c-b43a-4173-a4d7-faa275327864/download/30428-1704-2024.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "和歌山県",
+            "id": "318b43fe-f27a-443b-ad84-66110f072846",
+            "name": "和歌山県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東牟婁郡串本町",
+            "id": "3c33da80-47d5-4d09-91be-fd9546d609fa",
+            "name": "東牟婁郡串本町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "metadata_modified desc",
+    "search_facets": {
+    }
+  }
+}
