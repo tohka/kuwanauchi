@@ -1,0 +1,3121 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 21,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d4116157-3ce0-49d4-bb44-56df201be1ad",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:50.178449",
+        "metadata_modified": "2023-08-31T03:46:37.216024",
+        "name": "houmusyouchizu-2023-1-1494",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "八頭郡智頭町（鳥取地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:48:35.365964",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c1840b11-2994-4cfb-b945-99d12e833750",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:48:35.365964",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d4116157-3ce0-49d4-bb44-56df201be1ad",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:48:42.401717",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c03eea1b-5506-4b58-a33f-d3b017ad9549",
+            "last_modified": "2023-08-22T07:48:42.294020",
+            "metadata_modified": "2023-08-22T07:48:42.401717",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31328-2700-2022.zip",
+            "package_id": "d4116157-3ce0-49d4-bb44-56df201be1ad",
+            "position": 1,
+            "resource_type": null,
+            "size": 49102170,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d4116157-3ce0-49d4-bb44-56df201be1ad/resource/c03eea1b-5506-4b58-a33f-d3b017ad9549/download/31328-2700-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:48:54.085244",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b302cc77-defa-402c-966d-d1b323aa110a",
+            "last_modified": "2023-08-22T07:48:53.977408",
+            "metadata_modified": "2023-08-22T07:48:54.085244",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31328-2700-2023.zip",
+            "package_id": "d4116157-3ce0-49d4-bb44-56df201be1ad",
+            "position": 2,
+            "resource_type": null,
+            "size": 48914551,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d4116157-3ce0-49d4-bb44-56df201be1ad/resource/b302cc77-defa-402c-966d-d1b323aa110a/download/31328-2700-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "八頭郡智頭町",
+            "id": "e9d3d96a-9c2e-4ec7-a4a0-4c952e4e5929",
+            "name": "八頭郡智頭町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9c00b2f0-786b-4696-a630-e76cf8d33a64",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:56.958451",
+        "metadata_modified": "2023-08-31T03:46:27.404147",
+        "name": "houmusyouchizu-2023-1-1508",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "日野郡江府町（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:53:41.419495",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "f2c446a9-ac20-453d-a3e7-13fbf8705e6c",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:53:41.419495",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9c00b2f0-786b-4696-a630-e76cf8d33a64",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:53:45.981810",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ddf92cab-808a-4b16-84ec-02d704c6f099",
+            "last_modified": "2023-08-22T07:53:45.875048",
+            "metadata_modified": "2023-08-22T07:53:45.981810",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31403-2702-2022.zip",
+            "package_id": "9c00b2f0-786b-4696-a630-e76cf8d33a64",
+            "position": 1,
+            "resource_type": null,
+            "size": 33013372,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9c00b2f0-786b-4696-a630-e76cf8d33a64/resource/ddf92cab-808a-4b16-84ec-02d704c6f099/download/31403-2702-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:53:55.353645",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7b3be79f-f26c-414e-af40-be84d7d80eaa",
+            "last_modified": "2023-08-22T07:53:55.240883",
+            "metadata_modified": "2023-08-22T07:53:55.353645",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31403-2702-2023.zip",
+            "package_id": "9c00b2f0-786b-4696-a630-e76cf8d33a64",
+            "position": 2,
+            "resource_type": null,
+            "size": 33067160,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9c00b2f0-786b-4696-a630-e76cf8d33a64/resource/7b3be79f-f26c-414e-af40-be84d7d80eaa/download/31403-2702-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日野郡江府町",
+            "id": "64629a28-ec32-4cf7-ac4f-a75b5af974dc",
+            "name": "日野郡江府町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "dbf55cc0-51dd-4628-9300-fc4218c340e2",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:47.692049",
+        "metadata_modified": "2023-08-31T03:46:40.794747",
+        "name": "houmusyouchizu-2023-1-1489",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "米子市（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:46:21.287181",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "0e0c68b2-d847-469f-a7c7-50064efac543",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:46:21.287181",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "dbf55cc0-51dd-4628-9300-fc4218c340e2",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:46:32.411693",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d485734a-1af5-42c7-9cb3-00204e4d0adf",
+            "last_modified": "2023-08-22T07:46:32.304134",
+            "metadata_modified": "2023-08-22T07:46:32.411693",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31202-2702-2022.zip",
+            "package_id": "dbf55cc0-51dd-4628-9300-fc4218c340e2",
+            "position": 1,
+            "resource_type": null,
+            "size": 79618754,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/dbf55cc0-51dd-4628-9300-fc4218c340e2/resource/d485734a-1af5-42c7-9cb3-00204e4d0adf/download/31202-2702-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:46:49.628877",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9b185dbd-a459-401d-a3b5-70948d1bc0cf",
+            "last_modified": "2023-08-22T07:46:49.523398",
+            "metadata_modified": "2023-08-22T07:46:49.628877",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31202-2702-2023.zip",
+            "package_id": "dbf55cc0-51dd-4628-9300-fc4218c340e2",
+            "position": 2,
+            "resource_type": null,
+            "size": 79729058,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/dbf55cc0-51dd-4628-9300-fc4218c340e2/resource/9b185dbd-a459-401d-a3b5-70948d1bc0cf/download/31202-2702-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "米子市",
+            "id": "ed4d9a57-ee7d-4a26-85e8-17e0866368e0",
+            "name": "米子市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "764db456-7986-4218-a7ca-62ac5bb3eacc",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:52.164474",
+        "metadata_modified": "2023-08-31T03:46:34.382472",
+        "name": "houmusyouchizu-2023-1-1498",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "東伯郡湯梨浜町（鳥取地方法務局倉吉支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:50:03.505230",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "bfff5694-d4f0-42ed-bcd8-0a40f1f4c096",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:50:03.505230",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "764db456-7986-4218-a7ca-62ac5bb3eacc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:50:09.694762",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "08d2310a-b89b-4a68-ac70-e43b63e950a6",
+            "last_modified": "2023-08-22T07:50:09.448452",
+            "metadata_modified": "2023-08-22T07:50:09.694762",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31370-2701-2022.zip",
+            "package_id": "764db456-7986-4218-a7ca-62ac5bb3eacc",
+            "position": 1,
+            "resource_type": null,
+            "size": 39054725,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/764db456-7986-4218-a7ca-62ac5bb3eacc/resource/08d2310a-b89b-4a68-ac70-e43b63e950a6/download/31370-2701-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:50:19.664373",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6ca6f561-401a-41fe-bd99-ca382d86d8bb",
+            "last_modified": "2023-08-22T07:50:19.553635",
+            "metadata_modified": "2023-08-22T07:50:19.664373",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31370-2701-2023.zip",
+            "package_id": "764db456-7986-4218-a7ca-62ac5bb3eacc",
+            "position": 2,
+            "resource_type": null,
+            "size": 39023010,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/764db456-7986-4218-a7ca-62ac5bb3eacc/resource/6ca6f561-401a-41fe-bd99-ca382d86d8bb/download/31370-2701-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東伯郡湯梨浜町",
+            "id": "55f5bff9-9701-49ac-934e-535affdd0e4f",
+            "name": "東伯郡湯梨浜町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "81de9f93-771d-47c7-ac50-cd60aefb7aea",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:56.488480",
+        "metadata_modified": "2023-08-31T03:46:28.061138",
+        "name": "houmusyouchizu-2023-1-1507",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "日野郡日野町（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:53:20.481487",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c271d135-89dd-4fad-876e-756e59c83d98",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:53:20.481487",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "81de9f93-771d-47c7-ac50-cd60aefb7aea",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:53:25.821051",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1827c269-7dce-41b7-8233-8e0662ec04a0",
+            "last_modified": "2023-08-22T07:53:25.710840",
+            "metadata_modified": "2023-08-22T07:53:25.821051",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31402-2702-2022.zip",
+            "package_id": "81de9f93-771d-47c7-ac50-cd60aefb7aea",
+            "position": 1,
+            "resource_type": null,
+            "size": 36077890,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/81de9f93-771d-47c7-ac50-cd60aefb7aea/resource/1827c269-7dce-41b7-8233-8e0662ec04a0/download/31402-2702-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:53:36.174462",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9a8a392e-0328-4db4-8efb-7c9777418aa9",
+            "last_modified": "2023-08-22T07:53:36.049673",
+            "metadata_modified": "2023-08-22T07:53:36.174462",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31402-2702-2023.zip",
+            "package_id": "81de9f93-771d-47c7-ac50-cd60aefb7aea",
+            "position": 2,
+            "resource_type": null,
+            "size": 36180672,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/81de9f93-771d-47c7-ac50-cd60aefb7aea/resource/9a8a392e-0328-4db4-8efb-7c9777418aa9/download/31402-2702-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日野郡日野町",
+            "id": "7b39e0ec-3417-4e3d-8b95-c270b008e12b",
+            "name": "日野郡日野町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "45542465-dbed-4bc7-9557-04f3162952d0",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:50.670201",
+        "metadata_modified": "2023-08-31T03:46:36.489320",
+        "name": "houmusyouchizu-2023-1-1495",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "八頭郡八頭町（鳥取地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:49:00.363277",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "11298e7d-b114-4318-b171-b853596e81c6",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:49:00.363277",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "45542465-dbed-4bc7-9557-04f3162952d0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:49:10.163346",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9e37b556-d2b3-4d57-a95e-4a445cdc0542",
+            "last_modified": "2023-08-22T07:49:10.056634",
+            "metadata_modified": "2023-08-22T07:49:10.163346",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31329-2700-2022.zip",
+            "package_id": "45542465-dbed-4bc7-9557-04f3162952d0",
+            "position": 1,
+            "resource_type": null,
+            "size": 68518939,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/45542465-dbed-4bc7-9557-04f3162952d0/resource/9e37b556-d2b3-4d57-a95e-4a445cdc0542/download/31329-2700-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:49:25.476000",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b27340a1-697e-47df-82aa-ceafabec476c",
+            "last_modified": "2023-08-22T07:49:25.357773",
+            "metadata_modified": "2023-08-22T07:49:25.476000",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31329-2700-2023.zip",
+            "package_id": "45542465-dbed-4bc7-9557-04f3162952d0",
+            "position": 2,
+            "resource_type": null,
+            "size": 67965482,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/45542465-dbed-4bc7-9557-04f3162952d0/resource/b27340a1-697e-47df-82aa-ceafabec476c/download/31329-2700-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "八頭郡八頭町",
+            "id": "97354f48-5558-4d87-832d-6321f163f05c",
+            "name": "八頭郡八頭町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4644266a-ca9d-471a-af72-8837e3821e5d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:55.081284",
+        "metadata_modified": "2023-08-31T03:46:30.154315",
+        "name": "houmusyouchizu-2023-1-1504",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "西伯郡南部町（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:44.357166",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "eb3c4219-d506-418b-97ba-03bdab930398",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:51:44.357166",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4644266a-ca9d-471a-af72-8837e3821e5d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:50.877141",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "fffed014-12bd-4b26-aa25-c2bf3dc34054",
+            "last_modified": "2023-08-22T07:51:50.748640",
+            "metadata_modified": "2023-08-22T07:51:50.877141",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31389-2702-2022.zip",
+            "package_id": "4644266a-ca9d-471a-af72-8837e3821e5d",
+            "position": 1,
+            "resource_type": null,
+            "size": 54436119,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4644266a-ca9d-471a-af72-8837e3821e5d/resource/fffed014-12bd-4b26-aa25-c2bf3dc34054/download/31389-2702-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:52:05.003280",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "bd04b0b6-8875-429f-97d2-62ec78227ada",
+            "last_modified": "2023-08-22T07:52:04.877949",
+            "metadata_modified": "2023-08-22T07:52:05.003280",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31389-2702-2023.zip",
+            "package_id": "4644266a-ca9d-471a-af72-8837e3821e5d",
+            "position": 2,
+            "resource_type": null,
+            "size": 54321365,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4644266a-ca9d-471a-af72-8837e3821e5d/resource/bd04b0b6-8875-429f-97d2-62ec78227ada/download/31389-2702-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西伯郡南部町",
+            "id": "0ffda9b8-709d-4836-bcdb-9499c2d8b7ad",
+            "name": "西伯郡南部町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "46906770-7b49-42f6-9efc-687016b44729",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:51.173966",
+        "metadata_modified": "2023-08-31T03:46:35.796158",
+        "name": "houmusyouchizu-2023-1-1496",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "東伯郡三朝町（鳥取地方法務局倉吉支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:49:33.335061",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "a95dbe51-85cc-480d-8378-c725e633863d",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:49:33.335061",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "46906770-7b49-42f6-9efc-687016b44729",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:49:39.538487",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1879495f-4657-4c4e-8592-5c3eb747f5c9",
+            "last_modified": "2023-08-22T07:49:39.392342",
+            "metadata_modified": "2023-08-22T07:49:39.538487",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31364-2701-2022.zip",
+            "package_id": "46906770-7b49-42f6-9efc-687016b44729",
+            "position": 1,
+            "resource_type": null,
+            "size": 45369222,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/46906770-7b49-42f6-9efc-687016b44729/resource/1879495f-4657-4c4e-8592-5c3eb747f5c9/download/31364-2701-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:49:50.800351",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "02c01605-1168-4d1e-863c-471d2a146484",
+            "last_modified": "2023-08-22T07:49:50.693248",
+            "metadata_modified": "2023-08-22T07:49:50.800351",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31364-2701-2023.zip",
+            "package_id": "46906770-7b49-42f6-9efc-687016b44729",
+            "position": 2,
+            "resource_type": null,
+            "size": 45254516,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/46906770-7b49-42f6-9efc-687016b44729/resource/02c01605-1168-4d1e-863c-471d2a146484/download/31364-2701-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東伯郡三朝町",
+            "id": "6a13ca7b-2332-44e4-9aca-90ceaf9d21c4",
+            "name": "東伯郡三朝町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6bcaa293-2efc-4c90-b07f-30cd1bc8c88d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:49.708502",
+        "metadata_modified": "2023-08-31T03:46:37.942185",
+        "name": "houmusyouchizu-2023-1-1493",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "八頭郡若桜町（鳥取地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:48:17.591025",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "87ba5a75-bb9e-476b-b458-378aef616ad8",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:48:17.591025",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6bcaa293-2efc-4c90-b07f-30cd1bc8c88d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:48:22.550869",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "20ee2231-8426-4052-bb60-c6cf29755985",
+            "last_modified": "2023-08-22T07:48:22.441564",
+            "metadata_modified": "2023-08-22T07:48:22.550869",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31325-2700-2022.zip",
+            "package_id": "6bcaa293-2efc-4c90-b07f-30cd1bc8c88d",
+            "position": 1,
+            "resource_type": null,
+            "size": 30711951,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6bcaa293-2efc-4c90-b07f-30cd1bc8c88d/resource/20ee2231-8426-4052-bb60-c6cf29755985/download/31325-2700-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:48:30.585409",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4c56a90a-deba-4b92-a700-988ffcfa0bd4",
+            "last_modified": "2023-08-22T07:48:30.468879",
+            "metadata_modified": "2023-08-22T07:48:30.585409",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31325-2700-2023.zip",
+            "package_id": "6bcaa293-2efc-4c90-b07f-30cd1bc8c88d",
+            "position": 2,
+            "resource_type": null,
+            "size": 30709222,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6bcaa293-2efc-4c90-b07f-30cd1bc8c88d/resource/4c56a90a-deba-4b92-a700-988ffcfa0bd4/download/31325-2700-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "八頭郡若桜町",
+            "id": "317959c6-58ca-4ed7-a395-11afc56e4c68",
+            "name": "八頭郡若桜町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6d8dd89b-a480-4cec-8d9a-6d83bd7e4e99",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:47.209581",
+        "metadata_modified": "2023-08-31T03:46:41.526330",
+        "name": "houmusyouchizu-2023-1-1488",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "鳥取市（鳥取地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:44:15.491213",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2b349497-e539-4e4b-b9c8-5ae6461eafd3",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:44:15.491213",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6d8dd89b-a480-4cec-8d9a-6d83bd7e4e99",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:44:52.896010",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e338c8f1-3dd3-4550-9eef-7f5e924c9598",
+            "last_modified": "2023-08-22T07:44:52.783262",
+            "metadata_modified": "2023-08-22T07:44:52.896010",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31201-2700-2022.zip",
+            "package_id": "6d8dd89b-a480-4cec-8d9a-6d83bd7e4e99",
+            "position": 1,
+            "resource_type": null,
+            "size": 328764741,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6d8dd89b-a480-4cec-8d9a-6d83bd7e4e99/resource/e338c8f1-3dd3-4550-9eef-7f5e924c9598/download/31201-2700-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:45:57.054236",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a1731ed4-7a4e-4035-bbfd-72dcfd05b0de",
+            "last_modified": "2023-08-22T07:45:56.947031",
+            "metadata_modified": "2023-08-22T07:45:57.054236",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31201-2700-2023.zip",
+            "package_id": "6d8dd89b-a480-4cec-8d9a-6d83bd7e4e99",
+            "position": 2,
+            "resource_type": null,
+            "size": 328609593,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6d8dd89b-a480-4cec-8d9a-6d83bd7e4e99/resource/a1731ed4-7a4e-4035-bbfd-72dcfd05b0de/download/31201-2700-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取市",
+            "id": "f83aed88-fce9-4dca-b958-270684393d45",
+            "name": "鳥取市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "2f94f161-9bc5-4773-b49f-7b506fc97f01",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:55.549743",
+        "metadata_modified": "2023-08-31T03:46:29.478733",
+        "name": "houmusyouchizu-2023-1-1505",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "西伯郡伯耆町（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:52:11.640162",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "62f48146-3e00-4211-a26b-cf9bbc1b43d9",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:52:11.640162",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "2f94f161-9bc5-4773-b49f-7b506fc97f01",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:52:22.885336",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "39dd4f1d-36d9-4101-8735-cf7a2309dcc6",
+            "last_modified": "2023-08-22T07:52:21.735281",
+            "metadata_modified": "2023-08-22T07:52:22.885336",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31390-2702-2022.zip",
+            "package_id": "2f94f161-9bc5-4773-b49f-7b506fc97f01",
+            "position": 1,
+            "resource_type": null,
+            "size": 60921526,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2f94f161-9bc5-4773-b49f-7b506fc97f01/resource/39dd4f1d-36d9-4101-8735-cf7a2309dcc6/download/31390-2702-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:52:37.892336",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "76e12e41-0f61-4ba1-b630-cd0ee72dd062",
+            "last_modified": "2023-08-22T07:52:37.784126",
+            "metadata_modified": "2023-08-22T07:52:37.892336",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31390-2702-2023.zip",
+            "package_id": "2f94f161-9bc5-4773-b49f-7b506fc97f01",
+            "position": 2,
+            "resource_type": null,
+            "size": 60678568,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2f94f161-9bc5-4773-b49f-7b506fc97f01/resource/76e12e41-0f61-4ba1-b630-cd0ee72dd062/download/31390-2702-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西伯郡伯耆町",
+            "id": "4052c891-56e1-46e0-8d4f-2d0b02b68a1b",
+            "name": "西伯郡伯耆町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0eaa8c91-611e-4402-b44a-a48d0b8b74d8",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:49.230101",
+        "metadata_modified": "2023-08-31T03:46:38.657475",
+        "name": "houmusyouchizu-2023-1-1492",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "岩美郡岩美町（鳥取地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:47:53.272064",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ac06ac18-94b5-41af-95ab-a13f60cd4efe",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:47:53.272064",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0eaa8c91-611e-4402-b44a-a48d0b8b74d8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:47:58.927464",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "23eea852-3e64-4110-8620-97fcc3ef9ff8",
+            "last_modified": "2023-08-22T07:47:58.819372",
+            "metadata_modified": "2023-08-22T07:47:58.927464",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31302-2700-2022.zip",
+            "package_id": "0eaa8c91-611e-4402-b44a-a48d0b8b74d8",
+            "position": 1,
+            "resource_type": null,
+            "size": 47497129,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0eaa8c91-611e-4402-b44a-a48d0b8b74d8/resource/23eea852-3e64-4110-8620-97fcc3ef9ff8/download/31302-2700-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:48:11.417212",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "030c6a9e-d8a1-467e-95cf-6db4f14efb65",
+            "last_modified": "2023-08-22T07:48:11.290188",
+            "metadata_modified": "2023-08-22T07:48:11.417212",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31302-2700-2023.zip",
+            "package_id": "0eaa8c91-611e-4402-b44a-a48d0b8b74d8",
+            "position": 2,
+            "resource_type": null,
+            "size": 47505806,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0eaa8c91-611e-4402-b44a-a48d0b8b74d8/resource/030c6a9e-d8a1-467e-95cf-6db4f14efb65/download/31302-2700-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "岩美郡岩美町",
+            "id": "467c7dd9-b345-43d4-847a-2890e851d2f4",
+            "name": "岩美郡岩美町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "91214603-e7bc-4b63-81f1-cb150eb0e04e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:48.291743",
+        "metadata_modified": "2023-08-31T03:46:40.103668",
+        "name": "houmusyouchizu-2023-1-1490",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "倉吉市（鳥取地方法務局倉吉支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:46:57.697756",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "e417d780-fc05-42e7-8e9f-0f356018eba3",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:46:57.697756",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "91214603-e7bc-4b63-81f1-cb150eb0e04e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:47:11.474585",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cc152264-7929-4e52-aa9e-88bfd55ec65f",
+            "last_modified": "2023-08-22T07:47:11.370665",
+            "metadata_modified": "2023-08-22T07:47:11.474585",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31203-2701-2022.zip",
+            "package_id": "91214603-e7bc-4b63-81f1-cb150eb0e04e",
+            "position": 1,
+            "resource_type": null,
+            "size": 98906967,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/91214603-e7bc-4b63-81f1-cb150eb0e04e/resource/cc152264-7929-4e52-aa9e-88bfd55ec65f/download/31203-2701-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:47:31.908718",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "938e0b39-4a7b-4bea-b952-399be5bb423a",
+            "last_modified": "2023-08-22T07:47:31.803168",
+            "metadata_modified": "2023-08-22T07:47:31.908718",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31203-2701-2023.zip",
+            "package_id": "91214603-e7bc-4b63-81f1-cb150eb0e04e",
+            "position": 2,
+            "resource_type": null,
+            "size": 98905397,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/91214603-e7bc-4b63-81f1-cb150eb0e04e/resource/938e0b39-4a7b-4bea-b952-399be5bb423a/download/31203-2701-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "倉吉市",
+            "id": "6efa04c0-4d11-4f45-afac-4c16151eb2c2",
+            "name": "倉吉市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "96c83207-f122-471f-8589-2ab508ec4953",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:48.755659",
+        "metadata_modified": "2023-08-31T03:46:39.371437",
+        "name": "houmusyouchizu-2023-1-1491",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "境港市（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:47:40.911586",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c4cd1df2-b1b3-428e-a138-b9049bd8b355",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:47:40.911586",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "96c83207-f122-471f-8589-2ab508ec4953",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:47:43.926813",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ff67e257-b4d8-4ad8-8b48-44a94db3e4e1",
+            "last_modified": "2023-08-22T07:47:43.821752",
+            "metadata_modified": "2023-08-22T07:47:43.926813",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31204-2702-2022.zip",
+            "package_id": "96c83207-f122-471f-8589-2ab508ec4953",
+            "position": 1,
+            "resource_type": null,
+            "size": 15651576,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/96c83207-f122-471f-8589-2ab508ec4953/resource/ff67e257-b4d8-4ad8-8b48-44a94db3e4e1/download/31204-2702-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:47:49.416077",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "61d77945-0ce0-4594-807d-e394768e3904",
+            "last_modified": "2023-08-22T07:47:49.300905",
+            "metadata_modified": "2023-08-22T07:47:49.416077",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31204-2702-2023.zip",
+            "package_id": "96c83207-f122-471f-8589-2ab508ec4953",
+            "position": 2,
+            "resource_type": null,
+            "size": 15666389,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/96c83207-f122-471f-8589-2ab508ec4953/resource/61d77945-0ce0-4594-807d-e394768e3904/download/31204-2702-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "境港市",
+            "id": "83f7eec6-4350-4e6d-9054-f726a3223896",
+            "name": "境港市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "98819d36-638a-4de8-b1fd-974a4cee707d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:53.099028",
+        "metadata_modified": "2023-08-31T03:46:32.890138",
+        "name": "houmusyouchizu-2023-1-1500",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "東伯郡北栄町（鳥取地方法務局倉吉支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:50:49.643431",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "04ba9a5a-ab79-4fe6-9432-a9dca3cd734e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:50:49.643431",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "98819d36-638a-4de8-b1fd-974a4cee707d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:50:53.734358",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "65c3ec1b-d3cc-4084-b311-1d2a866ec675",
+            "last_modified": "2023-08-22T07:50:53.629315",
+            "metadata_modified": "2023-08-22T07:50:53.734358",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31372-2701-2022.zip",
+            "package_id": "98819d36-638a-4de8-b1fd-974a4cee707d",
+            "position": 1,
+            "resource_type": null,
+            "size": 24007060,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/98819d36-638a-4de8-b1fd-974a4cee707d/resource/65c3ec1b-d3cc-4084-b311-1d2a866ec675/download/31372-2701-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:00.884852",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a723b837-fcb7-49a4-b660-551c677e818b",
+            "last_modified": "2023-08-22T07:51:00.776718",
+            "metadata_modified": "2023-08-22T07:51:00.884852",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31372-2701-2023.zip",
+            "package_id": "98819d36-638a-4de8-b1fd-974a4cee707d",
+            "position": 2,
+            "resource_type": null,
+            "size": 24054338,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/98819d36-638a-4de8-b1fd-974a4cee707d/resource/a723b837-fcb7-49a4-b660-551c677e818b/download/31372-2701-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東伯郡北栄町",
+            "id": "1d81d4ac-2d37-439e-a0a5-807f20e69d29",
+            "name": "東伯郡北栄町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9f81b35a-6d21-45ad-af52-622f02ae72a9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:54.067431",
+        "metadata_modified": "2023-08-31T03:46:31.584383",
+        "name": "houmusyouchizu-2023-1-1502",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "西伯郡日吉津村（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:08.344177",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "de68c2c8-c8b8-43f2-9eab-b9ad3b118867",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:51:08.344177",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9f81b35a-6d21-45ad-af52-622f02ae72a9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:09.477492",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6bd4de29-0c0f-4b9b-b0eb-fc151a6fdc03",
+            "last_modified": "2023-08-22T07:51:09.376315",
+            "metadata_modified": "2023-08-22T07:51:09.477492",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31384-2702-2022.zip",
+            "package_id": "9f81b35a-6d21-45ad-af52-622f02ae72a9",
+            "position": 1,
+            "resource_type": null,
+            "size": 2073534,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9f81b35a-6d21-45ad-af52-622f02ae72a9/resource/6bd4de29-0c0f-4b9b-b0eb-fc151a6fdc03/download/31384-2702-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:12.704623",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "902b9305-2366-4a8d-a281-ed5a4d1f90d9",
+            "last_modified": "2023-08-22T07:51:12.596002",
+            "metadata_modified": "2023-08-22T07:51:12.704623",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31384-2702-2023.zip",
+            "package_id": "9f81b35a-6d21-45ad-af52-622f02ae72a9",
+            "position": 2,
+            "resource_type": null,
+            "size": 2078606,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9f81b35a-6d21-45ad-af52-622f02ae72a9/resource/902b9305-2366-4a8d-a281-ed5a4d1f90d9/download/31384-2702-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西伯郡日吉津村",
+            "id": "fa7a0c8a-ca79-480e-b683-14d3da9bdf65",
+            "name": "西伯郡日吉津村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4b7a1d8e-e2b7-4d83-aa6e-7a8b633e8ab7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:52.627398",
+        "metadata_modified": "2023-08-31T03:46:33.636187",
+        "name": "houmusyouchizu-2023-1-1499",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "東伯郡琴浦町（鳥取地方法務局倉吉支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:50:25.160210",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2adceab9-9d9e-402e-a2ca-25bf098fa63b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:50:25.160210",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4b7a1d8e-e2b7-4d83-aa6e-7a8b633e8ab7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:50:31.742015",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6636fad2-f411-4fd2-91f8-7ceebb3456c0",
+            "last_modified": "2023-08-22T07:50:31.638766",
+            "metadata_modified": "2023-08-22T07:50:31.742015",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31371-2701-2022.zip",
+            "package_id": "4b7a1d8e-e2b7-4d83-aa6e-7a8b633e8ab7",
+            "position": 1,
+            "resource_type": null,
+            "size": 47127230,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4b7a1d8e-e2b7-4d83-aa6e-7a8b633e8ab7/resource/6636fad2-f411-4fd2-91f8-7ceebb3456c0/download/31371-2701-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:50:43.804558",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "72320b38-3865-4cde-a19d-6a6d6032c9e3",
+            "last_modified": "2023-08-22T07:50:43.695282",
+            "metadata_modified": "2023-08-22T07:50:43.804558",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31371-2701-2023.zip",
+            "package_id": "4b7a1d8e-e2b7-4d83-aa6e-7a8b633e8ab7",
+            "position": 2,
+            "resource_type": null,
+            "size": 47112499,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4b7a1d8e-e2b7-4d83-aa6e-7a8b633e8ab7/resource/72320b38-3865-4cde-a19d-6a6d6032c9e3/download/31371-2701-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東伯郡琴浦町",
+            "id": "f1f4b35d-6b27-454a-a0cb-22859e475ba8",
+            "name": "東伯郡琴浦町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "77d47a24-3773-4584-8e1d-386252315985",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:51.694312",
+        "metadata_modified": "2023-08-31T03:46:35.047530",
+        "name": "houmusyouchizu-2023-1-1497",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "東伯郡東伯町（鳥取地方法務局倉吉支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:49:56.740185",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "1d1dc658-badc-4132-9046-527671d4ee93",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:49:56.740185",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "77d47a24-3773-4584-8e1d-386252315985",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:49:57.597631",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1f784320-e056-4803-85cb-fdf244aeff03",
+            "last_modified": "2023-08-22T07:49:57.481040",
+            "metadata_modified": "2023-08-22T07:49:57.597631",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31368-2701-2022.zip",
+            "package_id": "77d47a24-3773-4584-8e1d-386252315985",
+            "position": 1,
+            "resource_type": null,
+            "size": 1064330,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77d47a24-3773-4584-8e1d-386252315985/resource/1f784320-e056-4803-85cb-fdf244aeff03/download/31368-2701-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:50:00.583807",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "56a157e9-17b4-47ea-b471-099cb4119dab",
+            "last_modified": "2023-08-22T07:50:00.481043",
+            "metadata_modified": "2023-08-22T07:50:00.583807",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31368-2701-2023.zip",
+            "package_id": "77d47a24-3773-4584-8e1d-386252315985",
+            "position": 2,
+            "resource_type": null,
+            "size": 1064328,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77d47a24-3773-4584-8e1d-386252315985/resource/56a157e9-17b4-47ea-b471-099cb4119dab/download/31368-2701-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東伯郡東伯町",
+            "id": "feacfe1a-5df2-4a43-93f8-6edd855f7d6c",
+            "name": "東伯郡東伯町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "af8aea62-52e4-4d15-9013-a50d6e2f14fe",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:54.556757",
+        "metadata_modified": "2023-08-31T03:46:30.927467",
+        "name": "houmusyouchizu-2023-1-1503",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "西伯郡大山町（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:15.654974",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "181ba2a3-da66-40b2-b372-f6de4524faad",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:51:15.654974",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "af8aea62-52e4-4d15-9013-a50d6e2f14fe",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:23.350314",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f920d30f-6c1f-44a9-a9e6-6ebeaff1a373",
+            "last_modified": "2023-08-22T07:51:23.244631",
+            "metadata_modified": "2023-08-22T07:51:23.350314",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31386-2702-2022.zip",
+            "package_id": "af8aea62-52e4-4d15-9013-a50d6e2f14fe",
+            "position": 1,
+            "resource_type": null,
+            "size": 61207109,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/af8aea62-52e4-4d15-9013-a50d6e2f14fe/resource/f920d30f-6c1f-44a9-a9e6-6ebeaff1a373/download/31386-2702-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:37.478648",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2128a89f-7a33-40de-bf96-e7c0451acd5a",
+            "last_modified": "2023-08-22T07:51:37.369747",
+            "metadata_modified": "2023-08-22T07:51:37.478648",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31386-2702-2023.zip",
+            "package_id": "af8aea62-52e4-4d15-9013-a50d6e2f14fe",
+            "position": 2,
+            "resource_type": null,
+            "size": 60998323,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/af8aea62-52e4-4d15-9013-a50d6e2f14fe/resource/2128a89f-7a33-40de-bf96-e7c0451acd5a/download/31386-2702-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西伯郡大山町",
+            "id": "25cbe863-db35-481c-89ff-16a8e44497b2",
+            "name": "西伯郡大山町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d874c8d6-5b74-49a0-9aea-01908c6fcde7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:53.566128",
+        "metadata_modified": "2023-08-31T03:46:32.242474",
+        "name": "houmusyouchizu-2023-1-1501",
+        "notes": null,
+        "num_resources": 2,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "西伯郡西伯町（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:05.617209",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "5bfaed4b-fabc-468a-8c9a-bf9719324f24",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:51:05.617209",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d874c8d6-5b74-49a0-9aea-01908c6fcde7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:51:06.544170",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b7e589e5-5760-4d48-b807-9d193c09e399",
+            "last_modified": "2023-08-22T07:51:06.439524",
+            "metadata_modified": "2023-08-22T07:51:06.544170",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31381-2702-2022.zip",
+            "package_id": "d874c8d6-5b74-49a0-9aea-01908c6fcde7",
+            "position": 1,
+            "resource_type": null,
+            "size": 4540,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d874c8d6-5b74-49a0-9aea-01908c6fcde7/resource/b7e589e5-5760-4d48-b807-9d193c09e399/download/31381-2702-2022.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "西伯郡西伯町",
+            "id": "6c1b3a71-41c9-42ba-b70b-67f970a4da17",
+            "name": "西伯郡西伯町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f726cea6-2778-4d35-94bf-8a0d4642ce35",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:19:56.032026",
+        "metadata_modified": "2023-08-31T03:46:28.821815",
+        "name": "houmusyouchizu-2023-1-1506",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-31tottori",
+          "name": "moj-31tottori",
+          "title": "31鳥取県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:31.598445",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-31tottori",
+        "private": false,
+        "state": "active",
+        "title": "日野郡日南町（鳥取地方法務局米子支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:52:44.663212",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "b2d79001-0a5c-4354-bef7-9dbc63d24a3e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T07:52:44.663212",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f726cea6-2778-4d35-94bf-8a0d4642ce35",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:52:54.962592",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b16af4b7-f1be-4db4-80bc-cf7ede2f72dc",
+            "last_modified": "2023-08-22T07:52:54.842709",
+            "metadata_modified": "2023-08-22T07:52:54.962592",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31401-2702-2022.zip",
+            "package_id": "f726cea6-2778-4d35-94bf-8a0d4642ce35",
+            "position": 1,
+            "resource_type": null,
+            "size": 69002627,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f726cea6-2778-4d35-94bf-8a0d4642ce35/resource/b16af4b7-f1be-4db4-80bc-cf7ede2f72dc/download/31401-2702-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T07:53:13.100339",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a2dad062-3c12-4e12-b78b-d01c22ee9233",
+            "last_modified": "2023-08-22T07:53:12.966833",
+            "metadata_modified": "2023-08-22T07:53:13.100339",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "31401-2702-2023.zip",
+            "package_id": "f726cea6-2778-4d35-94bf-8a0d4642ce35",
+            "position": 2,
+            "resource_type": null,
+            "size": 69115913,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f726cea6-2778-4d35-94bf-8a0d4642ce35/resource/a2dad062-3c12-4e12-b78b-d01c22ee9233/download/31401-2702-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日野郡日南町",
+            "id": "3030c9dd-9016-46e5-aa97-940afcdfbce8",
+            "name": "日野郡日南町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳥取県",
+            "id": "e08dc5cd-f344-4b21-ba9a-2019a61a2a77",
+            "name": "鳥取県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "charge desc",
+    "search_facets": {
+    }
+  }
+}

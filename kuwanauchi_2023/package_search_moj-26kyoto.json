@@ -1,0 +1,5378 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 36,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cf14afe9-80b5-4151-8d47-8189785770ed",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:02.370601",
+        "metadata_modified": "2023-08-31T03:49:04.043014",
+        "name": "houmusyouchizu-2023-1-1282",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "木津川市（京都地方法務局木津出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:33:35.617611",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "566aae07-d6ea-4fa1-b57f-835874a8befa",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:33:35.617611",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cf14afe9-80b5-4151-8d47-8189785770ed",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:33:43.694783",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "bcf14f8d-2a57-46a3-8b71-35431979d481",
+            "last_modified": "2023-08-22T05:33:43.585472",
+            "metadata_modified": "2023-08-22T05:33:43.694783",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26214-1312-2022.zip",
+            "package_id": "cf14afe9-80b5-4151-8d47-8189785770ed",
+            "position": 1,
+            "resource_type": null,
+            "size": 61760438,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cf14afe9-80b5-4151-8d47-8189785770ed/resource/bcf14f8d-2a57-46a3-8b71-35431979d481/download/26214-1312-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:33:57.496250",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0de4d082-f5ac-4ccf-873f-0fdd5c7cadc6",
+            "last_modified": "2023-08-22T05:33:57.167643",
+            "metadata_modified": "2023-08-22T05:33:57.496250",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26214-1312-2023.zip",
+            "package_id": "cf14afe9-80b5-4151-8d47-8189785770ed",
+            "position": 2,
+            "resource_type": null,
+            "size": 61792371,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cf14afe9-80b5-4151-8d47-8189785770ed/resource/0de4d082-f5ac-4ccf-873f-0fdd5c7cadc6/download/26214-1312-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "木津川市",
+            "id": "d0717d7c-aa6c-4c65-abd9-373fe40da95c",
+            "name": "木津川市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cf4c82b4-7578-48cf-86b1-577ac04862e0",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:02.830005",
+        "metadata_modified": "2023-08-31T03:49:03.436702",
+        "name": "houmusyouchizu-2023-1-1283",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "乙訓郡大山崎町（京都地方法務局嵯峨出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:05.682281",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "fa6ea030-5eda-4084-8907-7f699f7c6e88",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:34:05.682281",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cf4c82b4-7578-48cf-86b1-577ac04862e0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:07.116321",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "22a8fb5b-c833-437d-a6c3-c888987934af",
+            "last_modified": "2023-08-22T05:34:07.011201",
+            "metadata_modified": "2023-08-22T05:34:07.116321",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26303-1308-2022.zip",
+            "package_id": "cf4c82b4-7578-48cf-86b1-577ac04862e0",
+            "position": 1,
+            "resource_type": null,
+            "size": 4318605,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cf4c82b4-7578-48cf-86b1-577ac04862e0/resource/22a8fb5b-c833-437d-a6c3-c888987934af/download/26303-1308-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:10.767915",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "bf862f7e-37bc-4fe9-bc95-46171255c05f",
+            "last_modified": "2023-08-22T05:34:10.662280",
+            "metadata_modified": "2023-08-22T05:34:10.767915",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26303-1308-2023.zip",
+            "package_id": "cf4c82b4-7578-48cf-86b1-577ac04862e0",
+            "position": 2,
+            "resource_type": null,
+            "size": 4325044,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cf4c82b4-7578-48cf-86b1-577ac04862e0/resource/bf862f7e-37bc-4fe9-bc95-46171255c05f/download/26303-1308-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "乙訓郡大山崎町",
+            "id": "ff28f151-7b75-4901-863a-1c6e05764a04",
+            "name": "乙訓郡大山崎町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d0e7408c-4922-4a01-a4ed-e2f7c598205d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:05.743583",
+        "metadata_modified": "2023-08-31T03:48:59.506338",
+        "name": "houmusyouchizu-2023-1-1289",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "相楽郡精華町（京都地方法務局木津出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:24.716178",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "a16be764-084a-4ea4-9c72-1a013419e65d",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:35:24.716178",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d0e7408c-4922-4a01-a4ed-e2f7c598205d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:27.670926",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c28c51fc-6234-48e9-84b6-6834161c9f5e",
+            "last_modified": "2023-08-22T05:35:27.564509",
+            "metadata_modified": "2023-08-22T05:35:27.670926",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26366-1312-2022.zip",
+            "package_id": "d0e7408c-4922-4a01-a4ed-e2f7c598205d",
+            "position": 1,
+            "resource_type": null,
+            "size": 19040111,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d0e7408c-4922-4a01-a4ed-e2f7c598205d/resource/c28c51fc-6234-48e9-84b6-6834161c9f5e/download/26366-1312-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:34.355452",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b24b4906-4e39-4320-bceb-f08e3c32b70a",
+            "last_modified": "2023-08-22T05:35:34.248929",
+            "metadata_modified": "2023-08-22T05:35:34.355452",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26366-1312-2023.zip",
+            "package_id": "d0e7408c-4922-4a01-a4ed-e2f7c598205d",
+            "position": 2,
+            "resource_type": null,
+            "size": 19059441,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d0e7408c-4922-4a01-a4ed-e2f7c598205d/resource/b24b4906-4e39-4320-bceb-f08e3c32b70a/download/26366-1312-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "相楽郡精華町",
+            "id": "7f7d04a7-c358-47ba-a530-1831334289aa",
+            "name": "相楽郡精華町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b229586b-4320-497c-8825-d00a02f8617f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:00.396049",
+        "metadata_modified": "2023-08-31T03:49:06.576356",
+        "name": "houmusyouchizu-2023-1-1278",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "八幡市（京都地方法務局宇治支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:41.697393",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "bf02d0bf-8be1-4a17-8480-0da2a8cab59f",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:30:41.697393",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b229586b-4320-497c-8825-d00a02f8617f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:44.597878",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "141cd931-6fa0-4336-a5b8-2a61dc0fc331",
+            "last_modified": "2023-08-22T05:30:44.491375",
+            "metadata_modified": "2023-08-22T05:30:44.597878",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26210-1328-2022.zip",
+            "package_id": "b229586b-4320-497c-8825-d00a02f8617f",
+            "position": 1,
+            "resource_type": null,
+            "size": 17056564,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b229586b-4320-497c-8825-d00a02f8617f/resource/141cd931-6fa0-4336-a5b8-2a61dc0fc331/download/26210-1328-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:50.577147",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d69655ef-b53c-46a9-b733-91bd943b93f2",
+            "last_modified": "2023-08-22T05:30:50.474517",
+            "metadata_modified": "2023-08-22T05:30:50.577147",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26210-1328-2023.zip",
+            "package_id": "b229586b-4320-497c-8825-d00a02f8617f",
+            "position": 2,
+            "resource_type": null,
+            "size": 17102819,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b229586b-4320-497c-8825-d00a02f8617f/resource/d69655ef-b53c-46a9-b733-91bd943b93f2/download/26210-1328-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "八幡市",
+            "id": "20beb60c-bb26-4d20-89e8-fd7d886f72e3",
+            "name": "八幡市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cd712499-6d02-4a11-89f5-13a0e2032c3b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:51.099584",
+        "metadata_modified": "2023-08-31T03:49:19.522814",
+        "name": "houmusyouchizu-2023-1-1259",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市上京区（京都地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:05.589479",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "3e40d3ef-d43f-4903-9347-ffb4b446847c",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:22:05.589479",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cd712499-6d02-4a11-89f5-13a0e2032c3b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:07.637930",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "03521d59-80ed-4090-abfb-f3bcd4d5b57a",
+            "last_modified": "2023-08-22T05:22:07.532833",
+            "metadata_modified": "2023-08-22T05:22:07.637930",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26102-1300-2022.zip",
+            "package_id": "cd712499-6d02-4a11-89f5-13a0e2032c3b",
+            "position": 1,
+            "resource_type": null,
+            "size": 10398511,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cd712499-6d02-4a11-89f5-13a0e2032c3b/resource/03521d59-80ed-4090-abfb-f3bcd4d5b57a/download/26102-1300-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:12.419889",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "112a679e-d473-42e7-a12f-bd288f88af5d",
+            "last_modified": "2023-08-22T05:22:12.309052",
+            "metadata_modified": "2023-08-22T05:22:12.419889",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26102-1300-2023.zip",
+            "package_id": "cd712499-6d02-4a11-89f5-13a0e2032c3b",
+            "position": 2,
+            "resource_type": null,
+            "size": 10415808,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cd712499-6d02-4a11-89f5-13a0e2032c3b/resource/112a679e-d473-42e7-a12f-bd288f88af5d/download/26102-1300-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市上京区",
+            "id": "751f11cd-ee3d-49ec-b983-2298ffbf4887",
+            "name": "京都市上京区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cd9af8a7-1d58-45de-9791-edc40c43ec86",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:03.800674",
+        "metadata_modified": "2023-08-31T03:49:02.204794",
+        "name": "houmusyouchizu-2023-1-1285",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "綴喜郡井手町（京都地方法務局宇治支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:23.298439",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "9234c836-7ee8-49be-bdfb-580aca6afed8",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:34:23.298439",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cd9af8a7-1d58-45de-9791-edc40c43ec86",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:26.147086",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ba70b6e6-1e7f-47f5-b8ca-55cb89a898d6",
+            "last_modified": "2023-08-22T05:34:26.039812",
+            "metadata_modified": "2023-08-22T05:34:26.147086",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26343-1328-2022.zip",
+            "package_id": "cd9af8a7-1d58-45de-9791-edc40c43ec86",
+            "position": 1,
+            "resource_type": null,
+            "size": 12463879,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cd9af8a7-1d58-45de-9791-edc40c43ec86/resource/ba70b6e6-1e7f-47f5-b8ca-55cb89a898d6/download/26343-1328-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:31.785838",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a0d4ea49-d46c-4393-920c-7a117c387c08",
+            "last_modified": "2023-08-22T05:34:31.679131",
+            "metadata_modified": "2023-08-22T05:34:31.785838",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26343-1328-2023.zip",
+            "package_id": "cd9af8a7-1d58-45de-9791-edc40c43ec86",
+            "position": 2,
+            "resource_type": null,
+            "size": 12527456,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cd9af8a7-1d58-45de-9791-edc40c43ec86/resource/a0d4ea49-d46c-4393-920c-7a117c387c08/download/26343-1328-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "綴喜郡井手町",
+            "id": "a51a5855-3f44-4300-a13f-cefc168a3045",
+            "name": "綴喜郡井手町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f2f7142e-1620-4709-ad47-4feb78fcacec",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:52.185324",
+        "metadata_modified": "2023-08-31T03:49:18.168522",
+        "name": "houmusyouchizu-2023-1-1261",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市中京区（京都地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:42.291769",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "17504114-4fa6-4aa1-b522-17090bd55c3e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:22:42.291769",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f2f7142e-1620-4709-ad47-4feb78fcacec",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:44.497910",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0cafefe6-9a35-4148-ac38-194c080bfe48",
+            "last_modified": "2023-08-22T05:22:44.392162",
+            "metadata_modified": "2023-08-22T05:22:44.497910",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26104-1300-2022.zip",
+            "package_id": "f2f7142e-1620-4709-ad47-4feb78fcacec",
+            "position": 1,
+            "resource_type": null,
+            "size": 10941509,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f2f7142e-1620-4709-ad47-4feb78fcacec/resource/0cafefe6-9a35-4148-ac38-194c080bfe48/download/26104-1300-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:49.405820",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1031e87f-423f-4a1d-a21f-901983680ba7",
+            "last_modified": "2023-08-22T05:22:49.300364",
+            "metadata_modified": "2023-08-22T05:22:49.405820",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26104-1300-2023.zip",
+            "package_id": "f2f7142e-1620-4709-ad47-4feb78fcacec",
+            "position": 2,
+            "resource_type": null,
+            "size": 10966416,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f2f7142e-1620-4709-ad47-4feb78fcacec/resource/1031e87f-423f-4a1d-a21f-901983680ba7/download/26104-1300-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市中京区",
+            "id": "d4a6aff9-2619-4aa9-a7b1-a6ccef49df76",
+            "name": "京都市中京区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e425668d-8e6d-4861-ac75-5cb8c2b84b7e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:04.735830",
+        "metadata_modified": "2023-08-31T03:49:00.833007",
+        "name": "houmusyouchizu-2023-1-1287",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "相楽郡笠置町（京都地方法務局木津出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:57.887511",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2aa3ea62-4314-4c8e-95b1-a7d0555ee0de",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:34:57.887511",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e425668d-8e6d-4861-ac75-5cb8c2b84b7e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:00.114541",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b56f0997-f499-48cf-b3d5-f0759f5f1faf",
+            "last_modified": "2023-08-22T05:35:00.005029",
+            "metadata_modified": "2023-08-22T05:35:00.114541",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26364-1312-2022.zip",
+            "package_id": "e425668d-8e6d-4861-ac75-5cb8c2b84b7e",
+            "position": 1,
+            "resource_type": null,
+            "size": 8314931,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e425668d-8e6d-4861-ac75-5cb8c2b84b7e/resource/b56f0997-f499-48cf-b3d5-f0759f5f1faf/download/26364-1312-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:04.551195",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2d8789c9-81e2-48c8-aaed-892395538f32",
+            "last_modified": "2023-08-22T05:35:04.446104",
+            "metadata_modified": "2023-08-22T05:35:04.551195",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26364-1312-2023.zip",
+            "package_id": "e425668d-8e6d-4861-ac75-5cb8c2b84b7e",
+            "position": 2,
+            "resource_type": null,
+            "size": 8319639,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e425668d-8e6d-4861-ac75-5cb8c2b84b7e/resource/2d8789c9-81e2-48c8-aaed-892395538f32/download/26364-1312-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "相楽郡笠置町",
+            "id": "d1f2a054-73a9-485a-82ba-0bc3620929b7",
+            "name": "相楽郡笠置町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e4431e48-5324-47a3-ab10-9ecacabe028c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:04.264673",
+        "metadata_modified": "2023-08-31T03:49:01.454805",
+        "name": "houmusyouchizu-2023-1-1286",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "綴喜郡宇治田原町（京都地方法務局宇治支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:35.357746",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "20737f31-24f9-43d1-9c5f-c7393056a009",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:34:35.357746",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e4431e48-5324-47a3-ab10-9ecacabe028c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:41.085788",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c9124932-7ddb-426e-a83f-4af16f500521",
+            "last_modified": "2023-08-22T05:34:40.923992",
+            "metadata_modified": "2023-08-22T05:34:41.085788",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26344-1328-2022.zip",
+            "package_id": "e4431e48-5324-47a3-ab10-9ecacabe028c",
+            "position": 1,
+            "resource_type": null,
+            "size": 38017201,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e4431e48-5324-47a3-ab10-9ecacabe028c/resource/c9124932-7ddb-426e-a83f-4af16f500521/download/26344-1328-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:52.653093",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "64b67bf3-fadf-477e-bb10-4d23a854c51c",
+            "last_modified": "2023-08-22T05:34:52.545217",
+            "metadata_modified": "2023-08-22T05:34:52.653093",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26344-1328-2023.zip",
+            "package_id": "e4431e48-5324-47a3-ab10-9ecacabe028c",
+            "position": 2,
+            "resource_type": null,
+            "size": 37728178,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e4431e48-5324-47a3-ab10-9ecacabe028c/resource/64b67bf3-fadf-477e-bb10-4d23a854c51c/download/26344-1328-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "綴喜郡宇治田原町",
+            "id": "e0997fce-9f5a-438b-aeb3-2491624e0092",
+            "name": "綴喜郡宇治田原町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ea27e9ce-6f76-49f6-a320-ec3c91cc4036",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:54.131372",
+        "metadata_modified": "2023-08-31T03:49:15.498684",
+        "name": "houmusyouchizu-2023-1-1265",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市右京区（京都地方法務局嵯峨出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:23:26.183074",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2e8a21e7-c0a4-4a3c-808b-655d5a447110",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:23:26.183074",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ea27e9ce-6f76-49f6-a320-ec3c91cc4036",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:23:36.583349",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9e7f3675-3aac-4067-abe9-3ec6e80b5ded",
+            "last_modified": "2023-08-22T05:23:36.413124",
+            "metadata_modified": "2023-08-22T05:23:36.583349",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26108-1308-2022.zip",
+            "package_id": "ea27e9ce-6f76-49f6-a320-ec3c91cc4036",
+            "position": 1,
+            "resource_type": null,
+            "size": 73621884,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ea27e9ce-6f76-49f6-a320-ec3c91cc4036/resource/9e7f3675-3aac-4067-abe9-3ec6e80b5ded/download/26108-1308-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:23:53.860765",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "732858a9-211b-477f-881e-c209b3959701",
+            "last_modified": "2023-08-22T05:23:53.750171",
+            "metadata_modified": "2023-08-22T05:23:53.860765",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26108-1308-2023.zip",
+            "package_id": "ea27e9ce-6f76-49f6-a320-ec3c91cc4036",
+            "position": 2,
+            "resource_type": null,
+            "size": 73787123,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ea27e9ce-6f76-49f6-a320-ec3c91cc4036/resource/732858a9-211b-477f-881e-c209b3959701/download/26108-1308-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市右京区",
+            "id": "158f0257-c19e-4d5e-aaa3-1bf59ec15a2e",
+            "name": "京都市右京区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "77270466-187d-4612-9ff1-2490cff5ffa0",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:54.625739",
+        "metadata_modified": "2023-08-31T03:49:14.832265",
+        "name": "houmusyouchizu-2023-1-1266",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市伏見区（京都地方法務局伏見出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:24:02.264329",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "6b786f8a-93d7-4d23-b4b0-26c039e9d9d3",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:24:02.264329",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "77270466-187d-4612-9ff1-2490cff5ffa0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:24:08.686034",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4964c75e-b425-42e9-b1b8-c521f8899b56",
+            "last_modified": "2023-08-22T05:24:08.582997",
+            "metadata_modified": "2023-08-22T05:24:08.686034",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26109-1310-2022.zip",
+            "package_id": "77270466-187d-4612-9ff1-2490cff5ffa0",
+            "position": 1,
+            "resource_type": null,
+            "size": 40064520,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77270466-187d-4612-9ff1-2490cff5ffa0/resource/4964c75e-b425-42e9-b1b8-c521f8899b56/download/26109-1310-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:24:20.319473",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0faccaa9-8612-46f7-b078-8d504e98b074",
+            "last_modified": "2023-08-22T05:24:20.205492",
+            "metadata_modified": "2023-08-22T05:24:20.319473",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26109-1310-2023.zip",
+            "package_id": "77270466-187d-4612-9ff1-2490cff5ffa0",
+            "position": 2,
+            "resource_type": null,
+            "size": 40208533,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77270466-187d-4612-9ff1-2490cff5ffa0/resource/0faccaa9-8612-46f7-b078-8d504e98b074/download/26109-1310-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市伏見区",
+            "id": "f3d86c88-1d67-4f9d-95b5-64ce0b594c1f",
+            "name": "京都市伏見区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7d772c07-b83e-4da2-a048-056271fdb6b3",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:03.313535",
+        "metadata_modified": "2023-08-31T03:49:02.821132",
+        "name": "houmusyouchizu-2023-1-1284",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "久世郡久御山町（京都地方法務局宇治支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:14.298999",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2d4d147f-e0aa-47c4-b64c-e7a3d4024068",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:34:14.298999",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7d772c07-b83e-4da2-a048-056271fdb6b3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:15.883116",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a7137bb4-7fc2-4913-acc6-9cb4964ca3c4",
+            "last_modified": "2023-08-22T05:34:15.769748",
+            "metadata_modified": "2023-08-22T05:34:15.883116",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26322-1328-2022.zip",
+            "package_id": "7d772c07-b83e-4da2-a048-056271fdb6b3",
+            "position": 1,
+            "resource_type": null,
+            "size": 6445798,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7d772c07-b83e-4da2-a048-056271fdb6b3/resource/a7137bb4-7fc2-4913-acc6-9cb4964ca3c4/download/26322-1328-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:34:19.947621",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d37a2980-7e52-434b-bd85-74dd8c4557bb",
+            "last_modified": "2023-08-22T05:34:19.840735",
+            "metadata_modified": "2023-08-22T05:34:19.947621",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26322-1328-2023.zip",
+            "package_id": "7d772c07-b83e-4da2-a048-056271fdb6b3",
+            "position": 2,
+            "resource_type": null,
+            "size": 6452375,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7d772c07-b83e-4da2-a048-056271fdb6b3/resource/d37a2980-7e52-434b-bd85-74dd8c4557bb/download/26322-1328-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "久世郡久御山町",
+            "id": "81126631-116f-421b-ac49-3f056172b979",
+            "name": "久世郡久御山町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "74776f25-1566-4d24-a579-57379c781e39",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:05.220433",
+        "metadata_modified": "2023-08-31T03:49:00.137492",
+        "name": "houmusyouchizu-2023-1-1288",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "相楽郡和束町（京都地方法務局木津出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:07.916284",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "359723a4-cd04-494b-b592-efd22cfbabbc",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:35:07.916284",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "74776f25-1566-4d24-a579-57379c781e39",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:12.277868",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "87d77ebf-7f71-4c2d-b173-d4c16d476f8a",
+            "last_modified": "2023-08-22T05:35:12.142044",
+            "metadata_modified": "2023-08-22T05:35:12.277868",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26365-1312-2022.zip",
+            "package_id": "74776f25-1566-4d24-a579-57379c781e39",
+            "position": 1,
+            "resource_type": null,
+            "size": 25604705,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/74776f25-1566-4d24-a579-57379c781e39/resource/87d77ebf-7f71-4c2d-b173-d4c16d476f8a/download/26365-1312-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:20.166365",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4208f1dd-bbf3-44a9-bcc0-ca1227e1cb59",
+            "last_modified": "2023-08-22T05:35:20.043262",
+            "metadata_modified": "2023-08-22T05:35:20.166365",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26365-1312-2023.zip",
+            "package_id": "74776f25-1566-4d24-a579-57379c781e39",
+            "position": 2,
+            "resource_type": null,
+            "size": 25612024,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/74776f25-1566-4d24-a579-57379c781e39/resource/4208f1dd-bbf3-44a9-bcc0-ca1227e1cb59/download/26365-1312-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "相楽郡和束町",
+            "id": "4ca0a51d-d863-4630-94a4-c02a8df2a4a8",
+            "name": "相楽郡和束町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0a446a65-b5c8-4bb8-96a8-2d9bb9f969a1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:51.583224",
+        "metadata_modified": "2023-08-31T03:49:18.886980",
+        "name": "houmusyouchizu-2023-1-1260",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市左京区（京都地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:16.080200",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "e3be462b-3e06-4e78-97a7-3f766898b1c5",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:22:16.080200",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0a446a65-b5c8-4bb8-96a8-2d9bb9f969a1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:23.961741",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e135124f-f1ea-4ad7-9e4f-c130906534e9",
+            "last_modified": "2023-08-22T05:22:23.853510",
+            "metadata_modified": "2023-08-22T05:22:23.961741",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26103-1300-2022.zip",
+            "package_id": "0a446a65-b5c8-4bb8-96a8-2d9bb9f969a1",
+            "position": 1,
+            "resource_type": null,
+            "size": 43997405,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0a446a65-b5c8-4bb8-96a8-2d9bb9f969a1/resource/e135124f-f1ea-4ad7-9e4f-c130906534e9/download/26103-1300-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:36.131415",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "130e7161-cf91-43f8-b51e-6cb6ba478107",
+            "last_modified": "2023-08-22T05:22:36.022705",
+            "metadata_modified": "2023-08-22T05:22:36.131415",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26103-1300-2023.zip",
+            "package_id": "0a446a65-b5c8-4bb8-96a8-2d9bb9f969a1",
+            "position": 2,
+            "resource_type": null,
+            "size": 44060236,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0a446a65-b5c8-4bb8-96a8-2d9bb9f969a1/resource/130e7161-cf91-43f8-b51e-6cb6ba478107/download/26103-1300-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市左京区",
+            "id": "8b5347e1-bb51-4dec-87d7-efc76b972ff2",
+            "name": "京都市左京区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "651b9157-4a3d-4eab-8332-f6ae3394a7e4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:50.628100",
+        "metadata_modified": "2023-08-31T03:49:20.217693",
+        "name": "houmusyouchizu-2023-1-1258",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市北区（京都地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:51.057344",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "98e426f8-c986-4541-bebc-6edd5d40f308",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:21:51.057344",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "651b9157-4a3d-4eab-8332-f6ae3394a7e4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:54.251167",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5c672e22-4e62-49b9-85a5-af372b7a4cd0",
+            "last_modified": "2023-08-22T05:21:54.148201",
+            "metadata_modified": "2023-08-22T05:21:54.251167",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26101-1300-2022.zip",
+            "package_id": "651b9157-4a3d-4eab-8332-f6ae3394a7e4",
+            "position": 1,
+            "resource_type": null,
+            "size": 21477407,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/651b9157-4a3d-4eab-8332-f6ae3394a7e4/resource/5c672e22-4e62-49b9-85a5-af372b7a4cd0/download/26101-1300-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:01.015452",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a0da0e55-44b7-4eba-8a84-658f6d82fc63",
+            "last_modified": "2023-08-22T05:22:00.910114",
+            "metadata_modified": "2023-08-22T05:22:01.015452",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26101-1300-2023.zip",
+            "package_id": "651b9157-4a3d-4eab-8332-f6ae3394a7e4",
+            "position": 2,
+            "resource_type": null,
+            "size": 21532879,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/651b9157-4a3d-4eab-8332-f6ae3394a7e4/resource/a0da0e55-44b7-4eba-8a84-658f6d82fc63/download/26101-1300-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市北区",
+            "id": "a8bbb660-2b48-4c18-988e-05ded54c6b85",
+            "name": "京都市北区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5cb6f2dd-b393-4cc8-950c-6f73cf894e1e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:59.372838",
+        "metadata_modified": "2023-08-31T03:49:07.977451",
+        "name": "houmusyouchizu-2023-1-1276",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "向日市（京都地方法務局嵯峨出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:19.630235",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "5f3bfafe-4bc2-4df8-a3f5-a194cf7223c5",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:30:19.630235",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5cb6f2dd-b393-4cc8-950c-6f73cf894e1e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:21.554830",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d65083f7-4d94-4ee7-a765-7c02a54e836a",
+            "last_modified": "2023-08-22T05:30:21.449733",
+            "metadata_modified": "2023-08-22T05:30:21.554830",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26208-1308-2022.zip",
+            "package_id": "5cb6f2dd-b393-4cc8-950c-6f73cf894e1e",
+            "position": 1,
+            "resource_type": null,
+            "size": 9342192,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5cb6f2dd-b393-4cc8-950c-6f73cf894e1e/resource/d65083f7-4d94-4ee7-a765-7c02a54e836a/download/26208-1308-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:26.252567",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7272b220-187c-45e1-a201-a852abc453b4",
+            "last_modified": "2023-08-22T05:30:26.144501",
+            "metadata_modified": "2023-08-22T05:30:26.252567",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26208-1308-2023.zip",
+            "package_id": "5cb6f2dd-b393-4cc8-950c-6f73cf894e1e",
+            "position": 2,
+            "resource_type": null,
+            "size": 9359719,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5cb6f2dd-b393-4cc8-950c-6f73cf894e1e/resource/7272b220-187c-45e1-a201-a852abc453b4/download/26208-1308-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "向日市",
+            "id": "68fd1038-6781-4eb2-8fa3-9260f8cf6f72",
+            "name": "向日市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "25daf4b4-3507-4200-b8ea-97c38b9ebc9d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:59.859253",
+        "metadata_modified": "2023-08-31T03:49:07.224375",
+        "name": "houmusyouchizu-2023-1-1277",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "長岡京市（京都地方法務局嵯峨出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:29.575413",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "955a84c2-7a30-4195-b8de-383516507b5f",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:30:29.575413",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "25daf4b4-3507-4200-b8ea-97c38b9ebc9d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:32.332415",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2f2182ec-9d13-4b01-9758-e84543f96f17",
+            "last_modified": "2023-08-22T05:30:32.220363",
+            "metadata_modified": "2023-08-22T05:30:32.332415",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26209-1308-2022.zip",
+            "package_id": "25daf4b4-3507-4200-b8ea-97c38b9ebc9d",
+            "position": 1,
+            "resource_type": null,
+            "size": 15241205,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/25daf4b4-3507-4200-b8ea-97c38b9ebc9d/resource/2f2182ec-9d13-4b01-9758-e84543f96f17/download/26209-1308-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:37.851585",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b2818caa-01d0-488e-b992-f18db731279a",
+            "last_modified": "2023-08-22T05:30:37.740549",
+            "metadata_modified": "2023-08-22T05:30:37.851585",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26209-1308-2023.zip",
+            "package_id": "25daf4b4-3507-4200-b8ea-97c38b9ebc9d",
+            "position": 2,
+            "resource_type": null,
+            "size": 15301387,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/25daf4b4-3507-4200-b8ea-97c38b9ebc9d/resource/b2818caa-01d0-488e-b992-f18db731279a/download/26209-1308-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "長岡京市",
+            "id": "be9a1673-91b5-4c73-9f6b-b7fa0e86ab57",
+            "name": "長岡京市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "308b177b-8b5f-4e99-8f08-7dc9da7733df",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:58.897361",
+        "metadata_modified": "2023-08-31T03:49:08.698988",
+        "name": "houmusyouchizu-2023-1-1275",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "城陽市（京都地方法務局宇治支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:03.830383",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "974957c4-d2a5-4980-ab14-98cc1b7e2d5e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:30:03.830383",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "308b177b-8b5f-4e99-8f08-7dc9da7733df",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:07.830669",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "36cd41ba-e272-4c1d-92e6-01dacc897a74",
+            "last_modified": "2023-08-22T05:30:07.714621",
+            "metadata_modified": "2023-08-22T05:30:07.830669",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26207-1328-2022.zip",
+            "package_id": "308b177b-8b5f-4e99-8f08-7dc9da7733df",
+            "position": 1,
+            "resource_type": null,
+            "size": 21211963,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/308b177b-8b5f-4e99-8f08-7dc9da7733df/resource/36cd41ba-e272-4c1d-92e6-01dacc897a74/download/26207-1328-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:15.527745",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4710596e-bc91-44e4-8284-a5810d5a8c66",
+            "last_modified": "2023-08-22T05:30:15.418084",
+            "metadata_modified": "2023-08-22T05:30:15.527745",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26207-1328-2023.zip",
+            "package_id": "308b177b-8b5f-4e99-8f08-7dc9da7733df",
+            "position": 2,
+            "resource_type": null,
+            "size": 21277689,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/308b177b-8b5f-4e99-8f08-7dc9da7733df/resource/4710596e-bc91-44e4-8284-a5810d5a8c66/download/26207-1328-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "城陽市",
+            "id": "94acca89-799d-4e24-92e1-bf0057131453",
+            "name": "城陽市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "29721ec8-0703-4a18-9031-a64813fcc397",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:01.413713",
+        "metadata_modified": "2023-08-31T03:49:05.301753",
+        "name": "houmusyouchizu-2023-1-1280",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京丹後市（京都地方法務局京丹後支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:31:14.752108",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "3ca79929-f5ee-4393-aa5a-c297afd52454",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:31:14.752108",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "29721ec8-0703-4a18-9031-a64813fcc397",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:31:43.011197",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "74a90b77-bfbb-4f93-a0c1-010bbf1ffd3b",
+            "last_modified": "2023-08-22T05:31:42.904876",
+            "metadata_modified": "2023-08-22T05:31:43.011197",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26212-1303-2022.zip",
+            "package_id": "29721ec8-0703-4a18-9031-a64813fcc397",
+            "position": 1,
+            "resource_type": null,
+            "size": 204254460,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/29721ec8-0703-4a18-9031-a64813fcc397/resource/74a90b77-bfbb-4f93-a0c1-010bbf1ffd3b/download/26212-1303-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:32:25.780455",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a36c35cd-d386-44f3-9205-df0da18d9a40",
+            "last_modified": "2023-08-22T05:32:25.671873",
+            "metadata_modified": "2023-08-22T05:32:25.780455",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26212-1303-2023.zip",
+            "package_id": "29721ec8-0703-4a18-9031-a64813fcc397",
+            "position": 2,
+            "resource_type": null,
+            "size": 204226710,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/29721ec8-0703-4a18-9031-a64813fcc397/resource/a36c35cd-d386-44f3-9205-df0da18d9a40/download/26212-1303-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京丹後市",
+            "id": "aa9a48ce-bfe9-435f-93fc-4d3fbcd19dae",
+            "name": "京丹後市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "12fa673a-bd46-4d79-a8bd-9d173624227a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:56.538170",
+        "metadata_modified": "2023-08-31T03:49:12.024817",
+        "name": "houmusyouchizu-2023-1-1270",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "舞鶴市（京都地方法務局舞鶴支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:26:30.335796",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "aec0b222-ce14-4dd5-942a-b76e361be5cc",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:26:30.335796",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "12fa673a-bd46-4d79-a8bd-9d173624227a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:26:47.921568",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e47b0666-6b1e-439c-938c-d203959a784b",
+            "last_modified": "2023-08-22T05:26:47.814565",
+            "metadata_modified": "2023-08-22T05:26:47.921568",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26202-1304-2022.zip",
+            "package_id": "12fa673a-bd46-4d79-a8bd-9d173624227a",
+            "position": 1,
+            "resource_type": null,
+            "size": 132193083,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/12fa673a-bd46-4d79-a8bd-9d173624227a/resource/e47b0666-6b1e-439c-938c-d203959a784b/download/26202-1304-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:27:20.150407",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6db9f823-5349-4a72-bc99-470291802d7f",
+            "last_modified": "2023-08-22T05:27:20.007378",
+            "metadata_modified": "2023-08-22T05:27:20.150407",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26202-1304-2023.zip",
+            "package_id": "12fa673a-bd46-4d79-a8bd-9d173624227a",
+            "position": 2,
+            "resource_type": null,
+            "size": 132279132,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/12fa673a-bd46-4d79-a8bd-9d173624227a/resource/6db9f823-5349-4a72-bc99-470291802d7f/download/26202-1304-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "舞鶴市",
+            "id": "938b1af3-c56d-4632-a7a4-a55cfbf42a0d",
+            "name": "舞鶴市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0fc07cf3-4eb3-476a-89ff-4c8b196eb893",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:56.070771",
+        "metadata_modified": "2023-08-31T03:49:12.662572",
+        "name": "houmusyouchizu-2023-1-1269",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "福知山市（京都地方法務局福知山支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:25:04.029170",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "40b39239-98a2-41f8-9a77-a9a713f13adc",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:25:04.029170",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0fc07cf3-4eb3-476a-89ff-4c8b196eb893",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:25:28.479361",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e56c0717-c674-4301-bf49-97cb2cbbf929",
+            "last_modified": "2023-08-22T05:25:28.369451",
+            "metadata_modified": "2023-08-22T05:25:28.479361",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26201-1305-2022.zip",
+            "package_id": "0fc07cf3-4eb3-476a-89ff-4c8b196eb893",
+            "position": 1,
+            "resource_type": null,
+            "size": 190224605,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0fc07cf3-4eb3-476a-89ff-4c8b196eb893/resource/e56c0717-c674-4301-bf49-97cb2cbbf929/download/26201-1305-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:26:15.124808",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2e451498-bd83-4eb4-a5ae-7d59195722d3",
+            "last_modified": "2023-08-22T05:26:15.017402",
+            "metadata_modified": "2023-08-22T05:26:15.124808",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26201-1305-2023.zip",
+            "package_id": "0fc07cf3-4eb3-476a-89ff-4c8b196eb893",
+            "position": 2,
+            "resource_type": null,
+            "size": 190361747,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0fc07cf3-4eb3-476a-89ff-4c8b196eb893/resource/2e451498-bd83-4eb4-a5ae-7d59195722d3/download/26201-1305-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福知山市",
+            "id": "715c8f97-74b2-4075-b597-473fd472fd4f",
+            "name": "福知山市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "052faea9-a780-4c34-a7e4-602dfdbcc7f1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:07.626238",
+        "metadata_modified": "2023-08-31T03:48:56.363613",
+        "name": "houmusyouchizu-2023-1-1293",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "与謝郡与謝野町（京都地方法務局宮津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:36:49.137594",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ff8dd11e-384f-4876-87f8-38c3582ea645",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:36:49.137594",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "052faea9-a780-4c34-a7e4-602dfdbcc7f1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:36:57.523729",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4a801efb-b58f-47b6-a6da-80679c32bbb9",
+            "last_modified": "2023-08-22T05:36:57.420806",
+            "metadata_modified": "2023-08-22T05:36:57.523729",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26465-1302-2022.zip",
+            "package_id": "052faea9-a780-4c34-a7e4-602dfdbcc7f1",
+            "position": 1,
+            "resource_type": null,
+            "size": 59933801,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/052faea9-a780-4c34-a7e4-602dfdbcc7f1/resource/4a801efb-b58f-47b6-a6da-80679c32bbb9/download/26465-1302-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:37:13.121772",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "bf8f19eb-8ca5-4073-8801-5142ef15b5d0",
+            "last_modified": "2023-08-22T05:37:12.999230",
+            "metadata_modified": "2023-08-22T05:37:13.121772",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26465-1302-2023.zip",
+            "package_id": "052faea9-a780-4c34-a7e4-602dfdbcc7f1",
+            "position": 2,
+            "resource_type": null,
+            "size": 59945314,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/052faea9-a780-4c34-a7e4-602dfdbcc7f1/resource/bf8f19eb-8ca5-4073-8801-5142ef15b5d0/download/26465-1302-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "与謝郡与謝野町",
+            "id": "a176b5e0-67d9-4200-bc06-968062afe2a7",
+            "name": "与謝郡与謝野町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0d2aa30c-2222-4054-812e-7408c76831a2",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:57.959653",
+        "metadata_modified": "2023-08-31T03:49:10.103521",
+        "name": "houmusyouchizu-2023-1-1273",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "宮津市（京都地方法務局宮津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:28:48.613668",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "e174a8b7-398c-4251-bfdb-d451955e4c0e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:28:48.613668",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0d2aa30c-2222-4054-812e-7408c76831a2",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:28:58.777789",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "704f81c7-fcee-4f1f-9beb-f18cb05bcda2",
+            "last_modified": "2023-08-22T05:28:58.672605",
+            "metadata_modified": "2023-08-22T05:28:58.777789",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26205-1302-2022.zip",
+            "package_id": "0d2aa30c-2222-4054-812e-7408c76831a2",
+            "position": 1,
+            "resource_type": null,
+            "size": 74431323,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0d2aa30c-2222-4054-812e-7408c76831a2/resource/704f81c7-fcee-4f1f-9beb-f18cb05bcda2/download/26205-1302-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:29:15.912978",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "786ad515-7dca-4959-b193-cbe6a534529a",
+            "last_modified": "2023-08-22T05:29:15.808373",
+            "metadata_modified": "2023-08-22T05:29:15.912978",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26205-1302-2023.zip",
+            "package_id": "0d2aa30c-2222-4054-812e-7408c76831a2",
+            "position": 2,
+            "resource_type": null,
+            "size": 74451309,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0d2aa30c-2222-4054-812e-7408c76831a2/resource/786ad515-7dca-4959-b193-cbe6a534529a/download/26205-1302-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "宮津市",
+            "id": "67be2218-113e-47bd-8f41-e8a037d2979c",
+            "name": "宮津市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "01e177a4-da2c-43c4-a435-4183487100cb",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:57.492703",
+        "metadata_modified": "2023-08-31T03:49:10.753144",
+        "name": "houmusyouchizu-2023-1-1272",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "宇治市（京都地方法務局宇治支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:28:27.222649",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "06dd8f5c-bd04-43ce-9e69-da1c4e0332eb",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:28:27.222649",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "01e177a4-da2c-43c4-a435-4183487100cb",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:28:34.168003",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5ee09c25-8d8a-426d-ace7-e17445032ee4",
+            "last_modified": "2023-08-22T05:28:33.016514",
+            "metadata_modified": "2023-08-22T05:28:34.168003",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26204-1328-2022.zip",
+            "package_id": "01e177a4-da2c-43c4-a435-4183487100cb",
+            "position": 1,
+            "resource_type": null,
+            "size": 33283608,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/01e177a4-da2c-43c4-a435-4183487100cb/resource/5ee09c25-8d8a-426d-ace7-e17445032ee4/download/26204-1328-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:28:43.712714",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2a5ac9d5-5fa7-452a-b455-c7f9d1f4a64d",
+            "last_modified": "2023-08-22T05:28:43.607429",
+            "metadata_modified": "2023-08-22T05:28:43.712714",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26204-1328-2023.zip",
+            "package_id": "01e177a4-da2c-43c4-a435-4183487100cb",
+            "position": 2,
+            "resource_type": null,
+            "size": 33357537,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/01e177a4-da2c-43c4-a435-4183487100cb/resource/2a5ac9d5-5fa7-452a-b455-c7f9d1f4a64d/download/26204-1328-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "宇治市",
+            "id": "8eb273e6-cf16-474f-81f9-ac3260c1f445",
+            "name": "宇治市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "035cdcc9-3884-4651-9f59-ed396a5b2cba",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:52.663891",
+        "metadata_modified": "2023-08-31T03:49:17.479546",
+        "name": "houmusyouchizu-2023-1-1262",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市東山区（京都地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:52.971800",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "6e9c0d10-9516-485e-bf36-013d2a6456ca",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:22:52.971800",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "035cdcc9-3884-4651-9f59-ed396a5b2cba",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:55.214400",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "adab88b7-a41c-4e4c-b295-5ffd189af1de",
+            "last_modified": "2023-08-22T05:22:55.109538",
+            "metadata_modified": "2023-08-22T05:22:55.214400",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26105-1300-2022.zip",
+            "package_id": "035cdcc9-3884-4651-9f59-ed396a5b2cba",
+            "position": 1,
+            "resource_type": null,
+            "size": 8252203,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/035cdcc9-3884-4651-9f59-ed396a5b2cba/resource/adab88b7-a41c-4e4c-b295-5ffd189af1de/download/26105-1300-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:22:59.653141",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9cbec41d-23da-4b95-ae9a-0b7582836e38",
+            "last_modified": "2023-08-22T05:22:59.546564",
+            "metadata_modified": "2023-08-22T05:22:59.653141",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26105-1300-2023.zip",
+            "package_id": "035cdcc9-3884-4651-9f59-ed396a5b2cba",
+            "position": 2,
+            "resource_type": null,
+            "size": 8260044,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/035cdcc9-3884-4651-9f59-ed396a5b2cba/resource/9cbec41d-23da-4b95-ae9a-0b7582836e38/download/26105-1300-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市東山区",
+            "id": "aa851496-9762-4b9b-9b04-50a52db01553",
+            "name": "京都市東山区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a86b6b6b-9e56-4181-8bdb-ef97a2fd4030",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:06.695466",
+        "metadata_modified": "2023-08-31T03:48:57.995115",
+        "name": "houmusyouchizu-2023-1-1291",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "船井郡京丹波町（京都地方法務局園部支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:53.882710",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "196519a2-a984-46e4-93d1-e4fa0439f724",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:35:53.882710",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a86b6b6b-9e56-4181-8bdb-ef97a2fd4030",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:36:04.939737",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b34ec901-3d3a-4cde-a2ab-127bf5fbe788",
+            "last_modified": "2023-08-22T05:36:04.828618",
+            "metadata_modified": "2023-08-22T05:36:04.939737",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26407-1301-2022.zip",
+            "package_id": "a86b6b6b-9e56-4181-8bdb-ef97a2fd4030",
+            "position": 1,
+            "resource_type": null,
+            "size": 80784751,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a86b6b6b-9e56-4181-8bdb-ef97a2fd4030/resource/b34ec901-3d3a-4cde-a2ab-127bf5fbe788/download/26407-1301-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:36:22.960322",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a6a6dd42-ad30-4dec-8778-27899da09941",
+            "last_modified": "2023-08-22T05:36:22.813095",
+            "metadata_modified": "2023-08-22T05:36:22.960322",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26407-1301-2023.zip",
+            "package_id": "a86b6b6b-9e56-4181-8bdb-ef97a2fd4030",
+            "position": 2,
+            "resource_type": null,
+            "size": 80809280,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a86b6b6b-9e56-4181-8bdb-ef97a2fd4030/resource/a6a6dd42-ad30-4dec-8778-27899da09941/download/26407-1301-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "船井郡京丹波町",
+            "id": "fb09feaf-6698-4fc1-b366-21835dce9e61",
+            "name": "船井郡京丹波町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a6b46467-5dfb-4ea8-a354-56cb118ed299",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:55.085909",
+        "metadata_modified": "2023-08-31T03:49:14.174184",
+        "name": "houmusyouchizu-2023-1-1267",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市山科区（京都地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:24:27.921126",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "d8ab19e3-a65a-4628-ac72-1d0b660b1210",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:24:27.921126",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a6b46467-5dfb-4ea8-a354-56cb118ed299",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:24:32.508949",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "60eb6696-9ded-4b4b-8c5d-69fa71f39dde",
+            "last_modified": "2023-08-22T05:24:32.400020",
+            "metadata_modified": "2023-08-22T05:24:32.508949",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26110-1300-2022.zip",
+            "package_id": "a6b46467-5dfb-4ea8-a354-56cb118ed299",
+            "position": 1,
+            "resource_type": null,
+            "size": 22994861,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a6b46467-5dfb-4ea8-a354-56cb118ed299/resource/60eb6696-9ded-4b4b-8c5d-69fa71f39dde/download/26110-1300-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:24:40.226800",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "eb6321f9-2249-4595-b614-f98588c52814",
+            "last_modified": "2023-08-22T05:24:40.119466",
+            "metadata_modified": "2023-08-22T05:24:40.226800",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26110-1300-2023.zip",
+            "package_id": "a6b46467-5dfb-4ea8-a354-56cb118ed299",
+            "position": 2,
+            "resource_type": null,
+            "size": 23028811,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a6b46467-5dfb-4ea8-a354-56cb118ed299/resource/eb6321f9-2249-4595-b614-f98588c52814/download/26110-1300-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市山科区",
+            "id": "2f076dd4-925c-4ad1-a66f-3bd364b53af1",
+            "name": "京都市山科区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9f0b2b7c-e860-4ec8-9697-635540db8a6a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:55.552710",
+        "metadata_modified": "2023-08-31T03:49:13.452245",
+        "name": "houmusyouchizu-2023-1-1268",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市西京区（京都地方法務局嵯峨出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:24:44.756509",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "3e617a9c-e408-4e40-b125-d3be9b263f31",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:24:44.756509",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9f0b2b7c-e860-4ec8-9697-635540db8a6a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:24:49.843904",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ab6b3e39-9914-4eb0-81b9-5b7fc1addf51",
+            "last_modified": "2023-08-22T05:24:49.740865",
+            "metadata_modified": "2023-08-22T05:24:49.843904",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26111-1308-2022.zip",
+            "package_id": "9f0b2b7c-e860-4ec8-9697-635540db8a6a",
+            "position": 1,
+            "resource_type": null,
+            "size": 30259285,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9f0b2b7c-e860-4ec8-9697-635540db8a6a/resource/ab6b3e39-9914-4eb0-81b9-5b7fc1addf51/download/26111-1308-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:24:59.055621",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a33a3b60-e60d-4459-bf85-2c0b6575341a",
+            "last_modified": "2023-08-22T05:24:58.950499",
+            "metadata_modified": "2023-08-22T05:24:59.055621",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26111-1308-2023.zip",
+            "package_id": "9f0b2b7c-e860-4ec8-9697-635540db8a6a",
+            "position": 2,
+            "resource_type": null,
+            "size": 30315897,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9f0b2b7c-e860-4ec8-9697-635540db8a6a/resource/a33a3b60-e60d-4459-bf85-2c0b6575341a/download/26111-1308-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市西京区",
+            "id": "57f00a27-58d8-438d-afc1-42e7fad60e64",
+            "name": "京都市西京区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a18a8e3d-32f2-4f1a-a15d-fd327e0655d6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:00.878256",
+        "metadata_modified": "2023-08-31T03:49:05.928817",
+        "name": "houmusyouchizu-2023-1-1279",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京田辺市（京都地方法務局宇治支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:54.788247",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c5bb21b9-ff79-4725-a072-7cb70742464f",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:30:54.788247",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a18a8e3d-32f2-4f1a-a15d-fd327e0655d6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:30:59.385038",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4225967d-93a6-4779-b937-f551ee7302c7",
+            "last_modified": "2023-08-22T05:30:59.267336",
+            "metadata_modified": "2023-08-22T05:30:59.385038",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26211-1328-2022.zip",
+            "package_id": "a18a8e3d-32f2-4f1a-a15d-fd327e0655d6",
+            "position": 1,
+            "resource_type": null,
+            "size": 32453783,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a18a8e3d-32f2-4f1a-a15d-fd327e0655d6/resource/4225967d-93a6-4779-b937-f551ee7302c7/download/26211-1328-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:31:09.074820",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c420c346-36e4-4c89-a0be-927b142aa2b3",
+            "last_modified": "2023-08-22T05:31:08.903367",
+            "metadata_modified": "2023-08-22T05:31:09.074820",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26211-1328-2023.zip",
+            "package_id": "a18a8e3d-32f2-4f1a-a15d-fd327e0655d6",
+            "position": 2,
+            "resource_type": null,
+            "size": 32515357,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a18a8e3d-32f2-4f1a-a15d-fd327e0655d6/resource/c420c346-36e4-4c89-a0be-927b142aa2b3/download/26211-1328-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京田辺市",
+            "id": "8e7abd50-ddb5-49ee-9074-f3111e005966",
+            "name": "京田辺市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9e67a833-4646-4ced-adc1-de824d0cee7d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:53.678800",
+        "metadata_modified": "2023-08-31T03:49:16.229177",
+        "name": "houmusyouchizu-2023-1-1264",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市南区（京都地方法務局伏見出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:23:14.611735",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "bd66a525-c86b-41c8-9a54-a12321460a09",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:23:14.611735",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9e67a833-4646-4ced-adc1-de824d0cee7d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:23:16.950088",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f5a118d6-6e75-47c9-bcf4-3b71c2272e2b",
+            "last_modified": "2023-08-22T05:23:16.845258",
+            "metadata_modified": "2023-08-22T05:23:16.950088",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26107-1310-2022.zip",
+            "package_id": "9e67a833-4646-4ced-adc1-de824d0cee7d",
+            "position": 1,
+            "resource_type": null,
+            "size": 12524441,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9e67a833-4646-4ced-adc1-de824d0cee7d/resource/f5a118d6-6e75-47c9-bcf4-3b71c2272e2b/download/26107-1310-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:23:22.173983",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "afa36093-3494-4999-a012-cf452ec271df",
+            "last_modified": "2023-08-22T05:23:22.071170",
+            "metadata_modified": "2023-08-22T05:23:22.173983",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26107-1310-2023.zip",
+            "package_id": "9e67a833-4646-4ced-adc1-de824d0cee7d",
+            "position": 2,
+            "resource_type": null,
+            "size": 12604958,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9e67a833-4646-4ced-adc1-de824d0cee7d/resource/afa36093-3494-4999-a012-cf452ec271df/download/26107-1310-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市南区",
+            "id": "e6703669-d0e8-47f7-b723-bd2a9a8a7d6c",
+            "name": "京都市南区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "85e503df-2af4-4e2a-8b55-eca97b4b9bf1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:53.128023",
+        "metadata_modified": "2023-08-31T03:49:16.850057",
+        "name": "houmusyouchizu-2023-1-1263",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "京都市下京区（京都地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:23:03.163957",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ceb6da4d-c535-42ca-81bc-f7d89056da49",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:23:03.163957",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "85e503df-2af4-4e2a-8b55-eca97b4b9bf1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:23:05.069374",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d2a28649-868b-44f0-a027-7438fb74fee4",
+            "last_modified": "2023-08-22T05:23:04.963878",
+            "metadata_modified": "2023-08-22T05:23:05.069374",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26106-1300-2022.zip",
+            "package_id": "85e503df-2af4-4e2a-8b55-eca97b4b9bf1",
+            "position": 1,
+            "resource_type": null,
+            "size": 9675337,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/85e503df-2af4-4e2a-8b55-eca97b4b9bf1/resource/d2a28649-868b-44f0-a027-7438fb74fee4/download/26106-1300-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:23:10.952832",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "64c859aa-fb57-45da-a1a0-5716a08003eb",
+            "last_modified": "2023-08-22T05:23:10.839656",
+            "metadata_modified": "2023-08-22T05:23:10.952832",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26106-1300-2023.zip",
+            "package_id": "85e503df-2af4-4e2a-8b55-eca97b4b9bf1",
+            "position": 2,
+            "resource_type": null,
+            "size": 9685899,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/85e503df-2af4-4e2a-8b55-eca97b4b9bf1/resource/64c859aa-fb57-45da-a1a0-5716a08003eb/download/26106-1300-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都市下京区",
+            "id": "d253998f-8b3d-46bf-88b3-c7d8d69e940a",
+            "name": "京都市下京区",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b7fbc489-74c9-4c09-99bc-cf8387bd0d60",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:01.887414",
+        "metadata_modified": "2023-08-31T03:49:04.683710",
+        "name": "houmusyouchizu-2023-1-1281",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "南丹市（京都地方法務局園部支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:32:42.639608",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "d593035b-a6fb-4c85-9005-4c77764ba53b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:32:42.639608",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b7fbc489-74c9-4c09-99bc-cf8387bd0d60",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:32:57.256096",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e1d9a078-4c22-4d86-864a-c8bc81cb84a3",
+            "last_modified": "2023-08-22T05:32:57.151506",
+            "metadata_modified": "2023-08-22T05:32:57.256096",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26213-1301-2022.zip",
+            "package_id": "b7fbc489-74c9-4c09-99bc-cf8387bd0d60",
+            "position": 1,
+            "resource_type": null,
+            "size": 107175519,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b7fbc489-74c9-4c09-99bc-cf8387bd0d60/resource/e1d9a078-4c22-4d86-864a-c8bc81cb84a3/download/26213-1301-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:33:25.660586",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f29e665d-a35a-406c-8ec5-db0d70e96589",
+            "last_modified": "2023-08-22T05:33:25.556621",
+            "metadata_modified": "2023-08-22T05:33:25.660586",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26213-1301-2023.zip",
+            "package_id": "b7fbc489-74c9-4c09-99bc-cf8387bd0d60",
+            "position": 2,
+            "resource_type": null,
+            "size": 107224740,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b7fbc489-74c9-4c09-99bc-cf8387bd0d60/resource/f29e665d-a35a-406c-8ec5-db0d70e96589/download/26213-1301-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "南丹市",
+            "id": "b64cd90c-66f9-448a-9cf4-a716e2efd6b3",
+            "name": "南丹市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e0ef4f45-2070-4270-b2a3-2f22b3638860",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:06.232859",
+        "metadata_modified": "2023-08-31T03:48:58.748958",
+        "name": "houmusyouchizu-2023-1-1290",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "相楽郡南山城村（京都地方法務局木津出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:38.581184",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "8d6f1728-5093-4e77-922c-254a326fa03e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:35:38.581184",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e0ef4f45-2070-4270-b2a3-2f22b3638860",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:41.837752",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f97ce55b-6e47-4087-bd90-f18bcc786f2b",
+            "last_modified": "2023-08-22T05:35:41.723758",
+            "metadata_modified": "2023-08-22T05:35:41.837752",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26367-1312-2022.zip",
+            "package_id": "e0ef4f45-2070-4270-b2a3-2f22b3638860",
+            "position": 1,
+            "resource_type": null,
+            "size": 23384013,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e0ef4f45-2070-4270-b2a3-2f22b3638860/resource/f97ce55b-6e47-4087-bd90-f18bcc786f2b/download/26367-1312-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:35:49.564084",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f2e20f82-66cc-48bb-8053-9ced972c19ae",
+            "last_modified": "2023-08-22T05:35:49.428519",
+            "metadata_modified": "2023-08-22T05:35:49.564084",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26367-1312-2023.zip",
+            "package_id": "e0ef4f45-2070-4270-b2a3-2f22b3638860",
+            "position": 2,
+            "resource_type": null,
+            "size": 23375060,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e0ef4f45-2070-4270-b2a3-2f22b3638860/resource/f2e20f82-66cc-48bb-8053-9ced972c19ae/download/26367-1312-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "相楽郡南山城村",
+            "id": "2804d5ec-ea66-453a-9def-ef24b1dea3f9",
+            "name": "相楽郡南山城村",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f535a2bb-6029-44ea-bbeb-a73ef0610991",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:18:07.165405",
+        "metadata_modified": "2023-08-31T03:48:57.077194",
+        "name": "houmusyouchizu-2023-1-1292",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "与謝郡伊根町（京都地方法務局宮津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:36:30.709992",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "9b72c118-9b58-4ea3-af9f-38a5a7122303",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:36:30.709992",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f535a2bb-6029-44ea-bbeb-a73ef0610991",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:36:35.815079",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0c8bf7ba-70ee-4fca-925c-382d216f47aa",
+            "last_modified": "2023-08-22T05:36:35.658441",
+            "metadata_modified": "2023-08-22T05:36:35.815079",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26463-1302-2022.zip",
+            "package_id": "f535a2bb-6029-44ea-bbeb-a73ef0610991",
+            "position": 1,
+            "resource_type": null,
+            "size": 30098444,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f535a2bb-6029-44ea-bbeb-a73ef0610991/resource/0c8bf7ba-70ee-4fca-925c-382d216f47aa/download/26463-1302-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:36:44.450117",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6dbace22-0826-4737-bca6-8a357b0ebc5e",
+            "last_modified": "2023-08-22T05:36:44.344774",
+            "metadata_modified": "2023-08-22T05:36:44.450117",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26463-1302-2023.zip",
+            "package_id": "f535a2bb-6029-44ea-bbeb-a73ef0610991",
+            "position": 2,
+            "resource_type": null,
+            "size": 30113986,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f535a2bb-6029-44ea-bbeb-a73ef0610991/resource/6dbace22-0826-4737-bca6-8a357b0ebc5e/download/26463-1302-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "与謝郡伊根町",
+            "id": "257dd9a2-bccc-4f17-a4b0-c8ae4538fd78",
+            "name": "与謝郡伊根町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f98321f8-bda0-40e6-94a2-029a397b8ca9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:57.043201",
+        "metadata_modified": "2023-08-31T03:49:11.410919",
+        "name": "houmusyouchizu-2023-1-1271",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "綾部市（京都地方法務局福知山支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:27:31.994562",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "6b9dc2ed-f7ca-4018-826f-06e6f171c06a",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:27:31.994562",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f98321f8-bda0-40e6-94a2-029a397b8ca9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:27:51.831570",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a7ed84f9-89a0-4552-bb3f-e9b8e6dedea3",
+            "last_modified": "2023-08-22T05:27:51.726771",
+            "metadata_modified": "2023-08-22T05:27:51.831570",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26203-1305-2022.zip",
+            "package_id": "f98321f8-bda0-40e6-94a2-029a397b8ca9",
+            "position": 1,
+            "resource_type": null,
+            "size": 118626101,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f98321f8-bda0-40e6-94a2-029a397b8ca9/resource/a7ed84f9-89a0-4552-bb3f-e9b8e6dedea3/download/26203-1305-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:28:16.095824",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "00df4ecd-5429-4e16-9d58-a98a4e3b5502",
+            "last_modified": "2023-08-22T05:28:15.990631",
+            "metadata_modified": "2023-08-22T05:28:16.095824",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26203-1305-2023.zip",
+            "package_id": "f98321f8-bda0-40e6-94a2-029a397b8ca9",
+            "position": 2,
+            "resource_type": null,
+            "size": 118726759,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f98321f8-bda0-40e6-94a2-029a397b8ca9/resource/00df4ecd-5429-4e16-9d58-a98a4e3b5502/download/26203-1305-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "綾部市",
+            "id": "0a374b64-d179-4807-bbc3-da403852bd62",
+            "name": "綾部市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "faa43816-6ad4-4bb8-b778-b6acbda6c856",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:58.427719",
+        "metadata_modified": "2023-08-31T03:49:09.408046",
+        "name": "houmusyouchizu-2023-1-1274",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-26kyoto",
+          "name": "moj-26kyoto",
+          "title": "26京都府",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:26.451965",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-26kyoto",
+        "private": false,
+        "state": "active",
+        "title": "亀岡市（京都地方法務局園部支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:29:23.477066",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "56990c52-9deb-4dd0-8562-876f9b5ac7f9",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:29:23.477066",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "faa43816-6ad4-4bb8-b778-b6acbda6c856",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:29:34.051135",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e908f69f-c509-416c-b09e-5ff4cb75b982",
+            "last_modified": "2023-08-22T05:29:33.945339",
+            "metadata_modified": "2023-08-22T05:29:34.051135",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26206-1301-2022.zip",
+            "package_id": "faa43816-6ad4-4bb8-b778-b6acbda6c856",
+            "position": 1,
+            "resource_type": null,
+            "size": 93008573,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/faa43816-6ad4-4bb8-b778-b6acbda6c856/resource/e908f69f-c509-416c-b09e-5ff4cb75b982/download/26206-1301-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:29:54.947628",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "56063f03-2327-4aab-b320-7e08eb3f9795",
+            "last_modified": "2023-08-22T05:29:54.845793",
+            "metadata_modified": "2023-08-22T05:29:54.947628",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "26206-1301-2023.zip",
+            "package_id": "faa43816-6ad4-4bb8-b778-b6acbda6c856",
+            "position": 2,
+            "resource_type": null,
+            "size": 92915536,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/faa43816-6ad4-4bb8-b778-b6acbda6c856/resource/56063f03-2327-4aab-b320-7e08eb3f9795/download/26206-1301-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "亀岡市",
+            "id": "0c2e51b2-4385-4bde-9626-71c39c42a21b",
+            "name": "亀岡市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "京都府",
+            "id": "f15af387-f82c-42bb-bdc9-3b7768c24548",
+            "name": "京都府",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "charge desc",
+    "search_facets": {
+    }
+  }
+}

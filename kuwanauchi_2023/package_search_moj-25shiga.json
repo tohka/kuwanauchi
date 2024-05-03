@@ -1,0 +1,3695 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 25,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d4fba0d4-04db-4934-9092-4cdd026caf33",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:40.104933",
+        "metadata_modified": "2023-08-31T03:49:35.137736",
+        "name": "houmusyouchizu-2023-1-1236",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "近江八幡市（大津地方法務局東近江出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:14:46.433309",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "b0ece9a3-5d97-42a5-af67-ec6e7341ce23",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:14:46.433309",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d4fba0d4-04db-4934-9092-4cdd026caf33",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:14:53.372280",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b4cd36cd-3d77-4f8c-9a39-0abfb7e03ece",
+            "last_modified": "2023-08-22T05:14:53.263903",
+            "metadata_modified": "2023-08-22T05:14:53.372280",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25204-1617-2022.zip",
+            "package_id": "d4fba0d4-04db-4934-9092-4cdd026caf33",
+            "position": 1,
+            "resource_type": null,
+            "size": 44620436,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d4fba0d4-04db-4934-9092-4cdd026caf33/resource/b4cd36cd-3d77-4f8c-9a39-0abfb7e03ece/download/25204-1617-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:05.878700",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c01f8b28-cf9b-4e0d-b5c5-5ec4d1a2cec4",
+            "last_modified": "2023-08-22T05:15:05.772891",
+            "metadata_modified": "2023-08-22T05:15:05.878700",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25204-1617-2023.zip",
+            "package_id": "d4fba0d4-04db-4934-9092-4cdd026caf33",
+            "position": 2,
+            "resource_type": null,
+            "size": 44746542,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d4fba0d4-04db-4934-9092-4cdd026caf33/resource/c01f8b28-cf9b-4e0d-b5c5-5ec4d1a2cec4/download/25204-1617-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "近江八幡市",
+            "id": "186ffe2f-20ec-4a70-8d4f-b1471bdf427e",
+            "name": "近江八幡市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c1b4f841-e527-4b9a-a63c-4d0d3cd0487c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:42.527172",
+        "metadata_modified": "2023-08-31T03:49:31.805047",
+        "name": "houmusyouchizu-2023-1-1241",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "甲賀市（大津地方法務局甲賀支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:16:11.061129",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "10ffa3c7-8563-4c03-8f83-be9faf769215",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:16:11.061129",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c1b4f841-e527-4b9a-a63c-4d0d3cd0487c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:16:29.889302",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d3ced129-0942-4e71-811f-5918903e8270",
+            "last_modified": "2023-08-22T05:16:29.781856",
+            "metadata_modified": "2023-08-22T05:16:29.889302",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25209-1601-2022.zip",
+            "package_id": "c1b4f841-e527-4b9a-a63c-4d0d3cd0487c",
+            "position": 1,
+            "resource_type": null,
+            "size": 135690273,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c1b4f841-e527-4b9a-a63c-4d0d3cd0487c/resource/d3ced129-0942-4e71-811f-5918903e8270/download/25209-1601-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:16:56.886250",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "eff93e70-83eb-43b0-8ff0-612775df0aa0",
+            "last_modified": "2023-08-22T05:16:56.780119",
+            "metadata_modified": "2023-08-22T05:16:56.886250",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25209-1601-2023.zip",
+            "package_id": "c1b4f841-e527-4b9a-a63c-4d0d3cd0487c",
+            "position": 2,
+            "resource_type": null,
+            "size": 135813882,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c1b4f841-e527-4b9a-a63c-4d0d3cd0487c/resource/eff93e70-83eb-43b0-8ff0-612775df0aa0/download/25209-1601-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "甲賀市",
+            "id": "b253cf7a-6ca4-47e6-8ddf-e4526053b66b",
+            "name": "甲賀市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bb010cd5-8603-410b-9ba4-a26909b8513f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:45.832745",
+        "metadata_modified": "2023-08-31T03:49:27.152450",
+        "name": "houmusyouchizu-2023-1-1248",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "蒲生郡安土町（大津地方法務局東近江出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:01.878392",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "0246f890-4ec4-4b5b-98d0-575a0cb5a33b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:20:01.878392",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bb010cd5-8603-410b-9ba4-a26909b8513f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:02.647650",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9d64a263-f489-4f41-b1a0-419ba72ba7e9",
+            "last_modified": "2023-08-22T05:20:02.546344",
+            "metadata_modified": "2023-08-22T05:20:02.647650",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25381-1617-2022.zip",
+            "package_id": "bb010cd5-8603-410b-9ba4-a26909b8513f",
+            "position": 1,
+            "resource_type": null,
+            "size": 83232,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bb010cd5-8603-410b-9ba4-a26909b8513f/resource/9d64a263-f489-4f41-b1a0-419ba72ba7e9/download/25381-1617-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:04.909121",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f6bc437e-a9eb-402a-bed8-461f59fc3e21",
+            "last_modified": "2023-08-22T05:20:04.806531",
+            "metadata_modified": "2023-08-22T05:20:04.909121",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25381-1617-2023.zip",
+            "package_id": "bb010cd5-8603-410b-9ba4-a26909b8513f",
+            "position": 2,
+            "resource_type": null,
+            "size": 83234,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bb010cd5-8603-410b-9ba4-a26909b8513f/resource/f6bc437e-a9eb-402a-bed8-461f59fc3e21/download/25381-1617-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "蒲生郡安土町",
+            "id": "2c3e4f09-f0b7-4697-b17f-3e2a86dacf06",
+            "name": "蒲生郡安土町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b8dc3a72-dc27-4797-ac33-d3b5e9fedb93",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:38.691370",
+        "metadata_modified": "2023-08-31T03:49:37.433757",
+        "name": "houmusyouchizu-2023-1-1233",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "大津市（大津地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:12:19.122624",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "6da511df-42b1-4dde-8768-5ae4ae46cf6f",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:12:19.122624",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b8dc3a72-dc27-4797-ac33-d3b5e9fedb93",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:12:32.912177",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3f8bd4db-c75a-42b1-b583-e518b725ddd0",
+            "last_modified": "2023-08-22T05:12:32.788459",
+            "metadata_modified": "2023-08-22T05:12:32.912177",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25201-1600-2022.zip",
+            "package_id": "b8dc3a72-dc27-4797-ac33-d3b5e9fedb93",
+            "position": 1,
+            "resource_type": null,
+            "size": 117861968,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b8dc3a72-dc27-4797-ac33-d3b5e9fedb93/resource/3f8bd4db-c75a-42b1-b583-e518b725ddd0/download/25201-1600-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:13:00.263409",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a633bd9d-ef2b-4fd8-96d6-5ff72686ebe8",
+            "last_modified": "2023-08-22T05:13:00.158967",
+            "metadata_modified": "2023-08-22T05:13:00.263409",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25201-1600-2023.zip",
+            "package_id": "b8dc3a72-dc27-4797-ac33-d3b5e9fedb93",
+            "position": 2,
+            "resource_type": null,
+            "size": 118069233,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b8dc3a72-dc27-4797-ac33-d3b5e9fedb93/resource/a633bd9d-ef2b-4fd8-96d6-5ff72686ebe8/download/25201-1600-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大津市",
+            "id": "664e393d-b001-47c6-b537-29e3f25fc2be",
+            "name": "大津市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b997ed8d-c337-4793-a6cb-b574f8ebe144",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:39.160794",
+        "metadata_modified": "2023-08-31T03:49:36.732411",
+        "name": "houmusyouchizu-2023-1-1234",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "彦根市（大津地方法務局彦根支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:13:12.336325",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "38875504-3844-4497-b1f8-8e371738b9b4",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:13:12.336325",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b997ed8d-c337-4793-a6cb-b574f8ebe144",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:13:21.558257",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a2ae54b6-6609-4689-bf95-cfe5c77ac6ae",
+            "last_modified": "2023-08-22T05:13:21.453263",
+            "metadata_modified": "2023-08-22T05:13:21.558257",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25202-1602-2022.zip",
+            "package_id": "b997ed8d-c337-4793-a6cb-b574f8ebe144",
+            "position": 1,
+            "resource_type": null,
+            "size": 56878283,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b997ed8d-c337-4793-a6cb-b574f8ebe144/resource/a2ae54b6-6609-4689-bf95-cfe5c77ac6ae/download/25202-1602-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:13:36.176675",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b4eaea52-c0fe-4b0b-af38-d5e3664d6cab",
+            "last_modified": "2023-08-22T05:13:36.064472",
+            "metadata_modified": "2023-08-22T05:13:36.176675",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25202-1602-2023.zip",
+            "package_id": "b997ed8d-c337-4793-a6cb-b574f8ebe144",
+            "position": 2,
+            "resource_type": null,
+            "size": 57018891,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b997ed8d-c337-4793-a6cb-b574f8ebe144/resource/b4eaea52-c0fe-4b0b-af38-d5e3664d6cab/download/25202-1602-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "彦根市",
+            "id": "2400990e-9303-4666-baa2-c7d5bb7d6f3d",
+            "name": "彦根市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f05a480c-a293-4410-82a5-e4a5b7fccab9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:43.443389",
+        "metadata_modified": "2023-08-31T03:49:30.454040",
+        "name": "houmusyouchizu-2023-1-1243",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "湖南市（大津地方法務局甲賀支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:17:28.122906",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "32db7c21-62ba-4242-bfaa-0658c2a7fca1",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:17:28.122906",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f05a480c-a293-4410-82a5-e4a5b7fccab9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:17:32.063213",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "528e4632-030c-483f-8508-93ae1313615f",
+            "last_modified": "2023-08-22T05:17:31.952390",
+            "metadata_modified": "2023-08-22T05:17:32.063213",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25211-1601-2022.zip",
+            "package_id": "f05a480c-a293-4410-82a5-e4a5b7fccab9",
+            "position": 1,
+            "resource_type": null,
+            "size": 20813403,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f05a480c-a293-4410-82a5-e4a5b7fccab9/resource/528e4632-030c-483f-8508-93ae1313615f/download/25211-1601-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:17:39.185901",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b663c72e-e006-4bed-b42d-38857cd3379b",
+            "last_modified": "2023-08-22T05:17:39.071106",
+            "metadata_modified": "2023-08-22T05:17:39.185901",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25211-1601-2023.zip",
+            "package_id": "f05a480c-a293-4410-82a5-e4a5b7fccab9",
+            "position": 2,
+            "resource_type": null,
+            "size": 20951326,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f05a480c-a293-4410-82a5-e4a5b7fccab9/resource/b663c72e-e006-4bed-b42d-38857cd3379b/download/25211-1601-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "湖南市",
+            "id": "9e2a9efe-2110-46c7-a704-bf66f07423a3",
+            "name": "湖南市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f07c88a1-bc43-4430-8da5-9d0edbd807bd",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:41.522628",
+        "metadata_modified": "2023-08-31T03:49:33.136278",
+        "name": "houmusyouchizu-2023-1-1239",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "守山市（大津地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:36.818836",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "f15b1256-cb6a-4297-ae8e-2b911aa2b94e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:15:36.818836",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f07c88a1-bc43-4430-8da5-9d0edbd807bd",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:40.812180",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f3099cd2-0d91-493b-9ff9-8ab79bd021c8",
+            "last_modified": "2023-08-22T05:15:40.706990",
+            "metadata_modified": "2023-08-22T05:15:40.812180",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25207-1600-2022.zip",
+            "package_id": "f07c88a1-bc43-4430-8da5-9d0edbd807bd",
+            "position": 1,
+            "resource_type": null,
+            "size": 24742438,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f07c88a1-bc43-4430-8da5-9d0edbd807bd/resource/f3099cd2-0d91-493b-9ff9-8ab79bd021c8/download/25207-1600-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:50.245379",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a41bf8a9-4784-490b-918d-1a65e19dffde",
+            "last_modified": "2023-08-22T05:15:50.134680",
+            "metadata_modified": "2023-08-22T05:15:50.245379",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25207-1600-2023.zip",
+            "package_id": "f07c88a1-bc43-4430-8da5-9d0edbd807bd",
+            "position": 2,
+            "resource_type": null,
+            "size": 25015398,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f07c88a1-bc43-4430-8da5-9d0edbd807bd/resource/a41bf8a9-4784-490b-918d-1a65e19dffde/download/25207-1600-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "守山市",
+            "id": "ae521153-9ecf-4956-b952-24fe54684853",
+            "name": "守山市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "83f35674-a412-4c7d-81bb-e10663a26eb9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:42.993124",
+        "metadata_modified": "2023-08-31T03:49:31.169163",
+        "name": "houmusyouchizu-2023-1-1242",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "野洲市（大津地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:17:10.477858",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "7a3ffc70-b9d3-488d-824a-9e42acaf0fa9",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:17:10.477858",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "83f35674-a412-4c7d-81bb-e10663a26eb9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:17:15.145551",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "8aeafee2-af76-4d3d-b3c8-799593eda73a",
+            "last_modified": "2023-08-22T05:17:15.042666",
+            "metadata_modified": "2023-08-22T05:17:15.145551",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25210-1600-2022.zip",
+            "package_id": "83f35674-a412-4c7d-81bb-e10663a26eb9",
+            "position": 1,
+            "resource_type": null,
+            "size": 24904467,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/83f35674-a412-4c7d-81bb-e10663a26eb9/resource/8aeafee2-af76-4d3d-b3c8-799593eda73a/download/25210-1600-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:17:23.505617",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cae77e3c-abe6-4fa3-84ae-8fc7e613aadc",
+            "last_modified": "2023-08-22T05:17:23.384529",
+            "metadata_modified": "2023-08-22T05:17:23.505617",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25210-1600-2023.zip",
+            "package_id": "83f35674-a412-4c7d-81bb-e10663a26eb9",
+            "position": 2,
+            "resource_type": null,
+            "size": 24983366,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/83f35674-a412-4c7d-81bb-e10663a26eb9/resource/cae77e3c-abe6-4fa3-84ae-8fc7e613aadc/download/25210-1600-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "野洲市",
+            "id": "3d046240-d2a8-448e-9af6-9b3af5138a73",
+            "name": "野洲市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "876728c8-9a1d-41ce-b1d1-2df2d4c88aca",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:46.860227",
+        "metadata_modified": "2023-08-31T03:49:25.843288",
+        "name": "houmusyouchizu-2023-1-1250",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "蒲生郡竜王町（大津地方法務局東近江出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:34.862652",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ee25760d-89d8-436a-9c4a-0b8057797e54",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:20:34.862652",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "876728c8-9a1d-41ce-b1d1-2df2d4c88aca",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:37.953910",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "8d9ea774-f18e-4c0a-8ba3-492d5bd6c944",
+            "last_modified": "2023-08-22T05:20:37.828797",
+            "metadata_modified": "2023-08-22T05:20:37.953910",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25384-1617-2022.zip",
+            "package_id": "876728c8-9a1d-41ce-b1d1-2df2d4c88aca",
+            "position": 1,
+            "resource_type": null,
+            "size": 14883169,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/876728c8-9a1d-41ce-b1d1-2df2d4c88aca/resource/8d9ea774-f18e-4c0a-8ba3-492d5bd6c944/download/25384-1617-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:45.128542",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "8ae36227-fa4c-452a-9ad7-4986998f9a38",
+            "last_modified": "2023-08-22T05:20:45.022318",
+            "metadata_modified": "2023-08-22T05:20:45.128542",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25384-1617-2023.zip",
+            "package_id": "876728c8-9a1d-41ce-b1d1-2df2d4c88aca",
+            "position": 2,
+            "resource_type": null,
+            "size": 14879852,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/876728c8-9a1d-41ce-b1d1-2df2d4c88aca/resource/8ae36227-fa4c-452a-9ad7-4986998f9a38/download/25384-1617-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "蒲生郡竜王町",
+            "id": "de312801-3584-4ea0-b551-c14b405ebc45",
+            "name": "蒲生郡竜王町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "1d0ff4e3-1de5-447b-84e0-271e773c196a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:42.005846",
+        "metadata_modified": "2023-08-31T03:49:32.450423",
+        "name": "houmusyouchizu-2023-1-1240",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "栗東市（大津地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:55.195947",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "3b5b1a9b-9ac5-4e16-bbf1-fbb687e538b4",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:15:55.195947",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "1d0ff4e3-1de5-447b-84e0-271e773c196a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:58.948574",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d48f58ac-af31-4196-898d-e6a804f7a47a",
+            "last_modified": "2023-08-22T05:15:58.845456",
+            "metadata_modified": "2023-08-22T05:15:58.948574",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25208-1600-2022.zip",
+            "package_id": "1d0ff4e3-1de5-447b-84e0-271e773c196a",
+            "position": 1,
+            "resource_type": null,
+            "size": 20306116,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1d0ff4e3-1de5-447b-84e0-271e773c196a/resource/d48f58ac-af31-4196-898d-e6a804f7a47a/download/25208-1600-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:16:05.750558",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d0aefc16-7550-4cb9-8568-4cc1ab289b43",
+            "last_modified": "2023-08-22T05:16:05.642263",
+            "metadata_modified": "2023-08-22T05:16:05.750558",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25208-1600-2023.zip",
+            "package_id": "1d0ff4e3-1de5-447b-84e0-271e773c196a",
+            "position": 2,
+            "resource_type": null,
+            "size": 20422198,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1d0ff4e3-1de5-447b-84e0-271e773c196a/resource/d0aefc16-7550-4cb9-8568-4cc1ab289b43/download/25208-1600-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "栗東市",
+            "id": "5a4b37d2-686c-4304-a9ff-09ac92c5315d",
+            "name": "栗東市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "41785415-0195-4ca5-952a-bdd1be236dae",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:49.234536",
+        "metadata_modified": "2023-08-31T03:49:22.329244",
+        "name": "houmusyouchizu-2023-1-1255",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "犬上郡甲良町（大津地方法務局彦根支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:22.129438",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "a96d46f5-b55c-4435-92c0-7fec3f1eacd6",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:21:22.129438",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "41785415-0195-4ca5-952a-bdd1be236dae",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:23.689826",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9c458fba-87ee-4978-aedd-cf5f7d97d52a",
+            "last_modified": "2023-08-22T05:21:23.585110",
+            "metadata_modified": "2023-08-22T05:21:23.689826",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25442-1602-2022.zip",
+            "package_id": "41785415-0195-4ca5-952a-bdd1be236dae",
+            "position": 1,
+            "resource_type": null,
+            "size": 7151668,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/41785415-0195-4ca5-952a-bdd1be236dae/resource/9c458fba-87ee-4978-aedd-cf5f7d97d52a/download/25442-1602-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:27.925326",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c92607c7-662f-4e56-82a0-9457f49e7474",
+            "last_modified": "2023-08-22T05:21:27.818429",
+            "metadata_modified": "2023-08-22T05:21:27.925326",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25442-1602-2023.zip",
+            "package_id": "41785415-0195-4ca5-952a-bdd1be236dae",
+            "position": 2,
+            "resource_type": null,
+            "size": 7153748,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/41785415-0195-4ca5-952a-bdd1be236dae/resource/c92607c7-662f-4e56-82a0-9457f49e7474/download/25442-1602-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "犬上郡甲良町",
+            "id": "350734c1-bdff-4294-aebe-ac739cdd8836",
+            "name": "犬上郡甲良町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6320269c-c08c-42e5-9f14-ab8af53fb9d7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:45.368248",
+        "metadata_modified": "2023-08-31T03:49:27.886292",
+        "name": "houmusyouchizu-2023-1-1247",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "甲賀郡石部町（大津地方法務局甲賀支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:19:56.504963",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "e110c239-6687-4451-9837-f92259af93d8",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:19:56.504963",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6320269c-c08c-42e5-9f14-ab8af53fb9d7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:19:57.226715",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c2a630bd-bdd5-44be-b45b-2bd8e6da77a5",
+            "last_modified": "2023-08-22T05:19:57.120260",
+            "metadata_modified": "2023-08-22T05:19:57.226715",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25361-1601-2022.zip",
+            "package_id": "6320269c-c08c-42e5-9f14-ab8af53fb9d7",
+            "position": 1,
+            "resource_type": null,
+            "size": 43069,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6320269c-c08c-42e5-9f14-ab8af53fb9d7/resource/c2a630bd-bdd5-44be-b45b-2bd8e6da77a5/download/25361-1601-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:19:59.558690",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c85cbfe3-7e9d-404e-b5e2-3fb408bfcbff",
+            "last_modified": "2023-08-22T05:19:59.452281",
+            "metadata_modified": "2023-08-22T05:19:59.558690",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25361-1601-2023.zip",
+            "package_id": "6320269c-c08c-42e5-9f14-ab8af53fb9d7",
+            "position": 2,
+            "resource_type": null,
+            "size": 43071,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6320269c-c08c-42e5-9f14-ab8af53fb9d7/resource/c85cbfe3-7e9d-404e-b5e2-3fb408bfcbff/download/25361-1601-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "甲賀郡石部町",
+            "id": "c50d87fb-fc9f-4dfc-9132-f6beb513f698",
+            "name": "甲賀郡石部町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "25b40562-9e5b-49d7-b4e9-55fd162be9c4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:47.336787",
+        "metadata_modified": "2023-08-31T03:49:25.139095",
+        "name": "houmusyouchizu-2023-1-1251",
+        "notes": null,
+        "num_resources": 2,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "愛知郡愛東町（大津地方法務局彦根支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:49.009842",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "1c98a654-cca5-4b21-ba7a-ffa96c61d7fb",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:20:49.009842",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "25b40562-9e5b-49d7-b4e9-55fd162be9c4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:49.698618",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c1b744c9-8796-472b-810b-2d265422aa48",
+            "last_modified": "2023-08-22T05:20:49.591815",
+            "metadata_modified": "2023-08-22T05:20:49.698618",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25421-1602-2023.zip",
+            "package_id": "25b40562-9e5b-49d7-b4e9-55fd162be9c4",
+            "position": 1,
+            "resource_type": null,
+            "size": 12374,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/25b40562-9e5b-49d7-b4e9-55fd162be9c4/resource/c1b744c9-8796-472b-810b-2d265422aa48/download/25421-1602-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "愛知郡愛東町",
+            "id": "69462965-1aaa-454f-8910-0e23ea333c5d",
+            "name": "愛知郡愛東町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "2325673b-fb2e-4ed6-bdb1-67297bbb7fa8",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:50.151928",
+        "metadata_modified": "2023-08-31T03:49:20.869429",
+        "name": "houmusyouchizu-2023-1-1257",
+        "notes": null,
+        "num_resources": 2,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "伊香郡木之本町（大津地方法務局長浜支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:47.684353",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c53591c0-b38a-44e1-9b33-c3e7743361d0",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:21:47.684353",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "2325673b-fb2e-4ed6-bdb1-67297bbb7fa8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:48.528977",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "32798e30-c03b-4d8e-8983-55e6e86fe939",
+            "last_modified": "2023-08-22T05:21:48.423378",
+            "metadata_modified": "2023-08-22T05:21:48.528977",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25502-1603-2022.zip",
+            "package_id": "2325673b-fb2e-4ed6-bdb1-67297bbb7fa8",
+            "position": 1,
+            "resource_type": null,
+            "size": 28111,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2325673b-fb2e-4ed6-bdb1-67297bbb7fa8/resource/32798e30-c03b-4d8e-8983-55e6e86fe939/download/25502-1603-2022.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "伊香郡木之本町",
+            "id": "20f5602f-69a8-4ba2-9a1e-4b939de4de2e",
+            "name": "伊香郡木之本町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "27b4d399-60b4-4611-91e7-fa1a3077b618",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:48.760533",
+        "metadata_modified": "2023-08-31T03:49:23.095677",
+        "name": "houmusyouchizu-2023-1-1254",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "犬上郡豊郷町（大津地方法務局彦根支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:12.792905",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "28388d7a-61ec-4135-b529-885ee40581f1",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:21:12.792905",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "27b4d399-60b4-4611-91e7-fa1a3077b618",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:14.191039",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a9314602-dcd7-4653-808a-662ee5880c04",
+            "last_modified": "2023-08-22T05:21:14.082141",
+            "metadata_modified": "2023-08-22T05:21:14.191039",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25441-1602-2022.zip",
+            "package_id": "27b4d399-60b4-4611-91e7-fa1a3077b618",
+            "position": 1,
+            "resource_type": null,
+            "size": 5615712,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/27b4d399-60b4-4611-91e7-fa1a3077b618/resource/a9314602-dcd7-4653-808a-662ee5880c04/download/25441-1602-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:18.288983",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1189ee20-e26b-4fb6-8b71-7d0860965335",
+            "last_modified": "2023-08-22T05:21:18.183334",
+            "metadata_modified": "2023-08-22T05:21:18.288983",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25441-1602-2023.zip",
+            "package_id": "27b4d399-60b4-4611-91e7-fa1a3077b618",
+            "position": 2,
+            "resource_type": null,
+            "size": 5625079,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/27b4d399-60b4-4611-91e7-fa1a3077b618/resource/1189ee20-e26b-4fb6-8b71-7d0860965335/download/25441-1602-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "犬上郡豊郷町",
+            "id": "a291609c-1f7c-4ea2-9c13-bd4e82346bfe",
+            "name": "犬上郡豊郷町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "2a14a5f8-54b7-430f-85d1-b8671bb16dbb",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:43.915427",
+        "metadata_modified": "2023-08-31T03:49:29.838616",
+        "name": "houmusyouchizu-2023-1-1244",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "高島市（大津地方法務局高島出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:17:43.926342",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ae6391ff-207c-45f2-9adc-ae073e367cfb",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:17:43.926342",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "2a14a5f8-54b7-430f-85d1-b8671bb16dbb",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:17:56.674750",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a6bd1975-4a66-4fba-bc93-1a69c7145613",
+            "last_modified": "2023-08-22T05:17:56.568239",
+            "metadata_modified": "2023-08-22T05:17:56.674750",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25212-1608-2022.zip",
+            "package_id": "2a14a5f8-54b7-430f-85d1-b8671bb16dbb",
+            "position": 1,
+            "resource_type": null,
+            "size": 105860761,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2a14a5f8-54b7-430f-85d1-b8671bb16dbb/resource/a6bd1975-4a66-4fba-bc93-1a69c7145613/download/25212-1608-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:18:22.353161",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cd3b5e44-fd68-49d0-93e4-b9426e837e17",
+            "last_modified": "2023-08-22T05:18:22.245583",
+            "metadata_modified": "2023-08-22T05:18:22.353161",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25212-1608-2023.zip",
+            "package_id": "2a14a5f8-54b7-430f-85d1-b8671bb16dbb",
+            "position": 2,
+            "resource_type": null,
+            "size": 105873561,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2a14a5f8-54b7-430f-85d1-b8671bb16dbb/resource/cd3b5e44-fd68-49d0-93e4-b9426e837e17/download/25212-1608-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "高島市",
+            "id": "9269ec1a-55fa-44bf-bf57-dbe31d1cf7d2",
+            "name": "高島市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0751f602-da38-4bc2-b712-48ecc3eb53dc",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:40.591880",
+        "metadata_modified": "2023-08-31T03:49:34.497109",
+        "name": "houmusyouchizu-2023-1-1237",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "八日市市（大津地方法務局東近江出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:11.775473",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "3fb47776-5629-441c-98ef-9e18ca4bf8f5",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:15:11.775473",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0751f602-da38-4bc2-b712-48ecc3eb53dc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:12.513460",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "be1b2201-dc79-431c-ab5d-9dfeaec862c7",
+            "last_modified": "2023-08-22T05:15:12.404068",
+            "metadata_modified": "2023-08-22T05:15:12.513460",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25205-1617-2022.zip",
+            "package_id": "0751f602-da38-4bc2-b712-48ecc3eb53dc",
+            "position": 1,
+            "resource_type": null,
+            "size": 25145,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0751f602-da38-4bc2-b712-48ecc3eb53dc/resource/be1b2201-dc79-431c-ab5d-9dfeaec862c7/download/25205-1617-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:14.491122",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b04f9429-9a39-4752-89b7-7cdc5c861902",
+            "last_modified": "2023-08-22T05:15:14.384736",
+            "metadata_modified": "2023-08-22T05:15:14.491122",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25205-1617-2023.zip",
+            "package_id": "0751f602-da38-4bc2-b712-48ecc3eb53dc",
+            "position": 2,
+            "resource_type": null,
+            "size": 25145,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0751f602-da38-4bc2-b712-48ecc3eb53dc/resource/b04f9429-9a39-4752-89b7-7cdc5c861902/download/25205-1617-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "八日市市",
+            "id": "8c907bd2-7306-462d-b272-7539571c5ad6",
+            "name": "八日市市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9f5545ad-22bc-405b-ac70-fe3e0c661954",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:44.400047",
+        "metadata_modified": "2023-08-31T03:49:29.236496",
+        "name": "houmusyouchizu-2023-1-1245",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "東近江市（大津地方法務局東近江出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:18:32.899612",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c427ca89-b485-4a83-bace-0d0f687c1ae6",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:18:32.899612",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9f5545ad-22bc-405b-ac70-fe3e0c661954",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:18:49.296145",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "96dcf9a4-afa5-4373-b0c0-16280d8be04c",
+            "last_modified": "2023-08-22T05:18:49.178398",
+            "metadata_modified": "2023-08-22T05:18:49.296145",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25213-1617-2022.zip",
+            "package_id": "9f5545ad-22bc-405b-ac70-fe3e0c661954",
+            "position": 1,
+            "resource_type": null,
+            "size": 112074170,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9f5545ad-22bc-405b-ac70-fe3e0c661954/resource/96dcf9a4-afa5-4373-b0c0-16280d8be04c/download/25213-1617-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:19:13.661564",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5d1a8336-8cd0-48cb-9522-73a7e13f3777",
+            "last_modified": "2023-08-22T05:19:13.548849",
+            "metadata_modified": "2023-08-22T05:19:13.661564",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25213-1617-2023.zip",
+            "package_id": "9f5545ad-22bc-405b-ac70-fe3e0c661954",
+            "position": 2,
+            "resource_type": null,
+            "size": 112149890,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9f5545ad-22bc-405b-ac70-fe3e0c661954/resource/5d1a8336-8cd0-48cb-9522-73a7e13f3777/download/25213-1617-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東近江市",
+            "id": "9904db03-0e29-4214-924b-026a98564092",
+            "name": "東近江市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9c70d8c2-ea80-4db8-a18a-8d8dba9439ab",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:49.699039",
+        "metadata_modified": "2023-08-31T03:49:21.499344",
+        "name": "houmusyouchizu-2023-1-1256",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "犬上郡多賀町（大津地方法務局彦根支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:31.317267",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "46064a37-8ead-445f-b986-3269fe73c822",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:21:31.317267",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9c70d8c2-ea80-4db8-a18a-8d8dba9439ab",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:35.393682",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cf164646-a2cc-446f-8fd2-3dabcab57a76",
+            "last_modified": "2023-08-22T05:21:35.284175",
+            "metadata_modified": "2023-08-22T05:21:35.393682",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25443-1602-2022.zip",
+            "package_id": "9c70d8c2-ea80-4db8-a18a-8d8dba9439ab",
+            "position": 1,
+            "resource_type": null,
+            "size": 22301088,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9c70d8c2-ea80-4db8-a18a-8d8dba9439ab/resource/cf164646-a2cc-446f-8fd2-3dabcab57a76/download/25443-1602-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:42.977074",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cee27380-6922-402e-8e57-0e26c9833ad8",
+            "last_modified": "2023-08-22T05:21:42.824770",
+            "metadata_modified": "2023-08-22T05:21:42.977074",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25443-1602-2023.zip",
+            "package_id": "9c70d8c2-ea80-4db8-a18a-8d8dba9439ab",
+            "position": 2,
+            "resource_type": null,
+            "size": 22386170,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9c70d8c2-ea80-4db8-a18a-8d8dba9439ab/resource/cee27380-6922-402e-8e57-0e26c9833ad8/download/25443-1602-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "犬上郡多賀町",
+            "id": "1a44b5c2-27bd-4833-ace4-c1b425e857bd",
+            "name": "犬上郡多賀町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "77b1aa96-f2d6-40e3-9edf-a96ecc8d9584",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:44.888757",
+        "metadata_modified": "2023-08-31T03:49:28.612162",
+        "name": "houmusyouchizu-2023-1-1246",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "米原市（大津地方法務局長浜支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:19:24.224057",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "b1c94341-4d7e-4fa2-a1ed-1cf42133b983",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:19:24.224057",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "77b1aa96-f2d6-40e3-9edf-a96ecc8d9584",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:19:33.193073",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "355d90f0-6f2f-43ce-8d6a-f19f51c69af8",
+            "last_modified": "2023-08-22T05:19:33.088641",
+            "metadata_modified": "2023-08-22T05:19:33.193073",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25214-1603-2022.zip",
+            "package_id": "77b1aa96-f2d6-40e3-9edf-a96ecc8d9584",
+            "position": 1,
+            "resource_type": null,
+            "size": 59622222,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77b1aa96-f2d6-40e3-9edf-a96ecc8d9584/resource/355d90f0-6f2f-43ce-8d6a-f19f51c69af8/download/25214-1603-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:19:49.372223",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "995f3065-ccbc-4aa3-86f6-d02713ee051f",
+            "last_modified": "2023-08-22T05:19:49.255832",
+            "metadata_modified": "2023-08-22T05:19:49.372223",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25214-1603-2023.zip",
+            "package_id": "77b1aa96-f2d6-40e3-9edf-a96ecc8d9584",
+            "position": 2,
+            "resource_type": null,
+            "size": 59637041,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77b1aa96-f2d6-40e3-9edf-a96ecc8d9584/resource/995f3065-ccbc-4aa3-86f6-d02713ee051f/download/25214-1603-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "米原市",
+            "id": "5b2ddfa8-3748-42b3-b7f6-1e775cf15178",
+            "name": "米原市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "2ede60f7-78f4-4c34-901a-cb7f7435a3bc",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:48.301178",
+        "metadata_modified": "2023-08-31T03:49:23.746959",
+        "name": "houmusyouchizu-2023-1-1253",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "愛知郡愛荘町（大津地方法務局彦根支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:56.633740",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "148130b1-0931-46ab-9891-4e6173536cb6",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:20:56.633740",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "2ede60f7-78f4-4c34-901a-cb7f7435a3bc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:00.031567",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5d02e227-22ef-4d72-8288-c1e49c019522",
+            "last_modified": "2023-08-22T05:20:59.925398",
+            "metadata_modified": "2023-08-22T05:21:00.031567",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25425-1602-2022.zip",
+            "package_id": "2ede60f7-78f4-4c34-901a-cb7f7435a3bc",
+            "position": 1,
+            "resource_type": null,
+            "size": 21233563,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2ede60f7-78f4-4c34-901a-cb7f7435a3bc/resource/5d02e227-22ef-4d72-8288-c1e49c019522/download/25425-1602-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:21:08.499548",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c0d744a8-537a-42a1-920b-71c0b125b48a",
+            "last_modified": "2023-08-22T05:21:08.397303",
+            "metadata_modified": "2023-08-22T05:21:08.499548",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25425-1602-2023.zip",
+            "package_id": "2ede60f7-78f4-4c34-901a-cb7f7435a3bc",
+            "position": 2,
+            "resource_type": null,
+            "size": 21257210,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2ede60f7-78f4-4c34-901a-cb7f7435a3bc/resource/c0d744a8-537a-42a1-920b-71c0b125b48a/download/25425-1602-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "愛知郡愛荘町",
+            "id": "c208f7a9-5d79-4f98-9b11-468d0a1bc97c",
+            "name": "愛知郡愛荘町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ab381f28-a4fe-4325-ba36-cfcb9ab15ec3",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:46.290803",
+        "metadata_modified": "2023-08-31T03:49:26.545422",
+        "name": "houmusyouchizu-2023-1-1249",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "蒲生郡日野町（大津地方法務局東近江出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:07.013799",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "477f15e1-155f-446c-89c8-73d97b7f0b8c",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:20:07.013799",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ab381f28-a4fe-4325-ba36-cfcb9ab15ec3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:14.521021",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d5dc6baa-6def-43a1-aa13-a1dfbf90132d",
+            "last_modified": "2023-08-22T05:20:14.416442",
+            "metadata_modified": "2023-08-22T05:20:14.521021",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25383-1617-2022.zip",
+            "package_id": "ab381f28-a4fe-4325-ba36-cfcb9ab15ec3",
+            "position": 1,
+            "resource_type": null,
+            "size": 55521432,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ab381f28-a4fe-4325-ba36-cfcb9ab15ec3/resource/d5dc6baa-6def-43a1-aa13-a1dfbf90132d/download/25383-1617-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:28.095178",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "32de7a64-e729-46f6-b352-75a296f4ff94",
+            "last_modified": "2023-08-22T05:20:27.991611",
+            "metadata_modified": "2023-08-22T05:20:28.095178",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25383-1617-2023.zip",
+            "package_id": "ab381f28-a4fe-4325-ba36-cfcb9ab15ec3",
+            "position": 2,
+            "resource_type": null,
+            "size": 55511427,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ab381f28-a4fe-4325-ba36-cfcb9ab15ec3/resource/32de7a64-e729-46f6-b352-75a296f4ff94/download/25383-1617-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "蒲生郡日野町",
+            "id": "08b58933-1982-4979-b193-ed024106c6c1",
+            "name": "蒲生郡日野町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "acb7c6d8-92d6-4479-8262-c384b0591560",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:39.624713",
+        "metadata_modified": "2023-08-31T03:49:35.840147",
+        "name": "houmusyouchizu-2023-1-1235",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "長浜市（大津地方法務局長浜支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:13:43.134225",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "d5dd582c-e01b-437f-96c9-8da3855b269d",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:13:43.134225",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "acb7c6d8-92d6-4479-8262-c384b0591560",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:14:03.953188",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e6bb2812-1b18-4293-a53f-e35e61c16eeb",
+            "last_modified": "2023-08-22T05:14:03.847442",
+            "metadata_modified": "2023-08-22T05:14:03.953188",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25203-1603-2022.zip",
+            "package_id": "acb7c6d8-92d6-4479-8262-c384b0591560",
+            "position": 1,
+            "resource_type": null,
+            "size": 136984489,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/acb7c6d8-92d6-4479-8262-c384b0591560/resource/e6bb2812-1b18-4293-a53f-e35e61c16eeb/download/25203-1603-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:14:34.006562",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4a4340c0-aae3-494c-bc18-62c1de6d23f3",
+            "last_modified": "2023-08-22T05:14:33.872144",
+            "metadata_modified": "2023-08-22T05:14:34.006562",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25203-1603-2023.zip",
+            "package_id": "acb7c6d8-92d6-4479-8262-c384b0591560",
+            "position": 2,
+            "resource_type": null,
+            "size": 137102015,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/acb7c6d8-92d6-4479-8262-c384b0591560/resource/4a4340c0-aae3-494c-bc18-62c1de6d23f3/download/25203-1603-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "長浜市",
+            "id": "3767af8b-71e8-4c32-9c9c-afb0fdd6de4e",
+            "name": "長浜市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "fbf21065-cc77-4694-b860-eae960f95c6a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:47.814265",
+        "metadata_modified": "2023-08-31T03:49:24.474678",
+        "name": "houmusyouchizu-2023-1-1252",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "愛知郡愛東町（大津地方法務局東近江出張所）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:51.830655",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "5f1b2720-7b3c-4033-9056-167977b8829b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:20:51.830655",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "fbf21065-cc77-4694-b860-eae960f95c6a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:52.562530",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "dc31ddf0-7c0a-41ce-babe-009cd955bbc1",
+            "last_modified": "2023-08-22T05:20:52.454912",
+            "metadata_modified": "2023-08-22T05:20:52.562530",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25421-1617-2022.zip",
+            "package_id": "fbf21065-cc77-4694-b860-eae960f95c6a",
+            "position": 1,
+            "resource_type": null,
+            "size": 7100,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fbf21065-cc77-4694-b860-eae960f95c6a/resource/dc31ddf0-7c0a-41ce-babe-009cd955bbc1/download/25421-1617-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:20:54.677220",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "69b49aa7-1aa4-4a01-8e74-72bc97a4b19c",
+            "last_modified": "2023-08-22T05:20:54.541779",
+            "metadata_modified": "2023-08-22T05:20:54.677220",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25421-1617-2023.zip",
+            "package_id": "fbf21065-cc77-4694-b860-eae960f95c6a",
+            "position": 2,
+            "resource_type": null,
+            "size": 7104,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fbf21065-cc77-4694-b860-eae960f95c6a/resource/69b49aa7-1aa4-4a01-8e74-72bc97a4b19c/download/25421-1617-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "愛知郡愛東町",
+            "id": "69462965-1aaa-454f-8910-0e23ea333c5d",
+            "name": "愛知郡愛東町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "fcce42dd-5f8e-4866-b457-7f7e73e1fbaf",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:17:41.059183",
+        "metadata_modified": "2023-08-31T03:49:33.858474",
+        "name": "houmusyouchizu-2023-1-1238",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-25shiga",
+          "name": "moj-25shiga",
+          "title": "25滋賀県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:25.452131",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-25shiga",
+        "private": false,
+        "state": "active",
+        "title": "草津市（大津地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:16.961458",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "0a015b7c-af2a-43e2-a1c5-d731d9eab0cf",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T05:15:16.961458",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "fcce42dd-5f8e-4866-b457-7f7e73e1fbaf",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:22.847981",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "03e00247-6dc5-477c-b4f4-5bb77fac93ea",
+            "last_modified": "2023-08-22T05:15:22.699376",
+            "metadata_modified": "2023-08-22T05:15:22.847981",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25206-1600-2022.zip",
+            "package_id": "fcce42dd-5f8e-4866-b457-7f7e73e1fbaf",
+            "position": 1,
+            "resource_type": null,
+            "size": 30351196,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fcce42dd-5f8e-4866-b457-7f7e73e1fbaf/resource/03e00247-6dc5-477c-b4f4-5bb77fac93ea/download/25206-1600-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T05:15:31.566206",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7a81104e-ca58-4f16-99f5-da91591eb7a5",
+            "last_modified": "2023-08-22T05:15:31.456327",
+            "metadata_modified": "2023-08-22T05:15:31.566206",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "25206-1600-2023.zip",
+            "package_id": "fcce42dd-5f8e-4866-b457-7f7e73e1fbaf",
+            "position": 2,
+            "resource_type": null,
+            "size": 30445984,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fcce42dd-5f8e-4866-b457-7f7e73e1fbaf/resource/7a81104e-ca58-4f16-99f5-da91591eb7a5/download/25206-1600-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "滋賀県",
+            "id": "0593adc3-21f0-43f8-a02e-366b5add9c54",
+            "name": "滋賀県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "草津市",
+            "id": "947df004-2a90-40d7-89ff-85c04992fcc2",
+            "name": "草津市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "charge desc",
+    "search_facets": {
+    }
+  }
+}

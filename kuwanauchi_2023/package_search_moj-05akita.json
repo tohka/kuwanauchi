@@ -1,0 +1,3888 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 26,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d515eb06-5279-4057-aaa9-b047d40122be",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:02.706050",
+        "metadata_modified": "2023-08-31T04:00:16.401547",
+        "name": "houmusyouchizu-2023-1-321",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "北秋田市（秋田地方法務局大館支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:38:03.741863",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "eb4aec9b-7098-4a2f-8c42-4133042345a3",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:38:03.741863",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d515eb06-5279-4057-aaa9-b047d40122be",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:38:20.502438",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "91ec4d75-fbdb-4b67-9ee6-72e614ca73a4",
+            "last_modified": "2023-08-21T08:38:20.394135",
+            "metadata_modified": "2023-08-21T08:38:20.502438",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05213-4103-2022.zip",
+            "package_id": "d515eb06-5279-4057-aaa9-b047d40122be",
+            "position": 1,
+            "resource_type": null,
+            "size": 111863326,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d515eb06-5279-4057-aaa9-b047d40122be/resource/91ec4d75-fbdb-4b67-9ee6-72e614ca73a4/download/05213-4103-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:38:46.182744",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e6da70a3-f3c7-4bc4-beaf-8840b6600a2c",
+            "last_modified": "2023-08-21T08:38:46.028162",
+            "metadata_modified": "2023-08-21T08:38:46.182744",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05213-4103-2023.zip",
+            "package_id": "d515eb06-5279-4057-aaa9-b047d40122be",
+            "position": 2,
+            "resource_type": null,
+            "size": 111899534,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d515eb06-5279-4057-aaa9-b047d40122be/resource/e6da70a3-f3c7-4bc4-beaf-8840b6600a2c/download/05213-4103-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "北秋田市",
+            "id": "fca0abee-9b89-4621-83d3-9d1bc2ce7eab",
+            "name": "北秋田市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e2191743-c84b-4245-af20-7f637b437b8a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:05.259131",
+        "metadata_modified": "2023-08-31T04:00:13.560401",
+        "name": "houmusyouchizu-2023-1-325",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "北秋田郡上小阿仁村（秋田地方法務局大館支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:23.319882",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "64848923-9d28-42fc-913d-d4cde8d7a841",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:40:23.319882",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e2191743-c84b-4245-af20-7f637b437b8a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:26.786113",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ada0309c-dd39-42be-b845-85b886bcbf75",
+            "last_modified": "2023-08-21T08:40:26.680958",
+            "metadata_modified": "2023-08-21T08:40:26.786113",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05327-4103-2022.zip",
+            "package_id": "e2191743-c84b-4245-af20-7f637b437b8a",
+            "position": 1,
+            "resource_type": null,
+            "size": 12350907,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e2191743-c84b-4245-af20-7f637b437b8a/resource/ada0309c-dd39-42be-b845-85b886bcbf75/download/05327-4103-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:32.211941",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a111dd8e-581c-4fae-93df-fde0a33f75f7",
+            "last_modified": "2023-08-21T08:40:32.103068",
+            "metadata_modified": "2023-08-21T08:40:32.211941",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05327-4103-2023.zip",
+            "package_id": "e2191743-c84b-4245-af20-7f637b437b8a",
+            "position": 2,
+            "resource_type": null,
+            "size": 12351379,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e2191743-c84b-4245-af20-7f637b437b8a/resource/a111dd8e-581c-4fae-93df-fde0a33f75f7/download/05327-4103-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "北秋田郡上小阿仁村",
+            "id": "b6891cd9-68fc-4d9c-80b1-b5b94f7aa78c",
+            "name": "北秋田郡上小阿仁村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e8b42c17-9c5e-4c5c-8023-05087b83c88f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:08.720443",
+        "metadata_modified": "2023-08-31T04:00:08.967830",
+        "name": "houmusyouchizu-2023-1-332",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "南秋田郡大潟村（秋田地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:27.205794",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "cb666fd1-852b-490f-8271-66097051b9d9",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:42:27.205794",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e8b42c17-9c5e-4c5c-8023-05087b83c88f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:28.745022",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e7f93b84-8580-4775-b409-6790c8a6fd25",
+            "last_modified": "2023-08-21T08:42:28.637563",
+            "metadata_modified": "2023-08-21T08:42:28.745022",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05368-4100-2022.zip",
+            "package_id": "e8b42c17-9c5e-4c5c-8023-05087b83c88f",
+            "position": 1,
+            "resource_type": null,
+            "size": 5133953,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e8b42c17-9c5e-4c5c-8023-05087b83c88f/resource/e7f93b84-8580-4775-b409-6790c8a6fd25/download/05368-4100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:32.454808",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "23d06417-9180-4c00-a804-92dd15f222bc",
+            "last_modified": "2023-08-21T08:42:32.348816",
+            "metadata_modified": "2023-08-21T08:42:32.454808",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05368-4100-2023.zip",
+            "package_id": "e8b42c17-9c5e-4c5c-8023-05087b83c88f",
+            "position": 2,
+            "resource_type": null,
+            "size": 5137132,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e8b42c17-9c5e-4c5c-8023-05087b83c88f/resource/23d06417-9180-4c00-a804-92dd15f222bc/download/05368-4100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "南秋田郡大潟村",
+            "id": "101fb19c-2659-4a1e-bc9d-84ef80e911f8",
+            "name": "南秋田郡大潟村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ebc1ab68-6bd7-4480-b45e-1da68963c925",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:05.728441",
+        "metadata_modified": "2023-08-31T04:00:12.912130",
+        "name": "houmusyouchizu-2023-1-326",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "山本郡藤里町（秋田地方法務局能代支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:36.310848",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "1bb22133-50ca-4cc3-8cd7-f8c0eba4afbd",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:40:36.310848",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ebc1ab68-6bd7-4480-b45e-1da68963c925",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:40.678271",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "00d6c68e-4ae9-49d0-a7ab-c84165c3f7ef",
+            "last_modified": "2023-08-21T08:40:40.555708",
+            "metadata_modified": "2023-08-21T08:40:40.678271",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05346-4101-2022.zip",
+            "package_id": "ebc1ab68-6bd7-4480-b45e-1da68963c925",
+            "position": 1,
+            "resource_type": null,
+            "size": 23907562,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ebc1ab68-6bd7-4480-b45e-1da68963c925/resource/00d6c68e-4ae9-49d0-a7ab-c84165c3f7ef/download/05346-4101-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:48.189113",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "307d1823-7d86-4ec7-99f5-cc166848f90f",
+            "last_modified": "2023-08-21T08:40:48.084751",
+            "metadata_modified": "2023-08-21T08:40:48.189113",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05346-4101-2023.zip",
+            "package_id": "ebc1ab68-6bd7-4480-b45e-1da68963c925",
+            "position": 2,
+            "resource_type": null,
+            "size": 23675293,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ebc1ab68-6bd7-4480-b45e-1da68963c925/resource/307d1823-7d86-4ec7-99f5-cc166848f90f/download/05346-4101-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山本郡藤里町",
+            "id": "16890a96-4e89-4406-9838-ee64e438dddd",
+            "name": "山本郡藤里町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f183b340-fb68-47f4-8f76-2b7c7816b9ae",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:09:58.948662",
+        "metadata_modified": "2023-08-31T04:00:20.285013",
+        "name": "houmusyouchizu-2023-1-315",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "男鹿市（秋田地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:32:41.152960",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "510813c7-d05b-4c4a-8391-7bf7b26ba59b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:32:41.152960",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f183b340-fb68-47f4-8f76-2b7c7816b9ae",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:32:49.408629",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "06038b00-8805-4ce9-813d-3a31c7463456",
+            "last_modified": "2023-08-21T08:32:49.305425",
+            "metadata_modified": "2023-08-21T08:32:49.408629",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05206-4100-2022.zip",
+            "package_id": "f183b340-fb68-47f4-8f76-2b7c7816b9ae",
+            "position": 1,
+            "resource_type": null,
+            "size": 64659622,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f183b340-fb68-47f4-8f76-2b7c7816b9ae/resource/06038b00-8805-4ce9-813d-3a31c7463456/download/05206-4100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:33:04.840600",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "fd6da39d-9cac-4751-85cf-6a96baf6788e",
+            "last_modified": "2023-08-21T08:33:04.728891",
+            "metadata_modified": "2023-08-21T08:33:04.840600",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05206-4100-2023.zip",
+            "package_id": "f183b340-fb68-47f4-8f76-2b7c7816b9ae",
+            "position": 2,
+            "resource_type": null,
+            "size": 64664321,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f183b340-fb68-47f4-8f76-2b7c7816b9ae/resource/fd6da39d-9cac-4751-85cf-6a96baf6788e/download/05206-4100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "男鹿市",
+            "id": "a4322f16-b145-4525-93cc-71035169a60d",
+            "name": "男鹿市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "dee6db91-e143-4c8e-b0e3-8c990f63b4c0",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:06.688680",
+        "metadata_modified": "2023-08-31T04:00:11.614612",
+        "name": "houmusyouchizu-2023-1-328",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "山本郡八峰町（秋田地方法務局能代支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:41:23.027044",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "4bf836ab-5e16-47b9-9217-930e1fb29127",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:41:23.027044",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "dee6db91-e143-4c8e-b0e3-8c990f63b4c0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:41:29.506937",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4641f81e-dcdc-4114-8e85-3c5210c15cbe",
+            "last_modified": "2023-08-21T08:41:29.402138",
+            "metadata_modified": "2023-08-21T08:41:29.506937",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05349-4101-2022.zip",
+            "package_id": "dee6db91-e143-4c8e-b0e3-8c990f63b4c0",
+            "position": 1,
+            "resource_type": null,
+            "size": 41099748,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/dee6db91-e143-4c8e-b0e3-8c990f63b4c0/resource/4641f81e-dcdc-4114-8e85-3c5210c15cbe/download/05349-4101-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:41:40.805033",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f5e2cec3-8bdc-4717-bcf8-a61467799c36",
+            "last_modified": "2023-08-21T08:41:40.698479",
+            "metadata_modified": "2023-08-21T08:41:40.805033",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05349-4101-2023.zip",
+            "package_id": "dee6db91-e143-4c8e-b0e3-8c990f63b4c0",
+            "position": 2,
+            "resource_type": null,
+            "size": 41154307,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/dee6db91-e143-4c8e-b0e3-8c990f63b4c0/resource/f5e2cec3-8bdc-4717-bcf8-a61467799c36/download/05349-4101-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山本郡八峰町",
+            "id": "9b274899-98fc-4d1e-96e6-c06805034c17",
+            "name": "山本郡八峰町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6f42daeb-4d9a-4d98-8fcc-cd3ae4e9253d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:07.689378",
+        "metadata_modified": "2023-08-31T04:00:10.245434",
+        "name": "houmusyouchizu-2023-1-330",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "南秋田郡八郎潟町（秋田地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:05.296261",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "f8980618-2b93-4b33-93b1-a48d1364dd31",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:42:05.296261",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6f42daeb-4d9a-4d98-8fcc-cd3ae4e9253d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:07.384259",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "244bcb94-2833-4f27-9450-6f6400786ab1",
+            "last_modified": "2023-08-21T08:42:07.281218",
+            "metadata_modified": "2023-08-21T08:42:07.384259",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05363-4100-2022.zip",
+            "package_id": "6f42daeb-4d9a-4d98-8fcc-cd3ae4e9253d",
+            "position": 1,
+            "resource_type": null,
+            "size": 7775362,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6f42daeb-4d9a-4d98-8fcc-cd3ae4e9253d/resource/244bcb94-2833-4f27-9450-6f6400786ab1/download/05363-4100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:11.851462",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ec080ab4-0ec5-44dd-9768-982b3d1a1f98",
+            "last_modified": "2023-08-21T08:42:11.746427",
+            "metadata_modified": "2023-08-21T08:42:11.851462",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05363-4100-2023.zip",
+            "package_id": "6f42daeb-4d9a-4d98-8fcc-cd3ae4e9253d",
+            "position": 2,
+            "resource_type": null,
+            "size": 7776966,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6f42daeb-4d9a-4d98-8fcc-cd3ae4e9253d/resource/ec080ab4-0ec5-44dd-9768-982b3d1a1f98/download/05363-4100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "南秋田郡八郎潟町",
+            "id": "ebd40d1f-98dc-487d-babd-a621985ee654",
+            "name": "南秋田郡八郎潟町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7c9168ac-f642-4ea6-b7d1-a6135cb55ada",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:03.554254",
+        "metadata_modified": "2023-08-31T04:00:15.677881",
+        "name": "houmusyouchizu-2023-1-322",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "にかほ市（秋田地方法務局本荘支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:38:57.039858",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "315fee45-ff26-43a3-bcf7-de5722712ba7",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:38:57.039858",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7c9168ac-f642-4ea6-b7d1-a6135cb55ada",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:39:06.074784",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "69f5f853-655f-45fd-9e1b-831a5d65958d",
+            "last_modified": "2023-08-21T08:39:05.969576",
+            "metadata_modified": "2023-08-21T08:39:06.074784",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05214-4102-2022.zip",
+            "package_id": "7c9168ac-f642-4ea6-b7d1-a6135cb55ada",
+            "position": 1,
+            "resource_type": null,
+            "size": 62134319,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7c9168ac-f642-4ea6-b7d1-a6135cb55ada/resource/69f5f853-655f-45fd-9e1b-831a5d65958d/download/05214-4102-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:39:20.324348",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "de718455-f926-4448-be69-90f67893a553",
+            "last_modified": "2023-08-21T08:39:20.220797",
+            "metadata_modified": "2023-08-21T08:39:20.324348",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05214-4102-2023.zip",
+            "package_id": "7c9168ac-f642-4ea6-b7d1-a6135cb55ada",
+            "position": 2,
+            "resource_type": null,
+            "size": 62158038,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7c9168ac-f642-4ea6-b7d1-a6135cb55ada/resource/de718455-f926-4448-be69-90f67893a553/download/05214-4102-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "にかほ市",
+            "id": "e0bfba49-37c3-483f-8333-c27c63b023d0",
+            "name": "にかほ市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "78c6f214-1018-4668-9e7a-71a3306bac87",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:09:59.878998",
+        "metadata_modified": "2023-08-31T04:00:18.990639",
+        "name": "houmusyouchizu-2023-1-317",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "鹿角市（秋田地方法務局大館支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:34:05.724668",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "bdbbe6eb-71b0-4581-9809-8092284ce421",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:34:05.724668",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "78c6f214-1018-4668-9e7a-71a3306bac87",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:34:14.597852",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e75ffe26-3957-4373-9bc0-e4f8b4a8644a",
+            "last_modified": "2023-08-21T08:34:14.486568",
+            "metadata_modified": "2023-08-21T08:34:14.597852",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05209-4103-2022.zip",
+            "package_id": "78c6f214-1018-4668-9e7a-71a3306bac87",
+            "position": 1,
+            "resource_type": null,
+            "size": 70197238,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/78c6f214-1018-4668-9e7a-71a3306bac87/resource/e75ffe26-3957-4373-9bc0-e4f8b4a8644a/download/05209-4103-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:34:30.735726",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ad14beff-a832-4205-8d76-0685df8fc119",
+            "last_modified": "2023-08-21T08:34:30.585900",
+            "metadata_modified": "2023-08-21T08:34:30.735726",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05209-4103-2023.zip",
+            "package_id": "78c6f214-1018-4668-9e7a-71a3306bac87",
+            "position": 2,
+            "resource_type": null,
+            "size": 70257193,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/78c6f214-1018-4668-9e7a-71a3306bac87/resource/ad14beff-a832-4205-8d76-0685df8fc119/download/05209-4103-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鹿角市",
+            "id": "c0fdbd6e-11af-4c2a-81ee-fe79a47b3c34",
+            "name": "鹿角市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "85d7b71a-079e-438c-aae2-28eddacbee32",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:10.148903",
+        "metadata_modified": "2023-08-31T04:00:07.615055",
+        "name": "houmusyouchizu-2023-1-334",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "仙北郡美郷町（秋田地方法務局大曲支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:40.262806",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "5c2a8bc3-eb4f-49e1-9bf4-2e931962c554",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:42:40.262806",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "85d7b71a-079e-438c-aae2-28eddacbee32",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:45.786905",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "826c73ac-32fd-4aa6-8eee-aebea39113ca",
+            "last_modified": "2023-08-21T08:42:45.682945",
+            "metadata_modified": "2023-08-21T08:42:45.786905",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05434-4106-2022.zip",
+            "package_id": "85d7b71a-079e-438c-aae2-28eddacbee32",
+            "position": 1,
+            "resource_type": null,
+            "size": 38105821,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/85d7b71a-079e-438c-aae2-28eddacbee32/resource/826c73ac-32fd-4aa6-8eee-aebea39113ca/download/05434-4106-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:57.214620",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3e782dfc-f94e-47b2-8de4-5d2319e68294",
+            "last_modified": "2023-08-21T08:42:57.110854",
+            "metadata_modified": "2023-08-21T08:42:57.214620",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05434-4106-2023.zip",
+            "package_id": "85d7b71a-079e-438c-aae2-28eddacbee32",
+            "position": 2,
+            "resource_type": null,
+            "size": 38133925,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/85d7b71a-079e-438c-aae2-28eddacbee32/resource/3e782dfc-f94e-47b2-8de4-5d2319e68294/download/05434-4106-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "仙北郡美郷町",
+            "id": "8b326685-981e-47b8-99d3-0e6e92e0647b",
+            "name": "仙北郡美郷町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "249ac644-1343-4cd9-b02e-1795bed22aac",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:00.897857",
+        "metadata_modified": "2023-08-31T04:00:17.635309",
+        "name": "houmusyouchizu-2023-1-319",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "潟上市（秋田地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:36:16.083530",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "fcf9ab31-fa89-44ee-a168-39e6bc766f0e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:36:16.083530",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "249ac644-1343-4cd9-b02e-1795bed22aac",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:36:21.650335",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cfd4d212-a873-4676-9b31-d398e580e18a",
+            "last_modified": "2023-08-21T08:36:21.544380",
+            "metadata_modified": "2023-08-21T08:36:21.650335",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05211-4100-2022.zip",
+            "package_id": "249ac644-1343-4cd9-b02e-1795bed22aac",
+            "position": 1,
+            "resource_type": null,
+            "size": 30810616,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/249ac644-1343-4cd9-b02e-1795bed22aac/resource/cfd4d212-a873-4676-9b31-d398e580e18a/download/05211-4100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:36:31.402630",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "dc7ec60c-d245-4b61-a84e-c757c4575db7",
+            "last_modified": "2023-08-21T08:36:31.269886",
+            "metadata_modified": "2023-08-21T08:36:31.402630",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05211-4100-2023.zip",
+            "package_id": "249ac644-1343-4cd9-b02e-1795bed22aac",
+            "position": 2,
+            "resource_type": null,
+            "size": 30661945,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/249ac644-1343-4cd9-b02e-1795bed22aac/resource/dc7ec60c-d245-4b61-a84e-c757c4575db7/download/05211-4100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "潟上市",
+            "id": "33ce01e1-e608-4d32-bb7c-15f6dd578193",
+            "name": "潟上市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0b6720cf-fc41-42f3-bead-1e44940d321a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:01.540375",
+        "metadata_modified": "2023-08-31T04:00:16.998700",
+        "name": "houmusyouchizu-2023-1-320",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "大仙市（秋田地方法務局大曲支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:36:35.987392",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "829a9906-492b-4c25-b3bf-473a340ba470",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:36:35.987392",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0b6720cf-fc41-42f3-bead-1e44940d321a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:37:04.481528",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "12af4db7-4b66-4324-8742-a5468e11ac22",
+            "last_modified": "2023-08-21T08:37:04.366740",
+            "metadata_modified": "2023-08-21T08:37:04.481528",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05212-4106-2022.zip",
+            "package_id": "0b6720cf-fc41-42f3-bead-1e44940d321a",
+            "position": 1,
+            "resource_type": null,
+            "size": 203224897,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0b6720cf-fc41-42f3-bead-1e44940d321a/resource/12af4db7-4b66-4324-8742-a5468e11ac22/download/05212-4106-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:37:47.542058",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2b8fcc88-2d58-4e21-a7d6-1091b60d4768",
+            "last_modified": "2023-08-21T08:37:47.434915",
+            "metadata_modified": "2023-08-21T08:37:47.542058",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05212-4106-2023.zip",
+            "package_id": "0b6720cf-fc41-42f3-bead-1e44940d321a",
+            "position": 2,
+            "resource_type": null,
+            "size": 203015545,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0b6720cf-fc41-42f3-bead-1e44940d321a/resource/2b8fcc88-2d58-4e21-a7d6-1091b60d4768/download/05212-4106-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大仙市",
+            "id": "1c0957c6-e45f-4c7f-91a8-7149e2530a92",
+            "name": "大仙市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "48741341-5a1a-4292-a7e4-1345422267b5",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:09:57.047137",
+        "metadata_modified": "2023-08-31T04:00:22.971021",
+        "name": "houmusyouchizu-2023-1-311",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "秋田市（秋田地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:27:39.072161",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2ed805b2-df2d-455b-94e7-89f63ad460b2",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:27:39.072161",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "48741341-5a1a-4292-a7e4-1345422267b5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:28:09.921283",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b157633d-29a7-4f5c-b417-0fac842f66e0",
+            "last_modified": "2023-08-21T08:28:09.808532",
+            "metadata_modified": "2023-08-21T08:28:09.921283",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05201-4100-2022.zip",
+            "package_id": "48741341-5a1a-4292-a7e4-1345422267b5",
+            "position": 1,
+            "resource_type": null,
+            "size": 243371938,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/48741341-5a1a-4292-a7e4-1345422267b5/resource/b157633d-29a7-4f5c-b417-0fac842f66e0/download/05201-4100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:28:58.647205",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "442907bf-dbec-42e7-b237-688c8f0e65c5",
+            "last_modified": "2023-08-21T08:28:58.541535",
+            "metadata_modified": "2023-08-21T08:28:58.647205",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05201-4100-2023.zip",
+            "package_id": "48741341-5a1a-4292-a7e4-1345422267b5",
+            "position": 2,
+            "resource_type": null,
+            "size": 243435200,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/48741341-5a1a-4292-a7e4-1345422267b5/resource/442907bf-dbec-42e7-b237-688c8f0e65c5/download/05201-4100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田市",
+            "id": "b25ab61f-b7a4-4159-86c0-c1e3ee9ddfbd",
+            "name": "秋田市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5bd19805-6502-41f3-a60c-8b1ebc155e80",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:04.788175",
+        "metadata_modified": "2023-08-31T04:00:14.282326",
+        "name": "houmusyouchizu-2023-1-324",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "鹿角郡小坂町（秋田地方法務局大館支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:10.418349",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "f9599bae-3364-432b-8916-d35c9eb21fd7",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:40:10.418349",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5bd19805-6502-41f3-a60c-8b1ebc155e80",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:13.484041",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ef9aeb71-b558-4867-b620-e9649027dff1",
+            "last_modified": "2023-08-21T08:40:13.379440",
+            "metadata_modified": "2023-08-21T08:40:13.484041",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05303-4103-2022.zip",
+            "package_id": "5bd19805-6502-41f3-a60c-8b1ebc155e80",
+            "position": 1,
+            "resource_type": null,
+            "size": 13970220,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5bd19805-6502-41f3-a60c-8b1ebc155e80/resource/ef9aeb71-b558-4867-b620-e9649027dff1/download/05303-4103-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:19.076096",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "786a51c5-2353-444e-9fc8-2a8dd5bed8a0",
+            "last_modified": "2023-08-21T08:40:18.969730",
+            "metadata_modified": "2023-08-21T08:40:19.076096",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05303-4103-2023.zip",
+            "package_id": "5bd19805-6502-41f3-a60c-8b1ebc155e80",
+            "position": 2,
+            "resource_type": null,
+            "size": 13973579,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5bd19805-6502-41f3-a60c-8b1ebc155e80/resource/786a51c5-2353-444e-9fc8-2a8dd5bed8a0/download/05303-4103-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鹿角郡小坂町",
+            "id": "812798d6-99e9-421f-b663-26a622c8688e",
+            "name": "鹿角郡小坂町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "34b51d9b-bb0b-47ff-b948-c30ed0b0cf47",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:11.115820",
+        "metadata_modified": "2023-08-31T04:00:06.355301",
+        "name": "houmusyouchizu-2023-1-336",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "雄勝郡東成瀬村（秋田地方法務局大曲支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:43:28.615462",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "d5af452f-acb1-4b74-9d84-b34d54604a37",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:43:28.615462",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "34b51d9b-bb0b-47ff-b948-c30ed0b0cf47",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:43:31.076606",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "8c610fe0-3090-44da-a0eb-34e18df85101",
+            "last_modified": "2023-08-21T08:43:30.971713",
+            "metadata_modified": "2023-08-21T08:43:31.076606",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05464-4106-2022.zip",
+            "package_id": "34b51d9b-bb0b-47ff-b948-c30ed0b0cf47",
+            "position": 1,
+            "resource_type": null,
+            "size": 13590412,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/34b51d9b-bb0b-47ff-b948-c30ed0b0cf47/resource/8c610fe0-3090-44da-a0eb-34e18df85101/download/05464-4106-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:43:36.624486",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "595da2cd-82ad-487a-9143-bceb33d2dbb1",
+            "last_modified": "2023-08-21T08:43:36.514512",
+            "metadata_modified": "2023-08-21T08:43:36.624486",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05464-4106-2023.zip",
+            "package_id": "34b51d9b-bb0b-47ff-b948-c30ed0b0cf47",
+            "position": 2,
+            "resource_type": null,
+            "size": 13594552,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/34b51d9b-bb0b-47ff-b948-c30ed0b0cf47/resource/595da2cd-82ad-487a-9143-bceb33d2dbb1/download/05464-4106-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "雄勝郡東成瀬村",
+            "id": "38d559ef-77c8-4be1-906d-187543321879",
+            "name": "雄勝郡東成瀬村",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "1a7d144a-f8e5-483c-99da-cb2695dd358d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:06.204887",
+        "metadata_modified": "2023-08-31T04:00:12.240049",
+        "name": "houmusyouchizu-2023-1-327",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "山本郡三種町（秋田地方法務局能代支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:52.600783",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "dbc2c1a8-78df-4484-adeb-d3d4934961de",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:40:52.600783",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "1a7d144a-f8e5-483c-99da-cb2695dd358d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:59.891561",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b313b1dd-858c-47e1-a2eb-05473a78568d",
+            "last_modified": "2023-08-21T08:40:59.786989",
+            "metadata_modified": "2023-08-21T08:40:59.891561",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05348-4101-2022.zip",
+            "package_id": "1a7d144a-f8e5-483c-99da-cb2695dd358d",
+            "position": 1,
+            "resource_type": null,
+            "size": 61592176,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1a7d144a-f8e5-483c-99da-cb2695dd358d/resource/b313b1dd-858c-47e1-a2eb-05473a78568d/download/05348-4101-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:41:16.238373",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "82572949-29c5-4dcf-8654-6cfcf56053da",
+            "last_modified": "2023-08-21T08:41:16.135586",
+            "metadata_modified": "2023-08-21T08:41:16.238373",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05348-4101-2023.zip",
+            "package_id": "1a7d144a-f8e5-483c-99da-cb2695dd358d",
+            "position": 2,
+            "resource_type": null,
+            "size": 61736522,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1a7d144a-f8e5-483c-99da-cb2695dd358d/resource/82572949-29c5-4dcf-8654-6cfcf56053da/download/05348-4101-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "山本郡三種町",
+            "id": "8c7863a3-9c58-4751-a365-8186204bc89c",
+            "name": "山本郡三種町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a4d31328-db47-49df-808a-27da9be20b29",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:09:57.525391",
+        "metadata_modified": "2023-08-31T04:00:22.253626",
+        "name": "houmusyouchizu-2023-1-312",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "能代市（秋田地方法務局能代支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:29:16.804022",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "28edb0a9-a437-4c0f-844e-4eb0f0fe789f",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:29:16.804022",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a4d31328-db47-49df-808a-27da9be20b29",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:29:29.508309",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d4c0e4a0-29b6-4684-b2db-77fc4a2844c0",
+            "last_modified": "2023-08-21T08:29:29.406458",
+            "metadata_modified": "2023-08-21T08:29:29.508309",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05202-4101-2022.zip",
+            "package_id": "a4d31328-db47-49df-808a-27da9be20b29",
+            "position": 1,
+            "resource_type": null,
+            "size": 103876394,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a4d31328-db47-49df-808a-27da9be20b29/resource/d4c0e4a0-29b6-4684-b2db-77fc4a2844c0/download/05202-4101-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:29:53.353285",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "04334f0e-4784-429a-9ab6-bdac3af551db",
+            "last_modified": "2023-08-21T08:29:53.250866",
+            "metadata_modified": "2023-08-21T08:29:53.353285",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05202-4101-2023.zip",
+            "package_id": "a4d31328-db47-49df-808a-27da9be20b29",
+            "position": 2,
+            "resource_type": null,
+            "size": 103979789,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a4d31328-db47-49df-808a-27da9be20b29/resource/04334f0e-4784-429a-9ab6-bdac3af551db/download/05202-4101-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "能代市",
+            "id": "f2fdc2f3-e50a-47d9-8780-e0a4bcc7e0e7",
+            "name": "能代市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "95704d3b-1411-4e12-884c-022a14dbea5a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:09:58.480701",
+        "metadata_modified": "2023-08-31T04:00:20.909063",
+        "name": "houmusyouchizu-2023-1-314",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "大館市（秋田地方法務局大館支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:31:42.317623",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "02317582-0180-406f-bfcb-6fe69833225c",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:31:42.317623",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "95704d3b-1411-4e12-884c-022a14dbea5a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:32:00.143958",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d2f5c06f-d98f-4bf6-8fd4-004bd402b785",
+            "last_modified": "2023-08-21T08:32:00.038776",
+            "metadata_modified": "2023-08-21T08:32:00.143958",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05204-4103-2022.zip",
+            "package_id": "95704d3b-1411-4e12-884c-022a14dbea5a",
+            "position": 1,
+            "resource_type": null,
+            "size": 135444514,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/95704d3b-1411-4e12-884c-022a14dbea5a/resource/d2f5c06f-d98f-4bf6-8fd4-004bd402b785/download/05204-4103-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:32:29.536390",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ec359b71-1c15-4a52-9a18-1149817a8344",
+            "last_modified": "2023-08-21T08:32:29.421966",
+            "metadata_modified": "2023-08-21T08:32:29.536390",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05204-4103-2023.zip",
+            "package_id": "95704d3b-1411-4e12-884c-022a14dbea5a",
+            "position": 2,
+            "resource_type": null,
+            "size": 135207317,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/95704d3b-1411-4e12-884c-022a14dbea5a/resource/ec359b71-1c15-4a52-9a18-1149817a8344/download/05204-4103-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大館市",
+            "id": "cc0f0062-4c5c-4a92-a657-839e1328352f",
+            "name": "大館市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "92be47b9-9eef-44fd-8d98-031b79f7d30e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:09.430572",
+        "metadata_modified": "2023-08-31T04:00:08.316175",
+        "name": "houmusyouchizu-2023-1-333",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "仙北郡角館町（秋田地方法務局大曲支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:35.698679",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "69042336-c1ad-4f7f-b776-0069a2d44334",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:42:35.698679",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "92be47b9-9eef-44fd-8d98-031b79f7d30e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:36.529942",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cce58837-2702-4360-96ac-9ca8a6b3a45b",
+            "last_modified": "2023-08-21T08:42:36.413613",
+            "metadata_modified": "2023-08-21T08:42:36.529942",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05423-4106-2022.zip",
+            "package_id": "92be47b9-9eef-44fd-8d98-031b79f7d30e",
+            "position": 1,
+            "resource_type": null,
+            "size": 13694,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/92be47b9-9eef-44fd-8d98-031b79f7d30e/resource/cce58837-2702-4360-96ac-9ca8a6b3a45b/download/05423-4106-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:38.457403",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5f6326ea-cb35-4e90-ba8b-e7b3374786d3",
+            "last_modified": "2023-08-21T08:42:38.351944",
+            "metadata_modified": "2023-08-21T08:42:38.457403",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05423-4106-2023.zip",
+            "package_id": "92be47b9-9eef-44fd-8d98-031b79f7d30e",
+            "position": 2,
+            "resource_type": null,
+            "size": 13698,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/92be47b9-9eef-44fd-8d98-031b79f7d30e/resource/5f6326ea-cb35-4e90-ba8b-e7b3374786d3/download/05423-4106-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "仙北郡角館町",
+            "id": "144c91dd-2ef3-4283-a05b-3e8038f7e765",
+            "name": "仙北郡角館町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8dda9ade-0a13-443f-bf50-cce958725b7f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:09:59.411334",
+        "metadata_modified": "2023-08-31T04:00:19.623783",
+        "name": "houmusyouchizu-2023-1-316",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "湯沢市（秋田地方法務局大曲支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:33:12.258648",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "386ddb7a-786d-46ed-81b9-be7fd4ea8f01",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:33:12.258648",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8dda9ade-0a13-443f-bf50-cce958725b7f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:33:27.980170",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2b250274-bf65-42d9-bc5e-137955722476",
+            "last_modified": "2023-08-21T08:33:27.842802",
+            "metadata_modified": "2023-08-21T08:33:27.980170",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05207-4106-2022.zip",
+            "package_id": "8dda9ade-0a13-443f-bf50-cce958725b7f",
+            "position": 1,
+            "resource_type": null,
+            "size": 116852327,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8dda9ade-0a13-443f-bf50-cce958725b7f/resource/2b250274-bf65-42d9-bc5e-137955722476/download/05207-4106-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:33:54.944119",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5601bd1f-1fde-48fb-891a-a894d96b15ac",
+            "last_modified": "2023-08-21T08:33:54.834624",
+            "metadata_modified": "2023-08-21T08:33:54.944119",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05207-4106-2023.zip",
+            "package_id": "8dda9ade-0a13-443f-bf50-cce958725b7f",
+            "position": 2,
+            "resource_type": null,
+            "size": 116547950,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8dda9ade-0a13-443f-bf50-cce958725b7f/resource/5601bd1f-1fde-48fb-891a-a894d96b15ac/download/05207-4106-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "湯沢市",
+            "id": "b72d8015-9ed1-45fa-b0c8-c410424f3215",
+            "name": "湯沢市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8ddddf1a-1782-4799-8130-936d8a7d91ff",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:07.198511",
+        "metadata_modified": "2023-08-31T04:00:10.978178",
+        "name": "houmusyouchizu-2023-1-329",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "南秋田郡五城目町（秋田地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:41:46.298768",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "224d3f95-0e66-48fe-9924-dec27cbcc9aa",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:41:46.298768",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8ddddf1a-1782-4799-8130-936d8a7d91ff",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:41:50.760995",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5af4dda8-88f7-42df-9ee9-4f75f10b1ee3",
+            "last_modified": "2023-08-21T08:41:50.657363",
+            "metadata_modified": "2023-08-21T08:41:50.760995",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05361-4100-2022.zip",
+            "package_id": "8ddddf1a-1782-4799-8130-936d8a7d91ff",
+            "position": 1,
+            "resource_type": null,
+            "size": 29345895,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8ddddf1a-1782-4799-8130-936d8a7d91ff/resource/5af4dda8-88f7-42df-9ee9-4f75f10b1ee3/download/05361-4100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:00.364543",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7b316e54-caf9-4d99-b2e7-07ded0c2ce76",
+            "last_modified": "2023-08-21T08:42:00.256518",
+            "metadata_modified": "2023-08-21T08:42:00.364543",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05361-4100-2023.zip",
+            "package_id": "8ddddf1a-1782-4799-8130-936d8a7d91ff",
+            "position": 2,
+            "resource_type": null,
+            "size": 29370808,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8ddddf1a-1782-4799-8130-936d8a7d91ff/resource/7b316e54-caf9-4d99-b2e7-07ded0c2ce76/download/05361-4100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "南秋田郡五城目町",
+            "id": "e546cbc8-e399-4b8b-a7de-996c413a4042",
+            "name": "南秋田郡五城目町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9a6609da-9a51-4fc3-b470-27448503ab12",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:09:58.012661",
+        "metadata_modified": "2023-08-31T04:00:21.597698",
+        "name": "houmusyouchizu-2023-1-313",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "横手市（秋田地方法務局大曲支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:30:03.327015",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "0e89fc05-182e-4823-b348-693587470f3e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:30:03.327015",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9a6609da-9a51-4fc3-b470-27448503ab12",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:30:34.996131",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0dfee211-e871-4806-8017-27b3a359504b",
+            "last_modified": "2023-08-21T08:30:34.886618",
+            "metadata_modified": "2023-08-21T08:30:34.996131",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05203-4106-2022.zip",
+            "package_id": "9a6609da-9a51-4fc3-b470-27448503ab12",
+            "position": 1,
+            "resource_type": null,
+            "size": 210905628,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9a6609da-9a51-4fc3-b470-27448503ab12/resource/0dfee211-e871-4806-8017-27b3a359504b/download/05203-4106-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:31:25.515936",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7f86ac43-3b0c-4588-83de-7ec9cce031fa",
+            "last_modified": "2023-08-21T08:31:25.392215",
+            "metadata_modified": "2023-08-21T08:31:25.515936",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05203-4106-2023.zip",
+            "package_id": "9a6609da-9a51-4fc3-b470-27448503ab12",
+            "position": 2,
+            "resource_type": null,
+            "size": 210642213,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9a6609da-9a51-4fc3-b470-27448503ab12/resource/7f86ac43-3b0c-4588-83de-7ec9cce031fa/download/05203-4106-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "横手市",
+            "id": "4c5f5c3a-0d33-4699-8e33-c5f8b95ddf15",
+            "name": "横手市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ac25c19e-107b-41c5-91cd-f9a17999c108",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:00.366531",
+        "metadata_modified": "2023-08-31T04:00:18.355559",
+        "name": "houmusyouchizu-2023-1-318",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "由利本荘市（秋田地方法務局本荘支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:34:39.476660",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "a5d3d54b-488c-48cc-a7f3-c548e1e04b9d",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:34:39.476660",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ac25c19e-107b-41c5-91cd-f9a17999c108",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:35:07.510518",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d7a14cef-2866-41a7-b5e1-ada64d8f4faa",
+            "last_modified": "2023-08-21T08:35:07.373167",
+            "metadata_modified": "2023-08-21T08:35:07.510518",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05210-4102-2022.zip",
+            "package_id": "ac25c19e-107b-41c5-91cd-f9a17999c108",
+            "position": 1,
+            "resource_type": null,
+            "size": 238248767,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ac25c19e-107b-41c5-91cd-f9a17999c108/resource/d7a14cef-2866-41a7-b5e1-ada64d8f4faa/download/05210-4102-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:35:57.385293",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cc3e7878-539f-477d-bc4c-2483cc2f5d59",
+            "last_modified": "2023-08-21T08:35:57.272625",
+            "metadata_modified": "2023-08-21T08:35:57.385293",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05210-4102-2023.zip",
+            "package_id": "ac25c19e-107b-41c5-91cd-f9a17999c108",
+            "position": 2,
+            "resource_type": null,
+            "size": 238420964,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ac25c19e-107b-41c5-91cd-f9a17999c108/resource/cc3e7878-539f-477d-bc4c-2483cc2f5d59/download/05210-4102-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "由利本荘市",
+            "id": "4b28ee57-305f-4e27-a3a1-00429ea688a9",
+            "name": "由利本荘市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ad2b6fd6-0c35-4515-a90d-78abb6c7492c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:04.093877",
+        "metadata_modified": "2023-08-31T04:00:15.002495",
+        "name": "houmusyouchizu-2023-1-323",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "仙北市（秋田地方法務局大曲支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:39:27.246039",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "848979ec-14cd-4957-8179-caa3cc47850c",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:39:27.246039",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ad2b6fd6-0c35-4515-a90d-78abb6c7492c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:39:41.691666",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1ac014f6-65db-41d6-86c5-19df7b86f533",
+            "last_modified": "2023-08-21T08:39:41.588523",
+            "metadata_modified": "2023-08-21T08:39:41.691666",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05215-4106-2022.zip",
+            "package_id": "ad2b6fd6-0c35-4515-a90d-78abb6c7492c",
+            "position": 1,
+            "resource_type": null,
+            "size": 89416124,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ad2b6fd6-0c35-4515-a90d-78abb6c7492c/resource/1ac014f6-65db-41d6-86c5-19df7b86f533/download/05215-4106-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:40:01.827464",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3ba2136a-e178-4a31-982d-2daba92f6f91",
+            "last_modified": "2023-08-21T08:40:01.722689",
+            "metadata_modified": "2023-08-21T08:40:01.827464",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05215-4106-2023.zip",
+            "package_id": "ad2b6fd6-0c35-4515-a90d-78abb6c7492c",
+            "position": 2,
+            "resource_type": null,
+            "size": 89449086,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ad2b6fd6-0c35-4515-a90d-78abb6c7492c/resource/3ba2136a-e178-4a31-982d-2daba92f6f91/download/05215-4106-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "仙北市",
+            "id": "cd4840dc-94e7-4e8b-87dd-337cd6b41654",
+            "name": "仙北市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d38e2112-d3a3-4a38-8f21-39caebe6b139",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:08.182772",
+        "metadata_modified": "2023-08-31T04:00:09.590202",
+        "name": "houmusyouchizu-2023-1-331",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "南秋田郡井川町（秋田地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:15.236561",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "07bca982-4712-42e2-be78-511f32001713",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:42:15.236561",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d38e2112-d3a3-4a38-8f21-39caebe6b139",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:18.050581",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "8a255cab-d112-477b-9e69-83f7eca6998b",
+            "last_modified": "2023-08-21T08:42:17.949058",
+            "metadata_modified": "2023-08-21T08:42:18.050581",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05366-4100-2022.zip",
+            "package_id": "d38e2112-d3a3-4a38-8f21-39caebe6b139",
+            "position": 1,
+            "resource_type": null,
+            "size": 12955448,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d38e2112-d3a3-4a38-8f21-39caebe6b139/resource/8a255cab-d112-477b-9e69-83f7eca6998b/download/05366-4100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:42:23.456826",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "98a669aa-eb2e-4b1d-a336-3e78b2c21fb3",
+            "last_modified": "2023-08-21T08:42:23.347603",
+            "metadata_modified": "2023-08-21T08:42:23.456826",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05366-4100-2023.zip",
+            "package_id": "d38e2112-d3a3-4a38-8f21-39caebe6b139",
+            "position": 2,
+            "resource_type": null,
+            "size": 12957837,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d38e2112-d3a3-4a38-8f21-39caebe6b139/resource/98a669aa-eb2e-4b1d-a336-3e78b2c21fb3/download/05366-4100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "南秋田郡井川町",
+            "id": "84df98a5-fd7f-41af-b569-fc20f47a2e0b",
+            "name": "南秋田郡井川町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b0d58e2c-cfd0-4282-b28e-f49f8339f4b7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:10:10.641052",
+        "metadata_modified": "2023-08-31T04:00:06.982269",
+        "name": "houmusyouchizu-2023-1-335",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-05akita",
+          "name": "moj-05akita",
+          "title": "05秋田県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:04.849996",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-05akita",
+        "private": false,
+        "state": "active",
+        "title": "雄勝郡羽後町（秋田地方法務局大曲支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:43:02.519333",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "8cdacd0b-fb4d-4d46-a9c3-7e34da13bcc3",
+            "last_modified": null,
+            "metadata_modified": "2023-08-21T08:43:02.519333",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b0d58e2c-cfd0-4282-b28e-f49f8339f4b7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:43:08.683057",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "85d0a50f-4f2c-47cf-8e83-d43cffb6da22",
+            "last_modified": "2023-08-21T08:43:08.580092",
+            "metadata_modified": "2023-08-21T08:43:08.683057",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05463-4106-2022.zip",
+            "package_id": "b0d58e2c-cfd0-4282-b28e-f49f8339f4b7",
+            "position": 1,
+            "resource_type": null,
+            "size": 51108944,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b0d58e2c-cfd0-4282-b28e-f49f8339f4b7/resource/85d0a50f-4f2c-47cf-8e83-d43cffb6da22/download/05463-4106-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-21T08:43:22.359826",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "190e854f-3920-48ef-a0c0-9ea7f94dbdb0",
+            "last_modified": "2023-08-21T08:43:22.221445",
+            "metadata_modified": "2023-08-21T08:43:22.359826",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "05463-4106-2023.zip",
+            "package_id": "b0d58e2c-cfd0-4282-b28e-f49f8339f4b7",
+            "position": 2,
+            "resource_type": null,
+            "size": 51124444,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b0d58e2c-cfd0-4282-b28e-f49f8339f4b7/resource/190e854f-3920-48ef-a0c0-9ea7f94dbdb0/download/05463-4106-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "秋田県",
+            "id": "ef614792-cf16-4a79-9375-a13ba7f94f92",
+            "name": "秋田県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "雄勝郡羽後町",
+            "id": "951433c3-11e7-4890-9c81-703e952f521a",
+            "name": "雄勝郡羽後町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "charge desc",
+    "search_facets": {
+    }
+  }
+}

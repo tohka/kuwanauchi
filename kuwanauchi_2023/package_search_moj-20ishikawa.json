@@ -1,0 +1,3143 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 21,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cf0bb549-ee7a-44aa-998a-1e02c87ad3df",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:49.399067",
+        "metadata_modified": "2023-08-31T03:53:31.059035",
+        "name": "houmusyouchizu-2023-1-892",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "羽咋郡志賀町（金沢地方法務局七尾支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:31:06.675606",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "f8bcf07f-9f2e-4140-8f5b-45124df5093d",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:31:06.675606",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cf0bb549-ee7a-44aa-998a-1e02c87ad3df",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:31:24.521107",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2f341d9e-f72a-4a52-84f0-2015e7ad6a8b",
+            "last_modified": "2023-08-22T02:31:24.368763",
+            "metadata_modified": "2023-08-22T02:31:24.521107",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17384-2202-2022.zip",
+            "package_id": "cf0bb549-ee7a-44aa-998a-1e02c87ad3df",
+            "position": 1,
+            "resource_type": null,
+            "size": 126787254,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cf0bb549-ee7a-44aa-998a-1e02c87ad3df/resource/2f341d9e-f72a-4a52-84f0-2015e7ad6a8b/download/17384-2202-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:31:52.746848",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7eb05174-1f3c-4e26-b13e-6976b69002a1",
+            "last_modified": "2023-08-22T02:31:52.641943",
+            "metadata_modified": "2023-08-22T02:31:52.746848",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17384-2202-2023.zip",
+            "package_id": "cf0bb549-ee7a-44aa-998a-1e02c87ad3df",
+            "position": 2,
+            "resource_type": null,
+            "size": 126582611,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cf0bb549-ee7a-44aa-998a-1e02c87ad3df/resource/7eb05174-1f3c-4e26-b13e-6976b69002a1/download/17384-2202-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "羽咋郡志賀町",
+            "id": "8442dd48-228b-4363-a3e9-fc1e7d82b18c",
+            "name": "羽咋郡志賀町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bc0cf72c-36e9-4918-a055-b15bbc2a2109",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:47.293689",
+        "metadata_modified": "2023-08-31T03:53:33.760513",
+        "name": "houmusyouchizu-2023-1-888",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "石川郡鶴来町（金沢地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:47.198507",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "75675f02-881c-408a-b8d5-628f2d674249",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:29:47.198507",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bc0cf72c-36e9-4918-a055-b15bbc2a2109",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:48.063355",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d6c05956-5927-48f6-88b9-31e8271d1fdf",
+            "last_modified": "2023-08-22T02:29:47.961976",
+            "metadata_modified": "2023-08-22T02:29:48.063355",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17343-2200-2022.zip",
+            "package_id": "bc0cf72c-36e9-4918-a055-b15bbc2a2109",
+            "position": 1,
+            "resource_type": null,
+            "size": 34522,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bc0cf72c-36e9-4918-a055-b15bbc2a2109/resource/d6c05956-5927-48f6-88b9-31e8271d1fdf/download/17343-2200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:50.491382",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "28fc7586-63eb-44b7-b34f-bf242a2564f3",
+            "last_modified": "2023-08-22T02:29:50.387474",
+            "metadata_modified": "2023-08-22T02:29:50.491382",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17343-2200-2023.zip",
+            "package_id": "bc0cf72c-36e9-4918-a055-b15bbc2a2109",
+            "position": 2,
+            "resource_type": null,
+            "size": 34523,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bc0cf72c-36e9-4918-a055-b15bbc2a2109/resource/28fc7586-63eb-44b7-b34f-bf242a2564f3/download/17343-2200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川郡鶴来町",
+            "id": "13ef6c25-3735-4eaf-9d92-c549c15f8852",
+            "name": "石川郡鶴来町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c02cd062-4f2e-4e22-a611-b8722d2fbaf9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:42.576262",
+        "metadata_modified": "2023-08-31T03:53:39.889753",
+        "name": "houmusyouchizu-2023-1-879",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "輪島市（金沢地方法務局輪島支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:20:43.195107",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "97051425-0277-49c9-a097-9976b59f91a6",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:20:43.195107",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c02cd062-4f2e-4e22-a611-b8722d2fbaf9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:21:46.893936",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "8290a5c7-360c-41a7-8e7d-d74dc65f1995",
+            "last_modified": "2023-08-22T02:21:46.730986",
+            "metadata_modified": "2023-08-22T02:21:46.893936",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17204-2203-2022.zip",
+            "package_id": "c02cd062-4f2e-4e22-a611-b8722d2fbaf9",
+            "position": 1,
+            "resource_type": null,
+            "size": 504584109,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c02cd062-4f2e-4e22-a611-b8722d2fbaf9/resource/8290a5c7-360c-41a7-8e7d-d74dc65f1995/download/17204-2203-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:23:31.632412",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a29d6920-2529-4c10-b926-52105aa9f409",
+            "last_modified": "2023-08-22T02:23:31.526962",
+            "metadata_modified": "2023-08-22T02:23:31.632412",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17204-2203-2023.zip",
+            "package_id": "c02cd062-4f2e-4e22-a611-b8722d2fbaf9",
+            "position": 2,
+            "resource_type": null,
+            "size": 504567356,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c02cd062-4f2e-4e22-a611-b8722d2fbaf9/resource/a29d6920-2529-4c10-b926-52105aa9f409/download/17204-2203-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "輪島市",
+            "id": "0a21cce7-bee3-429d-9fc3-41d6a058b41e",
+            "name": "輪島市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "8b9b0dca-21df-4efb-b46c-6f9beda90a3f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:44.542014",
+        "metadata_modified": "2023-08-31T03:53:37.280075",
+        "name": "houmusyouchizu-2023-1-883",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "かほく市（金沢地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:27:09.078535",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "98afad05-35be-4c6d-82ad-e511eff0fcc5",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:27:09.078535",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "8b9b0dca-21df-4efb-b46c-6f9beda90a3f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:27:15.871384",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "79c49fe7-b445-4e67-a449-fc3f881ceab7",
+            "last_modified": "2023-08-22T02:27:15.765363",
+            "metadata_modified": "2023-08-22T02:27:15.871384",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17209-2200-2022.zip",
+            "package_id": "8b9b0dca-21df-4efb-b46c-6f9beda90a3f",
+            "position": 1,
+            "resource_type": null,
+            "size": 47855604,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8b9b0dca-21df-4efb-b46c-6f9beda90a3f/resource/79c49fe7-b445-4e67-a449-fc3f881ceab7/download/17209-2200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:27:31.868503",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "217bacd7-2d8c-4887-adc3-b95a10043ef7",
+            "last_modified": "2023-08-22T02:27:31.766146",
+            "metadata_modified": "2023-08-22T02:27:31.868503",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17209-2200-2023.zip",
+            "package_id": "8b9b0dca-21df-4efb-b46c-6f9beda90a3f",
+            "position": 2,
+            "resource_type": null,
+            "size": 47909033,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/8b9b0dca-21df-4efb-b46c-6f9beda90a3f/resource/217bacd7-2d8c-4887-adc3-b95a10043ef7/download/17209-2200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "かほく市",
+            "id": "763e5bd6-3358-48d1-a945-b893fcde4ccc",
+            "name": "かほく市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "832e55ac-926d-4828-9a15-569b36220218",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:46.271220",
+        "metadata_modified": "2023-08-31T03:53:35.209239",
+        "name": "houmusyouchizu-2023-1-886",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "野々市市（金沢地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:24.094449",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "6844000f-d2f3-4bae-9f23-25019f090b6a",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:29:24.094449",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "832e55ac-926d-4828-9a15-569b36220218",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:26.415644",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9237a0bd-9d37-41d7-b250-e8ef3419d895",
+            "last_modified": "2023-08-22T02:29:26.296597",
+            "metadata_modified": "2023-08-22T02:29:26.415644",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17212-2200-2022.zip",
+            "package_id": "832e55ac-926d-4828-9a15-569b36220218",
+            "position": 1,
+            "resource_type": null,
+            "size": 9229199,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/832e55ac-926d-4828-9a15-569b36220218/resource/9237a0bd-9d37-41d7-b250-e8ef3419d895/download/17212-2200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:31.504898",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a7b5e28a-9e45-413b-80bc-cafa83e079af",
+            "last_modified": "2023-08-22T02:29:31.398795",
+            "metadata_modified": "2023-08-22T02:29:31.504898",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17212-2200-2023.zip",
+            "package_id": "832e55ac-926d-4828-9a15-569b36220218",
+            "position": 2,
+            "resource_type": null,
+            "size": 9280052,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/832e55ac-926d-4828-9a15-569b36220218/resource/a7b5e28a-9e45-413b-80bc-cafa83e079af/download/17212-2200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "野々市市",
+            "id": "f09a7124-d101-48b2-9710-31231c580957",
+            "name": "野々市市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "401960d0-fb91-4da6-a61e-43ba2343fa4d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:45.027015",
+        "metadata_modified": "2023-08-31T03:53:36.546545",
+        "name": "houmusyouchizu-2023-1-884",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "白山市（金沢地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:27:38.354063",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "f1342ae7-7e60-43db-ad7e-ed251b1c3f14",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:27:38.354063",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "401960d0-fb91-4da6-a61e-43ba2343fa4d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:28:01.594842",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3f6a234a-767d-476d-b21f-228cf141cc67",
+            "last_modified": "2023-08-22T02:28:01.488296",
+            "metadata_modified": "2023-08-22T02:28:01.594842",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17210-2200-2022.zip",
+            "package_id": "401960d0-fb91-4da6-a61e-43ba2343fa4d",
+            "position": 1,
+            "resource_type": null,
+            "size": 140783476,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/401960d0-fb91-4da6-a61e-43ba2343fa4d/resource/3f6a234a-767d-476d-b21f-228cf141cc67/download/17210-2200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:28:36.924930",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c57b72c2-2390-426f-8181-1ecea7acfa75",
+            "last_modified": "2023-08-22T02:28:36.816119",
+            "metadata_modified": "2023-08-22T02:28:36.924930",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17210-2200-2023.zip",
+            "package_id": "401960d0-fb91-4da6-a61e-43ba2343fa4d",
+            "position": 2,
+            "resource_type": null,
+            "size": 140855511,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/401960d0-fb91-4da6-a61e-43ba2343fa4d/resource/c57b72c2-2390-426f-8181-1ecea7acfa75/download/17210-2200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "白山市",
+            "id": "6b5cabf7-8949-4e85-b55f-782c6ba1a949",
+            "name": "白山市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "65c92fad-9efe-45e6-a35f-14b630bac415",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:50.569837",
+        "metadata_modified": "2023-08-31T03:53:29.788213",
+        "name": "houmusyouchizu-2023-1-894",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "鹿島郡中能登町（金沢地方法務局七尾支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:32:48.783033",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "8d780e49-de83-46cc-a58f-db90666bf638",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:32:48.783033",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "65c92fad-9efe-45e6-a35f-14b630bac415",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:32:58.811607",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1b0615a2-ff1a-4a04-aa9e-e57e67981423",
+            "last_modified": "2023-08-22T02:32:58.563696",
+            "metadata_modified": "2023-08-22T02:32:58.811607",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17407-2202-2022.zip",
+            "package_id": "65c92fad-9efe-45e6-a35f-14b630bac415",
+            "position": 1,
+            "resource_type": null,
+            "size": 59977115,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/65c92fad-9efe-45e6-a35f-14b630bac415/resource/1b0615a2-ff1a-4a04-aa9e-e57e67981423/download/17407-2202-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:33:14.326511",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1ac68dfc-f2fb-4a47-8bb7-e769d4243877",
+            "last_modified": "2023-08-22T02:33:14.207801",
+            "metadata_modified": "2023-08-22T02:33:14.326511",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17407-2202-2023.zip",
+            "package_id": "65c92fad-9efe-45e6-a35f-14b630bac415",
+            "position": 2,
+            "resource_type": null,
+            "size": 59821904,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/65c92fad-9efe-45e6-a35f-14b630bac415/resource/1ac68dfc-f2fb-4a47-8bb7-e769d4243877/download/17407-2202-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鹿島郡中能登町",
+            "id": "98f4477e-5f87-43aa-8fa8-5c870ff9b8dc",
+            "name": "鹿島郡中能登町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6b65514e-a1ed-4583-9a23-f3a99b454782",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:43.039185",
+        "metadata_modified": "2023-08-31T03:53:39.200127",
+        "name": "houmusyouchizu-2023-1-880",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "珠洲市（金沢地方法務局輪島支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:24:08.683883",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "23f38fb6-0e82-48a3-b604-75901b698160",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:24:08.683883",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6b65514e-a1ed-4583-9a23-f3a99b454782",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:24:35.043536",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3b7db46c-f6cf-4b0e-b000-b061048dd234",
+            "last_modified": "2023-08-22T02:24:34.938128",
+            "metadata_modified": "2023-08-22T02:24:35.043536",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17205-2203-2022.zip",
+            "package_id": "6b65514e-a1ed-4583-9a23-f3a99b454782",
+            "position": 1,
+            "resource_type": null,
+            "size": 216214221,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6b65514e-a1ed-4583-9a23-f3a99b454782/resource/3b7db46c-f6cf-4b0e-b000-b061048dd234/download/17205-2203-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:25:24.372297",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6a1a02af-659a-4829-8938-cd26995dcdad",
+            "last_modified": "2023-08-22T02:25:24.249877",
+            "metadata_modified": "2023-08-22T02:25:24.372297",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17205-2203-2023.zip",
+            "package_id": "6b65514e-a1ed-4583-9a23-f3a99b454782",
+            "position": 2,
+            "resource_type": null,
+            "size": 216235237,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6b65514e-a1ed-4583-9a23-f3a99b454782/resource/6a1a02af-659a-4829-8938-cd26995dcdad/download/17205-2203-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "珠洲市",
+            "id": "bb88769c-2dbb-463d-abae-ea48a282a730",
+            "name": "珠洲市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "22235221-f186-4eec-b4c9-fe9ed2db8247",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:50.083760",
+        "metadata_modified": "2023-08-31T03:53:30.392100",
+        "name": "houmusyouchizu-2023-1-893",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "羽咋郡宝達志水町（金沢地方法務局七尾支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:32:04.249641",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "d12a4992-d6d8-4a04-ad7a-fa485c70afd0",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:32:04.249641",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "22235221-f186-4eec-b4c9-fe9ed2db8247",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:32:16.605700",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "602c1854-7c90-48f3-9c25-55b7f5a929fb",
+            "last_modified": "2023-08-22T02:32:16.491256",
+            "metadata_modified": "2023-08-22T02:32:16.605700",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17386-2202-2022.zip",
+            "package_id": "22235221-f186-4eec-b4c9-fe9ed2db8247",
+            "position": 1,
+            "resource_type": null,
+            "size": 81841610,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/22235221-f186-4eec-b4c9-fe9ed2db8247/resource/602c1854-7c90-48f3-9c25-55b7f5a929fb/download/17386-2202-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:32:37.211405",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6e3a2db7-4b04-4f30-998e-351a75062209",
+            "last_modified": "2023-08-22T02:32:37.107489",
+            "metadata_modified": "2023-08-22T02:32:37.211405",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17386-2202-2023.zip",
+            "package_id": "22235221-f186-4eec-b4c9-fe9ed2db8247",
+            "position": 2,
+            "resource_type": null,
+            "size": 81845801,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/22235221-f186-4eec-b4c9-fe9ed2db8247/resource/6e3a2db7-4b04-4f30-998e-351a75062209/download/17386-2202-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "羽咋郡宝達志水町",
+            "id": "bf075054-a461-4db5-8b30-f7ede035a8c2",
+            "name": "羽咋郡宝達志水町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "22f636c5-3a05-4896-a53f-153ced5f2956",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:41.196282",
+        "metadata_modified": "2023-08-31T03:53:41.841019",
+        "name": "houmusyouchizu-2023-1-876",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "金沢市（金沢地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:15:19.872112",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "cb064850-7369-441d-95e7-05fee371cb9b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:15:19.872112",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "22f636c5-3a05-4896-a53f-153ced5f2956",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:16:08.145208",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "47f81331-5b0d-4b65-ba70-d605ab3461ea",
+            "last_modified": "2023-08-22T02:16:08.035145",
+            "metadata_modified": "2023-08-22T02:16:08.145208",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17201-2200-2022.zip",
+            "package_id": "22f636c5-3a05-4896-a53f-153ced5f2956",
+            "position": 1,
+            "resource_type": null,
+            "size": 332668785,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/22f636c5-3a05-4896-a53f-153ced5f2956/resource/47f81331-5b0d-4b65-ba70-d605ab3461ea/download/17201-2200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:17:22.727369",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "86321d17-3f12-45a6-911c-525c5d35b47c",
+            "last_modified": "2023-08-22T02:17:22.622012",
+            "metadata_modified": "2023-08-22T02:17:22.727369",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17201-2200-2023.zip",
+            "package_id": "22f636c5-3a05-4896-a53f-153ced5f2956",
+            "position": 2,
+            "resource_type": null,
+            "size": 332839325,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/22f636c5-3a05-4896-a53f-153ced5f2956/resource/86321d17-3f12-45a6-911c-525c5d35b47c/download/17201-2200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "金沢市",
+            "id": "8ebd8510-e883-4560-b775-8a92bf231307",
+            "name": "金沢市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3002b136-031a-49f5-afce-066093878344",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:43.494385",
+        "metadata_modified": "2023-08-31T03:53:38.549470",
+        "name": "houmusyouchizu-2023-1-881",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "加賀市（金沢地方法務局小松支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:25:43.586107",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "21e37f85-8204-4e9b-8591-96e5a0ebe292",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:25:43.586107",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3002b136-031a-49f5-afce-066093878344",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:25:59.647120",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3c146adf-7273-4503-9473-c599d0fac261",
+            "last_modified": "2023-08-22T02:25:59.544069",
+            "metadata_modified": "2023-08-22T02:25:59.647120",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17206-2201-2022.zip",
+            "package_id": "3002b136-031a-49f5-afce-066093878344",
+            "position": 1,
+            "resource_type": null,
+            "size": 119501377,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3002b136-031a-49f5-afce-066093878344/resource/3c146adf-7273-4503-9473-c599d0fac261/download/17206-2201-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:26:32.410534",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7719a592-a190-4e76-9dc9-d39cf4290421",
+            "last_modified": "2023-08-22T02:26:32.205758",
+            "metadata_modified": "2023-08-22T02:26:32.410534",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17206-2201-2023.zip",
+            "package_id": "3002b136-031a-49f5-afce-066093878344",
+            "position": 2,
+            "resource_type": null,
+            "size": 119599858,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3002b136-031a-49f5-afce-066093878344/resource/7719a592-a190-4e76-9dc9-d39cf4290421/download/17206-2201-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "加賀市",
+            "id": "9940ddfb-e0bb-4741-a51e-bed38c6214b5",
+            "name": "加賀市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "326251be-7f9d-416b-aaf3-94219c511f1c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:41.650762",
+        "metadata_modified": "2023-08-31T03:53:41.225396",
+        "name": "houmusyouchizu-2023-1-877",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "七尾市（金沢地方法務局七尾支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:17:48.204891",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "3d1cdec8-1669-4f18-bfba-e8d60b7483ec",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:17:48.204891",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "326251be-7f9d-416b-aaf3-94219c511f1c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:18:17.578272",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "25071adf-0499-42be-9026-66123a4f130c",
+            "last_modified": "2023-08-22T02:18:17.456132",
+            "metadata_modified": "2023-08-22T02:18:17.578272",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17202-2202-2022.zip",
+            "package_id": "326251be-7f9d-416b-aaf3-94219c511f1c",
+            "position": 1,
+            "resource_type": null,
+            "size": 234208653,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/326251be-7f9d-416b-aaf3-94219c511f1c/resource/25071adf-0499-42be-9026-66123a4f130c/download/17202-2202-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:19:12.774210",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c03be90b-1faa-446f-a7d5-085dd28cc47b",
+            "last_modified": "2023-08-22T02:19:12.652617",
+            "metadata_modified": "2023-08-22T02:19:12.774210",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17202-2202-2023.zip",
+            "package_id": "326251be-7f9d-416b-aaf3-94219c511f1c",
+            "position": 2,
+            "resource_type": null,
+            "size": 234101409,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/326251be-7f9d-416b-aaf3-94219c511f1c/resource/c03be90b-1faa-446f-a7d5-085dd28cc47b/download/17202-2202-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "七尾市",
+            "id": "a3bafe63-024d-46a0-bc86-9327df0ce468",
+            "name": "七尾市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0e2f1e07-dc3c-40b9-897d-18b8c3d36edd",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:48.440609",
+        "metadata_modified": "2023-08-31T03:53:32.399343",
+        "name": "houmusyouchizu-2023-1-890",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "河北郡津幡町（金沢地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:30:00.840579",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "d95519a9-2b0c-4aac-bdd5-3f4e06875436",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:30:00.840579",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0e2f1e07-dc3c-40b9-897d-18b8c3d36edd",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:30:20.669300",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "970ca04a-9046-41bc-a6cd-d161e2a2ac1a",
+            "last_modified": "2023-08-22T02:30:20.563886",
+            "metadata_modified": "2023-08-22T02:30:20.669300",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17361-2200-2022.zip",
+            "package_id": "0e2f1e07-dc3c-40b9-897d-18b8c3d36edd",
+            "position": 1,
+            "resource_type": null,
+            "size": 110597850,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0e2f1e07-dc3c-40b9-897d-18b8c3d36edd/resource/970ca04a-9046-41bc-a6cd-d161e2a2ac1a/download/17361-2200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:30:47.037490",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d99c077d-3c1e-4643-9a23-6d96f9409658",
+            "last_modified": "2023-08-22T02:30:46.906553",
+            "metadata_modified": "2023-08-22T02:30:47.037490",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17361-2200-2023.zip",
+            "package_id": "0e2f1e07-dc3c-40b9-897d-18b8c3d36edd",
+            "position": 2,
+            "resource_type": null,
+            "size": 110645086,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0e2f1e07-dc3c-40b9-897d-18b8c3d36edd/resource/d99c077d-3c1e-4643-9a23-6d96f9409658/download/17361-2200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "河北郡津幡町",
+            "id": "30dc4960-fdb8-4f45-a617-a878d7e45f48",
+            "name": "河北郡津幡町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "07251f4b-fac6-46c2-a57f-0cbe901e28b1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:47.979336",
+        "metadata_modified": "2023-08-31T03:53:33.043024",
+        "name": "houmusyouchizu-2023-1-889",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "石川郡野々市町（金沢地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:52.645612",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "e4135c2c-95d4-48dc-8b1a-13a771bdfa0d",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:29:52.645612",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "07251f4b-fac6-46c2-a57f-0cbe901e28b1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:53.940651",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a593946b-56dd-495d-af1f-c847040ac22f",
+            "last_modified": "2023-08-22T02:29:53.837589",
+            "metadata_modified": "2023-08-22T02:29:53.940651",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17344-2200-2022.zip",
+            "package_id": "07251f4b-fac6-46c2-a57f-0cbe901e28b1",
+            "position": 1,
+            "resource_type": null,
+            "size": 3089897,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/07251f4b-fac6-46c2-a57f-0cbe901e28b1/resource/a593946b-56dd-495d-af1f-c847040ac22f/download/17344-2200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:57.447579",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c45085a0-5f0a-42f6-8346-d4a2fdedfddf",
+            "last_modified": "2023-08-22T02:29:57.341131",
+            "metadata_modified": "2023-08-22T02:29:57.447579",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17344-2200-2023.zip",
+            "package_id": "07251f4b-fac6-46c2-a57f-0cbe901e28b1",
+            "position": 2,
+            "resource_type": null,
+            "size": 3088861,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/07251f4b-fac6-46c2-a57f-0cbe901e28b1/resource/c45085a0-5f0a-42f6-8346-d4a2fdedfddf/download/17344-2200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川郡野々市町",
+            "id": "3af8bf3a-3622-4887-b61d-a4c6a0e5007d",
+            "name": "石川郡野々市町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "93347297-1360-40c1-9f03-f18a426d4f61",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:45.705429",
+        "metadata_modified": "2023-08-31T03:53:35.851713",
+        "name": "houmusyouchizu-2023-1-885",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "能美市（金沢地方法務局小松支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:28:49.879683",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "5e69fc61-97f6-49c0-bd7e-ab2b45c8a1b1",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:28:49.879683",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "93347297-1360-40c1-9f03-f18a426d4f61",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:28:59.211205",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d052f3b4-be46-40d1-8e3d-a9cc4d5ae731",
+            "last_modified": "2023-08-22T02:28:59.055589",
+            "metadata_modified": "2023-08-22T02:28:59.211205",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17211-2201-2022.zip",
+            "package_id": "93347297-1360-40c1-9f03-f18a426d4f61",
+            "position": 1,
+            "resource_type": null,
+            "size": 52097014,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/93347297-1360-40c1-9f03-f18a426d4f61/resource/d052f3b4-be46-40d1-8e3d-a9cc4d5ae731/download/17211-2201-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:17.557083",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "626164f6-b8e3-4ce0-89d6-5ecfd701fee9",
+            "last_modified": "2023-08-22T02:29:17.453249",
+            "metadata_modified": "2023-08-22T02:29:17.557083",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17211-2201-2023.zip",
+            "package_id": "93347297-1360-40c1-9f03-f18a426d4f61",
+            "position": 2,
+            "resource_type": null,
+            "size": 52138845,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/93347297-1360-40c1-9f03-f18a426d4f61/resource/626164f6-b8e3-4ce0-89d6-5ecfd701fee9/download/17211-2201-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "能美市",
+            "id": "6a429d20-aa79-4e7b-9850-88f8e33a288e",
+            "name": "能美市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9cafe3b1-998c-4630-98e3-3f82e11f2c59",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:46.794972",
+        "metadata_modified": "2023-08-31T03:53:34.480313",
+        "name": "houmusyouchizu-2023-1-887",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "能美郡川北町（金沢地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:35.237793",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "918dc181-542c-4e47-a9f3-e3df0e488367",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:29:35.237793",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9cafe3b1-998c-4630-98e3-3f82e11f2c59",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:37.796908",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "141f9419-6886-4214-b430-a354a5155990",
+            "last_modified": "2023-08-22T02:29:37.683268",
+            "metadata_modified": "2023-08-22T02:29:37.796908",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17324-2200-2022.zip",
+            "package_id": "9cafe3b1-998c-4630-98e3-3f82e11f2c59",
+            "position": 1,
+            "resource_type": null,
+            "size": 10403002,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9cafe3b1-998c-4630-98e3-3f82e11f2c59/resource/141f9419-6886-4214-b430-a354a5155990/download/17324-2200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:29:43.277380",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d7cfc031-86cf-49b3-80d0-86bae5e8afb9",
+            "last_modified": "2023-08-22T02:29:43.162704",
+            "metadata_modified": "2023-08-22T02:29:43.277380",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17324-2200-2023.zip",
+            "package_id": "9cafe3b1-998c-4630-98e3-3f82e11f2c59",
+            "position": 2,
+            "resource_type": null,
+            "size": 10410950,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9cafe3b1-998c-4630-98e3-3f82e11f2c59/resource/d7cfc031-86cf-49b3-80d0-86bae5e8afb9/download/17324-2200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "能美郡川北町",
+            "id": "580ebdce-9090-4594-8438-549de0fe4a9f",
+            "name": "能美郡川北町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9e22678c-cec0-45a5-8256-4396e750dd91",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:48.898208",
+        "metadata_modified": "2023-08-31T03:53:31.709799",
+        "name": "houmusyouchizu-2023-1-891",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "河北郡内灘町（金沢地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:30:57.438997",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "47db36c5-f2cc-43e7-808a-9fdfab8d63ea",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:30:57.438997",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9e22678c-cec0-45a5-8256-4396e750dd91",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:30:59.018919",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "bdb072ed-8b8a-44da-8a08-b2ca5d355ef5",
+            "last_modified": "2023-08-22T02:30:58.890934",
+            "metadata_modified": "2023-08-22T02:30:59.018919",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17365-2200-2022.zip",
+            "package_id": "9e22678c-cec0-45a5-8256-4396e750dd91",
+            "position": 1,
+            "resource_type": null,
+            "size": 5597465,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9e22678c-cec0-45a5-8256-4396e750dd91/resource/bdb072ed-8b8a-44da-8a08-b2ca5d355ef5/download/17365-2200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:31:03.136958",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6c14942c-498c-457f-bcbd-46a2ea8b25fa",
+            "last_modified": "2023-08-22T02:31:03.029179",
+            "metadata_modified": "2023-08-22T02:31:03.136958",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17365-2200-2023.zip",
+            "package_id": "9e22678c-cec0-45a5-8256-4396e750dd91",
+            "position": 2,
+            "resource_type": null,
+            "size": 5599105,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9e22678c-cec0-45a5-8256-4396e750dd91/resource/6c14942c-498c-457f-bcbd-46a2ea8b25fa/download/17365-2200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "河北郡内灘町",
+            "id": "bb357694-8fff-4e69-9b36-2e12268685a3",
+            "name": "河北郡内灘町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "86983ea5-7066-48de-aa15-08342cc9cdb4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:44.063374",
+        "metadata_modified": "2023-08-31T03:53:37.890413",
+        "name": "houmusyouchizu-2023-1-882",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "羽咋市（金沢地方法務局七尾支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:26:43.819902",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "7a78d987-4211-4733-b99d-ba308c37b086",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:26:43.819902",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "86983ea5-7066-48de-aa15-08342cc9cdb4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:26:51.352128",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "19fb2d27-41c4-4a5c-8c23-982159e30de8",
+            "last_modified": "2023-08-22T02:26:51.249183",
+            "metadata_modified": "2023-08-22T02:26:51.352128",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17207-2202-2022.zip",
+            "package_id": "86983ea5-7066-48de-aa15-08342cc9cdb4",
+            "position": 1,
+            "resource_type": null,
+            "size": 44510084,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/86983ea5-7066-48de-aa15-08342cc9cdb4/resource/19fb2d27-41c4-4a5c-8c23-982159e30de8/download/17207-2202-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:27:03.098059",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0e5e6a4c-8406-4fc4-8f21-d29d642d4d4d",
+            "last_modified": "2023-08-22T02:27:02.988885",
+            "metadata_modified": "2023-08-22T02:27:03.098059",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17207-2202-2023.zip",
+            "package_id": "86983ea5-7066-48de-aa15-08342cc9cdb4",
+            "position": 2,
+            "resource_type": null,
+            "size": 44526661,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/86983ea5-7066-48de-aa15-08342cc9cdb4/resource/0e5e6a4c-8406-4fc4-8f21-d29d642d4d4d/download/17207-2202-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "羽咋市",
+            "id": "ea1705a0-5d23-4d5b-81d4-c9b02b6f9e1d",
+            "name": "羽咋市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d3269647-f858-4b73-a396-e1ae01ef9547",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:42.112057",
+        "metadata_modified": "2023-08-31T03:53:40.526016",
+        "name": "houmusyouchizu-2023-1-878",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "小松市（金沢地方法務局小松支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:19:31.840663",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "f6cd0087-90ca-4bc2-8c23-986ec7880152",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:19:31.840663",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d3269647-f858-4b73-a396-e1ae01ef9547",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:19:54.267342",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b1e78cb8-7be9-4a47-b5cb-898ffafa9eff",
+            "last_modified": "2023-08-22T02:19:54.158791",
+            "metadata_modified": "2023-08-22T02:19:54.267342",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17203-2201-2022.zip",
+            "package_id": "d3269647-f858-4b73-a396-e1ae01ef9547",
+            "position": 1,
+            "resource_type": null,
+            "size": 155622044,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d3269647-f858-4b73-a396-e1ae01ef9547/resource/b1e78cb8-7be9-4a47-b5cb-898ffafa9eff/download/17203-2201-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:20:29.617384",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9aae67fc-25df-4222-ab5f-879fce01df34",
+            "last_modified": "2023-08-22T02:20:29.511172",
+            "metadata_modified": "2023-08-22T02:20:29.617384",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17203-2201-2023.zip",
+            "package_id": "d3269647-f858-4b73-a396-e1ae01ef9547",
+            "position": 2,
+            "resource_type": null,
+            "size": 155683363,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d3269647-f858-4b73-a396-e1ae01ef9547/resource/9aae67fc-25df-4222-ab5f-879fce01df34/download/17203-2201-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "小松市",
+            "id": "c91b84b4-3788-4970-94d3-e47665fe1810",
+            "name": "小松市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f4f1253e-efbd-40ae-b295-9fdb7190c23e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:51.522559",
+        "metadata_modified": "2023-08-31T03:53:28.534625",
+        "name": "houmusyouchizu-2023-1-896",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "鳳珠郡能登町（金沢地方法務局輪島支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:34:21.978102",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "447856fa-82b5-4161-ac96-20600c75179b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:34:21.978102",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f4f1253e-efbd-40ae-b295-9fdb7190c23e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:34:53.854952",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "08fa78e9-16d1-438b-bb92-a58e11e285a3",
+            "last_modified": "2023-08-22T02:34:53.749056",
+            "metadata_modified": "2023-08-22T02:34:53.854952",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17463-2203-2022.zip",
+            "package_id": "f4f1253e-efbd-40ae-b295-9fdb7190c23e",
+            "position": 1,
+            "resource_type": null,
+            "size": 259350366,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f4f1253e-efbd-40ae-b295-9fdb7190c23e/resource/08fa78e9-16d1-438b-bb92-a58e11e285a3/download/17463-2203-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:35:50.675853",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9bc85497-192d-4f18-8abd-f7bc2ad1f4f7",
+            "last_modified": "2023-08-22T02:35:50.570711",
+            "metadata_modified": "2023-08-22T02:35:50.675853",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17463-2203-2023.zip",
+            "package_id": "f4f1253e-efbd-40ae-b295-9fdb7190c23e",
+            "position": 2,
+            "resource_type": null,
+            "size": 259062671,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f4f1253e-efbd-40ae-b295-9fdb7190c23e/resource/9bc85497-192d-4f18-8abd-f7bc2ad1f4f7/download/17463-2203-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳳珠郡能登町",
+            "id": "d32e95e7-f8eb-4046-934b-d12f1b1a8550",
+            "name": "鳳珠郡能登町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "fcfb4c9b-016c-4a9b-b5c3-44311e96ce7e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:51.036267",
+        "metadata_modified": "2023-08-31T03:53:29.175608",
+        "name": "houmusyouchizu-2023-1-895",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-20ishikawa",
+          "name": "moj-20ishikawa",
+          "title": "20石川県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:20.113659",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-20ishikawa",
+        "private": false,
+        "state": "active",
+        "title": "鳳珠郡穴水町（金沢地方法務局輪島支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:33:21.188815",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "34abd5a2-a488-48cb-bbc5-e2c9c1777586",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:33:21.188815",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "fcfb4c9b-016c-4a9b-b5c3-44311e96ce7e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:33:39.824031",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d5c24e86-afbe-4964-b25a-979bad2317bc",
+            "last_modified": "2023-08-22T02:33:39.721142",
+            "metadata_modified": "2023-08-22T02:33:39.824031",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17461-2203-2022.zip",
+            "package_id": "fcfb4c9b-016c-4a9b-b5c3-44311e96ce7e",
+            "position": 1,
+            "resource_type": null,
+            "size": 138963768,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fcfb4c9b-016c-4a9b-b5c3-44311e96ce7e/resource/d5c24e86-afbe-4964-b25a-979bad2317bc/download/17461-2203-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:34:09.319268",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5c7c6cae-ceae-494f-a5fa-f20daae5158e",
+            "last_modified": "2023-08-22T02:34:09.216147",
+            "metadata_modified": "2023-08-22T02:34:09.319268",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "17461-2203-2023.zip",
+            "package_id": "fcfb4c9b-016c-4a9b-b5c3-44311e96ce7e",
+            "position": 2,
+            "resource_type": null,
+            "size": 138973663,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fcfb4c9b-016c-4a9b-b5c3-44311e96ce7e/resource/5c7c6cae-ceae-494f-a5fa-f20daae5158e/download/17461-2203-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "石川県",
+            "id": "c74750ee-c0d8-4684-8afa-61dc8d7c433e",
+            "name": "石川県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳳珠郡穴水町",
+            "id": "a67ea594-b83f-4c7f-988b-2b49ee954e5d",
+            "name": "鳳珠郡穴水町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "charge desc",
+    "search_facets": {
+    }
+  }
+}

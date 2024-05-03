@@ -1,0 +1,3099 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 21,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bea0721b-82bd-4dcf-a33b-4cf840180add",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:35.351052",
+        "metadata_modified": "2023-08-31T03:41:22.631405",
+        "name": "houmusyouchizu-2023-1-1936",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "豊後大野市（大分地方法務局竹田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:36:35.631291",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "159eacf0-f162-4b13-ae41-bdd34102d8be",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:36:35.631291",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bea0721b-82bd-4dcf-a33b-4cf840180add",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:37:17.458036",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "8e4a3655-6110-4b45-8bd1-e35ca5ed9fb1",
+            "last_modified": "2023-08-22T12:37:17.349322",
+            "metadata_modified": "2023-08-22T12:37:17.458036",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44212-3204-2022.zip",
+            "package_id": "bea0721b-82bd-4dcf-a33b-4cf840180add",
+            "position": 1,
+            "resource_type": null,
+            "size": 240255168,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bea0721b-82bd-4dcf-a33b-4cf840180add/resource/8e4a3655-6110-4b45-8bd1-e35ca5ed9fb1/download/44212-3204-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:38:09.868641",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "94564cec-8705-4c43-92c7-5bfaecd4da2e",
+            "last_modified": "2023-08-22T12:38:09.762316",
+            "metadata_modified": "2023-08-22T12:38:09.868641",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44212-3204-2023.zip",
+            "package_id": "bea0721b-82bd-4dcf-a33b-4cf840180add",
+            "position": 2,
+            "resource_type": null,
+            "size": 240320604,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bea0721b-82bd-4dcf-a33b-4cf840180add/resource/94564cec-8705-4c43-92c7-5bfaecd4da2e/download/44212-3204-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "豊後大野市",
+            "id": "96a2708d-ac4f-4f8e-92b8-c425c9aea0e1",
+            "name": "豊後大野市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "cba4182e-d433-4fa1-a3ca-c508f68c653c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:32.985179",
+        "metadata_modified": "2023-08-31T03:41:26.315927",
+        "name": "houmusyouchizu-2023-1-1931",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "津久見市（大分地方法務局佐伯支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:31:02.242387",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "3d2c9f35-b817-4dcc-9996-b34686f53ccc",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:31:02.242387",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "cba4182e-d433-4fa1-a3ca-c508f68c653c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:31:12.291722",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "60ee7a1b-1d0a-41e7-9794-26b42f323aa4",
+            "last_modified": "2023-08-22T12:31:12.166512",
+            "metadata_modified": "2023-08-22T12:31:12.291722",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44207-3203-2022.zip",
+            "package_id": "cba4182e-d433-4fa1-a3ca-c508f68c653c",
+            "position": 1,
+            "resource_type": null,
+            "size": 52068062,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cba4182e-d433-4fa1-a3ca-c508f68c653c/resource/60ee7a1b-1d0a-41e7-9794-26b42f323aa4/download/44207-3203-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:31:30.929990",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c780e6b5-f672-41e4-87ec-5f4dee1b6f55",
+            "last_modified": "2023-08-22T12:31:30.821858",
+            "metadata_modified": "2023-08-22T12:31:30.929990",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44207-3203-2023.zip",
+            "package_id": "cba4182e-d433-4fa1-a3ca-c508f68c653c",
+            "position": 2,
+            "resource_type": null,
+            "size": 52000826,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/cba4182e-d433-4fa1-a3ca-c508f68c653c/resource/c780e6b5-f672-41e4-87ec-5f4dee1b6f55/download/44207-3203-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "津久見市",
+            "id": "c291cf4c-9811-4902-a3c0-df4b8591b9cc",
+            "name": "津久見市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e22ec124-a788-4d3b-b6d0-ff1037c830fe",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:31.010453",
+        "metadata_modified": "2023-08-31T03:41:29.451452",
+        "name": "houmusyouchizu-2023-1-1927",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "中津市（大分地方法務局中津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:24:44.666062",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "e7454da4-8210-47d3-ab90-08285821c003",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:24:44.666062",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e22ec124-a788-4d3b-b6d0-ff1037c830fe",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:25:12.726515",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "8e3fd96a-2a34-4904-82f4-202c851b42f0",
+            "last_modified": "2023-08-22T12:25:12.605474",
+            "metadata_modified": "2023-08-22T12:25:12.726515",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44203-3205-2022.zip",
+            "package_id": "e22ec124-a788-4d3b-b6d0-ff1037c830fe",
+            "position": 1,
+            "resource_type": null,
+            "size": 155198749,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e22ec124-a788-4d3b-b6d0-ff1037c830fe/resource/8e3fd96a-2a34-4904-82f4-202c851b42f0/download/44203-3205-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:25:47.156424",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "faf0dbe4-bb04-4a95-9d6b-d688dca149ed",
+            "last_modified": "2023-08-22T12:25:47.038779",
+            "metadata_modified": "2023-08-22T12:25:47.156424",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44203-3205-2023.zip",
+            "package_id": "e22ec124-a788-4d3b-b6d0-ff1037c830fe",
+            "position": 2,
+            "resource_type": null,
+            "size": 155584376,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e22ec124-a788-4d3b-b6d0-ff1037c830fe/resource/faf0dbe4-bb04-4a95-9d6b-d688dca149ed/download/44203-3205-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "中津市",
+            "id": "b07b9169-9053-4c9d-968c-b0696c17ebac",
+            "name": "中津市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "70f4afdd-b06d-41cf-8bd3-21fe54dbb585",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:33.910183",
+        "metadata_modified": "2023-08-31T03:41:24.894260",
+        "name": "houmusyouchizu-2023-1-1933",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "豊後高田市（大分地方法務局宇佐支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:33:17.579659",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ed5a5bc2-e97c-435d-b89d-a4d8c88b85dc",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:33:17.579659",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "70f4afdd-b06d-41cf-8bd3-21fe54dbb585",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:33:33.487907",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "be4be410-8082-468a-bb10-8f451b548b9f",
+            "last_modified": "2023-08-22T12:33:33.382547",
+            "metadata_modified": "2023-08-22T12:33:33.487907",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44209-3231-2022.zip",
+            "package_id": "70f4afdd-b06d-41cf-8bd3-21fe54dbb585",
+            "position": 1,
+            "resource_type": null,
+            "size": 101925966,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/70f4afdd-b06d-41cf-8bd3-21fe54dbb585/resource/be4be410-8082-468a-bb10-8f451b548b9f/download/44209-3231-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:33:58.245285",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2da55594-95bd-4c18-8782-5a90537b1745",
+            "last_modified": "2023-08-22T12:33:58.142521",
+            "metadata_modified": "2023-08-22T12:33:58.245285",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44209-3231-2023.zip",
+            "package_id": "70f4afdd-b06d-41cf-8bd3-21fe54dbb585",
+            "position": 2,
+            "resource_type": null,
+            "size": 101965085,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/70f4afdd-b06d-41cf-8bd3-21fe54dbb585/resource/2da55594-95bd-4c18-8782-5a90537b1745/download/44209-3231-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "豊後高田市",
+            "id": "eda22729-796a-4e31-848a-c1ac28c9129d",
+            "name": "豊後高田市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "56af1b9e-ec2b-4b13-a565-2a3884a53b5f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:34.403875",
+        "metadata_modified": "2023-08-31T03:41:24.035150",
+        "name": "houmusyouchizu-2023-1-1934",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "杵築市（大分地方法務局杵築支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:34:07.669729",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "d3c33d59-c762-4785-bd33-e0c97de6111b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:34:07.669729",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "56af1b9e-ec2b-4b13-a565-2a3884a53b5f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:34:25.227448",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "18d40e8f-70aa-48d2-99fd-f8ba2b76fd02",
+            "last_modified": "2023-08-22T12:34:25.120492",
+            "metadata_modified": "2023-08-22T12:34:25.227448",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44210-3201-2022.zip",
+            "package_id": "56af1b9e-ec2b-4b13-a565-2a3884a53b5f",
+            "position": 1,
+            "resource_type": null,
+            "size": 126002619,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/56af1b9e-ec2b-4b13-a565-2a3884a53b5f/resource/18d40e8f-70aa-48d2-99fd-f8ba2b76fd02/download/44210-3201-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:34:54.561401",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ea29e8d1-3c39-4383-8733-de746189249e",
+            "last_modified": "2023-08-22T12:34:54.456247",
+            "metadata_modified": "2023-08-22T12:34:54.561401",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44210-3201-2023.zip",
+            "package_id": "56af1b9e-ec2b-4b13-a565-2a3884a53b5f",
+            "position": 2,
+            "resource_type": null,
+            "size": 126069505,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/56af1b9e-ec2b-4b13-a565-2a3884a53b5f/resource/ea29e8d1-3c39-4383-8733-de746189249e/download/44210-3201-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "杵築市",
+            "id": "5dcdfa97-0ded-49e9-988b-897f601c2b90",
+            "name": "杵築市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "59eeb8f1-c4fc-48d7-8bfb-7908d304c495",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:34.864035",
+        "metadata_modified": "2023-08-31T03:41:23.382426",
+        "name": "houmusyouchizu-2023-1-1935",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "宇佐市（大分地方法務局宇佐支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:35:07.626693",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "4d603092-866e-409c-978a-c5ab830daf1b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:35:07.626693",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "59eeb8f1-c4fc-48d7-8bfb-7908d304c495",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:35:37.259095",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "95a60a51-893c-4d96-9f74-e0f4612c010c",
+            "last_modified": "2023-08-22T12:35:37.150848",
+            "metadata_modified": "2023-08-22T12:35:37.259095",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44211-3231-2022.zip",
+            "package_id": "59eeb8f1-c4fc-48d7-8bfb-7908d304c495",
+            "position": 1,
+            "resource_type": null,
+            "size": 182861078,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/59eeb8f1-c4fc-48d7-8bfb-7908d304c495/resource/95a60a51-893c-4d96-9f74-e0f4612c010c/download/44211-3231-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:36:20.329364",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3675a639-673e-47a6-85a6-a5dbaeafe6a5",
+            "last_modified": "2023-08-22T12:36:20.214097",
+            "metadata_modified": "2023-08-22T12:36:20.329364",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44211-3231-2023.zip",
+            "package_id": "59eeb8f1-c4fc-48d7-8bfb-7908d304c495",
+            "position": 2,
+            "resource_type": null,
+            "size": 182862359,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/59eeb8f1-c4fc-48d7-8bfb-7908d304c495/resource/3675a639-673e-47a6-85a6-a5dbaeafe6a5/download/44211-3231-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "宇佐市",
+            "id": "bbe72439-baa5-493d-93e6-76a6d217563a",
+            "name": "宇佐市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "158e67a6-b530-4e16-9b69-76d1e2c4eec1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:36.560743",
+        "metadata_modified": "2023-08-31T03:41:20.997808",
+        "name": "houmusyouchizu-2023-1-1938",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "国東市（大分地方法務局杵築支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:39:43.984883",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "9a134af4-d7c4-4029-a737-b028f5614cef",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:39:43.984883",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "158e67a6-b530-4e16-9b69-76d1e2c4eec1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:40:06.596890",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a7900b8e-6174-4fa8-bd2e-8e891ffd601e",
+            "last_modified": "2023-08-22T12:40:06.492315",
+            "metadata_modified": "2023-08-22T12:40:06.596890",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44214-3201-2022.zip",
+            "package_id": "158e67a6-b530-4e16-9b69-76d1e2c4eec1",
+            "position": 1,
+            "resource_type": null,
+            "size": 163381347,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/158e67a6-b530-4e16-9b69-76d1e2c4eec1/resource/a7900b8e-6174-4fa8-bd2e-8e891ffd601e/download/44214-3201-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:40:45.937588",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4407b508-5e47-474a-9d57-f7d54f613f16",
+            "last_modified": "2023-08-22T12:40:45.832338",
+            "metadata_modified": "2023-08-22T12:40:45.937588",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44214-3201-2023.zip",
+            "package_id": "158e67a6-b530-4e16-9b69-76d1e2c4eec1",
+            "position": 2,
+            "resource_type": null,
+            "size": 163441506,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/158e67a6-b530-4e16-9b69-76d1e2c4eec1/resource/4407b508-5e47-474a-9d57-f7d54f613f16/download/44214-3201-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "国東市",
+            "id": "58201197-9790-4b39-b9dd-a6cd09da23ff",
+            "name": "国東市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "40d044d3-fcaa-4dfb-810e-ba5fc92d0f34",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:37.067994",
+        "metadata_modified": "2023-08-31T03:41:20.063181",
+        "name": "houmusyouchizu-2023-1-1939",
+        "notes": null,
+        "num_resources": 2,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "東国東郡国見町（大分地方法務局杵築支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:40:59.582004",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "66e209c3-c192-4566-a752-27732cef91a1",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:40:59.582004",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "40d044d3-fcaa-4dfb-810e-ba5fc92d0f34",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:00.329244",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2a27ba13-f705-436c-bdf6-13f5a8c4535f",
+            "last_modified": "2023-08-22T12:41:00.225527",
+            "metadata_modified": "2023-08-22T12:41:00.329244",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44321-3201-2022.zip",
+            "package_id": "40d044d3-fcaa-4dfb-810e-ba5fc92d0f34",
+            "position": 1,
+            "resource_type": null,
+            "size": 13834,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/40d044d3-fcaa-4dfb-810e-ba5fc92d0f34/resource/2a27ba13-f705-436c-bdf6-13f5a8c4535f/download/44321-3201-2022.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東国東郡国見町",
+            "id": "36f94535-bda6-4954-a660-d0f321448a72",
+            "name": "東国東郡国見町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "5ae0f781-6e7d-4c5c-b3dd-df4d23547593",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:39.961512",
+        "metadata_modified": "2023-08-31T03:41:15.353997",
+        "name": "houmusyouchizu-2023-1-1945",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "宇佐郡安心院町（大分地方法務局宇佐支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:42:39.690162",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2624c487-8d1a-44ba-be3b-71c4a0ca0ee2",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:42:39.690162",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "5ae0f781-6e7d-4c5c-b3dd-df4d23547593",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:42:40.609606",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3e9b8496-5ce3-486a-9bc4-7a3e01ffc8d5",
+            "last_modified": "2023-08-22T12:42:40.503694",
+            "metadata_modified": "2023-08-22T12:42:40.609606",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44522-3231-2022.zip",
+            "package_id": "5ae0f781-6e7d-4c5c-b3dd-df4d23547593",
+            "position": 1,
+            "resource_type": null,
+            "size": 50593,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5ae0f781-6e7d-4c5c-b3dd-df4d23547593/resource/3e9b8496-5ce3-486a-9bc4-7a3e01ffc8d5/download/44522-3231-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:42:42.768871",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "dba81885-5444-4d2a-875b-2baeebbde2b9",
+            "last_modified": "2023-08-22T12:42:42.662305",
+            "metadata_modified": "2023-08-22T12:42:42.768871",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44522-3231-2023.zip",
+            "package_id": "5ae0f781-6e7d-4c5c-b3dd-df4d23547593",
+            "position": 2,
+            "resource_type": null,
+            "size": 50595,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/5ae0f781-6e7d-4c5c-b3dd-df4d23547593/resource/dba81885-5444-4d2a-875b-2baeebbde2b9/download/44522-3231-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "宇佐郡安心院町",
+            "id": "d94375f7-9337-4555-a56d-a525688aabfb",
+            "name": "宇佐郡安心院町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "619d1e83-11ba-4a4d-8767-9ef685f1ef33",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:29.927203",
+        "metadata_modified": "2023-08-31T03:41:30.857019",
+        "name": "houmusyouchizu-2023-1-1925",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "大分市（大分地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:21:51.055497",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "9588eeb4-4a6c-4369-b086-82c9cffecb84",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:21:51.055497",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "619d1e83-11ba-4a4d-8767-9ef685f1ef33",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:22:40.755949",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b3a679cc-c7d7-453e-8daf-52a9362bd925",
+            "last_modified": "2023-08-22T12:22:40.634141",
+            "metadata_modified": "2023-08-22T12:22:40.755949",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44201-3200-2022.zip",
+            "package_id": "619d1e83-11ba-4a4d-8767-9ef685f1ef33",
+            "position": 1,
+            "resource_type": null,
+            "size": 313918111,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/619d1e83-11ba-4a4d-8767-9ef685f1ef33/resource/b3a679cc-c7d7-453e-8daf-52a9362bd925/download/44201-3200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:23:52.244647",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "108e8d6e-8a0a-4c6e-8750-28eb812513c2",
+            "last_modified": "2023-08-22T12:23:52.138775",
+            "metadata_modified": "2023-08-22T12:23:52.244647",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44201-3200-2023.zip",
+            "package_id": "619d1e83-11ba-4a4d-8767-9ef685f1ef33",
+            "position": 2,
+            "resource_type": null,
+            "size": 313795299,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/619d1e83-11ba-4a4d-8767-9ef685f1ef33/resource/108e8d6e-8a0a-4c6e-8750-28eb812513c2/download/44201-3200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分市",
+            "id": "6aeecb58-8dc2-4114-8bb3-5e158b299f93",
+            "name": "大分市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "69ae63f9-7698-48bc-b1cd-0e59b1b23a46",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:31.494547",
+        "metadata_modified": "2023-08-31T03:41:28.692623",
+        "name": "houmusyouchizu-2023-1-1928",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "日田市（大分地方法務局日田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:26:27.347782",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c3b6ab6f-51ea-4a13-8d7b-0a02509e3e59",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:26:27.347782",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "69ae63f9-7698-48bc-b1cd-0e59b1b23a46",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:26:59.735449",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0cd9ba86-4507-44e3-a278-a9a5cce31260",
+            "last_modified": "2023-08-22T12:26:59.623832",
+            "metadata_modified": "2023-08-22T12:26:59.735449",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44204-3207-2022.zip",
+            "package_id": "69ae63f9-7698-48bc-b1cd-0e59b1b23a46",
+            "position": 1,
+            "resource_type": null,
+            "size": 188926180,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/69ae63f9-7698-48bc-b1cd-0e59b1b23a46/resource/0cd9ba86-4507-44e3-a278-a9a5cce31260/download/44204-3207-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:27:42.226920",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "068c1582-7a0d-421f-9868-5781d9b8c85f",
+            "last_modified": "2023-08-22T12:27:42.119760",
+            "metadata_modified": "2023-08-22T12:27:42.226920",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44204-3207-2023.zip",
+            "package_id": "69ae63f9-7698-48bc-b1cd-0e59b1b23a46",
+            "position": 2,
+            "resource_type": null,
+            "size": 189118395,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/69ae63f9-7698-48bc-b1cd-0e59b1b23a46/resource/068c1582-7a0d-421f-9868-5781d9b8c85f/download/44204-3207-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "日田市",
+            "id": "af17a4bf-3a60-4da6-a453-4a2a505e9581",
+            "name": "日田市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "04eda888-d3c5-4459-b99f-1d12d1884ace",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:39.498413",
+        "metadata_modified": "2023-08-31T03:41:16.092711",
+        "name": "houmusyouchizu-2023-1-1944",
+        "notes": null,
+        "num_resources": 2,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "下毛郡三光村（大分地方法務局中津支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:42:37.119189",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "95979b4a-9b78-433c-8751-1cd6075d0d41",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:42:37.119189",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "04eda888-d3c5-4459-b99f-1d12d1884ace",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:42:37.856865",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ec4750b9-b403-46e2-a4d9-7d42cf0d5c7f",
+            "last_modified": "2023-08-22T12:42:37.751647",
+            "metadata_modified": "2023-08-22T12:42:37.856865",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44501-3205-2022.zip",
+            "package_id": "04eda888-d3c5-4459-b99f-1d12d1884ace",
+            "position": 1,
+            "resource_type": null,
+            "size": 14130,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/04eda888-d3c5-4459-b99f-1d12d1884ace/resource/ec4750b9-b403-46e2-a4d9-7d42cf0d5c7f/download/44501-3205-2022.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "下毛郡三光村",
+            "id": "dedc85c0-5384-42cf-bcdb-d51e83ff94de",
+            "name": "下毛郡三光村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "00d2623b-52a2-42b0-a73e-50c81431734a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:35.900645",
+        "metadata_modified": "2023-08-31T03:41:21.828842",
+        "name": "houmusyouchizu-2023-1-1937",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "由布市（大分地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:38:27.747367",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "32295e84-f1af-44a2-b2a4-0ee0926f9aea",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:38:27.747367",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "00d2623b-52a2-42b0-a73e-50c81431734a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:38:52.346186",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c2b99e82-8520-4450-b2fe-1d4268f32b4c",
+            "last_modified": "2023-08-22T12:38:52.239954",
+            "metadata_modified": "2023-08-22T12:38:52.346186",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44213-3200-2022.zip",
+            "package_id": "00d2623b-52a2-42b0-a73e-50c81431734a",
+            "position": 1,
+            "resource_type": null,
+            "size": 144758099,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/00d2623b-52a2-42b0-a73e-50c81431734a/resource/c2b99e82-8520-4450-b2fe-1d4268f32b4c/download/44213-3200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:39:31.789632",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4f11e19a-3248-4a50-8fc1-a3de024a3e22",
+            "last_modified": "2023-08-22T12:39:31.681859",
+            "metadata_modified": "2023-08-22T12:39:31.789632",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44213-3200-2023.zip",
+            "package_id": "00d2623b-52a2-42b0-a73e-50c81431734a",
+            "position": 2,
+            "resource_type": null,
+            "size": 144791154,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/00d2623b-52a2-42b0-a73e-50c81431734a/resource/4f11e19a-3248-4a50-8fc1-a3de024a3e22/download/44213-3200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "由布市",
+            "id": "ee30ca2c-aaea-4f1a-bb17-501e0fa5cefa",
+            "name": "由布市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "936a02b1-29eb-476a-b598-1863a2ccd26a",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:32.003536",
+        "metadata_modified": "2023-08-31T03:41:27.917604",
+        "name": "houmusyouchizu-2023-1-1929",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "佐伯市（大分地方法務局佐伯支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:27:57.119223",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "492c97b6-a18c-4e73-9418-9135ea7069cb",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:27:57.119223",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "936a02b1-29eb-476a-b598-1863a2ccd26a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:28:34.041874",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cdc02581-49ac-4f1e-bd1a-64037d4e6238",
+            "last_modified": "2023-08-22T12:28:33.934919",
+            "metadata_modified": "2023-08-22T12:28:34.041874",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44205-3203-2022.zip",
+            "package_id": "936a02b1-29eb-476a-b598-1863a2ccd26a",
+            "position": 1,
+            "resource_type": null,
+            "size": 216833502,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/936a02b1-29eb-476a-b598-1863a2ccd26a/resource/cdc02581-49ac-4f1e-bd1a-64037d4e6238/download/44205-3203-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:29:27.874891",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "fbbadd71-2e54-4b0f-b764-f872e7035ab6",
+            "last_modified": "2023-08-22T12:29:27.768712",
+            "metadata_modified": "2023-08-22T12:29:27.874891",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44205-3203-2023.zip",
+            "package_id": "936a02b1-29eb-476a-b598-1863a2ccd26a",
+            "position": 2,
+            "resource_type": null,
+            "size": 216378739,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/936a02b1-29eb-476a-b598-1863a2ccd26a/resource/fbbadd71-2e54-4b0f-b764-f872e7035ab6/download/44205-3203-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "佐伯市",
+            "id": "55e71780-ea1f-4c82-a823-6aabac58fe1b",
+            "name": "佐伯市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "946c8a46-f50c-4a60-881c-23d822fa7bfc",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:38.058055",
+        "metadata_modified": "2023-08-31T03:41:18.420822",
+        "name": "houmusyouchizu-2023-1-1941",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "速見郡日出町（大分地方法務局杵築支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:11.067890",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "8e9e6408-07aa-4100-b659-0de3045be57e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:41:11.067890",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "946c8a46-f50c-4a60-881c-23d822fa7bfc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:17.423102",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "38a93b40-a761-460b-859f-9fc0c692ee08",
+            "last_modified": "2023-08-22T12:41:17.317649",
+            "metadata_modified": "2023-08-22T12:41:17.423102",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44341-3201-2022.zip",
+            "package_id": "946c8a46-f50c-4a60-881c-23d822fa7bfc",
+            "position": 1,
+            "resource_type": null,
+            "size": 39512215,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/946c8a46-f50c-4a60-881c-23d822fa7bfc/resource/38a93b40-a761-460b-859f-9fc0c692ee08/download/44341-3201-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:30.087977",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "722a826a-fc20-4326-8e82-05cdf5a198dc",
+            "last_modified": "2023-08-22T12:41:29.981367",
+            "metadata_modified": "2023-08-22T12:41:30.087977",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44341-3201-2023.zip",
+            "package_id": "946c8a46-f50c-4a60-881c-23d822fa7bfc",
+            "position": 2,
+            "resource_type": null,
+            "size": 39590327,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/946c8a46-f50c-4a60-881c-23d822fa7bfc/resource/722a826a-fc20-4326-8e82-05cdf5a198dc/download/44341-3201-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "速見郡日出町",
+            "id": "729f8ce8-a737-40bd-830c-bbfd0aef4e76",
+            "name": "速見郡日出町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a3737e9a-16d4-4060-9cc7-0ccf72a3cab6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:32.507132",
+        "metadata_modified": "2023-08-31T03:41:27.155726",
+        "name": "houmusyouchizu-2023-1-1930",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "臼杵市（大分地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:29:45.659518",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "69f01cee-6f1c-4fd3-99bb-fd6964331b98",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:29:45.659518",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a3737e9a-16d4-4060-9cc7-0ccf72a3cab6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:30:06.941105",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "77bb0e36-d105-4f0d-bfe1-6291c5e1b825",
+            "last_modified": "2023-08-22T12:30:06.838297",
+            "metadata_modified": "2023-08-22T12:30:06.941105",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44206-3200-2022.zip",
+            "package_id": "a3737e9a-16d4-4060-9cc7-0ccf72a3cab6",
+            "position": 1,
+            "resource_type": null,
+            "size": 159653044,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a3737e9a-16d4-4060-9cc7-0ccf72a3cab6/resource/77bb0e36-d105-4f0d-bfe1-6291c5e1b825/download/44206-3200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:30:49.005225",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5162c2c4-d9dd-4d67-b503-34396487ffab",
+            "last_modified": "2023-08-22T12:30:48.899000",
+            "metadata_modified": "2023-08-22T12:30:49.005225",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44206-3200-2023.zip",
+            "package_id": "a3737e9a-16d4-4060-9cc7-0ccf72a3cab6",
+            "position": 2,
+            "resource_type": null,
+            "size": 159543106,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a3737e9a-16d4-4060-9cc7-0ccf72a3cab6/resource/5162c2c4-d9dd-4d67-b503-34396487ffab/download/44206-3200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "臼杵市",
+            "id": "ca5beb27-01e6-4bfb-b6bf-97a9bcde6f14",
+            "name": "臼杵市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9dbc97ca-1ffe-45af-a9da-7ac1703029c7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:37.561730",
+        "metadata_modified": "2023-08-31T03:41:19.276018",
+        "name": "houmusyouchizu-2023-1-1940",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "東国東郡姫島村（大分地方法務局宇佐支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:02.224273",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "3f418852-5780-4792-9500-7e2b0e4ac4ac",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:41:02.224273",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9dbc97ca-1ffe-45af-a9da-7ac1703029c7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:03.704398",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4837a46b-ab26-4373-ae3d-6b9013d3711c",
+            "last_modified": "2023-08-22T12:41:03.599282",
+            "metadata_modified": "2023-08-22T12:41:03.704398",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44322-3231-2022.zip",
+            "package_id": "9dbc97ca-1ffe-45af-a9da-7ac1703029c7",
+            "position": 1,
+            "resource_type": null,
+            "size": 4985643,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9dbc97ca-1ffe-45af-a9da-7ac1703029c7/resource/4837a46b-ab26-4373-ae3d-6b9013d3711c/download/44322-3231-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:07.817746",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9444cdb6-ff98-4eb0-a233-57e296dc4edc",
+            "last_modified": "2023-08-22T12:41:07.708151",
+            "metadata_modified": "2023-08-22T12:41:07.817746",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44322-3231-2023.zip",
+            "package_id": "9dbc97ca-1ffe-45af-a9da-7ac1703029c7",
+            "position": 2,
+            "resource_type": null,
+            "size": 4985653,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9dbc97ca-1ffe-45af-a9da-7ac1703029c7/resource/9444cdb6-ff98-4eb0-a233-57e296dc4edc/download/44322-3231-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "東国東郡姫島村",
+            "id": "2cf06b19-800c-4dd2-b987-39da4bf7665e",
+            "name": "東国東郡姫島村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0145d91e-c8bd-4180-a55f-830cff7ca304",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:38.535975",
+        "metadata_modified": "2023-08-31T03:41:17.620693",
+        "name": "houmusyouchizu-2023-1-1942",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "玖珠郡九重町（大分地方法務局日田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:35.701711",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ba065ab2-eb14-4220-80d4-5e591696c9af",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:41:35.701711",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0145d91e-c8bd-4180-a55f-830cff7ca304",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:46.101533",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c5d584c3-939a-4e42-9630-60d5be9203af",
+            "last_modified": "2023-08-22T12:41:45.998134",
+            "metadata_modified": "2023-08-22T12:41:46.101533",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44461-3207-2022.zip",
+            "package_id": "0145d91e-c8bd-4180-a55f-830cff7ca304",
+            "position": 1,
+            "resource_type": null,
+            "size": 47266237,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0145d91e-c8bd-4180-a55f-830cff7ca304/resource/c5d584c3-939a-4e42-9630-60d5be9203af/download/44461-3207-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:41:58.814826",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "87174eed-c008-421c-8358-37cece1c712b",
+            "last_modified": "2023-08-22T12:41:58.708834",
+            "metadata_modified": "2023-08-22T12:41:58.814826",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44461-3207-2023.zip",
+            "package_id": "0145d91e-c8bd-4180-a55f-830cff7ca304",
+            "position": 2,
+            "resource_type": null,
+            "size": 47443305,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0145d91e-c8bd-4180-a55f-830cff7ca304/resource/87174eed-c008-421c-8358-37cece1c712b/download/44461-3207-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "玖珠郡九重町",
+            "id": "ab300796-a62b-48d7-acc0-ade84b6e2fe3",
+            "name": "玖珠郡九重町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "7f4072c5-c46b-4de9-89bf-80bc7319a631",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:30.397903",
+        "metadata_modified": "2023-08-31T03:41:30.177279",
+        "name": "houmusyouchizu-2023-1-1926",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "別府市（大分地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:24:16.249120",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "1942975e-ff5f-4d85-85a1-f1143d23da71",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:24:16.249120",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "7f4072c5-c46b-4de9-89bf-80bc7319a631",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:24:25.984870",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "fa398934-685d-467f-af1e-0058cdcdf300",
+            "last_modified": "2023-08-22T12:24:25.877041",
+            "metadata_modified": "2023-08-22T12:24:25.984870",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44202-3200-2022.zip",
+            "package_id": "7f4072c5-c46b-4de9-89bf-80bc7319a631",
+            "position": 1,
+            "resource_type": null,
+            "size": 47183369,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7f4072c5-c46b-4de9-89bf-80bc7319a631/resource/fa398934-685d-467f-af1e-0058cdcdf300/download/44202-3200-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:24:38.634225",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1cbce2b9-83da-48c9-b0fa-0a8e4d0ed136",
+            "last_modified": "2023-08-22T12:24:38.528044",
+            "metadata_modified": "2023-08-22T12:24:38.634225",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44202-3200-2023.zip",
+            "package_id": "7f4072c5-c46b-4de9-89bf-80bc7319a631",
+            "position": 2,
+            "resource_type": null,
+            "size": 47316968,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/7f4072c5-c46b-4de9-89bf-80bc7319a631/resource/1cbce2b9-83da-48c9-b0fa-0a8e4d0ed136/download/44202-3200-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "別府市",
+            "id": "4356c15d-70b5-4575-a7c6-8498962593a4",
+            "name": "別府市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "aa954d95-99cd-4711-8fb0-931311e3a75c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:33.447256",
+        "metadata_modified": "2023-08-31T03:41:25.582195",
+        "name": "houmusyouchizu-2023-1-1932",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "竹田市（大分地方法務局竹田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:31:37.295934",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "0b0776d4-e377-4a5b-af88-f45d673cb344",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:31:37.295934",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "aa954d95-99cd-4711-8fb0-931311e3a75c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:32:07.199736",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "59c19f9b-741c-4f08-83cb-9b5c05f110aa",
+            "last_modified": "2023-08-22T12:32:07.093019",
+            "metadata_modified": "2023-08-22T12:32:07.199736",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44208-3204-2022.zip",
+            "package_id": "aa954d95-99cd-4711-8fb0-931311e3a75c",
+            "position": 1,
+            "resource_type": null,
+            "size": 211240930,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/aa954d95-99cd-4711-8fb0-931311e3a75c/resource/59c19f9b-741c-4f08-83cb-9b5c05f110aa/download/44208-3204-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:33:01.109974",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "72d0a4fc-7e59-4eca-bf03-43be549c6bf2",
+            "last_modified": "2023-08-22T12:33:01.003500",
+            "metadata_modified": "2023-08-22T12:33:01.109974",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44208-3204-2023.zip",
+            "package_id": "aa954d95-99cd-4711-8fb0-931311e3a75c",
+            "position": 2,
+            "resource_type": null,
+            "size": 210974978,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/aa954d95-99cd-4711-8fb0-931311e3a75c/resource/72d0a4fc-7e59-4eca-bf03-43be549c6bf2/download/44208-3204-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "竹田市",
+            "id": "2b1ad95f-2e59-4245-abcf-48558ebbd980",
+            "name": "竹田市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "b36dc4e8-7bd6-46ce-b87c-56a12035f0a8",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:23:38.994310",
+        "metadata_modified": "2023-08-31T03:41:16.891622",
+        "name": "houmusyouchizu-2023-1-1943",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-44oita",
+          "name": "moj-44oita",
+          "title": "44大分県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:44.497944",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-44oita",
+        "private": false,
+        "state": "active",
+        "title": "玖珠郡玖珠町（大分地方法務局日田支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:42:04.677817",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "e3379abe-8b85-404e-b6b6-f8afbcf4e193",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T12:42:04.677817",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "b36dc4e8-7bd6-46ce-b87c-56a12035f0a8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:42:13.912531",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1cfc3b67-860f-4546-812d-a6f9a4b99dad",
+            "last_modified": "2023-08-22T12:42:13.806818",
+            "metadata_modified": "2023-08-22T12:42:13.912531",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44462-3207-2022.zip",
+            "package_id": "b36dc4e8-7bd6-46ce-b87c-56a12035f0a8",
+            "position": 1,
+            "resource_type": null,
+            "size": 62412011,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b36dc4e8-7bd6-46ce-b87c-56a12035f0a8/resource/1cfc3b67-860f-4546-812d-a6f9a4b99dad/download/44462-3207-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T12:42:30.106613",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "77ace939-c327-4dbd-b06b-07f078a33a3c",
+            "last_modified": "2023-08-22T12:42:30.003103",
+            "metadata_modified": "2023-08-22T12:42:30.106613",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "44462-3207-2023.zip",
+            "package_id": "b36dc4e8-7bd6-46ce-b87c-56a12035f0a8",
+            "position": 2,
+            "resource_type": null,
+            "size": 62581114,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/b36dc4e8-7bd6-46ce-b87c-56a12035f0a8/resource/77ace939-c327-4dbd-b06b-07f078a33a3c/download/44462-3207-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大分県",
+            "id": "2bde79a1-064e-4b12-8229-4e4a54f54828",
+            "name": "大分県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "玖珠郡玖珠町",
+            "id": "6a0b6048-e631-4f31-bef5-25a792d2c343",
+            "name": "玖珠郡玖珠町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "charge desc",
+    "search_facets": {
+    }
+  }
+}

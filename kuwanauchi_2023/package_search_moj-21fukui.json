@@ -1,0 +1,2696 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 18,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d410c4fd-5f51-4449-9def-b1daf9f38370",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:52.525502",
+        "metadata_modified": "2023-08-31T03:53:27.178964",
+        "name": "houmusyouchizu-2023-1-898",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "敦賀市（福井地方法務局敦賀支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:39:12.141018",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ff2b25ac-445b-4c71-923e-d31acceb0f95",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:39:12.141018",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d410c4fd-5f51-4449-9def-b1daf9f38370",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:39:32.753613",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "bdef69eb-f054-4107-858d-24a8480e4390",
+            "last_modified": "2023-08-22T02:39:32.648520",
+            "metadata_modified": "2023-08-22T02:39:32.753613",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18202-2103-2022.zip",
+            "package_id": "d410c4fd-5f51-4449-9def-b1daf9f38370",
+            "position": 1,
+            "resource_type": null,
+            "size": 151481272,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d410c4fd-5f51-4449-9def-b1daf9f38370/resource/bdef69eb-f054-4107-858d-24a8480e4390/download/18202-2103-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:40:04.222030",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c3d24ead-1107-4852-b91f-4ebe242c4ae2",
+            "last_modified": "2023-08-22T02:40:04.117981",
+            "metadata_modified": "2023-08-22T02:40:04.222030",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18202-2103-2023.zip",
+            "package_id": "d410c4fd-5f51-4449-9def-b1daf9f38370",
+            "position": 2,
+            "resource_type": null,
+            "size": 151552730,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d410c4fd-5f51-4449-9def-b1daf9f38370/resource/c3d24ead-1107-4852-b91f-4ebe242c4ae2/download/18202-2103-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "敦賀市",
+            "id": "3973c7db-5182-49d1-8aeb-97849cd821eb",
+            "name": "敦賀市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c4fb2b26-935d-43cc-b0f1-8269fe8aaa11",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:55.490996",
+        "metadata_modified": "2023-08-31T03:53:23.112191",
+        "name": "houmusyouchizu-2023-1-904",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "越前市（福井地方法務局武生支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:44:55.084381",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ff92c3ac-fedb-410d-81e4-ad0c52a4b444",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:44:55.084381",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c4fb2b26-935d-43cc-b0f1-8269fe8aaa11",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:45:22.433486",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1881511c-a152-4fe6-abc1-e4d86635287a",
+            "last_modified": "2023-08-22T02:45:22.322639",
+            "metadata_modified": "2023-08-22T02:45:22.433486",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18209-2101-2022.zip",
+            "package_id": "c4fb2b26-935d-43cc-b0f1-8269fe8aaa11",
+            "position": 1,
+            "resource_type": null,
+            "size": 197861931,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c4fb2b26-935d-43cc-b0f1-8269fe8aaa11/resource/1881511c-a152-4fe6-abc1-e4d86635287a/download/18209-2101-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:46:06.952304",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "833880b0-630c-4677-88c3-8c4fd1945df3",
+            "last_modified": "2023-08-22T02:46:06.846719",
+            "metadata_modified": "2023-08-22T02:46:06.952304",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18209-2101-2023.zip",
+            "package_id": "c4fb2b26-935d-43cc-b0f1-8269fe8aaa11",
+            "position": 2,
+            "resource_type": null,
+            "size": 197918171,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c4fb2b26-935d-43cc-b0f1-8269fe8aaa11/resource/833880b0-630c-4677-88c3-8c4fd1945df3/download/18209-2101-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "越前市",
+            "id": "a34e9878-d424-4198-8c90-cb891ed415e8",
+            "name": "越前市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "eb387d20-8ba4-47e8-9b06-a84a2b871eac",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:54.036129",
+        "metadata_modified": "2023-08-31T03:53:25.182630",
+        "name": "houmusyouchizu-2023-1-901",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "勝山市（福井地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:42:37.621207",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "59c99db3-a69e-44d5-80bd-760ebcfaf706",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:42:37.621207",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "eb387d20-8ba4-47e8-9b06-a84a2b871eac",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:42:55.630893",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "aa22d13b-6205-426d-ae9e-e8122a40dfb1",
+            "last_modified": "2023-08-22T02:42:55.529648",
+            "metadata_modified": "2023-08-22T02:42:55.630893",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18206-2100-2022.zip",
+            "package_id": "eb387d20-8ba4-47e8-9b06-a84a2b871eac",
+            "position": 1,
+            "resource_type": null,
+            "size": 139563081,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/eb387d20-8ba4-47e8-9b06-a84a2b871eac/resource/aa22d13b-6205-426d-ae9e-e8122a40dfb1/download/18206-2100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:43:26.244032",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "106dafa7-752c-45a3-93bb-1bbf7b4db84e",
+            "last_modified": "2023-08-22T02:43:26.140928",
+            "metadata_modified": "2023-08-22T02:43:26.244032",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18206-2100-2023.zip",
+            "package_id": "eb387d20-8ba4-47e8-9b06-a84a2b871eac",
+            "position": 2,
+            "resource_type": null,
+            "size": 139054638,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/eb387d20-8ba4-47e8-9b06-a84a2b871eac/resource/106dafa7-752c-45a3-93bb-1bbf7b4db84e/download/18206-2100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "勝山市",
+            "id": "8a8c600e-785f-4fe4-986d-3f80a7bf9937",
+            "name": "勝山市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "ef74eb45-1c98-44b3-a4b6-45c207876be6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:53.032149",
+        "metadata_modified": "2023-08-31T03:53:26.499186",
+        "name": "houmusyouchizu-2023-1-899",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "小浜市（福井地方法務局小浜支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:40:17.430375",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "fc8ca6d4-7734-4c99-a278-4e8e800d4346",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:40:17.430375",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "ef74eb45-1c98-44b3-a4b6-45c207876be6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:40:35.963321",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0a28d839-baf0-4649-bc65-0315b5da9ee5",
+            "last_modified": "2023-08-22T02:40:35.858798",
+            "metadata_modified": "2023-08-22T02:40:35.963321",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18204-2104-2022.zip",
+            "package_id": "ef74eb45-1c98-44b3-a4b6-45c207876be6",
+            "position": 1,
+            "resource_type": null,
+            "size": 132579449,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ef74eb45-1c98-44b3-a4b6-45c207876be6/resource/0a28d839-baf0-4649-bc65-0315b5da9ee5/download/18204-2104-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:41:09.185646",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "53f7b6c1-b778-4f33-adb8-784bcbceb67a",
+            "last_modified": "2023-08-22T02:41:09.078581",
+            "metadata_modified": "2023-08-22T02:41:09.185646",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18204-2104-2023.zip",
+            "package_id": "ef74eb45-1c98-44b3-a4b6-45c207876be6",
+            "position": 2,
+            "resource_type": null,
+            "size": 132610108,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/ef74eb45-1c98-44b3-a4b6-45c207876be6/resource/53f7b6c1-b778-4f33-adb8-784bcbceb67a/download/18204-2104-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "小浜市",
+            "id": "548fa2b0-1355-41d0-b471-9d9bd979d63c",
+            "name": "小浜市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e4942dae-28a1-4652-99cd-a21d3d3eac3c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:58.836287",
+        "metadata_modified": "2023-08-31T03:53:17.997200",
+        "name": "houmusyouchizu-2023-1-911",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "大飯郡高浜町（福井地方法務局小浜支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:50:58.074234",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "649cfa96-f108-4b4c-8954-c9c4e44829a1",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:50:58.074234",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e4942dae-28a1-4652-99cd-a21d3d3eac3c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:51:10.751793",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0eda25fc-beb0-4f75-b9a3-c47f1b70eed7",
+            "last_modified": "2023-08-22T02:51:10.643708",
+            "metadata_modified": "2023-08-22T02:51:10.751793",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18481-2104-2022.zip",
+            "package_id": "e4942dae-28a1-4652-99cd-a21d3d3eac3c",
+            "position": 1,
+            "resource_type": null,
+            "size": 69932380,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e4942dae-28a1-4652-99cd-a21d3d3eac3c/resource/0eda25fc-beb0-4f75-b9a3-c47f1b70eed7/download/18481-2104-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:51:26.733113",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "82d806c2-9762-45c6-8b5d-ea3ea6309aa2",
+            "last_modified": "2023-08-22T02:51:26.623959",
+            "metadata_modified": "2023-08-22T02:51:26.733113",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18481-2104-2023.zip",
+            "package_id": "e4942dae-28a1-4652-99cd-a21d3d3eac3c",
+            "position": 2,
+            "resource_type": null,
+            "size": 67776568,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e4942dae-28a1-4652-99cd-a21d3d3eac3c/resource/82d806c2-9762-45c6-8b5d-ea3ea6309aa2/download/18481-2104-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大飯郡高浜町",
+            "id": "30975d95-d54b-42dd-8da4-8696935a1c27",
+            "name": "大飯郡高浜町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "77a82ae0-04da-45fa-8d13-9a28607531c9",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:56.447323",
+        "metadata_modified": "2023-08-31T03:53:21.484043",
+        "name": "houmusyouchizu-2023-1-906",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "吉田郡永平寺町（福井地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:47:18.637759",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "9a919b77-4d50-43a7-b321-b2f6e39cbbeb",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:47:18.637759",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "77a82ae0-04da-45fa-8d13-9a28607531c9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:47:27.419887",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "48167e30-e877-4992-8582-aedf90d43357",
+            "last_modified": "2023-08-22T02:47:27.283580",
+            "metadata_modified": "2023-08-22T02:47:27.419887",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18322-2100-2022.zip",
+            "package_id": "77a82ae0-04da-45fa-8d13-9a28607531c9",
+            "position": 1,
+            "resource_type": null,
+            "size": 57630294,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77a82ae0-04da-45fa-8d13-9a28607531c9/resource/48167e30-e877-4992-8582-aedf90d43357/download/18322-2100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:47:41.738357",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "81f03475-ccfd-4f9f-afce-29fbbe531d7b",
+            "last_modified": "2023-08-22T02:47:41.584464",
+            "metadata_modified": "2023-08-22T02:47:41.738357",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18322-2100-2023.zip",
+            "package_id": "77a82ae0-04da-45fa-8d13-9a28607531c9",
+            "position": 2,
+            "resource_type": null,
+            "size": 57644979,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/77a82ae0-04da-45fa-8d13-9a28607531c9/resource/81f03475-ccfd-4f9f-afce-29fbbe531d7b/download/18322-2100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吉田郡永平寺町",
+            "id": "ac0f269e-dfe6-45c8-998d-c7eeba944b45",
+            "name": "吉田郡永平寺町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "1590a673-b1fb-4003-9507-0a97e6f6b29c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:55.003300",
+        "metadata_modified": "2023-08-31T03:53:23.809988",
+        "name": "houmusyouchizu-2023-1-903",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "あわら市（福井地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:44:14.732367",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "b7eae4ea-7828-44f0-ad4d-719f2b5c5bf3",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:44:14.732367",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "1590a673-b1fb-4003-9507-0a97e6f6b29c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:44:26.835237",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "98653616-74d8-4f6d-8d35-ccb3e2c7c9ef",
+            "last_modified": "2023-08-22T02:44:26.714073",
+            "metadata_modified": "2023-08-22T02:44:26.835237",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18208-2100-2022.zip",
+            "package_id": "1590a673-b1fb-4003-9507-0a97e6f6b29c",
+            "position": 1,
+            "resource_type": null,
+            "size": 82284491,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1590a673-b1fb-4003-9507-0a97e6f6b29c/resource/98653616-74d8-4f6d-8d35-ccb3e2c7c9ef/download/18208-2100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:44:46.505054",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "92516737-c7e2-4c87-a515-f686bbba2a79",
+            "last_modified": "2023-08-22T02:44:46.364254",
+            "metadata_modified": "2023-08-22T02:44:46.505054",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18208-2100-2023.zip",
+            "package_id": "1590a673-b1fb-4003-9507-0a97e6f6b29c",
+            "position": 2,
+            "resource_type": null,
+            "size": 82086516,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1590a673-b1fb-4003-9507-0a97e6f6b29c/resource/92516737-c7e2-4c87-a515-f686bbba2a79/download/18208-2100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "あわら市",
+            "id": "410656c5-75f8-4ba7-802e-9d7b4478309a",
+            "name": "あわら市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "63a1a364-5001-486a-99ca-8198840b4869",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:56.915431",
+        "metadata_modified": "2023-08-31T03:53:20.782390",
+        "name": "houmusyouchizu-2023-1-907",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "今立郡池田町（福井地方法務局武生支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:47:48.529932",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2ac2d3f7-e656-44b7-8b8d-29d921de8d57",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:47:48.529932",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "63a1a364-5001-486a-99ca-8198840b4869",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:47:58.707181",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b4e0af5b-78f4-42c6-a73f-4b6d02de53de",
+            "last_modified": "2023-08-22T02:47:58.602697",
+            "metadata_modified": "2023-08-22T02:47:58.707181",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18382-2101-2022.zip",
+            "package_id": "63a1a364-5001-486a-99ca-8198840b4869",
+            "position": 1,
+            "resource_type": null,
+            "size": 65615727,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/63a1a364-5001-486a-99ca-8198840b4869/resource/b4e0af5b-78f4-42c6-a73f-4b6d02de53de/download/18382-2101-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:48:15.692397",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "17dee810-e76d-46a2-8f32-4acd5f801480",
+            "last_modified": "2023-08-22T02:48:15.587518",
+            "metadata_modified": "2023-08-22T02:48:15.692397",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18382-2101-2023.zip",
+            "package_id": "63a1a364-5001-486a-99ca-8198840b4869",
+            "position": 2,
+            "resource_type": null,
+            "size": 65625038,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/63a1a364-5001-486a-99ca-8198840b4869/resource/17dee810-e76d-46a2-8f32-4acd5f801480/download/18382-2101-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "今立郡池田町",
+            "id": "0952629d-3790-4d41-913b-27de43801f0e",
+            "name": "今立郡池田町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3868ccf6-df91-4cc9-8ca4-df5bf67295a7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:53.534548",
+        "metadata_modified": "2023-08-31T03:53:25.775690",
+        "name": "houmusyouchizu-2023-1-900",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "大野市（福井地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:41:23.956026",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "68ea7ebb-33b1-48d1-9344-4de1cd7f2bf0",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:41:23.956026",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3868ccf6-df91-4cc9-8ca4-df5bf67295a7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:41:49.060245",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "47b4800d-fc3a-41c6-96ef-09a25cd86e93",
+            "last_modified": "2023-08-22T02:41:48.955297",
+            "metadata_modified": "2023-08-22T02:41:49.060245",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18205-2100-2022.zip",
+            "package_id": "3868ccf6-df91-4cc9-8ca4-df5bf67295a7",
+            "position": 1,
+            "resource_type": null,
+            "size": 172106461,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3868ccf6-df91-4cc9-8ca4-df5bf67295a7/resource/47b4800d-fc3a-41c6-96ef-09a25cd86e93/download/18205-2100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:42:23.260110",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "df1309fd-c722-4065-8422-510c8b7a3395",
+            "last_modified": "2023-08-22T02:42:23.123567",
+            "metadata_modified": "2023-08-22T02:42:23.260110",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18205-2100-2023.zip",
+            "package_id": "3868ccf6-df91-4cc9-8ca4-df5bf67295a7",
+            "position": 2,
+            "resource_type": null,
+            "size": 171937985,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3868ccf6-df91-4cc9-8ca4-df5bf67295a7/resource/df1309fd-c722-4065-8422-510c8b7a3395/download/18205-2100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大野市",
+            "id": "26cfbf33-0055-4627-b7c9-e936a0590960",
+            "name": "大野市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "2aa62d09-3293-44a8-bf31-667b554e855d",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:51.988356",
+        "metadata_modified": "2023-08-31T03:53:27.813889",
+        "name": "houmusyouchizu-2023-1-897",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "福井市（福井地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:36:23.506594",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "b2c38eff-b511-4569-8965-77e91a8f0f69",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:36:23.506594",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "2aa62d09-3293-44a8-bf31-667b554e855d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:37:18.943352",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7d15cc0d-f88a-4ed3-86a5-06f1701920eb",
+            "last_modified": "2023-08-22T02:37:18.841931",
+            "metadata_modified": "2023-08-22T02:37:18.943352",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18201-2100-2022.zip",
+            "package_id": "2aa62d09-3293-44a8-bf31-667b554e855d",
+            "position": 1,
+            "resource_type": null,
+            "size": 429654853,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2aa62d09-3293-44a8-bf31-667b554e855d/resource/7d15cc0d-f88a-4ed3-86a5-06f1701920eb/download/18201-2100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:38:40.779112",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "59075953-2619-4754-aea9-352a94e0624e",
+            "last_modified": "2023-08-22T02:38:40.672467",
+            "metadata_modified": "2023-08-22T02:38:40.779112",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18201-2100-2023.zip",
+            "package_id": "2aa62d09-3293-44a8-bf31-667b554e855d",
+            "position": 2,
+            "resource_type": null,
+            "size": 428988112,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/2aa62d09-3293-44a8-bf31-667b554e855d/resource/59075953-2619-4754-aea9-352a94e0624e/download/18201-2100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井市",
+            "id": "8a62afc3-82b1-423e-af64-e06f9a38226e",
+            "name": "福井市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "18a3b2be-6123-4dcf-a7a9-9186e713a4dc",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:57.431522",
+        "metadata_modified": "2023-08-31T03:53:20.048912",
+        "name": "houmusyouchizu-2023-1-908",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "南条郡南越前町（福井地方法務局武生支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:48:23.629935",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ceace032-2092-4653-839d-f2635db06e33",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:48:23.629935",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "18a3b2be-6123-4dcf-a7a9-9186e713a4dc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:48:43.232606",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "869424cb-0d29-4c49-86ae-64908877827a",
+            "last_modified": "2023-08-22T02:48:43.118544",
+            "metadata_modified": "2023-08-22T02:48:43.232606",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18404-2101-2022.zip",
+            "package_id": "18a3b2be-6123-4dcf-a7a9-9186e713a4dc",
+            "position": 1,
+            "resource_type": null,
+            "size": 120895154,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/18a3b2be-6123-4dcf-a7a9-9186e713a4dc/resource/869424cb-0d29-4c49-86ae-64908877827a/download/18404-2101-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:49:10.606146",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "875e0349-fd0a-4d04-8b36-4ca712278f69",
+            "last_modified": "2023-08-22T02:49:10.501492",
+            "metadata_modified": "2023-08-22T02:49:10.606146",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18404-2101-2023.zip",
+            "package_id": "18a3b2be-6123-4dcf-a7a9-9186e713a4dc",
+            "position": 2,
+            "resource_type": null,
+            "size": 120815678,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/18a3b2be-6123-4dcf-a7a9-9186e713a4dc/resource/875e0349-fd0a-4d04-8b36-4ca712278f69/download/18404-2101-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "南条郡南越前町",
+            "id": "300c38cd-6d9c-4753-b41f-84e1fed2a35c",
+            "name": "南条郡南越前町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "0e98f40a-2c84-41d6-82a9-c06aeaa8cdef",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:59.867232",
+        "metadata_modified": "2023-08-31T03:53:16.454736",
+        "name": "houmusyouchizu-2023-1-913",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "三方上中郡若狭町（福井地方法務局敦賀支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:51:56.775229",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "e2af19a9-26fa-4355-abc4-e5b9602dbde9",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:51:56.775229",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "0e98f40a-2c84-41d6-82a9-c06aeaa8cdef",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:52:01.976162",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0585544f-a23d-4117-9013-7f5097d4ac64",
+            "last_modified": "2023-08-22T02:52:01.861436",
+            "metadata_modified": "2023-08-22T02:52:01.976162",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18501-2103-2022.zip",
+            "package_id": "0e98f40a-2c84-41d6-82a9-c06aeaa8cdef",
+            "position": 1,
+            "resource_type": null,
+            "size": 30038551,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0e98f40a-2c84-41d6-82a9-c06aeaa8cdef/resource/0585544f-a23d-4117-9013-7f5097d4ac64/download/18501-2103-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:52:11.782223",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "36373977-6c1a-465f-936b-82304f220222",
+            "last_modified": "2023-08-22T02:52:11.635855",
+            "metadata_modified": "2023-08-22T02:52:11.782223",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18501-2103-2023.zip",
+            "package_id": "0e98f40a-2c84-41d6-82a9-c06aeaa8cdef",
+            "position": 2,
+            "resource_type": null,
+            "size": 29972912,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/0e98f40a-2c84-41d6-82a9-c06aeaa8cdef/resource/36373977-6c1a-465f-936b-82304f220222/download/18501-2103-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三方上中郡若狭町",
+            "id": "a91c6a95-e066-4cd5-a8d3-22e3e01fbdac",
+            "name": "三方上中郡若狭町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "00cc78da-a5d4-40d9-86e8-55bc60914da3",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:59.315456",
+        "metadata_modified": "2023-08-31T03:53:17.271503",
+        "name": "houmusyouchizu-2023-1-912",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "大飯郡おおい町（福井地方法務局小浜支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:51:34.292079",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "198fd389-237b-4577-951d-bee27d31472c",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:51:34.292079",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "00cc78da-a5d4-40d9-86e8-55bc60914da3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:51:39.665835",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "91c73418-c1fa-4084-90f3-cd89fc94e4a9",
+            "last_modified": "2023-08-22T02:51:39.562947",
+            "metadata_modified": "2023-08-22T02:51:39.665835",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18483-2104-2022.zip",
+            "package_id": "00cc78da-a5d4-40d9-86e8-55bc60914da3",
+            "position": 1,
+            "resource_type": null,
+            "size": 41907667,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/00cc78da-a5d4-40d9-86e8-55bc60914da3/resource/91c73418-c1fa-4084-90f3-cd89fc94e4a9/download/18483-2104-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:51:51.016499",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "38862b55-a739-4f99-a8a6-6cccc1bb2d2a",
+            "last_modified": "2023-08-22T02:51:50.913044",
+            "metadata_modified": "2023-08-22T02:51:51.016499",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18483-2104-2023.zip",
+            "package_id": "00cc78da-a5d4-40d9-86e8-55bc60914da3",
+            "position": 2,
+            "resource_type": null,
+            "size": 41513290,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/00cc78da-a5d4-40d9-86e8-55bc60914da3/resource/38862b55-a739-4f99-a8a6-6cccc1bb2d2a/download/18483-2104-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "大飯郡おおい町",
+            "id": "9dee49b6-56f6-4aa1-b8b6-003a5133f780",
+            "name": "大飯郡おおい町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a0cfb7f9-15cd-4096-a3fd-5a53a6ba5619",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:58.347057",
+        "metadata_modified": "2023-08-31T03:53:18.713466",
+        "name": "houmusyouchizu-2023-1-910",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "三方郡美浜町（福井地方法務局敦賀支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:50:32.656688",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c5049823-7538-40da-96be-fb4a8ac0a6ec",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:50:32.656688",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a0cfb7f9-15cd-4096-a3fd-5a53a6ba5619",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:50:39.646528",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5759886a-1831-4208-ba99-25f5f026e49f",
+            "last_modified": "2023-08-22T02:50:39.526536",
+            "metadata_modified": "2023-08-22T02:50:39.646528",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18442-2103-2022.zip",
+            "package_id": "a0cfb7f9-15cd-4096-a3fd-5a53a6ba5619",
+            "position": 1,
+            "resource_type": null,
+            "size": 49552564,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a0cfb7f9-15cd-4096-a3fd-5a53a6ba5619/resource/5759886a-1831-4208-ba99-25f5f026e49f/download/18442-2103-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:50:51.549793",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "02cb55db-cc9f-4a4a-b0eb-9869005a52bc",
+            "last_modified": "2023-08-22T02:50:51.443263",
+            "metadata_modified": "2023-08-22T02:50:51.549793",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18442-2103-2023.zip",
+            "package_id": "a0cfb7f9-15cd-4096-a3fd-5a53a6ba5619",
+            "position": 2,
+            "resource_type": null,
+            "size": 49554720,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a0cfb7f9-15cd-4096-a3fd-5a53a6ba5619/resource/02cb55db-cc9f-4a4a-b0eb-9869005a52bc/download/18442-2103-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三方郡美浜町",
+            "id": "1f986401-3fdc-4fde-ae79-300860a4d5ba",
+            "name": "三方郡美浜町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "a2c61729-6c11-45f7-878e-36c609e646c4",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:57.886281",
+        "metadata_modified": "2023-08-31T03:53:19.354883",
+        "name": "houmusyouchizu-2023-1-909",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "丹生郡越前町（福井地方法務局武生支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:49:21.634253",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "196ff1b1-52d4-4bc8-96c4-e0a288f99188",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:49:21.634253",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "a2c61729-6c11-45f7-878e-36c609e646c4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:49:42.105105",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ed238883-afdc-447a-8f8b-a204b4886994",
+            "last_modified": "2023-08-22T02:49:41.999350",
+            "metadata_modified": "2023-08-22T02:49:42.105105",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18423-2101-2022.zip",
+            "package_id": "a2c61729-6c11-45f7-878e-36c609e646c4",
+            "position": 1,
+            "resource_type": null,
+            "size": 152462528,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a2c61729-6c11-45f7-878e-36c609e646c4/resource/ed238883-afdc-447a-8f8b-a204b4886994/download/18423-2101-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:50:19.566359",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "713cd5c3-7a17-47fd-9ad1-c7792744588a",
+            "last_modified": "2023-08-22T02:50:19.458608",
+            "metadata_modified": "2023-08-22T02:50:19.566359",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18423-2101-2023.zip",
+            "package_id": "a2c61729-6c11-45f7-878e-36c609e646c4",
+            "position": 2,
+            "resource_type": null,
+            "size": 152530638,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/a2c61729-6c11-45f7-878e-36c609e646c4/resource/713cd5c3-7a17-47fd-9ad1-c7792744588a/download/18423-2101-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "丹生郡越前町",
+            "id": "5b53f142-4712-4807-ad7c-2fcc07413ae4",
+            "name": "丹生郡越前町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "d22ffb42-4862-4072-8fbc-e20a4bfd28b0",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:55.961559",
+        "metadata_modified": "2023-08-31T03:53:22.366174",
+        "name": "houmusyouchizu-2023-1-905",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "坂井市（福井地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:46:23.597599",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "1b8e287a-f623-414d-96ca-aacc5d266501",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:46:23.597599",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "d22ffb42-4862-4072-8fbc-e20a4bfd28b0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:46:39.749528",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9f33a905-4f87-4e56-b519-ccce2f7a5de9",
+            "last_modified": "2023-08-22T02:46:39.641653",
+            "metadata_modified": "2023-08-22T02:46:39.749528",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18210-2100-2022.zip",
+            "package_id": "d22ffb42-4862-4072-8fbc-e20a4bfd28b0",
+            "position": 1,
+            "resource_type": null,
+            "size": 132462548,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d22ffb42-4862-4072-8fbc-e20a4bfd28b0/resource/9f33a905-4f87-4e56-b519-ccce2f7a5de9/download/18210-2100-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:47:07.014361",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "10c91843-36f7-410f-a1ab-3e2996f07409",
+            "last_modified": "2023-08-22T02:47:06.906451",
+            "metadata_modified": "2023-08-22T02:47:07.014361",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18210-2100-2023.zip",
+            "package_id": "d22ffb42-4862-4072-8fbc-e20a4bfd28b0",
+            "position": 2,
+            "resource_type": null,
+            "size": 131655048,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/d22ffb42-4862-4072-8fbc-e20a4bfd28b0/resource/10c91843-36f7-410f-a1ab-3e2996f07409/download/18210-2100-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "坂井市",
+            "id": "762ddc55-b300-4b8e-bc3e-7e8bc68ebfbb",
+            "name": "坂井市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e118b3b7-c426-4d29-8246-7bb0a206bbbb",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:14:54.551687",
+        "metadata_modified": "2023-08-31T03:53:24.444106",
+        "name": "houmusyouchizu-2023-1-902",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "鯖江市（福井地方法務局武生支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:43:38.693030",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "a9995ce0-0f7d-4100-8da8-8aa51ae2a6a5",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:43:38.693030",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e118b3b7-c426-4d29-8246-7bb0a206bbbb",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:43:49.382956",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "bf199dec-17c5-4698-b0aa-37ce2481bbcd",
+            "last_modified": "2023-08-22T02:43:49.277575",
+            "metadata_modified": "2023-08-22T02:43:49.382956",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18207-2101-2022.zip",
+            "package_id": "e118b3b7-c426-4d29-8246-7bb0a206bbbb",
+            "position": 1,
+            "resource_type": null,
+            "size": 73123531,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e118b3b7-c426-4d29-8246-7bb0a206bbbb/resource/bf199dec-17c5-4698-b0aa-37ce2481bbcd/download/18207-2101-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:44:06.925702",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a4efa8a7-733c-4744-9f4e-3c481408a7de",
+            "last_modified": "2023-08-22T02:44:06.820290",
+            "metadata_modified": "2023-08-22T02:44:06.925702",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18207-2101-2023.zip",
+            "package_id": "e118b3b7-c426-4d29-8246-7bb0a206bbbb",
+            "position": 2,
+            "resource_type": null,
+            "size": 73174324,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e118b3b7-c426-4d29-8246-7bb0a206bbbb/resource/a4efa8a7-733c-4744-9f4e-3c481408a7de/download/18207-2101-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鯖江市",
+            "id": "cbc1d3a4-41a9-4c07-bb62-1ebb10a38893",
+            "name": "鯖江市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "f7607d0d-6ac3-4d1f-ac7b-416b8d3b1e0f",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:15:00.375040",
+        "metadata_modified": "2023-08-31T03:53:15.668837",
+        "name": "houmusyouchizu-2023-1-914",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-21fukui",
+          "name": "moj-21fukui",
+          "title": "21福井県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:21.150989",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-21fukui",
+        "private": false,
+        "state": "active",
+        "title": "三方上中郡若狭町（福井地方法務局小浜支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:52:16.951686",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "95a3e38a-da28-453d-92a3-c60ef81f61d6",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T02:52:16.951686",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "f7607d0d-6ac3-4d1f-ac7b-416b8d3b1e0f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:52:25.792014",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "59fd4c42-742c-4cbd-9613-d9568236d462",
+            "last_modified": "2023-08-22T02:52:25.681647",
+            "metadata_modified": "2023-08-22T02:52:25.792014",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18501-2104-2022.zip",
+            "package_id": "f7607d0d-6ac3-4d1f-ac7b-416b8d3b1e0f",
+            "position": 1,
+            "resource_type": null,
+            "size": 51982363,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f7607d0d-6ac3-4d1f-ac7b-416b8d3b1e0f/resource/59fd4c42-742c-4cbd-9613-d9568236d462/download/18501-2104-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T02:52:41.199460",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "40bdf298-2e98-4fd3-8435-6aa721a5ff80",
+            "last_modified": "2023-08-22T02:52:41.095540",
+            "metadata_modified": "2023-08-22T02:52:41.199460",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "18501-2104-2023.zip",
+            "package_id": "f7607d0d-6ac3-4d1f-ac7b-416b8d3b1e0f",
+            "position": 2,
+            "resource_type": null,
+            "size": 51987283,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/f7607d0d-6ac3-4d1f-ac7b-416b8d3b1e0f/resource/40bdf298-2e98-4fd3-8435-6aa721a5ff80/download/18501-2104-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三方上中郡若狭町",
+            "id": "a91c6a95-e066-4cd5-a8d3-22e3e01fbdac",
+            "name": "三方上中郡若狭町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "福井県",
+            "id": "f1d3102b-9055-4d5a-9800-20a61676dbea",
+            "name": "福井県",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "charge desc",
+    "search_facets": {
+    }
+  }
+}

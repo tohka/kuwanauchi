@@ -1,0 +1,3866 @@
+{
+  "help": "https://www.geospatial.jp/ckan/api/3/action/help_show?name=package_search",
+  "success": true,
+  "result": {
+    "count": 26,
+    "facets": {
+    },
+    "results": [
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bcd1a22f-b559-4cb5-a7f3-d1e71019ad0b",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:04.291474",
+        "metadata_modified": "2023-08-31T03:44:52.207007",
+        "name": "houmusyouchizu-2023-1-1642",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "那賀郡那賀町（徳島地方法務局阿南支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:42:06.824579",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "6d99d603-4e76-46cd-9ae6-e13a56e6cad1",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:42:06.824579",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bcd1a22f-b559-4cb5-a7f3-d1e71019ad0b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:42:20.115304",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "17f85eb2-3e11-4dae-a3ae-0c3614b13729",
+            "last_modified": "2023-08-22T09:42:20.009448",
+            "metadata_modified": "2023-08-22T09:42:20.115304",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36368-4801-2022.zip",
+            "package_id": "bcd1a22f-b559-4cb5-a7f3-d1e71019ad0b",
+            "position": 1,
+            "resource_type": null,
+            "size": 93255797,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bcd1a22f-b559-4cb5-a7f3-d1e71019ad0b/resource/17f85eb2-3e11-4dae-a3ae-0c3614b13729/download/36368-4801-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:42:41.363357",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f2cb77aa-9787-4f9e-a6fd-0c76505ebe6f",
+            "last_modified": "2023-08-22T09:42:41.257765",
+            "metadata_modified": "2023-08-22T09:42:41.363357",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36368-4801-2023.zip",
+            "package_id": "bcd1a22f-b559-4cb5-a7f3-d1e71019ad0b",
+            "position": 2,
+            "resource_type": null,
+            "size": 93377428,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bcd1a22f-b559-4cb5-a7f3-d1e71019ad0b/resource/f2cb77aa-9787-4f9e-a6fd-0c76505ebe6f/download/36368-4801-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "那賀郡那賀町",
+            "id": "1c877d5d-cefc-4826-83af-561f1458a84a",
+            "name": "那賀郡那賀町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "bcda892b-6a82-4957-b192-6cdc435d77d2",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:03.827268",
+        "metadata_modified": "2023-08-31T03:44:52.885897",
+        "name": "houmusyouchizu-2023-1-1641",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "名西郡神山町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:41:16.196878",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "392391b4-d08a-449a-9a09-5c4d05953241",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:41:16.196878",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "bcda892b-6a82-4957-b192-6cdc435d77d2",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:41:32.571292",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e122a8f8-5a00-4048-87ae-3addf0a7eb99",
+            "last_modified": "2023-08-22T09:41:32.464891",
+            "metadata_modified": "2023-08-22T09:41:32.571292",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36342-4800-2022.zip",
+            "package_id": "bcda892b-6a82-4957-b192-6cdc435d77d2",
+            "position": 1,
+            "resource_type": null,
+            "size": 105680510,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bcda892b-6a82-4957-b192-6cdc435d77d2/resource/e122a8f8-5a00-4048-87ae-3addf0a7eb99/download/36342-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:41:56.990198",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "35f7649d-0c6b-45de-8b21-75a694665c4e",
+            "last_modified": "2023-08-22T09:41:56.882864",
+            "metadata_modified": "2023-08-22T09:41:56.990198",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36342-4800-2023.zip",
+            "package_id": "bcda892b-6a82-4957-b192-6cdc435d77d2",
+            "position": 2,
+            "resource_type": null,
+            "size": 105282418,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/bcda892b-6a82-4957-b192-6cdc435d77d2/resource/35f7649d-0c6b-45de-8b21-75a694665c4e/download/36342-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "名西郡神山町",
+            "id": "45ce264f-0aa2-4017-ab64-6754336f35e9",
+            "name": "名西郡神山町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c6fa2526-f7c0-4ccd-94ac-3facc0a4a817",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:01.386920",
+        "metadata_modified": "2023-08-31T03:44:56.406524",
+        "name": "houmusyouchizu-2023-1-1636",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "三好市（徳島地方法務局美馬支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:38:29.225894",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "ec017420-94eb-47bb-9679-a44a2377f468",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:38:29.225894",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c6fa2526-f7c0-4ccd-94ac-3facc0a4a817",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:38:53.705186",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d1a43727-7ce8-45d5-a2da-9d5b3f916961",
+            "last_modified": "2023-08-22T09:38:53.599495",
+            "metadata_modified": "2023-08-22T09:38:53.705186",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36208-4802-2022.zip",
+            "package_id": "c6fa2526-f7c0-4ccd-94ac-3facc0a4a817",
+            "position": 1,
+            "resource_type": null,
+            "size": 197249388,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c6fa2526-f7c0-4ccd-94ac-3facc0a4a817/resource/d1a43727-7ce8-45d5-a2da-9d5b3f916961/download/36208-4802-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:39:43.791450",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "10756b54-9793-48a5-be57-2c35f447b854",
+            "last_modified": "2023-08-22T09:39:43.685054",
+            "metadata_modified": "2023-08-22T09:39:43.791450",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36208-4802-2023.zip",
+            "package_id": "c6fa2526-f7c0-4ccd-94ac-3facc0a4a817",
+            "position": 2,
+            "resource_type": null,
+            "size": 196928049,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c6fa2526-f7c0-4ccd-94ac-3facc0a4a817/resource/10756b54-9793-48a5-be57-2c35f447b854/download/36208-4802-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三好市",
+            "id": "a340af15-ceb4-4426-a711-3bed76106052",
+            "name": "三好市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "e8643acb-6a72-4854-b3db-ea8916c5ec60",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:08.333608",
+        "metadata_modified": "2023-08-31T03:44:48.629331",
+        "name": "houmusyouchizu-2023-1-1647",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "板野郡北島町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:00.082833",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "4c2d9d81-58e9-4b40-8abf-783f32be9a1d",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:44:00.082833",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "e8643acb-6a72-4854-b3db-ea8916c5ec60",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:01.784144",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "10eeb79d-a900-4f38-931c-c992b9756dd2",
+            "last_modified": "2023-08-22T09:44:01.681181",
+            "metadata_modified": "2023-08-22T09:44:01.784144",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36402-4800-2022.zip",
+            "package_id": "e8643acb-6a72-4854-b3db-ea8916c5ec60",
+            "position": 1,
+            "resource_type": null,
+            "size": 6579502,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e8643acb-6a72-4854-b3db-ea8916c5ec60/resource/10eeb79d-a900-4f38-931c-c992b9756dd2/download/36402-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:06.105519",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "fe105ea3-35bc-4f01-9254-ec0a4669e679",
+            "last_modified": "2023-08-22T09:44:05.985206",
+            "metadata_modified": "2023-08-22T09:44:06.105519",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36402-4800-2023.zip",
+            "package_id": "e8643acb-6a72-4854-b3db-ea8916c5ec60",
+            "position": 2,
+            "resource_type": null,
+            "size": 6628962,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/e8643acb-6a72-4854-b3db-ea8916c5ec60/resource/fe105ea3-35bc-4f01-9254-ec0a4669e679/download/36402-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "板野郡北島町",
+            "id": "e3c38d0f-5a7d-4af9-bc19-5ad7954223ba",
+            "name": "板野郡北島町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "6ff7ee79-cece-4f3e-8818-68d24c79cb3e",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:20:58.533856",
+        "metadata_modified": "2023-08-31T03:45:00.747448",
+        "name": "houmusyouchizu-2023-1-1630",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "鳴門市（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:33:51.331457",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "fe6aa97d-8dc6-4bd8-8c43-09b46486dfa4",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:33:51.331457",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "6ff7ee79-cece-4f3e-8818-68d24c79cb3e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:34:00.233910",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a0c9a2be-ae2f-4ef2-a3d9-e6a101c01dde",
+            "last_modified": "2023-08-22T09:34:00.108613",
+            "metadata_modified": "2023-08-22T09:34:00.233910",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36202-4800-2022.zip",
+            "package_id": "6ff7ee79-cece-4f3e-8818-68d24c79cb3e",
+            "position": 1,
+            "resource_type": null,
+            "size": 56082039,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6ff7ee79-cece-4f3e-8818-68d24c79cb3e/resource/a0c9a2be-ae2f-4ef2-a3d9-e6a101c01dde/download/36202-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:34:15.231011",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9a8e8dfc-b9f9-4de0-9189-59c4ff83e222",
+            "last_modified": "2023-08-22T09:34:15.124335",
+            "metadata_modified": "2023-08-22T09:34:15.231011",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36202-4800-2023.zip",
+            "package_id": "6ff7ee79-cece-4f3e-8818-68d24c79cb3e",
+            "position": 2,
+            "resource_type": null,
+            "size": 56132825,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/6ff7ee79-cece-4f3e-8818-68d24c79cb3e/resource/9a8e8dfc-b9f9-4de0-9189-59c4ff83e222/download/36202-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "鳴門市",
+            "id": "0358205b-647b-40ef-af7f-9bf344049f63",
+            "name": "鳴門市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "78d1e2a8-e581-410c-9eed-b565bb618770",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:03.351293",
+        "metadata_modified": "2023-08-31T03:44:53.592407",
+        "name": "houmusyouchizu-2023-1-1640",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "名西郡石井町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:41:00.533677",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "24b4d10d-24b0-4b58-a2fc-62e111184e47",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:41:00.533677",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "78d1e2a8-e581-410c-9eed-b565bb618770",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:41:04.334410",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d3b5cfd8-6dcf-438f-8a7e-d8a254e2239d",
+            "last_modified": "2023-08-22T09:41:04.229451",
+            "metadata_modified": "2023-08-22T09:41:04.334410",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36341-4800-2022.zip",
+            "package_id": "78d1e2a8-e581-410c-9eed-b565bb618770",
+            "position": 1,
+            "resource_type": null,
+            "size": 21176344,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/78d1e2a8-e581-410c-9eed-b565bb618770/resource/d3b5cfd8-6dcf-438f-8a7e-d8a254e2239d/download/36341-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:41:11.493452",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "4a829eeb-f4cd-4fde-9005-2b427252fd6c",
+            "last_modified": "2023-08-22T09:41:11.389595",
+            "metadata_modified": "2023-08-22T09:41:11.493452",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36341-4800-2023.zip",
+            "package_id": "78d1e2a8-e581-410c-9eed-b565bb618770",
+            "position": 2,
+            "resource_type": null,
+            "size": 21138859,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/78d1e2a8-e581-410c-9eed-b565bb618770/resource/4a829eeb-f4cd-4fde-9005-2b427252fd6c/download/36341-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "名西郡石井町",
+            "id": "f0e81f82-0728-4191-9bce-f9889d43c150",
+            "name": "名西郡石井町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "74cd4062-c171-444f-bade-6baf33d36c84",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:02.389113",
+        "metadata_modified": "2023-08-31T03:44:55.009235",
+        "name": "houmusyouchizu-2023-1-1638",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "勝浦郡上勝町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:40:21.394765",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "3378e142-3bd0-49e4-8dc3-8d5cbaf06d8a",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:40:21.394765",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "74cd4062-c171-444f-bade-6baf33d36c84",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:40:26.722845",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f94e7161-2845-4819-a426-3f6243b23137",
+            "last_modified": "2023-08-22T09:40:26.609657",
+            "metadata_modified": "2023-08-22T09:40:26.722845",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36302-4800-2022.zip",
+            "package_id": "74cd4062-c171-444f-bade-6baf33d36c84",
+            "position": 1,
+            "resource_type": null,
+            "size": 35934266,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/74cd4062-c171-444f-bade-6baf33d36c84/resource/f94e7161-2845-4819-a426-3f6243b23137/download/36302-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:40:37.496454",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "94a0cd89-1b47-447b-aa95-752601282827",
+            "last_modified": "2023-08-22T09:40:37.390335",
+            "metadata_modified": "2023-08-22T09:40:37.496454",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36302-4800-2023.zip",
+            "package_id": "74cd4062-c171-444f-bade-6baf33d36c84",
+            "position": 2,
+            "resource_type": null,
+            "size": 36359318,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/74cd4062-c171-444f-bade-6baf33d36c84/resource/94a0cd89-1b47-447b-aa95-752601282827/download/36302-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "勝浦郡上勝町",
+            "id": "3a48ff71-1b64-4fc6-ad7f-355046593c9c",
+            "name": "勝浦郡上勝町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "75094b3a-4b5a-43eb-82d6-37b5a1321b23",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:20:59.469956",
+        "metadata_modified": "2023-08-31T03:44:59.435451",
+        "name": "houmusyouchizu-2023-1-1632",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "阿南市（徳島地方法務局阿南支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:34:43.721346",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "e77eb9f7-d27c-42b0-b247-0d06c39c13a8",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:34:43.721346",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "75094b3a-4b5a-43eb-82d6-37b5a1321b23",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:35:04.705261",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3e80bc8e-a4ab-4548-afaf-54fcd8641cf6",
+            "last_modified": "2023-08-22T09:35:04.587455",
+            "metadata_modified": "2023-08-22T09:35:04.705261",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36204-4801-2022.zip",
+            "package_id": "75094b3a-4b5a-43eb-82d6-37b5a1321b23",
+            "position": 1,
+            "resource_type": null,
+            "size": 143428894,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/75094b3a-4b5a-43eb-82d6-37b5a1321b23/resource/3e80bc8e-a4ab-4548-afaf-54fcd8641cf6/download/36204-4801-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:35:47.545687",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2e0cbb12-45d7-443d-867d-635f1b532360",
+            "last_modified": "2023-08-22T09:35:47.440300",
+            "metadata_modified": "2023-08-22T09:35:47.545687",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36204-4801-2023.zip",
+            "package_id": "75094b3a-4b5a-43eb-82d6-37b5a1321b23",
+            "position": 2,
+            "resource_type": null,
+            "size": 143549405,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/75094b3a-4b5a-43eb-82d6-37b5a1321b23/resource/2e0cbb12-45d7-443d-867d-635f1b532360/download/36204-4801-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "阿南市",
+            "id": "47f1696a-9295-4471-b9cb-ac66b7a20286",
+            "name": "阿南市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "83f63b48-eb10-4b75-a767-ca8d69298f52",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:20:59.002814",
+        "metadata_modified": "2023-08-31T03:45:00.088746",
+        "name": "houmusyouchizu-2023-1-1631",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "小松島市（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:34:21.463105",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "d2665b3b-b37f-416f-8370-f57155ca04b4",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:34:21.463105",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "83f63b48-eb10-4b75-a767-ca8d69298f52",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:34:27.893890",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "f573dd2a-d99c-41f4-a697-eea3016a3105",
+            "last_modified": "2023-08-22T09:34:27.789045",
+            "metadata_modified": "2023-08-22T09:34:27.893890",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36203-4800-2022.zip",
+            "package_id": "83f63b48-eb10-4b75-a767-ca8d69298f52",
+            "position": 1,
+            "resource_type": null,
+            "size": 33561641,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/83f63b48-eb10-4b75-a767-ca8d69298f52/resource/f573dd2a-d99c-41f4-a697-eea3016a3105/download/36203-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:34:38.237114",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "80bfad7e-1201-4388-a909-f6400393f6fd",
+            "last_modified": "2023-08-22T09:34:38.130116",
+            "metadata_modified": "2023-08-22T09:34:38.237114",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36203-4800-2023.zip",
+            "package_id": "83f63b48-eb10-4b75-a767-ca8d69298f52",
+            "position": 2,
+            "resource_type": null,
+            "size": 33338105,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/83f63b48-eb10-4b75-a767-ca8d69298f52/resource/80bfad7e-1201-4388-a909-f6400393f6fd/download/36203-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "小松島市",
+            "id": "d4665d40-a915-4db6-a3d2-77d434257dc6",
+            "name": "小松島市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "08e78382-18fb-4235-b570-0b4d48501d75",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:09.264974",
+        "metadata_modified": "2023-08-31T03:44:47.228046",
+        "name": "houmusyouchizu-2023-1-1649",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "板野郡板野町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:20.412026",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "29e8eff9-5384-4690-8596-1ecf81a7163a",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:44:20.412026",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "08e78382-18fb-4235-b570-0b4d48501d75",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:23.585026",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "47a32a66-4873-4c9a-955b-98fe4ed36f11",
+            "last_modified": "2023-08-22T09:44:23.475200",
+            "metadata_modified": "2023-08-22T09:44:23.585026",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36404-4800-2022.zip",
+            "package_id": "08e78382-18fb-4235-b570-0b4d48501d75",
+            "position": 1,
+            "resource_type": null,
+            "size": 18096018,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/08e78382-18fb-4235-b570-0b4d48501d75/resource/47a32a66-4873-4c9a-955b-98fe4ed36f11/download/36404-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:30.140364",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "61d1e2b4-f4da-4fa6-8ed5-29216361c88e",
+            "last_modified": "2023-08-22T09:44:30.034397",
+            "metadata_modified": "2023-08-22T09:44:30.140364",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36404-4800-2023.zip",
+            "package_id": "08e78382-18fb-4235-b570-0b4d48501d75",
+            "position": 2,
+            "resource_type": null,
+            "size": 18115800,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/08e78382-18fb-4235-b570-0b4d48501d75/resource/61d1e2b4-f4da-4fa6-8ed5-29216361c88e/download/36404-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "板野郡板野町",
+            "id": "a91f3e57-ee6b-4218-affb-489331f79581",
+            "name": "板野郡板野町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "44a5ad9a-e288-4dde-8500-0334c07e5c23",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:11.647748",
+        "metadata_modified": "2023-08-31T03:44:43.710477",
+        "name": "houmusyouchizu-2023-1-1654",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "三好郡東みよし町（徳島地方法務局美馬支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:45:33.130745",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2a1f3dea-78e6-45e8-ae34-ac8d22cbf20e",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:45:33.130745",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "44a5ad9a-e288-4dde-8500-0334c07e5c23",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:45:39.991483",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "02327663-dc5b-4da3-88f6-e440d23edebf",
+            "last_modified": "2023-08-22T09:45:39.885803",
+            "metadata_modified": "2023-08-22T09:45:39.991483",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36489-4802-2022.zip",
+            "package_id": "44a5ad9a-e288-4dde-8500-0334c07e5c23",
+            "position": 1,
+            "resource_type": null,
+            "size": 57049818,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/44a5ad9a-e288-4dde-8500-0334c07e5c23/resource/02327663-dc5b-4da3-88f6-e440d23edebf/download/36489-4802-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:45:54.911116",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a9893586-178a-41eb-b110-311212d39aea",
+            "last_modified": "2023-08-22T09:45:54.805480",
+            "metadata_modified": "2023-08-22T09:45:54.911116",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36489-4802-2023.zip",
+            "package_id": "44a5ad9a-e288-4dde-8500-0334c07e5c23",
+            "position": 2,
+            "resource_type": null,
+            "size": 56660912,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/44a5ad9a-e288-4dde-8500-0334c07e5c23/resource/a9893586-178a-41eb-b110-311212d39aea/download/36489-4802-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "三好郡東みよし町",
+            "id": "a22543c5-fb5c-4fe5-8c05-90b30f86e4bd",
+            "name": "三好郡東みよし町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "4234d215-d503-44e8-bde9-29c0f5ec0113",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:11.159288",
+        "metadata_modified": "2023-08-31T03:44:44.427661",
+        "name": "houmusyouchizu-2023-1-1653",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "美馬郡つるぎ町（徳島地方法務局美馬支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:56.345338",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "54fcd6f0-4243-4cd0-accb-a50ed61fc413",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:44:56.345338",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "4234d215-d503-44e8-bde9-29c0f5ec0113",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:45:05.512755",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "afa73686-d12a-465c-a3f5-46f608af19d9",
+            "last_modified": "2023-08-22T09:45:05.409170",
+            "metadata_modified": "2023-08-22T09:45:05.512755",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36468-4802-2022.zip",
+            "package_id": "4234d215-d503-44e8-bde9-29c0f5ec0113",
+            "position": 1,
+            "resource_type": null,
+            "size": 76654287,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4234d215-d503-44e8-bde9-29c0f5ec0113/resource/afa73686-d12a-465c-a3f5-46f608af19d9/download/36468-4802-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:45:25.221461",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ceea9021-b86a-48aa-8a6f-42359f8b6df2",
+            "last_modified": "2023-08-22T09:45:25.116021",
+            "metadata_modified": "2023-08-22T09:45:25.221461",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36468-4802-2023.zip",
+            "package_id": "4234d215-d503-44e8-bde9-29c0f5ec0113",
+            "position": 2,
+            "resource_type": null,
+            "size": 76773248,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/4234d215-d503-44e8-bde9-29c0f5ec0113/resource/ceea9021-b86a-48aa-8a6f-42359f8b6df2/download/36468-4802-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "美馬郡つるぎ町",
+            "id": "94ea0907-76fb-4614-9e22-7761b8f29405",
+            "name": "美馬郡つるぎ町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3e774c48-5fb9-48b7-8bf7-46b4c1a4c7d0",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:10.678329",
+        "metadata_modified": "2023-08-31T03:44:45.089051",
+        "name": "houmusyouchizu-2023-1-1652",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "美馬郡穴吹町（徳島地方法務局美馬支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:51.628257",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "53591015-d16b-4312-acb2-850d27bb3f14",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:44:51.628257",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3e774c48-5fb9-48b7-8bf7-46b4c1a4c7d0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:52.598554",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2ef0ca4c-2513-4f2b-861c-699ace2a0d8e",
+            "last_modified": "2023-08-22T09:44:52.491701",
+            "metadata_modified": "2023-08-22T09:44:52.598554",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36466-4802-2022.zip",
+            "package_id": "3e774c48-5fb9-48b7-8bf7-46b4c1a4c7d0",
+            "position": 1,
+            "resource_type": null,
+            "size": 10554,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3e774c48-5fb9-48b7-8bf7-46b4c1a4c7d0/resource/2ef0ca4c-2513-4f2b-861c-699ace2a0d8e/download/36466-4802-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:54.437187",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c2c7a017-16ab-40fe-acd4-76b6c8b81328",
+            "last_modified": "2023-08-22T09:44:54.331040",
+            "metadata_modified": "2023-08-22T09:44:54.437187",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36466-4802-2023.zip",
+            "package_id": "3e774c48-5fb9-48b7-8bf7-46b4c1a4c7d0",
+            "position": 2,
+            "resource_type": null,
+            "size": 10555,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3e774c48-5fb9-48b7-8bf7-46b4c1a4c7d0/resource/c2c7a017-16ab-40fe-acd4-76b6c8b81328/download/36466-4802-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "美馬郡穴吹町",
+            "id": "43dfcecb-b990-4377-8814-4a9c7180650c",
+            "name": "美馬郡穴吹町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "3f843834-d5d9-4d35-a57c-92f2ce5e1133",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:09.728425",
+        "metadata_modified": "2023-08-31T03:44:46.524743",
+        "name": "houmusyouchizu-2023-1-1650",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "板野郡上板町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:34.186024",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "641327a8-3831-4830-9f52-0dc6f49a805f",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:44:34.186024",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "3f843834-d5d9-4d35-a57c-92f2ce5e1133",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:37.497957",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "422002c1-a71a-45fa-99b7-3621adef0ede",
+            "last_modified": "2023-08-22T09:44:37.389804",
+            "metadata_modified": "2023-08-22T09:44:37.497957",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36405-4800-2022.zip",
+            "package_id": "3f843834-d5d9-4d35-a57c-92f2ce5e1133",
+            "position": 1,
+            "resource_type": null,
+            "size": 18780791,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3f843834-d5d9-4d35-a57c-92f2ce5e1133/resource/422002c1-a71a-45fa-99b7-3621adef0ede/download/36405-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:44.209962",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2016889b-5c71-4df1-b674-173cd4c777f2",
+            "last_modified": "2023-08-22T09:44:44.100514",
+            "metadata_modified": "2023-08-22T09:44:44.209962",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36405-4800-2023.zip",
+            "package_id": "3f843834-d5d9-4d35-a57c-92f2ce5e1133",
+            "position": 2,
+            "resource_type": null,
+            "size": 18792057,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/3f843834-d5d9-4d35-a57c-92f2ce5e1133/resource/2016889b-5c71-4df1-b674-173cd4c777f2/download/36405-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "板野郡上板町",
+            "id": "fcb09fa6-d35e-47d9-930d-45d409c621f6",
+            "name": "板野郡上板町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "692687f5-deeb-4921-81ab-18f5b53687dd",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:07.698293",
+        "metadata_modified": "2023-08-31T03:44:49.394748",
+        "name": "houmusyouchizu-2023-1-1646",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "板野郡松茂町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:43:50.964377",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "a7c7f782-2079-49b1-8107-73216e7f687a",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:43:50.964377",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "692687f5-deeb-4921-81ab-18f5b53687dd",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:43:52.431777",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a6673604-5c18-4716-bb43-1d2a5aeec49f",
+            "last_modified": "2023-08-22T09:43:52.321500",
+            "metadata_modified": "2023-08-22T09:43:52.431777",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36401-4800-2022.zip",
+            "package_id": "692687f5-deeb-4921-81ab-18f5b53687dd",
+            "position": 1,
+            "resource_type": null,
+            "size": 5510842,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/692687f5-deeb-4921-81ab-18f5b53687dd/resource/a6673604-5c18-4716-bb43-1d2a5aeec49f/download/36401-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:43:56.850959",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c349c9c5-9436-437b-a50d-056ae6a6e6d2",
+            "last_modified": "2023-08-22T09:43:56.743767",
+            "metadata_modified": "2023-08-22T09:43:56.850959",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36401-4800-2023.zip",
+            "package_id": "692687f5-deeb-4921-81ab-18f5b53687dd",
+            "position": 2,
+            "resource_type": null,
+            "size": 5518843,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/692687f5-deeb-4921-81ab-18f5b53687dd/resource/c349c9c5-9436-437b-a50d-056ae6a6e6d2/download/36401-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "板野郡松茂町",
+            "id": "3e7f9c1a-e913-47f3-9e9b-7126e4bf3cd8",
+            "name": "板野郡松茂町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "34d42f48-876d-4b4a-8ea5-54db7b0d35e1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:10.214941",
+        "metadata_modified": "2023-08-31T03:44:45.764643",
+        "name": "houmusyouchizu-2023-1-1651",
+        "notes": null,
+        "num_resources": 2,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "阿波郡阿波町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:48.251708",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "cd1fd60d-f400-443a-a159-78407bc16bf3",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:44:48.251708",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "34d42f48-876d-4b4a-8ea5-54db7b0d35e1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:49.028171",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "fc309b65-3a53-42c0-8aca-af56a7ae6c74",
+            "last_modified": "2023-08-22T09:44:48.917255",
+            "metadata_modified": "2023-08-22T09:44:49.028171",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36422-4800-2022.zip",
+            "package_id": "34d42f48-876d-4b4a-8ea5-54db7b0d35e1",
+            "position": 1,
+            "resource_type": null,
+            "size": 86268,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/34d42f48-876d-4b4a-8ea5-54db7b0d35e1/resource/fc309b65-3a53-42c0-8aca-af56a7ae6c74/download/36422-4800-2022.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "阿波郡阿波町",
+            "id": "454eff13-fc56-4d50-890e-914be3d50b9d",
+            "name": "阿波郡阿波町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "1a195764-f924-401e-bd33-2b757c2a2cf1",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:02.857180",
+        "metadata_modified": "2023-08-31T03:44:54.333092",
+        "name": "houmusyouchizu-2023-1-1639",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "名東郡佐那河内村（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:40:42.636961",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "455b0ed0-2dea-485e-aaf4-34dd1deb27b7",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:40:42.636961",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "1a195764-f924-401e-bd33-2b757c2a2cf1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:40:47.712934",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "75c15daf-3930-409d-bec6-b518ad1d71bb",
+            "last_modified": "2023-08-22T09:40:47.605045",
+            "metadata_modified": "2023-08-22T09:40:47.712934",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36321-4800-2022.zip",
+            "package_id": "1a195764-f924-401e-bd33-2b757c2a2cf1",
+            "position": 1,
+            "resource_type": null,
+            "size": 30408252,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1a195764-f924-401e-bd33-2b757c2a2cf1/resource/75c15daf-3930-409d-bec6-b518ad1d71bb/download/36321-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:40:55.697385",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "73a8b7c2-f495-40fc-9d56-dd591d23e01e",
+            "last_modified": "2023-08-22T09:40:55.591303",
+            "metadata_modified": "2023-08-22T09:40:55.697385",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36321-4800-2023.zip",
+            "package_id": "1a195764-f924-401e-bd33-2b757c2a2cf1",
+            "position": 2,
+            "resource_type": null,
+            "size": 30421713,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/1a195764-f924-401e-bd33-2b757c2a2cf1/resource/73a8b7c2-f495-40fc-9d56-dd591d23e01e/download/36321-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "名東郡佐那河内村",
+            "id": "1e13738e-e48d-47fb-a776-b788b032a3f1",
+            "name": "名東郡佐那河内村",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "14476474-1b1b-49fa-9031-177f82a69159",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:00.402315",
+        "metadata_modified": "2023-08-31T03:44:57.914896",
+        "name": "houmusyouchizu-2023-1-1634",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "阿波市（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:36:35.043509",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "55c31dad-364d-4817-ace8-8655aba86601",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:36:35.043509",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "14476474-1b1b-49fa-9031-177f82a69159",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:36:48.228430",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d83a0042-9fce-4827-bfa1-d28b54a157b6",
+            "last_modified": "2023-08-22T09:36:48.118584",
+            "metadata_modified": "2023-08-22T09:36:48.228430",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36206-4800-2022.zip",
+            "package_id": "14476474-1b1b-49fa-9031-177f82a69159",
+            "position": 1,
+            "resource_type": null,
+            "size": 96705114,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/14476474-1b1b-49fa-9031-177f82a69159/resource/d83a0042-9fce-4827-bfa1-d28b54a157b6/download/36206-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:37:17.299525",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a440c3af-7d20-41d5-8227-09339e9cc235",
+            "last_modified": "2023-08-22T09:37:17.173186",
+            "metadata_modified": "2023-08-22T09:37:17.299525",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36206-4800-2023.zip",
+            "package_id": "14476474-1b1b-49fa-9031-177f82a69159",
+            "position": 2,
+            "resource_type": null,
+            "size": 96600096,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/14476474-1b1b-49fa-9031-177f82a69159/resource/a440c3af-7d20-41d5-8227-09339e9cc235/download/36206-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "阿波市",
+            "id": "3864292e-8a92-4281-b97b-82677f94eeb7",
+            "name": "阿波市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9257d1bb-f63b-4d6b-a7de-5e0eeacbf158",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:08.805900",
+        "metadata_modified": "2023-08-31T03:44:47.929954",
+        "name": "houmusyouchizu-2023-1-1648",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "板野郡藍住町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:09.454147",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "d671dda2-7286-48e2-b3fb-113b8a0b50d6",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:44:09.454147",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9257d1bb-f63b-4d6b-a7de-5e0eeacbf158",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:11.778775",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e0137199-ca5e-4c44-8d38-02e7293235ce",
+            "last_modified": "2023-08-22T09:44:11.674027",
+            "metadata_modified": "2023-08-22T09:44:11.778775",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36403-4800-2022.zip",
+            "package_id": "9257d1bb-f63b-4d6b-a7de-5e0eeacbf158",
+            "position": 1,
+            "resource_type": null,
+            "size": 11907290,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9257d1bb-f63b-4d6b-a7de-5e0eeacbf158/resource/e0137199-ca5e-4c44-8d38-02e7293235ce/download/36403-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:44:16.723779",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "944d4ed7-dac7-4952-aa76-ec457d3e4958",
+            "last_modified": "2023-08-22T09:44:16.611454",
+            "metadata_modified": "2023-08-22T09:44:16.723779",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36403-4800-2023.zip",
+            "package_id": "9257d1bb-f63b-4d6b-a7de-5e0eeacbf158",
+            "position": 2,
+            "resource_type": null,
+            "size": 12014032,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9257d1bb-f63b-4d6b-a7de-5e0eeacbf158/resource/944d4ed7-dac7-4952-aa76-ec457d3e4958/download/36403-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "板野郡藍住町",
+            "id": "2e217690-12f0-4d08-ac61-59ce346e6335",
+            "name": "板野郡藍住町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "975be155-e405-4425-81fb-fc5b25872ee0",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:01.878844",
+        "metadata_modified": "2023-08-31T03:44:55.747603",
+        "name": "houmusyouchizu-2023-1-1637",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "勝浦郡勝浦町（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:39:59.308487",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "bf75057a-25f0-4386-bf0d-183659a6bd4c",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:39:59.308487",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "975be155-e405-4425-81fb-fc5b25872ee0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:40:06.737803",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "ee10887e-1d14-44bd-abd8-de8241cb4785",
+            "last_modified": "2023-08-22T09:40:06.635515",
+            "metadata_modified": "2023-08-22T09:40:06.737803",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36301-4800-2022.zip",
+            "package_id": "975be155-e405-4425-81fb-fc5b25872ee0",
+            "position": 1,
+            "resource_type": null,
+            "size": 35170191,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/975be155-e405-4425-81fb-fc5b25872ee0/resource/ee10887e-1d14-44bd-abd8-de8241cb4785/download/36301-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:40:16.377570",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7c7e9fc9-322e-4195-a76a-ce4150dd9e4e",
+            "last_modified": "2023-08-22T09:40:16.271708",
+            "metadata_modified": "2023-08-22T09:40:16.377570",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36301-4800-2023.zip",
+            "package_id": "975be155-e405-4425-81fb-fc5b25872ee0",
+            "position": 2,
+            "resource_type": null,
+            "size": 35177688,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/975be155-e405-4425-81fb-fc5b25872ee0/resource/7c7e9fc9-322e-4195-a76a-ce4150dd9e4e/download/36301-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "勝浦郡勝浦町",
+            "id": "1dab3a0c-6f5b-44d3-95a0-22c7650e0b59",
+            "name": "勝浦郡勝浦町",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "97de2c1d-fc3b-4257-9972-04a1510aa0e7",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:05.701050",
+        "metadata_modified": "2023-08-31T03:44:50.104465",
+        "name": "houmusyouchizu-2023-1-1645",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "海部郡海陽町（徳島地方法務局阿南支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:43:22.086219",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "9a066b98-d4fb-4e54-863a-bd45cdef2e49",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:43:22.086219",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "97de2c1d-fc3b-4257-9972-04a1510aa0e7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:43:30.386597",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e71dab47-3ea2-4abb-909f-e292edfaf13d",
+            "last_modified": "2023-08-22T09:43:30.280650",
+            "metadata_modified": "2023-08-22T09:43:30.386597",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36388-4801-2022.zip",
+            "package_id": "97de2c1d-fc3b-4257-9972-04a1510aa0e7",
+            "position": 1,
+            "resource_type": null,
+            "size": 53927321,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/97de2c1d-fc3b-4257-9972-04a1510aa0e7/resource/e71dab47-3ea2-4abb-909f-e292edfaf13d/download/36388-4801-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:43:44.669592",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5e86ceea-5470-4c93-9379-5568ac17aa26",
+            "last_modified": "2023-08-22T09:43:44.563483",
+            "metadata_modified": "2023-08-22T09:43:44.669592",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36388-4801-2023.zip",
+            "package_id": "97de2c1d-fc3b-4257-9972-04a1510aa0e7",
+            "position": 2,
+            "resource_type": null,
+            "size": 53946175,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/97de2c1d-fc3b-4257-9972-04a1510aa0e7/resource/5e86ceea-5470-4c93-9379-5568ac17aa26/download/36388-4801-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "海部郡海陽町",
+            "id": "ca052b5d-e5bc-4bb9-8c07-b87fd03fb5ca",
+            "name": "海部郡海陽町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "9f6fcfa5-298b-4bff-8c2e-0245296d1918",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:00.905272",
+        "metadata_modified": "2023-08-31T03:44:57.195436",
+        "name": "houmusyouchizu-2023-1-1635",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "美馬市（徳島地方法務局美馬支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:37:26.666051",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "2a76e3ad-7f65-452c-a169-9a87ffbbc241",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:37:26.666051",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "9f6fcfa5-298b-4bff-8c2e-0245296d1918",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:37:43.986692",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "12a52428-0434-4f8b-9101-aae7e7d5e216",
+            "last_modified": "2023-08-22T09:37:43.878215",
+            "metadata_modified": "2023-08-22T09:37:43.986692",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36207-4802-2022.zip",
+            "package_id": "9f6fcfa5-298b-4bff-8c2e-0245296d1918",
+            "position": 1,
+            "resource_type": null,
+            "size": 132548514,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9f6fcfa5-298b-4bff-8c2e-0245296d1918/resource/12a52428-0434-4f8b-9101-aae7e7d5e216/download/36207-4802-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:38:17.751099",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2dd5bf98-4536-456b-b620-03c387236d18",
+            "last_modified": "2023-08-22T09:38:17.639197",
+            "metadata_modified": "2023-08-22T09:38:17.751099",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36207-4802-2023.zip",
+            "package_id": "9f6fcfa5-298b-4bff-8c2e-0245296d1918",
+            "position": 2,
+            "resource_type": null,
+            "size": 132539435,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/9f6fcfa5-298b-4bff-8c2e-0245296d1918/resource/2dd5bf98-4536-456b-b620-03c387236d18/download/36207-4802-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "美馬市",
+            "id": "5ec8221c-ec81-4b59-874c-4fb703c096dd",
+            "name": "美馬市",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "872cbfde-255b-40d1-8579-450002288bb5",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:04.742055",
+        "metadata_modified": "2023-08-31T03:44:51.536332",
+        "name": "houmusyouchizu-2023-1-1643",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "海部郡牟岐町（徳島地方法務局阿南支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:42:50.129350",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c646dedc-a94c-4891-86ee-f2788a59ef70",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:42:50.129350",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "872cbfde-255b-40d1-8579-450002288bb5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:42:53.076247",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b6cbf905-3225-41ee-bfb3-9b4c8daae408",
+            "last_modified": "2023-08-22T09:42:52.973608",
+            "metadata_modified": "2023-08-22T09:42:53.076247",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36383-4801-2022.zip",
+            "package_id": "872cbfde-255b-40d1-8579-450002288bb5",
+            "position": 1,
+            "resource_type": null,
+            "size": 15526881,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/872cbfde-255b-40d1-8579-450002288bb5/resource/b6cbf905-3225-41ee-bfb3-9b4c8daae408/download/36383-4801-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:42:59.303379",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e6743f3a-77ff-46b3-8210-32f0e7e96550",
+            "last_modified": "2023-08-22T09:42:59.185691",
+            "metadata_modified": "2023-08-22T09:42:59.303379",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36383-4801-2023.zip",
+            "package_id": "872cbfde-255b-40d1-8579-450002288bb5",
+            "position": 2,
+            "resource_type": null,
+            "size": 15367134,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/872cbfde-255b-40d1-8579-450002288bb5/resource/e6743f3a-77ff-46b3-8210-32f0e7e96550/download/36383-4801-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "海部郡牟岐町",
+            "id": "6a36f271-a681-4bcf-a28b-9df4e2c0d721",
+            "name": "海部郡牟岐町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "daac42fd-fe88-496c-876b-d5c4c39d24c8",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:20:58.057638",
+        "metadata_modified": "2023-08-31T03:45:01.511621",
+        "name": "houmusyouchizu-2023-1-1629",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "徳島市（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:32:57.971920",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "c00b0124-3e63-4511-97c8-52c167e9d9a3",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:32:57.971920",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "daac42fd-fe88-496c-876b-d5c4c39d24c8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:33:14.286872",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cab3d9a8-4b63-47fc-83b1-a524d5880dd2",
+            "last_modified": "2023-08-22T09:33:14.165042",
+            "metadata_modified": "2023-08-22T09:33:14.286872",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36201-4800-2022.zip",
+            "package_id": "daac42fd-fe88-496c-876b-d5c4c39d24c8",
+            "position": 1,
+            "resource_type": null,
+            "size": 122770306,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/daac42fd-fe88-496c-876b-d5c4c39d24c8/resource/cab3d9a8-4b63-47fc-83b1-a524d5880dd2/download/36201-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:33:40.682818",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6e99b16f-f747-486c-a871-260e33dcdf42",
+            "last_modified": "2023-08-22T09:33:40.570935",
+            "metadata_modified": "2023-08-22T09:33:40.682818",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36201-4800-2023.zip",
+            "package_id": "daac42fd-fe88-496c-876b-d5c4c39d24c8",
+            "position": 2,
+            "resource_type": null,
+            "size": 122960632,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/daac42fd-fe88-496c-876b-d5c4c39d24c8/resource/6e99b16f-f747-486c-a871-260e33dcdf42/download/36201-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島市",
+            "id": "e2653a48-1994-40a9-8622-619db8a81160",
+            "name": "徳島市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "c8db7a54-145a-4005-a137-94dde0fa243c",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:21:05.211265",
+        "metadata_modified": "2023-08-31T03:44:50.788440",
+        "name": "houmusyouchizu-2023-1-1644",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "海部郡美波町（徳島地方法務局阿南支局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:43:03.596180",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "be1ea979-10d5-4bfc-b0dc-6ee5af707c8c",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:43:03.596180",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "c8db7a54-145a-4005-a137-94dde0fa243c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:43:08.412666",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "68380391-d329-4fba-81c4-37e3b8f83124",
+            "last_modified": "2023-08-22T09:43:08.308136",
+            "metadata_modified": "2023-08-22T09:43:08.412666",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36387-4801-2022.zip",
+            "package_id": "c8db7a54-145a-4005-a137-94dde0fa243c",
+            "position": 1,
+            "resource_type": null,
+            "size": 28201721,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c8db7a54-145a-4005-a137-94dde0fa243c/resource/68380391-d329-4fba-81c4-37e3b8f83124/download/36387-4801-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:43:17.337919",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b2f9c10d-f26f-4778-8940-d546276fb943",
+            "last_modified": "2023-08-22T09:43:17.221148",
+            "metadata_modified": "2023-08-22T09:43:17.337919",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36387-4801-2023.zip",
+            "package_id": "c8db7a54-145a-4005-a137-94dde0fa243c",
+            "position": 2,
+            "resource_type": null,
+            "size": 27426208,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/c8db7a54-145a-4005-a137-94dde0fa243c/resource/b2f9c10d-f26f-4778-8940-d546276fb943/download/36387-4801-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "海部郡美波町",
+            "id": "26a332bc-9372-4cfa-8927-08ec176acdef",
+            "name": "海部郡美波町",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      },
+      {
+        "author": null,
+        "author_email": null,
+        "creator_user_id": "cc8af4fb-60e8-495f-8e4d-e8723cdeb284",
+        "id": "fefc91e1-8463-46c8-88dc-708baa65e7e6",
+        "isopen": false,
+        "license_id": null,
+        "license_title": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "metadata_created": "2023-08-21T03:20:59.915745",
+        "metadata_modified": "2023-08-31T03:44:58.691619",
+        "name": "houmusyouchizu-2023-1-1633",
+        "notes": null,
+        "num_resources": 3,
+        "num_tags": 4,
+        "organization": {
+          "id": "moj-36tokushima",
+          "name": "moj-36tokushima",
+          "title": "36徳島県",
+          "type": "organization",
+          "description": "",
+          "image_url": "",
+          "created": "2021-10-19T10:55:36.717303",
+          "is_organization": true,
+          "approval_status": "approved",
+          "state": "active"
+        },
+        "owner_org": "moj-36tokushima",
+        "private": false,
+        "state": "active",
+        "title": "吉野川市（徳島地方法務局）登記所備付地図データ",
+        "type": "dataset",
+        "url": null,
+        "version": null,
+        "extras": [
+          {
+            "key": "ダウンロード",
+            "value": "ログイン"
+          }
+        ],
+        "resources": [
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:35:59.841868",
+            "datastore_active": false,
+            "description": "",
+            "format": "PDF",
+            "hash": "",
+            "id": "55e38f82-78f2-4556-bf3e-49bd393e3054",
+            "last_modified": null,
+            "metadata_modified": "2023-08-22T09:35:59.841868",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "利用規約",
+            "package_id": "fefc91e1-8463-46c8-88dc-708baa65e7e6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fc3b0593-ce9e-40d1-aa33-94382d5f0da1/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5/download/license.pdf",
+            "url_type": null
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:36:11.022867",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "11e5a321-1959-4b19-81c4-5fdca050f5f8",
+            "last_modified": "2023-08-22T09:36:10.910997",
+            "metadata_modified": "2023-08-22T09:36:11.022867",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36205-4800-2022.zip",
+            "package_id": "fefc91e1-8463-46c8-88dc-708baa65e7e6",
+            "position": 1,
+            "resource_type": null,
+            "size": 68744604,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fefc91e1-8463-46c8-88dc-708baa65e7e6/resource/11e5a321-1959-4b19-81c4-5fdca050f5f8/download/36205-4800-2022.zip",
+            "url_type": "upload"
+          },
+          {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-22T09:36:27.579070",
+            "datastore_active": false,
+            "description": "",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a46bd5d6-a717-46b5-b618-37e2f60b77c2",
+            "last_modified": "2023-08-22T09:36:27.447530",
+            "metadata_modified": "2023-08-22T09:36:27.579070",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "36205-4800-2023.zip",
+            "package_id": "fefc91e1-8463-46c8-88dc-708baa65e7e6",
+            "position": 2,
+            "resource_type": null,
+            "size": 68774566,
+            "state": "active",
+            "url": "https://www.geospatial.jp/ckan/dataset/fefc91e1-8463-46c8-88dc-708baa65e7e6/resource/a46bd5d6-a717-46b5-b618-37e2f60b77c2/download/36205-4800-2023.zip",
+            "url_type": "upload"
+          }
+        ],
+        "tags": [
+          {
+            "display_name": "吉野川市",
+            "id": "037f982a-4e67-49e1-9de7-c1a98e93b9d9",
+            "name": "吉野川市",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "地図情報",
+            "id": "80e521ca-91b2-46df-9ac4-036437c72617",
+            "name": "地図情報",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "徳島県",
+            "id": "63b6d278-a67f-4e0b-a22c-8716f7f4d1b8",
+            "name": "徳島県",
+            "state": "active",
+            "vocabulary_id": null
+          },
+          {
+            "display_name": "法務省",
+            "id": "d1129bd4-afa5-4194-b43f-3e59411462da",
+            "name": "法務省",
+            "state": "active",
+            "vocabulary_id": null
+          }
+        ],
+        "groups": [
+
+        ],
+        "relationships_as_subject": [
+
+        ],
+        "relationships_as_object": [
+
+        ]
+      }
+    ],
+    "sort": "charge desc",
+    "search_facets": {
+    }
+  }
+}
